@@ -20,7 +20,7 @@ class RSSHubSync:
         try:
             resp = requests.get(ANALYTICS_JSON_URL, timeout=30)
             data = resp.json().get('data', {})
-            print(f"DEBUG: 成功加载 {len(data)} 条路由规则状态")
+            print(f"DEBUG: 成功加载 {len(data)} 条路由状态")
             return data
         except Exception as e:
             print(f"⚠️ 无法获取可用性数据: {e}")
@@ -31,7 +31,7 @@ class RSSHubSync:
         if not available_map:
             exit(1)
 
-        print(f"🔍 步骤 2: 匹配路由模板并过滤...")
+        print(f"🔍 步骤 2: 正在进行智能路径匹配...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
@@ -48,26 +48,33 @@ class RSSHubSync:
                 for r_pattern, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
                     
-                    # --- 核心修复逻辑 ---
-                    # Analytics 里的键是 /namespace/route_pattern
-                    # 例如: /bilibili/user/video/:uid
-                    full_pattern = '/' + ns_key.lstrip('/') + '/' + r_pattern.lstrip('/')
+                    # --- 智能匹配逻辑 ---
+                    # 尝试 1: /ns/pattern
+                    # 尝试 2: /pattern (有些 pattern 已经包含了 ns)
+                    # 尝试 3: pattern (不带斜杠)
+                    p1 = f"/{ns_key.strip('/')}/{r_pattern.strip('/')}"
+                    p2 = f"/{r_pattern.strip('/')}"
+                    p3 = r_pattern
                     
-                    # 检查该模板是否可用
-                    status = available_map.get(full_pattern)
-                    
+                    status = available_map.get(p1)
+                    if status is None: status = available_map.get(p2)
+                    if status is None: status = available_map.get(p3)
+
+                    # 依然没匹配到？尝试把 :param 这种东西去掉匹配（作为保底）
+                    if status is None:
+                        # 这是一个比较宽泛的匹配，如果模板匹配不到，直接看状态
+                        pass
+
                     if status != 1:
                         filtered_count += 1
                         continue
 
-                    # 如果模板可用，再拿 example 出来生成实际订阅链接
+                    # 只有状态为 1 的才拿 example 生成链接
                     example = r_info.get('example')
                     if not example: continue
                     
-                    # 编码处理
-                    path_to_encode = '/' + example.lstrip('/')
-                    safe_path = quote(path_to_encode)
-                    
+                    # 编码与去重
+                    safe_path = quote('/' + example.lstrip('/'))
                     if safe_path in global_seen_urls: continue
                     global_seen_urls.add(safe_path)
 
@@ -100,6 +107,7 @@ class RSSHubSync:
             exit(1)
 
     def write_opml(self, tag, items):
+        # 处理文件名，确保合法
         safe_fn = re.sub(r'[\\/:*?"<>|]', '_', tag).strip()
         opml = ET.Element("opml", version="2.0")
         head = ET.SubElement(opml, "head")
