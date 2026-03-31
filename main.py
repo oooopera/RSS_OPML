@@ -7,11 +7,11 @@ import shutil
 
 # --- 配置参数 ---
 TARGET_DOMAIN = "rsshub.gamepp.cf"
+# 使用这个包含全量元数据的 JSON
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 OUTPUT_DIR = "data/categories"
 
-# 严格按照你图片中的分类顺序定义 (Key 对应 JSON 中的 Namespace ID)
-# 如果 JSON 中的 ID 是中文或不同，脚本会自动尝试匹配 name 字段
+# 严格匹配你图片中的分类名称
 SORT_ORDER = [
     "Popular", "Social Media", "New media", "Traditional media", "BBS",
     "Blog", "Programming", "Design", "Live", "Multimedia",
@@ -28,58 +28,80 @@ class RSSHubSync:
         return re.sub(r'[\\/:*?"<>|]', '_', name).strip()
 
     def run(self):
-        print(f"正在读取路由索引...")
+        print(f"正在从 {ROUTES_JSON_URL} 获取数据...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             resp.raise_for_status()
             data = resp.json()
 
+            # 1. 建立分类桶 (Category Buckets)
+            # 结构: { "Social Media": [route1, route2], ... }
+            buckets = {cat: [] for cat in SORT_ORDER}
+            
+            # 2. 遍历 JSON 结构提取路由
+            # data 的结构是 { "namespace": { "routes": { "path": { "categories": [...] } } } }
+            for ns_key, ns_val in data.items():
+                routes = ns_val.get('routes', {})
+                ns_name = ns_val.get('name', ns_key)
+                
+                for r_path, r_info in routes.items():
+                    if not isinstance(r_info, dict): continue
+                    
+                    example = r_info.get('example')
+                    if not example: continue
+                    
+                    # 获取该路由所属的所有分类标签
+                    r_categories = r_info.get('categories', [])
+                    r_name = r_info.get('name', r_path)
+                    
+                    route_item = {
+                        "title": f"{ns_name} - {r_name}",
+                        "url": '/' + example.lstrip('/')
+                    }
+
+                    # 将路由放入匹配的桶中
+                    matched = False
+                    for cat in SORT_ORDER:
+                        # 如果路由的分类标签里包含我们名单中的项
+                        if cat in r_categories:
+                            buckets[cat].append(route_item)
+                            matched = True
+                    
+                    # 如果没有任何匹配，放入 Uncategorized
+                    if not matched and "Uncategorized" in buckets:
+                        buckets["Uncategorized"].append(route_item)
+
+            # 3. 生成文件
             if os.path.exists(OUTPUT_DIR):
                 shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-            # 建立一个映射表：支持通过 ID 或 Name 找到 JSON 中的内容
-            name_map = {}
-            for ns_key, ns_content in data.items():
-                name_map[ns_key.lower()] = ns_content
-                if 'name' in ns_content:
-                    name_map[ns_content['name'].lower()] = ns_content
-
             generated_count = 0
-            for target_cat in SORT_ORDER:
-                # 寻找匹配的分类内容
-                content = name_map.get(target_cat.lower())
-                if not content:
+            for cat in SORT_ORDER:
+                items = buckets[cat]
+                if not items:
+                    print(f"[跳过] 分类 {cat} 下没有发现路由。")
                     continue
                 
-                ns_display_name = content.get('name', target_cat)
-                ns_routes = content.get('routes', {})
-                
-                category_routes = []
+                # 去重
+                unique_items = []
                 seen_urls = set()
-                
-                for route_path, route_info in ns_routes.items():
-                    if isinstance(route_info, dict):
-                        example = route_info.get('example')
-                        if example:
-                            clean_path = '/' + example.lstrip('/')
-                            if clean_path not in seen_urls:
-                                seen_urls.add(clean_path)
-                                category_routes.append({
-                                    "title": f"{ns_display_name} - {route_info.get('name', route_path)}",
-                                    "url": clean_path
-                                })
+                for it in items:
+                    if it['url'] not in seen_urls:
+                        seen_urls.add(it['url'])
+                        unique_items.append(it)
 
-                if category_routes:
-                    safe_name = self.clean_filename(target_cat)
-                    self.write_opml(safe_name, ns_display_name, category_routes)
-                    generated_count += 1
-                    print(f"[{generated_count}] 已生成: {safe_name}.opml")
+                safe_name = self.clean_filename(cat)
+                self.write_opml(safe_name, cat, unique_items)
+                generated_count += 1
+                print(f"[{generated_count}] 已生成: {safe_name}.opml (包含 {len(unique_items)} 条)")
 
-            print(f"✅ 完成！已按图片顺序生成 {generated_count} 个分类文件。")
-            
+            if generated_count == 0:
+                print("❌ 严重错误：未匹配到任何分类，请检查 JSON 结构。")
+                exit(1)
+
         except Exception as e:
-            print(f"❌ 运行失败: {e}")
+            print(f"❌ 运行异常: {e}")
             exit(1)
 
     def write_opml(self, filename, display_name, items):
