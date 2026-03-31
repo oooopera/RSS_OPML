@@ -30,7 +30,7 @@
       <outline type="rss" text="Cursor - Blog" title="Cursor - Blog" xmlUrl="https://rsshub.gamepp.cf/cursor/blog" />
       <outline type="rss" text="道宣的窝 - 推荐阅读文章" title="道宣的窝 - 推荐阅读文章" xmlUrl="https://rsshub.gamepp.cf/daoxuan" />
       <outline type="rss" text="大眼仔旭 - 分类" title="大眼仔旭 - 分类" xmlUrl="https://rsshub.gamepp.cf/dayanzai/windows" />
-      <outline type="rss" text="雨苁博客 - 分类" title="雨苁博客 - 分类" xmlUrl="https://rsshub.gamepp.cf/ddosi/category/黑客工具" />
+      <outline type="rss" text="雨苁博客 - 分类" title="雨苁博客 - 分类" xmlUrl="https://rsshub.gamepp.cf/ddosi/category/%E9%BB%91%E5%AE%A2%E5%B7%A5%E5%85%B7" />
       <outline type="rss" text="雨苁博客 - 首页" title="雨苁博客 - 首页" xmlUrl="https://rsshub.gamepp.cf/ddosi" />
       <outline type="rss" text="Delta Lake - Blogs" title="Delta Lake - Blogs" xmlUrl="https://rsshub.gamepp.cf/deltaio/blog" />
       <outline type="rss" text="Eagle - Blog" title="Eagle - Blog" xmlUrl="https://rsshub.gamepp.cf/eagle/blog/en" />
@@ -67,7 +67,7 @@
       <outline type="rss" text="logrocket blog - blog.logrocket" title="logrocket blog - blog.logrocket" xmlUrl="https://rsshub.gamepp.cf/logrocket/dev" />
       <outline type="rss" text="罗磊的独立博客 - 罗磊的独立博客" title="罗磊的独立博客 - 罗磊的独立博客" xmlUrl="https://rsshub.gamepp.cf/luolei" />
       <outline type="rss" text="土猛的员外 - 文章" title="土猛的员外 - 文章" xmlUrl="https://rsshub.gamepp.cf/luxiangdong/archive" />
-      <outline type="rss" text="MacMenuBar - Recently" title="MacMenuBar - Recently" xmlUrl="https://rsshub.gamepp.cf/macmenubar/recently/developer-apps,system-tools" />
+      <outline type="rss" text="MacMenuBar - Recently" title="MacMenuBar - Recently" xmlUrl="https://rsshub.gamepp.cf/macmenubar/recently/developer-apps%2Csystem-tools" />
       <outline type="rss" text="Mashiro's Baumkuchen - Blog" title="Mashiro's Baumkuchen - Blog" xmlUrl="https://rsshub.gamepp.cf/mashiro/en" />
       <outline type="rss" text="Mathpix - Blog" title="Mathpix - Blog" xmlUrl="https://rsshub.gamepp.cf/mathpix/blog" />
       <outline type="rss" text="Medium - Medium Feed" title="Medium - Medium Feed" xmlUrl="https://rsshub.gamepp.cf/medium/feed/zhgchgli" />
@@ -98,7 +98,7 @@
       <outline type="rss" text="Tumblr - Posts" title="Tumblr - Posts" xmlUrl="https://rsshub.gamepp.cf/tumblr/posts/biketouring-nearby" />
       <outline type="rss" text="Uber - Engineering" title="Uber - Engineering" xmlUrl="https://rsshub.gamepp.cf/uber/blog" />
       <outline type="rss" text="People + AI Research (PAIR) - PAIR - AI Exploreables" title="People + AI Research (PAIR) - PAIR - AI Exploreables" xmlUrl="https://rsshub.gamepp.cf/withgoogle/explorables" />
-      <outline type="rss" text="WordPress - WordPress" title="WordPress - WordPress" xmlUrl="https://rsshub.gamepp.cf/wordpress/https%3A%2F%2Fwordpress.org%2Fnews/category/Podcast" />
+      <outline type="rss" text="WordPress - WordPress" title="WordPress - WordPress" xmlUrl="https://rsshub.gamepp.cf/wordpress/https%253A%252F%252Fwordpress.org%252Fnews/category/Podcast" />
       <outline type="rss" text="虎皮椒 - 文章" title="虎皮椒 - 文章" xmlUrl="https://rsshub.gamepp.cf/xunhupay/blog" />
       <outline type="rss" text="新语丝 - 新到资料" title="新语丝 - 新到资料" xmlUrl="https://rsshub.gamepp.cf/xys/new" />
       <outline type="rss" text="甬哥侃侃侃YouTube教程摘要随笔 - 最新发表" title="甬哥侃侃侃YouTube教程摘要随笔 - 最新发表" xmlUrl="https://rsshub.gamepp.cf/ygkkk" />

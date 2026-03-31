@@ -19,7 +19,7 @@
       <outline type="rss" text="Yoasobi Official - News &amp; Biography" title="Yoasobi Official - News &amp; Biography" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/info/news" />
       <outline type="rss" text="Yoasobi Official - Live" title="Yoasobi Official - Live" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/live" />
       <outline type="rss" text="Yoasobi Official - Media" title="Yoasobi Official - Media" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/media" />
-      <outline type="rss" text="YouTube - Live" title="YouTube - Live" xmlUrl="https://rsshub.gamepp.cf/youtube/live/@GawrGura" />
+      <outline type="rss" text="YouTube - Live" title="YouTube - Live" xmlUrl="https://rsshub.gamepp.cf/youtube/live/%40GawrGura" />
     </outline>
   </body>
 </opml>

@@ -60,8 +60,8 @@
       <outline type="rss" text="异次元软件世界 - 分类" title="异次元软件世界 - 分类" xmlUrl="https://rsshub.gamepp.cf/iplaysoft/category/system" />
       <outline type="rss" text="异次元软件世界 - 标签" title="异次元软件世界 - 标签" xmlUrl="https://rsshub.gamepp.cf/iplaysoft/tag/windows" />
       <outline type="rss" text="异次元软件世界 - 首页" title="异次元软件世界 - 首页" xmlUrl="https://rsshub.gamepp.cf/iplaysoft" />
-      <outline type="rss" text="IPSW.me - Apple Firmware Update-IPSWs/OTAs version" title="IPSW.me - Apple Firmware Update-IPSWs/OTAs version" xmlUrl="https://rsshub.gamepp.cf/ipsw/index/ipsws/iPad8,11" />
-      <outline type="rss" text="IPSW.dev - Apple latest beta firmware" title="IPSW.dev - Apple latest beta firmware" xmlUrl="https://rsshub.gamepp.cf/ipsw.dev/index/iPhone16,1" />
+      <outline type="rss" text="IPSW.me - Apple Firmware Update-IPSWs/OTAs version" title="IPSW.me - Apple Firmware Update-IPSWs/OTAs version" xmlUrl="https://rsshub.gamepp.cf/ipsw/index/ipsws/iPad8%2C11" />
+      <outline type="rss" text="IPSW.dev - Apple latest beta firmware" title="IPSW.dev - Apple latest beta firmware" xmlUrl="https://rsshub.gamepp.cf/ipsw.dev/index/iPhone16%2C1" />
       <outline type="rss" text="Kiro - Changelog" title="Kiro - Changelog" xmlUrl="https://rsshub.gamepp.cf/kiro/changelog" />
       <outline type="rss" text="Kovid's software projects - Changelog" title="Kovid's software projects - Changelog" xmlUrl="https://rsshub.gamepp.cf/kovidgoyal/kitty/changelog" />
       <outline type="rss" text="联想 - 驱动" title="联想 - 驱动" xmlUrl="https://rsshub.gamepp.cf/lenovo/drive/PF3WRD2G" />
@@ -90,7 +90,7 @@
       <outline type="rss" text="RSSHub - New routes" title="RSSHub - New routes" xmlUrl="https://rsshub.gamepp.cf/rsshub/routes/en" />
       <outline type="rss" text="Scoop - Apps" title="Scoop - Apps" xmlUrl="https://rsshub.gamepp.cf/scoop/apps" />
       <outline type="rss" text="Sony - Software Downloads" title="Sony - Software Downloads" xmlUrl="https://rsshub.gamepp.cf/sony/downloads/product/nw-wm1am2" />
-      <outline type="rss" text="SourceForge - Software" title="SourceForge - Software" xmlUrl="https://rsshub.gamepp.cf/sourceforge/topic=artificial-intelligence&amp;os=windows" />
+      <outline type="rss" text="SourceForge - Software" title="SourceForge - Software" xmlUrl="https://rsshub.gamepp.cf/sourceforge/topic%3Dartificial-intelligence%26os%3Dwindows" />
       <outline type="rss" text="Syosetu - なろう小説 API の更新履歴" title="Syosetu - なろう小説 API の更新履歴" xmlUrl="https://rsshub.gamepp.cf/syosetu/dev" />
       <outline type="rss" text="腾讯 - 更新日志" title="腾讯 - 更新日志" xmlUrl="https://rsshub.gamepp.cf/tencent/qq/sdk/changelog/iOS" />
       <outline type="rss" text="TiddlyWiki - Releases" title="TiddlyWiki - Releases" xmlUrl="https://rsshub.gamepp.cf/tiddlywiki/releases" />

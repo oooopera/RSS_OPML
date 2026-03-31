@@ -16,18 +16,18 @@
       <outline type="rss" text="caa.reviews - Book Reviews" title="caa.reviews - Book Reviews" xmlUrl="https://rsshub.gamepp.cf/caareviews/book" />
       <outline type="rss" text="caa.reviews - Essays" title="caa.reviews - Essays" xmlUrl="https://rsshub.gamepp.cf/caareviews/essay" />
       <outline type="rss" text="caa.reviews - Exhibition Reviews" title="caa.reviews - Exhibition Reviews" xmlUrl="https://rsshub.gamepp.cf/caareviews/exhibition" />
-      <outline type="rss" text="中国知网 - 作者" title="中国知网 - 作者" xmlUrl="https://rsshub.gamepp.cf/cnki/author/丁晓东/中国人民大学" />
+      <outline type="rss" text="中国知网 - 作者" title="中国知网 - 作者" xmlUrl="https://rsshub.gamepp.cf/cnki/author/%E4%B8%81%E6%99%93%E4%B8%9C/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6" />
       <outline type="rss" text="中国知网 - 网络首发" title="中国知网 - 网络首发" xmlUrl="https://rsshub.gamepp.cf/cnki/journals/debut/LKGP" />
       <outline type="rss" text="中国知网 - 期刊" title="中国知网 - 期刊" xmlUrl="https://rsshub.gamepp.cf/cnki/journals/LKGP" />
       <outline type="rss" text="Google - Scholar Author Citations" title="Google - Scholar Author Citations" xmlUrl="https://rsshub.gamepp.cf/google/citations/mlmE4JMAAAAJ" />
-      <outline type="rss" text="Google - Scholar Keywords Monitoring" title="Google - Scholar Keywords Monitoring" xmlUrl="https://rsshub.gamepp.cf/google/scholar/data+visualization" />
+      <outline type="rss" text="Google - Scholar Keywords Monitoring" title="Google - Scholar Keywords Monitoring" xmlUrl="https://rsshub.gamepp.cf/google/scholar/data%2Bvisualization" />
       <outline type="rss" text="IEEE Xplore - IEEE Author Articles" title="IEEE Xplore - IEEE Author Articles" xmlUrl="https://rsshub.gamepp.cf/ieee/author/37264968900/newest" />
       <outline type="rss" text="IEEE Xplore - IEEE Journal Articles" title="IEEE Xplore - IEEE Journal Articles" xmlUrl="https://rsshub.gamepp.cf/ieee/journal/6287639/preprint" />
       <outline type="rss" text="IEEE Computer Society - IEEE Symposium on Security and Privacy" title="IEEE Computer Society - IEEE Symposium on Security and Privacy" xmlUrl="https://rsshub.gamepp.cf/ieee-security/security-privacy" />
       <outline type="rss" text="INFORMS - Category" title="INFORMS - Category" xmlUrl="https://rsshub.gamepp.cf/informs/mnsc" />
       <outline type="rss" text="INSPIRE - Literature Search" title="INSPIRE - Literature Search" xmlUrl="https://rsshub.gamepp.cf/inspirehep/literature/Physics" />
       <outline type="rss" text="INSPIRE - Author Search" title="INSPIRE - Author Search" xmlUrl="https://rsshub.gamepp.cf/inspirehep/authors/1696909" />
-      <outline type="rss" text="Link Research - Articles" title="Link Research - Articles" xmlUrl="https://rsshub.gamepp.cf/linkresearcher/category=theses&amp;columns=Nature%20导读&amp;subject=生物" />
+      <outline type="rss" text="Link Research - Articles" title="Link Research - Articles" xmlUrl="https://rsshub.gamepp.cf/linkresearcher/category%3Dtheses%26columns%3DNature%2520%E5%AF%BC%E8%AF%BB%26subject%3D%E7%94%9F%E7%89%A9" />
       <outline type="rss" text="MDPI - Journal" title="MDPI - Journal" xmlUrl="https://rsshub.gamepp.cf/mdpi/analytica" />
       <outline type="rss" text="管理世界 - 分类" title="管理世界 - 分类" xmlUrl="https://rsshub.gamepp.cf/mwm" />
       <outline type="rss" text="Nature Journal - Cover Story" title="Nature Journal - Cover Story" xmlUrl="https://rsshub.gamepp.cf/nature/cover" />

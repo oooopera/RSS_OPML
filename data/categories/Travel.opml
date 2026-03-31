@@ -5,7 +5,7 @@
   </head>
   <body>
     <outline text="Travel" title="Travel">
-      <outline type="rss" text="12306 - 售票信息" title="12306 - 售票信息" xmlUrl="https://rsshub.gamepp.cf/12306/2022-02-19/重庆/永川东" />
+      <outline type="rss" text="12306 - 售票信息" title="12306 - 售票信息" xmlUrl="https://rsshub.gamepp.cf/12306/2022-02-19/%E9%87%8D%E5%BA%86/%E6%B0%B8%E5%B7%9D%E4%B8%9C" />
       <outline type="rss" text="12306 - 最新动态" title="12306 - 最新动态" xmlUrl="https://rsshub.gamepp.cf/12306/zxdt" />
       <outline type="rss" text="中国国际航空公司 - 服务公告" title="中国国际航空公司 - 服务公告" xmlUrl="https://rsshub.gamepp.cf/airchina/announcement" />
       <outline type="rss" text="Alto - Toronto-Québec City High-Speed Rail Network - Alto News" title="Alto - Toronto-Québec City High-Speed Rail Network - Alto News" xmlUrl="https://rsshub.gamepp.cf/altotrain/en" />

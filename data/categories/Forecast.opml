@@ -7,7 +7,7 @@
     <outline text="Forecast" title="Forecast">
       <outline type="rss" text="深圳台风网 - 深圳天气直播" title="深圳台风网 - 深圳天气直播" xmlUrl="https://rsshub.gamepp.cf/121/weatherLive" />
       <outline type="rss" text="Air-Level - 空气质量" title="Air-Level - 空气质量" xmlUrl="https://rsshub.gamepp.cf/air-level/air/xian" />
-      <outline type="rss" text="Air-Level - 空气质量排行" title="Air-Level - 空气质量排行" xmlUrl="https://rsshub.gamepp.cf/air-level/rank/best,/air-level/rank" />
+      <outline type="rss" text="Air-Level - 空气质量排行" title="Air-Level - 空气质量排行" xmlUrl="https://rsshub.gamepp.cf/air-level/rank/best%2C/air-level/rank" />
       <outline type="rss" text="BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian) - Recent Earthquakes" title="BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian) - Recent Earthquakes" xmlUrl="https://rsshub.gamepp.cf/bmkg/earthquake" />
       <outline type="rss" text="BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian) - News" title="BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian) - News" xmlUrl="https://rsshub.gamepp.cf/bmkg/news" />
       <outline type="rss" text="中国气象局 - 天气预报频道" title="中国气象局 - 天气预报频道" xmlUrl="https://rsshub.gamepp.cf/cma/channel/380" />
@@ -21,10 +21,10 @@
       <outline type="rss" text="Hong Kong Observatory - Current Weather Report" title="Hong Kong Observatory - Current Weather Report" xmlUrl="https://rsshub.gamepp.cf/hko/weather" />
       <outline type="rss" text="国家气候中心 - 最新监测" title="国家气候中心 - 最新监测" xmlUrl="https://rsshub.gamepp.cf/ncc-cma/cmdp/image/RPJQWQYZ" />
       <outline type="rss" text="中央气象台 - 产品" title="中央气象台 - 产品" xmlUrl="https://rsshub.gamepp.cf/nmc/publish/observations/hourly-temperature/html" />
-      <outline type="rss" text="中央气象台 - 全国气象预警" title="中央气象台 - 全国气象预警" xmlUrl="https://rsshub.gamepp.cf/nmc/weatheralarm/广东省" />
+      <outline type="rss" text="中央气象台 - 全国气象预警" title="中央气象台 - 全国气象预警" xmlUrl="https://rsshub.gamepp.cf/nmc/weatheralarm/%E5%B9%BF%E4%B8%9C%E7%9C%81" />
       <outline type="rss" text="Outage.Report - Report" title="Outage.Report - Report" xmlUrl="https://rsshub.gamepp.cf/outagereport/ubisoft/5" />
-      <outline type="rss" text="和风天气 - 近三天天气" title="和风天气 - 近三天天气" xmlUrl="https://rsshub.gamepp.cf/qweather/3days/广州" />
-      <outline type="rss" text="和风天气 - 实时天气" title="和风天气 - 实时天气" xmlUrl="https://rsshub.gamepp.cf/qweather/now/广州" />
+      <outline type="rss" text="和风天气 - 近三天天气" title="和风天气 - 近三天天气" xmlUrl="https://rsshub.gamepp.cf/qweather/3days/%E5%B9%BF%E5%B7%9E" />
+      <outline type="rss" text="和风天气 - 实时天气" title="和风天气 - 实时天气" xmlUrl="https://rsshub.gamepp.cf/qweather/now/%E5%B9%BF%E5%B7%9E" />
       <outline type="rss" text="停水通知 - 广州市" title="停水通知 - 广州市" xmlUrl="https://rsshub.gamepp.cf/tingshuitz/guangzhou" />
       <outline type="rss" text="停水通知 - 深圳市" title="停水通知 - 深圳市" xmlUrl="https://rsshub.gamepp.cf/tingshuitz/shenzhen" />
       <outline type="rss" text="停水通知 - 长沙市" title="停水通知 - 长沙市" xmlUrl="https://rsshub.gamepp.cf/tingshuitz/changsha/78" />

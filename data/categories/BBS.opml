@@ -15,10 +15,10 @@
       <outline type="rss" text="一亩三分地 - 帖子" title="一亩三分地 - 帖子" xmlUrl="https://rsshub.gamepp.cf/1point3acres/thread/hot" />
       <outline type="rss" text="一亩三分地 - 博客" title="一亩三分地 - 博客" xmlUrl="https://rsshub.gamepp.cf/1point3acres/blog" />
       <outline type="rss" text="4chan - Board's catalog" title="4chan - Board's catalog" xmlUrl="https://rsshub.gamepp.cf/4chan/g/catalog" />
-      <outline type="rss" text="百度 - 精品帖子" title="百度 - 精品帖子" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/forum/good/女图" />
+      <outline type="rss" text="百度 - 精品帖子" title="百度 - 精品帖子" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/forum/good/%E5%A5%B3%E5%9B%BE" />
       <outline type="rss" text="百度 - 帖子动态" title="百度 - 帖子动态" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/post/686961453" />
       <outline type="rss" text="百度 - 贴吧搜索" title="百度 - 贴吧搜索" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/search/neuro" />
-      <outline type="rss" text="百度 - 用户帖子" title="百度 - 用户帖子" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/user/斗鱼游戏君" />
+      <outline type="rss" text="百度 - 用户帖子" title="百度 - 用户帖子" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/user/%E6%96%97%E9%B1%BC%E6%B8%B8%E6%88%8F%E5%90%9B" />
       <outline type="rss" text="Chiphell - 分类" title="Chiphell - 分类" xmlUrl="https://rsshub.gamepp.cf/chiphell/portal/1" />
       <outline type="rss" text="虫部落 - 最新发表" title="虫部落 - 最新发表" xmlUrl="https://rsshub.gamepp.cf/chongbuluo/newthread" />
       <outline type="rss" text="禁忌书屋 - 禁忌书屋" title="禁忌书屋 - 禁忌书屋" xmlUrl="https://rsshub.gamepp.cf/cool18/bbs4" />
@@ -52,14 +52,14 @@
       <outline type="rss" text="MIUI - 小米社区用户发帖" title="MIUI - 小米社区用户发帖" xmlUrl="https://rsshub.gamepp.cf/miui/community/user/1200057564" />
       <outline type="rss" text="NGA - 分区帖子" title="NGA - 分区帖子" xmlUrl="https://rsshub.gamepp.cf/nga/forum/489" />
       <outline type="rss" text="NGA - 帖子" title="NGA - 帖子" xmlUrl="https://rsshub.gamepp.cf/nga/post/18449558" />
-      <outline type="rss" text="牛客网 - 牛客热榜" title="牛客网 - 牛客热榜" xmlUrl="https://rsshub.gamepp.cf/nowcoder/hots/1?limit=20" />
+      <outline type="rss" text="牛客网 - 牛客热榜" title="牛客网 - 牛客热榜" xmlUrl="https://rsshub.gamepp.cf/nowcoder/hots/1%3Flimit%3D20" />
       <outline type="rss" text="牛客网 - 牛客面试经验" title="牛客网 - 牛客面试经验" xmlUrl="https://rsshub.gamepp.cf/nowcoder/interview/11200" />
       <outline type="rss" text="牛客网 - 求职推荐" title="牛客网 - 求职推荐" xmlUrl="https://rsshub.gamepp.cf/nowcoder/recommend" />
       <outline type="rss" text="牛客网 - 校招日程" title="牛客网 - 校招日程" xmlUrl="https://rsshub.gamepp.cf/nowcoder/schedule" />
       <outline type="rss" text="牛客网 - 讨论区" title="牛客网 - 讨论区" xmlUrl="https://rsshub.gamepp.cf/nowcoder/discuss/2/4" />
-      <outline type="rss" text="牛客网 - 面经" title="牛客网 - 面经" xmlUrl="https://rsshub.gamepp.cf/nowcoder/experience/639?order=3&amp;companyId=665&amp;phaseId=0" />
-      <outline type="rss" text="牛客网 - 实习广场 &amp; 社招广场" title="牛客网 - 实习广场 &amp; 社招广场" xmlUrl="https://rsshub.gamepp.cf/nowcoder/jobcenter/1/北京/1/1/true" />
-      <outline type="rss" text="Pikabu - User" title="Pikabu - User" xmlUrl="https://rsshub.gamepp.cf/pikabu/user/@bula.dragon" />
+      <outline type="rss" text="牛客网 - 面经" title="牛客网 - 面经" xmlUrl="https://rsshub.gamepp.cf/nowcoder/experience/639%3Forder%3D3%26companyId%3D665%26phaseId%3D0" />
+      <outline type="rss" text="牛客网 - 实习广场 &amp; 社招广场" title="牛客网 - 实习广场 &amp; 社招广场" xmlUrl="https://rsshub.gamepp.cf/nowcoder/jobcenter/1/%E5%8C%97%E4%BA%AC/1/1/true" />
+      <outline type="rss" text="Pikabu - User" title="Pikabu - User" xmlUrl="https://rsshub.gamepp.cf/pikabu/user/%40bula.dragon" />
       <outline type="rss" text="品葱 - 精选" title="品葱 - 精选" xmlUrl="https://rsshub.gamepp.cf/pincong/hot" />
       <outline type="rss" text="品葱 - 发现" title="品葱 - 发现" xmlUrl="https://rsshub.gamepp.cf/pincong/category/1/new" />
       <outline type="rss" text="PKMer - 最近更新" title="PKMer - 最近更新" xmlUrl="https://rsshub.gamepp.cf/pkmer/recent" />
@@ -71,7 +71,7 @@
       <outline type="rss" text="Saraba1st - 论坛摘要" title="Saraba1st - 论坛摘要" xmlUrl="https://rsshub.gamepp.cf/saraba1st/digest/forum-6-1" />
       <outline type="rss" text="Saraba1st - 帖子" title="Saraba1st - 帖子" xmlUrl="https://rsshub.gamepp.cf/saraba1st/thread/751272" />
       <outline type="rss" text="盛趣游戏在线 - 帖子" title="盛趣游戏在线 - 帖子" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/posts/all/hot" />
-      <outline type="rss" text="盛趣游戏在线 - 攻略" title="盛趣游戏在线 - 攻略" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/strats/1,2/refine" />
+      <outline type="rss" text="盛趣游戏在线 - 攻略" title="盛趣游戏在线 - 攻略" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/strats/1%2C2/refine" />
       <outline type="rss" text="盛趣游戏在线 - 时间线" title="盛趣游戏在线 - 时间线" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/timeline" />
       <outline type="rss" text="盛趣游戏在线 - 用户动态" title="盛趣游戏在线 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-dynamics/10001226" />
       <outline type="rss" text="盛趣游戏在线 - 用户发帖" title="盛趣游戏在线 - 用户发帖" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-posts/10001226" />

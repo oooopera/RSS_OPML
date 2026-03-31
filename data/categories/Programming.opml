@@ -79,7 +79,7 @@
       <outline type="rss" text="GitHub - Gist Commits" title="GitHub - Gist Commits" xmlUrl="https://rsshub.gamepp.cf/github/gist/d2c152bb7179d07015f336b1a0582679" />
       <outline type="rss" text="GitHub - Notifications" title="GitHub - Notifications" xmlUrl="https://rsshub.gamepp.cf/github/notifications" />
       <outline type="rss" text="GitHub - Organization Event" title="GitHub - Organization Event" xmlUrl="https://rsshub.gamepp.cf/github/org_event/RSSNext" />
-      <outline type="rss" text="GitHub - User's Feed" title="GitHub - User's Feed" xmlUrl="https://rsshub.gamepp.cf/github/feed/yihong0618/star,release,pr" />
+      <outline type="rss" text="GitHub - User's Feed" title="GitHub - User's Feed" xmlUrl="https://rsshub.gamepp.cf/github/feed/yihong0618/star%2Crelease%2Cpr" />
       <outline type="rss" text="GitHub - Repository Event" title="GitHub - Repository Event" xmlUrl="https://rsshub.gamepp.cf/github/repo_event/DIYgod/RSSHub" />
       <outline type="rss" text="GitHub - User Repo" title="GitHub - User Repo" xmlUrl="https://rsshub.gamepp.cf/github/repos/DIYgod" />
       <outline type="rss" text="GitHub - Search Result" title="GitHub - Search Result" xmlUrl="https://rsshub.gamepp.cf/github/search/RSSHub/bestmatch/desc" />
@@ -182,8 +182,8 @@
       <outline type="rss" text="Rust 语言中文社区 - 招聘" title="Rust 语言中文社区 - 招聘" xmlUrl="https://rsshub.gamepp.cf/rustcc/jobs" />
       <outline type="rss" text="Rust 语言中文社区 - 新闻/聚合" title="Rust 语言中文社区 - 新闻/聚合" xmlUrl="https://rsshub.gamepp.cf/rustcc/news" />
       <outline type="rss" text="SecWiki - 安全维基 - 最新周刊" title="SecWiki - 安全维基 - 最新周刊" xmlUrl="https://rsshub.gamepp.cf/sec-wiki/weekly" />
-      <outline type="rss" text="安全内参 - 作者" title="安全内参 - 作者" xmlUrl="https://rsshub.gamepp.cf/secrss/author/网络安全威胁和漏洞信息共享平台" />
-      <outline type="rss" text="安全内参 - 分类" title="安全内参 - 分类" xmlUrl="https://rsshub.gamepp.cf/secrss/category/产业趋势" />
+      <outline type="rss" text="安全内参 - 作者" title="安全内参 - 作者" xmlUrl="https://rsshub.gamepp.cf/secrss/author/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%E5%92%8C%E6%BC%8F%E6%B4%9E%E4%BF%A1%E6%81%AF%E5%85%B1%E4%BA%AB%E5%B9%B3%E5%8F%B0" />
+      <outline type="rss" text="安全内参 - 分类" title="安全内参 - 分类" xmlUrl="https://rsshub.gamepp.cf/secrss/category/%E4%BA%A7%E4%B8%9A%E8%B6%8B%E5%8A%BF" />
       <outline type="rss" text="SegmentFault - 频道" title="SegmentFault - 频道" xmlUrl="https://rsshub.gamepp.cf/segmentfault/channel/frontend" />
       <outline type="rss" text="SegmentFault - 博客" title="SegmentFault - 博客" xmlUrl="https://rsshub.gamepp.cf/segmentfault/blogs/go" />
       <outline type="rss" text="SegmentFault - 用户" title="SegmentFault - 用户" xmlUrl="https://rsshub.gamepp.cf/segmentfault/user/minnanitkong" />
