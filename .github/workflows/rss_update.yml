@@ -2,7 +2,7 @@ name: RSSHub Category Sync
 
 on:
   schedule:
-    - cron: '0 22 * * *' # 北京时间早上 6 点
+    - cron: '0 22 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,6 @@ jobs:
     permissions:
       contents: write
     
-    env:
-      # 提前适配 Node.js 24，消除警告
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,6 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Run Sync Script
+        # 即使报错也会记录日志
         run: python main.py
 
       - name: Commit and Push
@@ -35,18 +32,18 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # 确保目录存在，防止 git add 报错
-          if [ -d "data/categories" ]; then
+          # 检查目录是否存在且非空
+          if [ -d "data/categories" ] && [ "$(ls -A data/categories)" ]; then
             git add data/categories/*.opml
             
-            # 只有在有变化时才提交，防止 exit 128
+            # 只有在确实有文件变动时才 Commit
             if ! git diff --staged --quiet; then
-              git commit -m "Update RSSHub categories: $(date +%Y-%m-%d)"
+              git commit -m "Update Category OPMLs: $(date +%Y-%m-%d)"
               git push
             else
-              echo "No changes to commit."
+              echo "No significant changes detected."
             fi
           else
-            echo "Error: Directory data/categories not found."
+            echo "Error: No OPML files were generated."
             exit 1
           fi
