@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Government</title>
+  </head>
+  <body>
+    <outline text="Government" title="Government">
+      <outline type="rss" text="中国军网 - 中国人民解放军专业技术人才网" title="中国军网 - 中国人民解放军专业技术人才网" xmlUrl="https://rsshub.gamepp.cf/81/81rc/sy/gzdt_210283" />
+      <outline type="rss" text="共产党员网 - 最新发布" title="共产党员网 - 最新发布" xmlUrl="https://rsshub.gamepp.cf/12371/zxfb" />
+      <outline type="rss" text="北京价格 - 资讯" title="北京价格 - 资讯" xmlUrl="https://rsshub.gamepp.cf/beijingprice/jgzx/xwzx" />
+      <outline type="rss" text="北京社科网 - 通用" title="北京社科网 - 通用" xmlUrl="https://rsshub.gamepp.cf/bjsk/newslist-1394-1474-0" />
+      <outline type="rss" text="北京社科网 - 基金项目管理平台" title="北京社科网 - 基金项目管理平台" xmlUrl="https://rsshub.gamepp.cf/bjsk/keti" />
+      <outline type="rss" text="北京无线电协会 - 最新资讯" title="北京无线电协会 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/bjwxdxh/114" />
+      <outline type="rss" text="Canada.ca - News by Department" title="Canada.ca - News by Department" xmlUrl="https://rsshub.gamepp.cf/canada.ca/news/en/departmentfinance" />
+      <outline type="rss" text="中国科学学与科技政策研究会 - 研究会动态" title="中国科学学与科技政策研究会 - 研究会动态" xmlUrl="https://rsshub.gamepp.cf/casssp/news/3" />
+      <outline type="rss" text="中国科学技术协会 - 通用" title="中国科学技术协会 - 通用" xmlUrl="https://rsshub.gamepp.cf/cast/xw/tzgg/ZH" />
+      <outline type="rss" text="Macau Independent Commission Against Corruption 澳门廉政公署 - Latest News" title="Macau Independent Commission Against Corruption 澳门廉政公署 - Latest News" xmlUrl="https://rsshub.gamepp.cf/ccac/news/all" />
+      <outline type="rss" text="中国食品土畜进出口商会 - 资讯信息" title="中国食品土畜进出口商会 - 资讯信息" xmlUrl="https://rsshub.gamepp.cf/cccfna/meirigengxin" />
+      <outline type="rss" text="国家药品审评网站 - 信息公开" title="国家药品审评网站 - 信息公开" xmlUrl="https://rsshub.gamepp.cf/cde/xxgk/priorityApproval" />
+      <outline type="rss" text="国家药品审评网站 - 首页" title="国家药品审评网站 - 首页" xmlUrl="https://rsshub.gamepp.cf/cde/news/gzdt" />
+      <outline type="rss" text="国家药品审评网站 - 指导原则专栏" title="国家药品审评网站 - 指导原则专栏" xmlUrl="https://rsshub.gamepp.cf/cde/zdyz/domesticGuide" />
+      <outline type="rss" text="中国金融期货交易所 - 交易所公告" title="中国金融期货交易所 - 交易所公告" xmlUrl="https://rsshub.gamepp.cf/cffex/announcement" />
+      <outline type="rss" text="中国疾病预防控制中心 - 通用" title="中国疾病预防控制中心 - 通用" xmlUrl="https://rsshub.gamepp.cf/chinacdc/zxyw" />
+      <outline type="rss" text="中国无机盐工业协会 - 栏目" title="中国无机盐工业协会 - 栏目" xmlUrl="https://rsshub.gamepp.cf/cisia/9" />
+      <outline type="rss" text="台湾行政院消费者保护会 - 消费资讯" title="台湾行政院消费者保护会 - 消费资讯" xmlUrl="https://rsshub.gamepp.cf/cpcey/xwg" />
+      <outline type="rss" text="中国无线电协会业余无线电分会 - 考试信息" title="中国无线电协会业余无线电分会 - 考试信息" xmlUrl="https://rsshub.gamepp.cf/crac/exam" />
+      <outline type="rss" text="中国无线电协会业余无线电分会 - 最新资讯" title="中国无线电协会业余无线电分会 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/crac/2" />
+      <outline type="rss" text="Thailand Department of Lands - e-LandsAnnouncement" title="Thailand Department of Lands - e-LandsAnnouncement" xmlUrl="https://rsshub.gamepp.cf/dol/announce" />
+      <outline type="rss" text="德阳人事考试网 - 考试新闻发布" title="德阳人事考试网 - 考试新闻发布" xmlUrl="https://rsshub.gamepp.cf/dykszx/news" />
+      <outline type="rss" text="Prime Minister of Canada - News" title="Prime Minister of Canada - News" xmlUrl="https://rsshub.gamepp.cf/gc.ca/pm/en" />
+      <outline type="rss" text="JapanGov - 感染症発生動向調査週報" title="JapanGov - 感染症発生動向調査週報" xmlUrl="https://rsshub.gamepp.cf/go/jihs/idwr/2025" />
+      <outline type="rss" text="JapanGov - PDF" title="JapanGov - PDF" xmlUrl="https://rsshub.gamepp.cf/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - Immigration and Citizenship - News" title="深圳市罗湖区人民政府 - Immigration and Citizenship - News" xmlUrl="https://rsshub.gamepp.cf/gov/immiau/news" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 公众留言" title="深圳市罗湖区人民政府 - 公众留言" xmlUrl="https://rsshub.gamepp.cf/gov/caac/cjwt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 安徽省科学技术厅" title="深圳市罗湖区人民政府 - 安徽省科学技术厅" xmlUrl="https://rsshub.gamepp.cf/gov/ah/kjt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 通用" title="深圳市罗湖区人民政府 - 通用" xmlUrl="https://rsshub.gamepp.cf/gov/beijing/bjedu/gh" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 通知公告" title="深圳市罗湖区人民政府 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/gov/beijing/jw/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 分类" title="深圳市罗湖区人民政府 - 分类" xmlUrl="https://rsshub.gamepp.cf/gov/cbirc/:id?" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 最新文件" title="深圳市罗湖区人民政府 - 最新文件" xmlUrl="https://rsshub.gamepp.cf/gov/chinatax/latest" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 重庆市人民政府 人力社保局 - 人事考试通知" title="深圳市罗湖区人民政府 - 重庆市人民政府 人力社保局 - 人事考试通知" xmlUrl="https://rsshub.gamepp.cf/gov/chongqing/rsks" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 重庆市人民政府 人力社保局 - 事业单位公开招聘" title="深圳市罗湖区人民政府 - 重庆市人民政府 人力社保局 - 事业单位公开招聘" xmlUrl="https://rsshub.gamepp.cf/gov/chongqing/sydwgkzp" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 飞行任务" title="深圳市罗湖区人民政府 - 飞行任务" xmlUrl="https://rsshub.gamepp.cf/gov/cmse/fxrw" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政府新闻" title="深圳市罗湖区人民政府 - 政府新闻" xmlUrl="https://rsshub.gamepp.cf/gov/cn/news/bm" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 申请事项进度" title="深圳市罗湖区人民政府 - 申请事项进度" xmlUrl="https://rsshub.gamepp.cf/gov/csrc/auditstatus/9ce91cf2d750ee62de27fbbcb05fa483" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政府信息公开" title="深圳市罗湖区人民政府 - 政府信息公开" xmlUrl="https://rsshub.gamepp.cf/gov/csrc/zfxxgk_zdgk/c101971" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 国家林草科技大讲堂" title="深圳市罗湖区人民政府 - 国家林草科技大讲堂" xmlUrl="https://rsshub.gamepp.cf/gov/forestry/gjlckjdjt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 贵州省教育厅 - 通知公告" title="深圳市罗湖区人民政府 - 贵州省教育厅 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/gov/guizhou/jyt/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 通知公告" title="深圳市罗湖区人民政府 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/gov/hainan/iitb/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 财政厅" title="深圳市罗湖区人民政府 - 财政厅" xmlUrl="https://rsshub.gamepp.cf/gov/hebei/czt/xwdt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 惠州市人民政府" title="深圳市罗湖区人民政府 - 惠州市人民政府" xmlUrl="https://rsshub.gamepp.cf/gov/huizhou/zwgk/jgdt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 长沙市人民政府" title="深圳市罗湖区人民政府 - 长沙市人民政府" xmlUrl="https://rsshub.gamepp.cf/gov/hunan/changsha/major-email" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国国家发展和改革委员会价格监测中心" title="深圳市罗湖区人民政府 - 中华人民共和国国家发展和改革委员会价格监测中心" xmlUrl="https://rsshub.gamepp.cf/gov/jgjcndrc/1832739866673426433" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 江苏文旅局审批公告" title="深圳市罗湖区人民政府 - 江苏文旅局审批公告" xmlUrl="https://rsshub.gamepp.cf/gov/jiangsu/wlt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 获取国家医师资格考试通知" title="深圳市罗湖区人民政府 - 获取国家医师资格考试通知" xmlUrl="https://rsshub.gamepp.cf/gov/jinan/healthcommission/medical_exam_notice" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 国家粮食和物资储备局" title="深圳市罗湖区人民政府 - 国家粮食和物资储备局" xmlUrl="https://rsshub.gamepp.cf/gov/lswz" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 茂名市茂南区人民政府" title="深圳市罗湖区人民政府 - 茂名市茂南区人民政府" xmlUrl="https://rsshub.gamepp.cf/gov/maonan/zwgk" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 国家核安全局" title="深圳市罗湖区人民政府 - 国家核安全局" xmlUrl="https://rsshub.gamepp.cf/gov/mee/nnsa/ywdt/hjyw" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 要闻动态" title="深圳市罗湖区人民政府 - 要闻动态" xmlUrl="https://rsshub.gamepp.cf/gov/mee/ywdt/hjywnews" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 事故及灾害查处" title="深圳市罗湖区人民政府 - 事故及灾害查处" xmlUrl="https://rsshub.gamepp.cf/gov/mem/gk/sgcc/tbzdsgdcbg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 法定主动公开内容" title="深圳市罗湖区人民政府 - 法定主动公开内容" xmlUrl="https://rsshub.gamepp.cf/gov/mem/gk/zfxxgkpt/fdzdgknr" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 文件发布" title="深圳市罗湖区人民政府 - 文件发布" xmlUrl="https://rsshub.gamepp.cf/gov/miit/wjfb/ghs" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 文件公示" title="深圳市罗湖区人民政府 - 文件公示" xmlUrl="https://rsshub.gamepp.cf/gov/miit/wjgs" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 意见征集" title="深圳市罗湖区人民政府 - 意见征集" xmlUrl="https://rsshub.gamepp.cf/gov/miit/yjzj" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政策解读" title="深圳市罗湖区人民政府 - 政策解读" xmlUrl="https://rsshub.gamepp.cf/gov/miit/zcjd" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政策文件" title="深圳市罗湖区人民政府 - 政策文件" xmlUrl="https://rsshub.gamepp.cf/gov/miit/zcwj" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国农业农村部国际合作司" title="深圳市罗湖区人民政府 - 中华人民共和国农业农村部国际合作司" xmlUrl="https://rsshub.gamepp.cf/gov/moa/gjs/gzdt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国农业农村部 - 新闻" title="深圳市罗湖区人民政府 - 中华人民共和国农业农村部 - 新闻" xmlUrl="https://rsshub.gamepp.cf/gov/moa/suburl/gk/zcjd/" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国农业农村部生猪专题重要政策" title="深圳市罗湖区人民政府 - 中华人民共和国农业农村部生猪专题重要政策" xmlUrl="https://rsshub.gamepp.cf/gov/moa/szcpxx" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国农业农村部数据" title="深圳市罗湖区人民政府 - 中华人民共和国农业农村部数据" xmlUrl="https://rsshub.gamepp.cf/gov/moa/zdscxx" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 新闻" title="深圳市罗湖区人民政府 - 新闻" xmlUrl="https://rsshub.gamepp.cf/gov/moe/policy_anal" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 司局通知" title="深圳市罗湖区人民政府 - 司局通知" xmlUrl="https://rsshub.gamepp.cf/gov/moe/s78/A13" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 专题" title="深圳市罗湖区人民政府 - 专题" xmlUrl="https://rsshub.gamepp.cf/gov/mof/bond" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 关税政策文件" title="深圳市罗湖区人民政府 - 关税政策文件" xmlUrl="https://rsshub.gamepp.cf/gov/mof/gss" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 最新消息" title="深圳市罗湖区人民政府 - 最新消息" xmlUrl="https://rsshub.gamepp.cf/gov/moj/aac/news" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 立法意见征集" title="深圳市罗湖区人民政府 - 立法意见征集" xmlUrl="https://rsshub.gamepp.cf/gov/moj/lfyjzj" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国交通运输部" title="深圳市罗湖区人民政府 - 中华人民共和国交通运输部" xmlUrl="https://rsshub.gamepp.cf/gov/mot/jiaotongyaowen" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 发展改革工作" title="深圳市罗湖区人民政府 - 发展改革工作" xmlUrl="https://rsshub.gamepp.cf/gov/ndrc/fggz" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 新闻动态" title="深圳市罗湖区人民政府 - 新闻动态" xmlUrl="https://rsshub.gamepp.cf/gov/ndrc/xwdt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 中华人民共和国国家发展和改革委员会政府信息公开" title="深圳市罗湖区人民政府 - 中华人民共和国国家发展和改革委员会政府信息公开" xmlUrl="https://rsshub.gamepp.cf/gov/ndrc/zfxxgk" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 司工作进展" title="深圳市罗湖区人民政府 - 司工作进展" xmlUrl="https://rsshub.gamepp.cf/gov/nea/sjzz/ghs" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 通用" title="深圳市罗湖区人民政府 - 通用" xmlUrl="https://rsshub.gamepp.cf/gov/npc/c183" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 电视剧政务平台" title="深圳市罗湖区人民政府 - 电视剧政务平台" xmlUrl="https://rsshub.gamepp.cf/gov/nrta/dsj" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 分类" title="深圳市罗湖区人民政府 - 分类" xmlUrl="https://rsshub.gamepp.cf/gov/nrta/news" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政务公开-浦东新区" title="深圳市罗湖区人民政府 - 政务公开-浦东新区" xmlUrl="https://rsshub.gamepp.cf/gov/pudong/zwgk" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 留言咨询" title="深圳市罗湖区人民政府 - 留言咨询" xmlUrl="https://rsshub.gamepp.cf/gov/samr/xgzlyhd" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 上海市发展和改革委员会" title="深圳市罗湖区人民政府 - 上海市发展和改革委员会" xmlUrl="https://rsshub.gamepp.cf/gov/sh/fgw/fgw_zxxxgk" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 上海市职业能力考试院 考试项目" title="深圳市罗湖区人民政府 - 上海市职业能力考试院 考试项目" xmlUrl="https://rsshub.gamepp.cf/gov/sh/rsj/ksxm" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 上海市文旅局审批公告" title="深圳市罗湖区人民政府 - 上海市文旅局审批公告" xmlUrl="https://rsshub.gamepp.cf/gov/sh/wgj" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 上海卫健委 疫情通报" title="深圳市罗湖区人民政府 - 上海卫健委 疫情通报" xmlUrl="https://rsshub.gamepp.cf/gov/sh/wsjkw/yqtb" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 省科学技术厅" title="深圳市罗湖区人民政府 - 省科学技术厅" xmlUrl="https://rsshub.gamepp.cf/gov/shaanxi/kjt" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 深圳市考试院" title="深圳市罗湖区人民政府 - 深圳市考试院" xmlUrl="https://rsshub.gamepp.cf/gov/shenzhen/hrss/szksy/bmxx/2" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 深圳市罗湖区人民政府" title="深圳市罗湖区人民政府 - 深圳市罗湖区人民政府" xmlUrl="https://rsshub.gamepp.cf/gov/shenzhen/szlh/zwfw/zffw/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 深圳市人民政府" title="深圳市罗湖区人民政府 - 深圳市人民政府" xmlUrl="https://rsshub.gamepp.cf/gov/shenzhen/xxgk/zfxxgj/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 深圳市住房和建设局" title="深圳市罗湖区人民政府 - 深圳市住房和建设局" xmlUrl="https://rsshub.gamepp.cf/gov/shenzhen/zjj/xxgk/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 深圳市委组织部" title="深圳市罗湖区人民政府 - 深圳市委组织部" xmlUrl="https://rsshub.gamepp.cf/gov/shenzhen/zzb/tzgg" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政府公开信息" title="深圳市罗湖区人民政府 - 政府公开信息" xmlUrl="https://rsshub.gamepp.cf/gov/sichuan/deyang/govpublicinfo/绵竹市" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 今日绵竹" title="深圳市罗湖区人民政府 - 今日绵竹" xmlUrl="https://rsshub.gamepp.cf/gov/sichuan/deyang/mztoday/zx" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 国家统计局 通用" title="深圳市罗湖区人民政府 - 国家统计局 通用" xmlUrl="https://rsshub.gamepp.cf/gov/stats/sj/zxfb" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政府信息公开文件" title="深圳市罗湖区人民政府 - 政府信息公开文件" xmlUrl="https://rsshub.gamepp.cf/gov/suzhou/doc" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政府新闻" title="深圳市罗湖区人民政府 - 政府新闻" xmlUrl="https://rsshub.gamepp.cf/gov/suzhou/news/news" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 太原市人力资源和社会保障局政府公开信息" title="深圳市罗湖区人民政府 - 太原市人力资源和社会保障局政府公开信息" xmlUrl="https://rsshub.gamepp.cf/gov/taiyuan/rsj/gggs" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 天津港保税区-公告" title="深圳市罗湖区人民政府 - 天津港保税区-公告" xmlUrl="https://rsshub.gamepp.cf/gov/tianjin/tjftz-notice/6302" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 天津人才工作网-公告" title="深圳市罗湖区人民政府 - 天津人才工作网-公告" xmlUrl="https://rsshub.gamepp.cf/gov/tianjin/tjrcgzw-notice/rczc/sjrczc/" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 武汉要闻" title="深圳市罗湖区人民政府 - 武汉要闻" xmlUrl="https://rsshub.gamepp.cf/gov/wuhan/sy/whyw" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 徐州市人力资源和社会保障局" title="深圳市罗湖区人民政府 - 徐州市人力资源和社会保障局" xmlUrl="https://rsshub.gamepp.cf/gov/xuzhou/hrss" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 通知" title="深圳市罗湖区人民政府 - 通知" xmlUrl="https://rsshub.gamepp.cf/gov/zhejiang/gwy/1" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 信息稿件" title="深圳市罗湖区人民政府 - 信息稿件" xmlUrl="https://rsshub.gamepp.cf/gov/zhengce/govall/orpro=555&amp;notpro=2&amp;search_field=title" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 最新政策" title="深圳市罗湖区人民政府 - 最新政策" xmlUrl="https://rsshub.gamepp.cf/gov/zhengce/zuixin" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 最新文件" title="深圳市罗湖区人民政府 - 最新文件" xmlUrl="https://rsshub.gamepp.cf/gov/zhengce/wenjian" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 宁波市国资委-公告" title="深圳市罗湖区人民政府 - 宁波市国资委-公告" xmlUrl="https://rsshub.gamepp.cf/gov/zj/ningbogzw-notice/1229116730" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 宁波市人力资源和社会保障局-公告" title="深圳市罗湖区人民政府 - 宁波市人力资源和社会保障局-公告" xmlUrl="https://rsshub.gamepp.cf/gov/zj/ningborsjnotice/1229676740" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 浙江省人民政府-全省政府网站统一搜索" title="深圳市罗湖区人民政府 - 浙江省人民政府-全省政府网站统一搜索" xmlUrl="https://rsshub.gamepp.cf/gov/zj/search" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 拍卖信息 / 海关法规 / 最新文件" title="深圳市罗湖区人民政府 - 拍卖信息 / 海关法规 / 最新文件" xmlUrl="https://rsshub.gamepp.cf/gov/customs/list/paimai" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 政务服务公开" title="深圳市罗湖区人民政府 - 政务服务公开" xmlUrl="https://rsshub.gamepp.cf/gov/hangzhou/zwfw" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 业务咨询" title="深圳市罗湖区人民政府 - 业务咨询" xmlUrl="https://rsshub.gamepp.cf/gov/safe/business/beijing" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 投诉建议" title="深圳市罗湖区人民政府 - 投诉建议" xmlUrl="https://rsshub.gamepp.cf/gov/safe/complaint/beijing" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 国务院政策文件库" title="深圳市罗湖区人民政府 - 国务院政策文件库" xmlUrl="https://rsshub.gamepp.cf/gov/zhengce/zhengceku/bmwj" />
+      <outline type="rss" text="Hong Kong Department of Health 香港卫生署 - Press Release" title="Hong Kong Department of Health 香港卫生署 - Press Release" xmlUrl="https://rsshub.gamepp.cf/hongkong/dh" />
+      <outline type="rss" text="Hong Kong Independent Commission Against Corruption 香港廉政公署 - Press Releases" title="Hong Kong Independent Commission Against Corruption 香港廉政公署 - Press Releases" xmlUrl="https://rsshub.gamepp.cf/icac/news/sc" />
+      <outline type="rss" text="台灣衛生福利部 - 即時新聞澄清" title="台灣衛生福利部 - 即時新聞澄清" xmlUrl="https://rsshub.gamepp.cf/mohw/clarification" />
+      <outline type="rss" text="南京鼓楼医院 - 员工版教育培训" title="南京鼓楼医院 - 员工版教育培训" xmlUrl="https://rsshub.gamepp.cf/njglyy/ygbjypx" />
+      <outline type="rss" text="New York City Government - Mayor's Office News" title="New York City Government - Mayor's Office News" xmlUrl="https://rsshub.gamepp.cf/nyc/mayors-office-news/executive-orders/civic-services" />
+      <outline type="rss" text="Oak Ridge National Laboratory - All News" title="Oak Ridge National Laboratory - All News" xmlUrl="https://rsshub.gamepp.cf/ornl/all-news" />
+      <outline type="rss" text="Thailand Parliament - Thailand Parliament Draft of Law's public hearing system" title="Thailand Parliament - Thailand Parliament Draft of Law's public hearing system" xmlUrl="https://rsshub.gamepp.cf/parliament/section77" />
+      <outline type="rss" text="UK Parliament - Petitions" title="UK Parliament - Petitions" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/petitions/all" />
+      <outline type="rss" text="UK Parliament - Commonlibrary" title="UK Parliament - Commonlibrary" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/commonslibrary/type/research-briefing" />
+      <outline type="rss" text="UK Parliament - House of Lords Library" title="UK Parliament - House of Lords Library" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/lordslibrary/type/research-briefing" />
+      <outline type="rss" text="汽车召回网 - 汽车召回" title="汽车召回网 - 汽车召回" xmlUrl="https://rsshub.gamepp.cf/qiche365/recall/1" />
+      <outline type="rss" text="深圳市医疗器械行业协会 - 资讯信息" title="深圳市医疗器械行业协会 - 资讯信息" xmlUrl="https://rsshub.gamepp.cf/samd/news/440" />
+      <outline type="rss" text="国家市场监督管理总局缺陷产品管理中心 - 栏目" title="国家市场监督管理总局缺陷产品管理中心 - 栏目" xmlUrl="https://rsshub.gamepp.cf/samrdprc/xwdt/gzdt" />
+      <outline type="rss" text="国家市场监督管理总局缺陷产品管理中心 - 召回信息" title="国家市场监督管理总局缺陷产品管理中心 - 召回信息" xmlUrl="https://rsshub.gamepp.cf/samrdprc/news/xfpzh/xfpgnzh" />
+      <outline type="rss" text="上海业余无线电协会 - 新闻资讯" title="上海业余无线电协会 - 新闻资讯" xmlUrl="https://rsshub.gamepp.cf/sara/announcement" />
+      <outline type="rss" text="科技大觀園 - 最新文章" title="科技大觀園 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/scitechvista" />
+      <outline type="rss" text="四川省人力资源和社会保障厅人事考试专栏 - 通知公告" title="四川省人力资源和社会保障厅人事考试专栏 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/scpta/news/33" />
+      <outline type="rss" text="澳门卫生局 - 最新消息" title="澳门卫生局 - 最新消息" xmlUrl="https://rsshub.gamepp.cf/ssm/news" />
+      <outline type="rss" text="Constitutional Court of Baden-Württemberg (Germany) - Press releases" title="Constitutional Court of Baden-Württemberg (Germany) - Press releases" xmlUrl="https://rsshub.gamepp.cf/verfghbw/press" />
+      <outline type="rss" text="The White House - News" title="The White House - News" xmlUrl="https://rsshub.gamepp.cf/whitehouse/news" />
+      <outline type="rss" text="World Health Organization | WHO - News" title="World Health Organization | WHO - News" xmlUrl="https://rsshub.gamepp.cf/who/news" />
+      <outline type="rss" text="World Health Organization | WHO - Newsroom" title="World Health Organization | WHO - Newsroom" xmlUrl="https://rsshub.gamepp.cf/who/news-room/feature-stories" />
+      <outline type="rss" text="World Health Organization | WHO - Speeches" title="World Health Organization | WHO - Speeches" xmlUrl="https://rsshub.gamepp.cf/who/speeches" />
+    </outline>
+  </body>
+</opml>

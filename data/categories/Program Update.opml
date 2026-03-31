@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Program Update</title>
+  </head>
+  <body>
+    <outline text="Program Update" title="Program Update">
+      <outline type="rss" text="423Down - 423Down" title="423Down - 423Down" xmlUrl="https://rsshub.gamepp.cf/423down" />
+      <outline type="rss" text="Alpine Linux - Packages" title="Alpine Linux - Packages" xmlUrl="https://rsshub.gamepp.cf/alpinelinux/pkgs/nodejs" />
+      <outline type="rss" text="Amazfitwatchfaces - Watch Faces" title="Amazfitwatchfaces - Watch Faces" xmlUrl="https://rsshub.gamepp.cf/amazfitwatchfaces/amazfit-x/fresh" />
+      <outline type="rss" text="Amazon - Kindle Software Updates" title="Amazon - Kindle Software Updates" xmlUrl="https://rsshub.gamepp.cf/amazon/kindle/software-updates" />
+      <outline type="rss" text="Android - SDK Platform Tools release notes" title="Android - SDK Platform Tools release notes" xmlUrl="https://rsshub.gamepp.cf/android/platform-tools-releases" />
+      <outline type="rss" text="Android - Security Bulletins" title="Android - Security Bulletins" xmlUrl="https://rsshub.gamepp.cf/android/security-bulletin" />
+      <outline type="rss" text="Anytxt Searcher - Release Notes" title="Anytxt Searcher - Release Notes" xmlUrl="https://rsshub.gamepp.cf/anytxt/release-notes" />
+      <outline type="rss" text="APKPure - Versions" title="APKPure - Versions" xmlUrl="https://rsshub.gamepp.cf/apkpure/versions/jp.co.craftegg.band/jp" />
+      <outline type="rss" text="App Center - Release" title="App Center - Release" xmlUrl="https://rsshub.gamepp.cf/app-center/release/cloudflare/1.1.1.1-windows/beta" />
+      <outline type="rss" text="AppSales - Category" title="AppSales - Category" xmlUrl="https://rsshub.gamepp.cf/app-sales/highlights" />
+      <outline type="rss" text="AppSales - Watchlist Charts" title="AppSales - Watchlist Charts" xmlUrl="https://rsshub.gamepp.cf/app-sales/mostwanted" />
+      <outline type="rss" text="Apple - Security releases" title="Apple - Security releases" xmlUrl="https://rsshub.gamepp.cf/apple/security-releases" />
+      <outline type="rss" text="Apple - App Update" title="Apple - App Update" xmlUrl="https://rsshub.gamepp.cf/apple/apps/update/us/id408709785" />
+      <outline type="rss" text="AppStare - Comments" title="AppStare - Comments" xmlUrl="https://rsshub.gamepp.cf/appstare/comments/cn/989673964" />
+      <outline type="rss" text="App Store/Mac App Store - Price Drop" title="App Store/Mac App Store - Price Drop" xmlUrl="https://rsshub.gamepp.cf/appstore/price/us/mac/id1152443474" />
+      <outline type="rss" text="App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）" title="App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）" xmlUrl="https://rsshub.gamepp.cf/appstore/xianmian" />
+      <outline type="rss" text="App Store/Mac App Store - In-App-Purchase Price Drop Alert" title="App Store/Mac App Store - In-App-Purchase Price Drop Alert" xmlUrl="https://rsshub.gamepp.cf/appstore/iap/us/id953286746" />
+      <outline type="rss" text="AppsTorrent - Programs" title="AppsTorrent - Programs" xmlUrl="https://rsshub.gamepp.cf/appstorrent/programs" />
+      <outline type="rss" text="ASUS - BIOS" title="ASUS - BIOS" xmlUrl="https://rsshub.gamepp.cf/asus/bios/RT-AX88U/zh" />
+      <outline type="rss" text="ASUS - GPU Tweak" title="ASUS - GPU Tweak" xmlUrl="https://rsshub.gamepp.cf/asus/gpu-tweak" />
+      <outline type="rss" text="Azul - Downloads" title="Azul - Downloads" xmlUrl="https://rsshub.gamepp.cf/azul/downloads" />
+      <outline type="rss" text="Bandisoft - History" title="Bandisoft - History" xmlUrl="https://rsshub.gamepp.cf/bandisoft/history/bandizip" />
+      <outline type="rss" text="哔哩哔哩 bilibili - 更新情报" title="哔哩哔哩 bilibili - 更新情报" xmlUrl="https://rsshub.gamepp.cf/bilibili/app/android" />
+      <outline type="rss" text="BlueStacks - BlueStacks 5 Release Notes" title="BlueStacks - BlueStacks 5 Release Notes" xmlUrl="https://rsshub.gamepp.cf/bluestacks/release/5" />
+      <outline type="rss" text="Brave - Release Notes" title="Brave - Release Notes" xmlUrl="https://rsshub.gamepp.cf/brave/latest" />
+      <outline type="rss" text="Chocolatey - Package" title="Chocolatey - Package" xmlUrl="https://rsshub.gamepp.cf/chocolatey/packages/microsoft-edge" />
+      <outline type="rss" text="Civitai - Latest models" title="Civitai - Latest models" xmlUrl="https://rsshub.gamepp.cf/civitai/models" />
+      <outline type="rss" text="Civitai - User Article" title="Civitai - User Article" xmlUrl="https://rsshub.gamepp.cf/civitai/user/Chenkin/articles" />
+      <outline type="rss" text="Civitai - Model discussions" title="Civitai - Model discussions" xmlUrl="https://rsshub.gamepp.cf/civitai/discussions/4384" />
+      <outline type="rss" text="Claude - Code Changelog" title="Claude - Code Changelog" xmlUrl="https://rsshub.gamepp.cf/claude/code/changelog" />
+      <outline type="rss" text="CPUID - News" title="CPUID - News" xmlUrl="https://rsshub.gamepp.cf/cpuid/news" />
+      <outline type="rss" text="Cursor - Changelog" title="Cursor - Changelog" xmlUrl="https://rsshub.gamepp.cf/cursor/changelog" />
+      <outline type="rss" text="WizTree - What's New" title="WizTree - What's New" xmlUrl="https://rsshub.gamepp.cf/diskanalyzer/whats-new" />
+      <outline type="rss" text="Docker Hub - Image New Build" title="Docker Hub - Image New Build" xmlUrl="https://rsshub.gamepp.cf/dockerhub/build/diygod/rsshub/latest" />
+      <outline type="rss" text="Docker Hub - Owner Repositories" title="Docker Hub - Owner Repositories" xmlUrl="https://rsshub.gamepp.cf/dockerhub/repositories/diygod" />
+      <outline type="rss" text="Docker Hub - Image New Tag" title="Docker Hub - Image New Tag" xmlUrl="https://rsshub.gamepp.cf/dockerhub/tag/library/mariadb" />
+      <outline type="rss" text="Eagle - Changelog" title="Eagle - Changelog" xmlUrl="https://rsshub.gamepp.cf/eagle/changelog/en" />
+      <outline type="rss" text="F-Droid - App Update" title="F-Droid - App Update" xmlUrl="https://rsshub.gamepp.cf/f-droid/apprelease/com.termux" />
+      <outline type="rss" text="Infuse - Release Notes" title="Infuse - Release Notes" xmlUrl="https://rsshub.gamepp.cf/firecore/ios" />
+      <outline type="rss" text="Mozilla - Add-ons Update" title="Mozilla - Add-ons Update" xmlUrl="https://rsshub.gamepp.cf/firefox/addons/rsshub-radar" />
+      <outline type="rss" text="FossHub - Software Update" title="FossHub - Software Update" xmlUrl="https://rsshub.gamepp.cf/fosshub/qBittorrent" />
+      <outline type="rss" text="GitKraken - Release Notes" title="GitKraken - Release Notes" xmlUrl="https://rsshub.gamepp.cf/gitkraken/release-note" />
+      <outline type="rss" text="GoFans - 最新限免 / 促销应用" title="GoFans - 最新限免 / 促销应用" xmlUrl="https://rsshub.gamepp.cf/gofans" />
+      <outline type="rss" text="Google - Extension Update" title="Google - Extension Update" xmlUrl="https://rsshub.gamepp.cf/google/chrome/extension/kefjpfngnndepjbopdmoebkipbgkggaa" />
+      <outline type="rss" text="Google - Jules Changelog" title="Google - Jules Changelog" xmlUrl="https://rsshub.gamepp.cf/google/jules/changelog" />
+      <outline type="rss" text="Google - Play Store Update" title="Google - Play Store Update" xmlUrl="https://rsshub.gamepp.cf/google/play/net.dinglisch.android.taskerm" />
+      <outline type="rss" text="Greasy Fork - Script Feedback" title="Greasy Fork - Script Feedback" xmlUrl="https://rsshub.gamepp.cf/greasyfork/scripts/431691-bypass-all-shortlinks/feedback" />
+      <outline type="rss" text="Greasy Fork - Script Update" title="Greasy Fork - Script Update" xmlUrl="https://rsshub.gamepp.cf/greasyfork/en/google.com" />
+      <outline type="rss" text="Greasy Fork - Script Version History" title="Greasy Fork - Script Version History" xmlUrl="https://rsshub.gamepp.cf/greasyfork/scripts/431691-bypass-all-shortlinks/versions" />
+      <outline type="rss" text="Home Assistant - HACS Repositories" title="Home Assistant - HACS Repositories" xmlUrl="https://rsshub.gamepp.cf/home-assistant/hacs/repositories" />
+      <outline type="rss" text="iFi audio - Download Hub" title="iFi audio - Download Hub" xmlUrl="https://rsshub.gamepp.cf/ifi-audio/download/1503007035/44472" />
+      <outline type="rss" text="ImageMagick - Changelog" title="ImageMagick - Changelog" xmlUrl="https://rsshub.gamepp.cf/imagemagick/changelog" />
+      <outline type="rss" text="异次元软件世界 - 分类" title="异次元软件世界 - 分类" xmlUrl="https://rsshub.gamepp.cf/iplaysoft/category/system" />
+      <outline type="rss" text="异次元软件世界 - 标签" title="异次元软件世界 - 标签" xmlUrl="https://rsshub.gamepp.cf/iplaysoft/tag/windows" />
+      <outline type="rss" text="异次元软件世界 - 首页" title="异次元软件世界 - 首页" xmlUrl="https://rsshub.gamepp.cf/iplaysoft" />
+      <outline type="rss" text="IPSW.me - Apple Firmware Update-IPSWs/OTAs version" title="IPSW.me - Apple Firmware Update-IPSWs/OTAs version" xmlUrl="https://rsshub.gamepp.cf/ipsw/index/ipsws/iPad8,11" />
+      <outline type="rss" text="IPSW.dev - Apple latest beta firmware" title="IPSW.dev - Apple latest beta firmware" xmlUrl="https://rsshub.gamepp.cf/ipsw.dev/index/iPhone16,1" />
+      <outline type="rss" text="Kiro - Changelog" title="Kiro - Changelog" xmlUrl="https://rsshub.gamepp.cf/kiro/changelog" />
+      <outline type="rss" text="Kovid's software projects - Changelog" title="Kovid's software projects - Changelog" xmlUrl="https://rsshub.gamepp.cf/kovidgoyal/kitty/changelog" />
+      <outline type="rss" text="联想 - 驱动" title="联想 - 驱动" xmlUrl="https://rsshub.gamepp.cf/lenovo/drive/PF3WRD2G" />
+      <outline type="rss" text="LineageOS - Changes" title="LineageOS - Changes" xmlUrl="https://rsshub.gamepp.cf/lineageos/changes" />
+      <outline type="rss" text="REPACK скачать - REPACK скачать" title="REPACK скачать - REPACK скачать" xmlUrl="https://rsshub.gamepp.cf/lrepacks" />
+      <outline type="rss" text="MacUpdate - Update" title="MacUpdate - Update" xmlUrl="https://rsshub.gamepp.cf/macupdate/app/11942" />
+      <outline type="rss" text="小米 - 小米应用商店金米奖" title="小米 - 小米应用商店金米奖" xmlUrl="https://rsshub.gamepp.cf/mi/golden" />
+      <outline type="rss" text="Microsoft - Addons Update" title="Microsoft - Addons Update" xmlUrl="https://rsshub.gamepp.cf/microsoft/edge/addon/gangkeiaobmjcjokiofpkfpcobpbmnln" />
+      <outline type="rss" text="Microsoft - Product tags in mcr.microsoft.com" title="Microsoft - Product tags in mcr.microsoft.com" xmlUrl="https://rsshub.gamepp.cf/microsoft/mcr/product/dotnet/framework/runtime" />
+      <outline type="rss" text="MIUI - New firmware" title="MIUI - New firmware" xmlUrl="https://rsshub.gamepp.cf/miui/firmware/aries" />
+      <outline type="rss" text="Neat Download Manager - Download" title="Neat Download Manager - Download" xmlUrl="https://rsshub.gamepp.cf/neatdownloadmanager/download" />
+      <outline type="rss" text="Next.js - Blog" title="Next.js - Blog" xmlUrl="https://rsshub.gamepp.cf/nextjs/blog" />
+      <outline type="rss" text="Not a Tesla App - Tesla Software Updates" title="Not a Tesla App - Tesla Software Updates" xmlUrl="https://rsshub.gamepp.cf/notateslaapp/ota" />
+      <outline type="rss" text="Notion - Release" title="Notion - Release" xmlUrl="https://rsshub.gamepp.cf/notion/release" />
+      <outline type="rss" text="NPM - Package" title="NPM - Package" xmlUrl="https://rsshub.gamepp.cf/npm/package/rsshub" />
+      <outline type="rss" text="Obsidian - Obsidian Plugins" title="Obsidian - Obsidian Plugins" xmlUrl="https://rsshub.gamepp.cf/obsidian/plugins" />
+      <outline type="rss" text="O&amp;O Software - Changelog" title="O&amp;O Software - Changelog" xmlUrl="https://rsshub.gamepp.cf/oo-software/changelog/shutup10" />
+      <outline type="rss" text="OpenAI - ChatGPT Atlas - Release Notes" title="OpenAI - ChatGPT Atlas - Release Notes" xmlUrl="https://rsshub.gamepp.cf/openai/chatgpt-atlas/release-notes" />
+      <outline type="rss" text="OpenAI - ChatGPT - Release Notes" title="OpenAI - ChatGPT - Release Notes" xmlUrl="https://rsshub.gamepp.cf/openai/chatgpt/release-notes" />
+      <outline type="rss" text="Perplexity - Changelog" title="Perplexity - Changelog" xmlUrl="https://rsshub.gamepp.cf/perplexity/changelog" />
+      <outline type="rss" text="Postman - Release Notes" title="Postman - Release Notes" xmlUrl="https://rsshub.gamepp.cf/postman/release-notes" />
+      <outline type="rss" text="PuTTY - Change Log" title="PuTTY - Change Log" xmlUrl="https://rsshub.gamepp.cf/putty/changes" />
+      <outline type="rss" text="qBittorrent - News" title="qBittorrent - News" xmlUrl="https://rsshub.gamepp.cf/qbittorrent/news" />
+      <outline type="rss" text="Raycast - Changelog" title="Raycast - Changelog" xmlUrl="https://rsshub.gamepp.cf/raycast/changelog" />
+      <outline type="rss" text="RemNote - Changelog" title="RemNote - Changelog" xmlUrl="https://rsshub.gamepp.cf/remnote/changelog" />
+      <outline type="rss" text="RSSHub - New routes" title="RSSHub - New routes" xmlUrl="https://rsshub.gamepp.cf/rsshub/routes/en" />
+      <outline type="rss" text="Scoop - Apps" title="Scoop - Apps" xmlUrl="https://rsshub.gamepp.cf/scoop/apps" />
+      <outline type="rss" text="Sony - Software Downloads" title="Sony - Software Downloads" xmlUrl="https://rsshub.gamepp.cf/sony/downloads/product/nw-wm1am2" />
+      <outline type="rss" text="SourceForge - Software" title="SourceForge - Software" xmlUrl="https://rsshub.gamepp.cf/sourceforge/topic=artificial-intelligence&amp;os=windows" />
+      <outline type="rss" text="Syosetu - なろう小説 API の更新履歴" title="Syosetu - なろう小説 API の更新履歴" xmlUrl="https://rsshub.gamepp.cf/syosetu/dev" />
+      <outline type="rss" text="腾讯 - 更新日志" title="腾讯 - 更新日志" xmlUrl="https://rsshub.gamepp.cf/tencent/qq/sdk/changelog/iOS" />
+      <outline type="rss" text="TiddlyWiki - Releases" title="TiddlyWiki - Releases" xmlUrl="https://rsshub.gamepp.cf/tiddlywiki/releases" />
+      <outline type="rss" text="TradingView - Desktop releases and release notes" title="TradingView - Desktop releases and release notes" xmlUrl="https://rsshub.gamepp.cf/tradingview/desktop" />
+      <outline type="rss" text="Typeless - Changelog" title="Typeless - Changelog" xmlUrl="https://rsshub.gamepp.cf/typeless/changelog" />
+      <outline type="rss" text="Typora - Dev Release Changelog" title="Typora - Dev Release Changelog" xmlUrl="https://rsshub.gamepp.cf/typora/changelog/dev" />
+      <outline type="rss" text="Typora - Changelog" title="Typora - Changelog" xmlUrl="https://rsshub.gamepp.cf/typora/changelog" />
+      <outline type="rss" text="Typst - Universe" title="Typst - Universe" xmlUrl="https://rsshub.gamepp.cf/typst/universe" />
+      <outline type="rss" text="Unraid - Community Apps" title="Unraid - Community Apps" xmlUrl="https://rsshub.gamepp.cf/unraid/community-apps" />
+      <outline type="rss" text="Western Digital - Download" title="Western Digital - Download" xmlUrl="https://rsshub.gamepp.cf/wdc/download/279" />
+      <outline type="rss" text="WebCatalog - Changelog" title="WebCatalog - Changelog" xmlUrl="https://rsshub.gamepp.cf/webcatalog/changelog" />
+      <outline type="rss" text="winstall - Apps Update" title="winstall - Apps Update" xmlUrl="https://rsshub.gamepp.cf/winstall/Mozilla.Firefox" />
+      <outline type="rss" text="WziFile - Version History" title="WziFile - Version History" xmlUrl="https://rsshub.gamepp.cf/wizfile/updates" />
+      <outline type="rss" text="Zotero - Version History" title="Zotero - Version History" xmlUrl="https://rsshub.gamepp.cf/zotero/versions" />
+      <outline type="rss" text="daum - Potplayer Update History" title="daum - Potplayer Update History" xmlUrl="https://rsshub.gamepp.cf/daum/potplayer" />
+    </outline>
+  </body>
+</opml>

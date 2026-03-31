@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Travel</title>
+  </head>
+  <body>
+    <outline text="Travel" title="Travel">
+      <outline type="rss" text="12306 - 售票信息" title="12306 - 售票信息" xmlUrl="https://rsshub.gamepp.cf/12306/2022-02-19/重庆/永川东" />
+      <outline type="rss" text="12306 - 最新动态" title="12306 - 最新动态" xmlUrl="https://rsshub.gamepp.cf/12306/zxdt" />
+      <outline type="rss" text="中国国际航空公司 - 服务公告" title="中国国际航空公司 - 服务公告" xmlUrl="https://rsshub.gamepp.cf/airchina/announcement" />
+      <outline type="rss" text="Alto - Toronto-Québec City High-Speed Rail Network - Alto News" title="Alto - Toronto-Québec City High-Speed Rail Network - Alto News" xmlUrl="https://rsshub.gamepp.cf/altotrain/en" />
+      <outline type="rss" text="Brooklyn Museum - Exhibitions" title="Brooklyn Museum - Exhibitions" xmlUrl="https://rsshub.gamepp.cf/brooklynmuseum/exhibitions" />
+      <outline type="rss" text="National Museum Of China - 资讯要闻" title="National Museum Of China - 资讯要闻" xmlUrl="https://rsshub.gamepp.cf/zx/xingnew" />
+      <outline type="rss" text="National Museum Of China - 资讯专题" title="National Museum Of China - 资讯专题" xmlUrl="https://rsshub.gamepp.cf/zx/xwzt" />
+      <outline type="rss" text="飞客茶馆 - 信用卡" title="飞客茶馆 - 信用卡" xmlUrl="https://rsshub.gamepp.cf/flyert/creditcard/zhongxin" />
+      <outline type="rss" text="飞客茶馆 - 优惠信息" title="飞客茶馆 - 优惠信息" xmlUrl="https://rsshub.gamepp.cf/flyert/preferential" />
+      <outline type="rss" text="福州地铁 - 通知公告" title="福州地铁 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/fzmtr/announcements" />
+      <outline type="rss" text="广州地铁 - 新闻" title="广州地铁 - 新闻" xmlUrl="https://rsshub.gamepp.cf/guangzhoumetro/news" />
+      <outline type="rss" text="The Jewish Museum - Exhibitions" title="The Jewish Museum - Exhibitions" xmlUrl="https://rsshub.gamepp.cf/jewishmuseum/exhibitions" />
+      <outline type="rss" text="National Geographic - 分类" title="National Geographic - 分类" xmlUrl="https://rsshub.gamepp.cf/natgeo/environment/article" />
+      <outline type="rss" text="National Geographic - Latest Stories" title="National Geographic - Latest Stories" xmlUrl="https://rsshub.gamepp.cf/nationalgeographic/latest-stories" />
+      <outline type="rss" text="New Museum - Exhibitions" title="New Museum - Exhibitions" xmlUrl="https://rsshub.gamepp.cf/newmuseum/exhibitions" />
+      <outline type="rss" text="走进日本 - 政治外交" title="走进日本 - 政治外交" xmlUrl="https://rsshub.gamepp.cf/nippon/Politics" />
+      <outline type="rss" text="YAMAP - 文章" title="YAMAP - 文章" xmlUrl="https://rsshub.gamepp.cf/yamap" />
+    </outline>
+  </body>
+</opml>

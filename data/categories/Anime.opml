@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Anime</title>
+  </head>
+  <body>
+    <outline text="Anime" title="Anime">
+      <outline type="rss" text="幻之羁绊动漫网 - 资讯" title="幻之羁绊动漫网 - 资讯" xmlUrl="https://rsshub.gamepp.cf/005/zx" />
+      <outline type="rss" text="禁漫天堂 - 文庫" title="禁漫天堂 - 文庫" xmlUrl="https://rsshub.gamepp.cf/18comic/blogs" />
+      <outline type="rss" text="禁漫天堂 - 专辑" title="禁漫天堂 - 专辑" xmlUrl="https://rsshub.gamepp.cf/18comic/album/292282" />
+      <outline type="rss" text="禁漫天堂 - 成人 A 漫" title="禁漫天堂 - 成人 A 漫" xmlUrl="https://rsshub.gamepp.cf/18comic" />
+      <outline type="rss" text="禁漫天堂 - 搜索" title="禁漫天堂 - 搜索" xmlUrl="https://rsshub.gamepp.cf/18comic/search/photos/all/NTR" />
+      <outline type="rss" text="AcFun - 番剧" title="AcFun - 番剧" xmlUrl="https://rsshub.gamepp.cf/acfun/bangumi/5022158" />
+      <outline type="rss" text="AcFun - 文章" title="AcFun - 文章" xmlUrl="https://rsshub.gamepp.cf/acfun/article/110" />
+      <outline type="rss" text="AcFun - 用户投稿" title="AcFun - 用户投稿" xmlUrl="https://rsshub.gamepp.cf/acfun/user/video/6102" />
+      <outline type="rss" text="ACG17 - 全部文章" title="ACG17 - 全部文章" xmlUrl="https://rsshub.gamepp.cf/acg17/post/all" />
+      <outline type="rss" text="ACG Vinyl - 黑胶 - News" title="ACG Vinyl - 黑胶 - News" xmlUrl="https://rsshub.gamepp.cf/news" />
+      <outline type="rss" text="AGE 动漫 - 番剧详情" title="AGE 动漫 - 番剧详情" xmlUrl="https://rsshub.gamepp.cf/agefans/detail/20200035" />
+      <outline type="rss" text="AGE 动漫 - 最近更新" title="AGE 动漫 - 最近更新" xmlUrl="https://rsshub.gamepp.cf/agefans/update" />
+      <outline type="rss" text="Anime1 - Anime" title="Anime1 - Anime" xmlUrl="https://rsshub.gamepp.cf/anime1/anime/2024年夏季/神之塔-第二季" />
+      <outline type="rss" text="Anime1 - Search" title="Anime1 - Search" xmlUrl="https://rsshub.gamepp.cf/anime1/search/神之塔" />
+      <outline type="rss" text="巴卡漫画 - 漫画更新" title="巴卡漫画 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/bakamh/manga/最强家丁" />
+      <outline type="rss" text="萌番组 - Latest" title="萌番组 - Latest" xmlUrl="https://rsshub.gamepp.cf/bangumi.moe" />
+      <outline type="rss" text="アニメ新番組 - 當季新番" title="アニメ新番組 - 當季新番" xmlUrl="https://rsshub.gamepp.cf/bangumi.online" />
+      <outline type="rss" text="Bangumi 番组计划 - 放送列表" title="Bangumi 番组计划 - 放送列表" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/calendar/today" />
+      <outline type="rss" text="Bangumi 番组计划 - Bangumi 用户收藏列表" title="Bangumi 番组计划 - Bangumi 用户收藏列表" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/user/collections/sai/1/1" />
+      <outline type="rss" text="Bangumi 番组计划 - 小组话题的新回复" title="Bangumi 番组计划 - 小组话题的新回复" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/topic/367032" />
+      <outline type="rss" text="Bangumi 番组计划 - 小组话题" title="Bangumi 番组计划 - 小组话题" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/group/boring" />
+      <outline type="rss" text="Bangumi 番组计划 - 成员关注榜" title="Bangumi 番组计划 - 成员关注榜" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/anime/followrank" />
+      <outline type="rss" text="Bangumi 番组计划 - 现实人物的新作品" title="Bangumi 番组计划 - 现实人物的新作品" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/person/32943" />
+      <outline type="rss" text="Bangumi 番组计划 - 用户日志" title="Bangumi 番组计划 - 用户日志" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/user/blog/sai" />
+      <outline type="rss" text="Bangumi 番组计划 - 条目的通用路由格式" title="Bangumi 番组计划 - 条目的通用路由格式" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/subject/328609/ep/true" />
+      <outline type="rss" text="包子漫画 - 订阅漫画" title="包子漫画 - 订阅漫画" xmlUrl="https://rsshub.gamepp.cf/baozimh/comic/guowangpaiming-shiricaofu" />
+      <outline type="rss" text="番组放送 - 开播提醒" title="番组放送 - 开播提醒" xmlUrl="https://rsshub.gamepp.cf/bgmlist/onair/zh-Hans" />
+      <outline type="rss" text="動漫狂 - 漫画更新" title="動漫狂 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/cartoonmad/comic/5827" />
+      <outline type="rss" text="CnGal - 制作者 / 游戏新闻" title="CnGal - 制作者 / 游戏新闻" xmlUrl="https://rsshub.gamepp.cf/cngal/entry/2693" />
+      <outline type="rss" text="CnGal - 每周速报" title="CnGal - 每周速报" xmlUrl="https://rsshub.gamepp.cf/cngal/weekly" />
+      <outline type="rss" text="COLAMANGA - Manga" title="COLAMANGA - Manga" xmlUrl="https://rsshub.gamepp.cf/colamanga/manga-qq978758" />
+      <outline type="rss" text="コラボカフェ - 分类" title="コラボカフェ - 分类" xmlUrl="https://rsshub.gamepp.cf/collabo-cafe/category/cafe" />
+      <outline type="rss" text="コラボカフェ - 全部文章" title="コラボカフェ - 全部文章" xmlUrl="https://rsshub.gamepp.cf/collabo-cafe/" />
+      <outline type="rss" text="コラボカフェ - 标签" title="コラボカフェ - 标签" xmlUrl="https://rsshub.gamepp.cf/collabo-cafe/tag/ikebukuro" />
+      <outline type="rss" text="COMIC FUZ - 杂志详情" title="COMIC FUZ - 杂志详情" xmlUrl="https://rsshub.gamepp.cf/comic-fuz/magazine/27860" />
+      <outline type="rss" text="COMIC FUZ - 漫画详情" title="COMIC FUZ - 漫画详情" xmlUrl="https://rsshub.gamepp.cf/comic-fuz/manga/218" />
+      <outline type="rss" text="カドコミ(Kadocomi) - 漫画详情" title="カドコミ(Kadocomi) - 漫画详情" xmlUrl="https://rsshub.gamepp.cf/comic-walker/manga/KC_006778_S" />
+      <outline type="rss" text="Comicat - 搜索关键词" title="Comicat - 搜索关键词" xmlUrl="https://rsshub.gamepp.cf/comicat/search/喵萌奶茶屋+跃动青春+720P+简日" />
+      <outline type="rss" text="Comics Kingdom - Archive" title="Comics Kingdom - Archive" xmlUrl="https://rsshub.gamepp.cf/comicskingdom/pardon-my-planet" />
+      <outline type="rss" text="拷贝漫画 - 漫画更新" title="拷贝漫画 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/copymanga/comic/dianjuren/5" />
+      <outline type="rss" text="CCC 創作集 - 漫畫" title="CCC 創作集 - 漫畫" xmlUrl="https://rsshub.gamepp.cf/creative-comic/book/117" />
+      <outline type="rss" text="電音部 - 新闻" title="電音部 - 新闻" xmlUrl="https://rsshub.gamepp.cf/denonbu/news/azabu" />
+      <outline type="rss" text="DLsite - Discounted Works" title="DLsite - Discounted Works" xmlUrl="https://rsshub.gamepp.cf/dlsite/campaign/home" />
+      <outline type="rss" text="DLsite - Ci-en Creators' Article" title="DLsite - Ci-en Creators' Article" xmlUrl="https://rsshub.gamepp.cf/dlsite/ci-en/7400/article" />
+      <outline type="rss" text="DLsite - Current Release" title="DLsite - Current Release" xmlUrl="https://rsshub.gamepp.cf/dlsite/new/home" />
+      <outline type="rss" text="动漫之家 - 新闻站" title="动漫之家 - 新闻站" xmlUrl="https://rsshub.gamepp.cf/dmzj/news/donghuaqingbao" />
+      <outline type="rss" text="Doraemon Channel - Article" title="Doraemon Channel - Article" xmlUrl="https://rsshub.gamepp.cf/dora-world/article/contents" />
+      <outline type="rss" text="Eventernote - 声优活动及演唱会" title="Eventernote - 声优活动及演唱会" xmlUrl="https://rsshub.gamepp.cf/eventernote/actors/三森すずこ/2634" />
+      <outline type="rss" text="风之动漫 - 在线漫画" title="风之动漫 - 在线漫画" xmlUrl="https://rsshub.gamepp.cf/fffdm/manhua/93" />
+      <outline type="rss" text="漫小肆韓漫 - 漫画更新" title="漫小肆韓漫 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/freexcomic/book/90" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" title="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/anime/36868" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" title="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/new_anime" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - GNN 新聞" title="巴哈姆特電玩資訊站 - GNN 新聞" xmlUrl="https://rsshub.gamepp.cf/gamer/gnn/1" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 本板推薦" title="巴哈姆特電玩資訊站 - 本板推薦" xmlUrl="https://rsshub.gamepp.cf/gamer/hot/47157" />
+      <outline type="rss" text="Gogoanimehd - Recent Releases" title="Gogoanimehd - Recent Releases" xmlUrl="https://rsshub.gamepp.cf/gogoanimehd/recent-releases" />
+      <outline type="rss" text="Hanime1 - 每月新番" title="Hanime1 - 每月新番" xmlUrl="https://rsshub.gamepp.cf/hanime1/previews/202504" />
+      <outline type="rss" text="Hanime1 - 搜索结果" title="Hanime1 - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/hanime1/search/tags%5B%5D=%E7%B4%94%E6%84%9B&amp;" />
+      <outline type="rss" text="Hpoi 手办维基 - 热门推荐" title="Hpoi 手办维基 - 热门推荐" xmlUrl="https://rsshub.gamepp.cf/hpoi/bannerItem" />
+      <outline type="rss" text="Hpoi 手办维基 - 情报" title="Hpoi 手办维基 - 情报" xmlUrl="https://rsshub.gamepp.cf/hpoi/info/all/hobby|model" />
+      <outline type="rss" text="Hpoi 手办维基 - 用户动态" title="Hpoi 手办维基 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/hpoi/user/116297/buy" />
+      <outline type="rss" text="Hpoi 手办维基 - 所有周边" title="Hpoi 手办维基 - 所有周边" xmlUrl="https://rsshub.gamepp.cf/hpoi/items/all" />
+      <outline type="rss" text="Hpoi 手办维基 - 角色周边" title="Hpoi 手办维基 - 角色周边" xmlUrl="https://rsshub.gamepp.cf/hpoi/items/character/1035374" />
+      <outline type="rss" text="Hpoi 手办维基 - 作品周边" title="Hpoi 手办维基 - 作品周边" xmlUrl="https://rsshub.gamepp.cf/hpoi/items/work/4117491" />
+      <outline type="rss" text="アイドルマスター THE IDOLM@STER - ニュース News" title="アイドルマスター THE IDOLM@STER - ニュース News" xmlUrl="https://rsshub.gamepp.cf/idolmaster/news/brand=MILLIONLIVE&amp;brand=SHINYCOLORS&amp;category=GAME&amp;category=ANIME" />
+      <outline type="rss" text="IDOLY PRIDE 偶像荣耀 - News" title="IDOLY PRIDE 偶像荣耀 - News" xmlUrl="https://rsshub.gamepp.cf/idolypride/news" />
+      <outline type="rss" text="iwara - User" title="iwara - User" xmlUrl="https://rsshub.gamepp.cf/iwara/users/kelpie/video" />
+      <outline type="rss" text="iwara - Ranking" title="iwara - Ranking" xmlUrl="https://rsshub.gamepp.cf/iwara/ranking/video/date/ecchi" />
+      <outline type="rss" text="iwara - User Subscriptions" title="iwara - User Subscriptions" xmlUrl="https://rsshub.gamepp.cf/iwara/subscriptions" />
+      <outline type="rss" text="Kemono - Posts" title="Kemono - Posts" xmlUrl="https://rsshub.gamepp.cf/kemono" />
+      <outline type="rss" text="Komiic - 漫画更新" title="Komiic - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/komiic/comic/533" />
+      <outline type="rss" text="来漫画 - 漫画列表" title="来漫画 - 漫画列表" xmlUrl="https://rsshub.gamepp.cf/laimanhua/tiandikangzhanjiVERSUS" />
+      <outline type="rss" text="Love Live! Official Website - News" title="Love Live! Official Website - News" xmlUrl="https://rsshub.gamepp.cf/lovelive-anime/news" />
+      <outline type="rss" text="円谷ステーション - ニュース" title="円谷ステーション - ニュース" xmlUrl="https://rsshub.gamepp.cf/m-78/news" />
+      <outline type="rss" text="MangaDex - MDList Feed" title="MangaDex - MDList Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/mdlist/10cca803-8dc9-4f0e-86a8-6659a3ce5188?limit=10&amp;private=true" />
+      <outline type="rss" text="MangaDex -  Follows Feed" title="MangaDex -  Follows Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/user/feed/follow/zh?limit=10" />
+      <outline type="rss" text="MangaDex - Logged User's Followed Mangas Feed" title="MangaDex - Logged User's Followed Mangas Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/user/follow/reading" />
+      <outline type="rss" text="MangaDex - Single Manga Feed" title="MangaDex - Single Manga Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/manga/f98660a1-d2e2-461c-960d-7bd13df8b76d/en" />
+      <outline type="rss" text="看漫画 - 漫画更新" title="看漫画 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/manhuagui/comic/22942/5" />
+      <outline type="rss" text="看漫画 - 漫画个人订阅" title="看漫画 - 漫画个人订阅" xmlUrl="https://rsshub.gamepp.cf/manhuagui/subscribe" />
+      <outline type="rss" text="メロンブックス - 搜索结果" title="メロンブックス - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/melonbooks/search/name=けいおん" />
+      <outline type="rss" text="Mox.moe - 首頁" title="Mox.moe - 首頁" xmlUrl="https://rsshub.gamepp.cf/mox" />
+      <outline type="rss" text="nhentai - Filter" title="nhentai - Filter" xmlUrl="https://rsshub.gamepp.cf/nhentai/index/language/chinese" />
+      <outline type="rss" text="nhentai - Advanced Search" title="nhentai - Advanced Search" xmlUrl="https://rsshub.gamepp.cf/nhentai/search/language%3Ajapanese+-scat+-yaoi+-guro+-&quot;mosaic+censorship&quot;" />
+      <outline type="rss" text="NT动漫 - 番剧详情" title="NT动漫 - 番剧详情" xmlUrl="https://rsshub.gamepp.cf/ntdm/video/4309" />
+      <outline type="rss" text="NTR BLOG（寝取られブログ） - Articles" title="NTR BLOG（寝取られブログ） - Articles" xmlUrl="https://rsshub.gamepp.cf/ntrblog/articles" />
+      <outline type="rss" text="俺の 3D エロ動画 (oreno3d) - Author Search" title="俺の 3D エロ動画 (oreno3d) - Author Search" xmlUrl="https://rsshub.gamepp.cf/oreno3d/authors/3189/latest/1" />
+      <outline type="rss" text="pixivision - Category" title="pixivision - Category" xmlUrl="https://rsshub.gamepp.cf/pixivision/zh-tw" />
+      <outline type="rss" text="QooApp - Game Store - Cards" title="QooApp - Game Store - Cards" xmlUrl="https://rsshub.gamepp.cf/qoo-app/apps/en/card/7675" />
+      <outline type="rss" text="QooApp - Game Store - Review" title="QooApp - Game Store - Review" xmlUrl="https://rsshub.gamepp.cf/qoo-app/apps/en/comment/7675" />
+      <outline type="rss" text="QooApp - Game Store - Notes" title="QooApp - Game Store - Notes" xmlUrl="https://rsshub.gamepp.cf/qoo-app/apps/en/note/7675" />
+      <outline type="rss" text="QooApp - Game Store - Article" title="QooApp - Game Store - Article" xmlUrl="https://rsshub.gamepp.cf/qoo-app/apps/en/post/7675" />
+      <outline type="rss" text="QooApp - News" title="QooApp - News" xmlUrl="https://rsshub.gamepp.cf/qoo-app/news/en" />
+      <outline type="rss" text="QooApp - Note Comments" title="QooApp - Note Comments" xmlUrl="https://rsshub.gamepp.cf/qoo-app/notes/en/note/2329113" />
+      <outline type="rss" text="QooApp - User Notes" title="QooApp - User Notes" xmlUrl="https://rsshub.gamepp.cf/qoo-app/notes/en/user/35399143" />
+      <outline type="rss" text="QooApp - User Game Comments" title="QooApp - User Game Comments" xmlUrl="https://rsshub.gamepp.cf/qoo-app/user/en/appComment/35399143" />
+      <outline type="rss" text="腾讯网 - 排行榜" title="腾讯网 - 排行榜" xmlUrl="https://rsshub.gamepp.cf/qq/ac/rank" />
+      <outline type="rss" text="Rawkuma - Manga" title="Rawkuma - Manga" xmlUrl="https://rsshub.gamepp.cf/rawkuma/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu" />
+      <outline type="rss" text="Skebetter - Illust" title="Skebetter - Illust" xmlUrl="https://rsshub.gamepp.cf/skebetter/illust/hot" />
+      <outline type="rss" text="Skebetter - Hot" title="Skebetter - Hot" xmlUrl="https://rsshub.gamepp.cf/skebetter/hot" />
+      <outline type="rss" text="Skebetter - Manga" title="Skebetter - Manga" xmlUrl="https://rsshub.gamepp.cf/skebetter/manga/1" />
+      <outline type="rss" text="THBWiki - Calendar" title="THBWiki - Calendar" xmlUrl="https://rsshub.gamepp.cf/thwiki/calendar" />
+      <outline type="rss" text="とらのあな - Category" title="とらのあな - Category" xmlUrl="https://rsshub.gamepp.cf/toranoana/news/toragen" />
+      <outline type="rss" text="天使动漫论坛 - BD" title="天使动漫论坛 - BD" xmlUrl="https://rsshub.gamepp.cf/tsdm39/bd" />
+      <outline type="rss" text="VCB-Studio - 分类文章" title="VCB-Studio - 分类文章" xmlUrl="https://rsshub.gamepp.cf/vcb-s/category/works" />
+      <outline type="rss" text="X 漫画 - 最新动态" title="X 漫画 - 最新动态" xmlUrl="https://rsshub.gamepp.cf/xmanhua/73xm" />
+      <outline type="rss" text="月幕 Galgame - 文章" title="月幕 Galgame - 文章" xmlUrl="https://rsshub.gamepp.cf/ymgal/article" />
+      <outline type="rss" text="月幕 Galgame - 本月新作" title="月幕 Galgame - 本月新作" xmlUrl="https://rsshub.gamepp.cf/ymgal/game/release" />
+      <outline type="rss" text="再漫画 - 漫画更新" title="再漫画 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/zaimanhua/comic/14488" />
+      <outline type="rss" text="再漫画 - 最近更新" title="再漫画 - 最近更新" xmlUrl="https://rsshub.gamepp.cf/zaimanhua/update" />
+    </outline>
+  </body>
+</opml>

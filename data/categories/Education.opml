@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Education</title>
+  </head>
+  <body>
+    <outline text="Education" title="Education">
+      <outline type="rss" text="网易公开课 - 精品课程" title="网易公开课 - 精品课程" xmlUrl="https://rsshub.gamepp.cf/163/open/vip" />
+      <outline type="rss" text="Asian Innovation and Entrepreneurship Association - Seminar Series" title="Asian Innovation and Entrepreneurship Association - Seminar Series" xmlUrl="https://rsshub.gamepp.cf/aiea/seminars/upcoming" />
+      <outline type="rss" text="BBC - Learning English" title="BBC - Learning English" xmlUrl="https://rsshub.gamepp.cf/bbc/learningenglish/take-away-english" />
+      <outline type="rss" text="中国人工智能学会 - 学会动态" title="中国人工智能学会 - 学会动态" xmlUrl="https://rsshub.gamepp.cf/caai/45" />
+      <outline type="rss" text="中国管理现代化研究会 - 栏目" title="中国管理现代化研究会 - 栏目" xmlUrl="https://rsshub.gamepp.cf/camchina" />
+      <outline type="rss" text="全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息" title="全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息" xmlUrl="https://rsshub.gamepp.cf/catti/news/zxzc" />
+      <outline type="rss" text="中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类" title="中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类" xmlUrl="https://rsshub.gamepp.cf/ccf/ccfcv/xsdt/xsqy" />
+      <outline type="rss" text="中国计算机学会 - 新闻" title="中国计算机学会 - 新闻" xmlUrl="https://rsshub.gamepp.cf/ccf/news" />
+      <outline type="rss" text="中国计算机学会 - 大数据专家委员会" title="中国计算机学会 - 大数据专家委员会" xmlUrl="https://rsshub.gamepp.cf/ccf/tfbd/xwdt/tzgg" />
+      <outline type="rss" text="中华人民共和国学位证书查询 - 各学位授予单位学位证书上网进度" title="中华人民共和国学位证书查询 - 各学位授予单位学位证书上网进度" xmlUrl="https://rsshub.gamepp.cf/chinadegrees/11" />
+      <outline type="rss" text="中国智库网 - 观点与实践" title="中国智库网 - 观点与实践" xmlUrl="https://rsshub.gamepp.cf/chinathinktanks/57" />
+      <outline type="rss" text="中国研究生招生信息网 - 考研热点新闻" title="中国研究生招生信息网 - 考研热点新闻" xmlUrl="https://rsshub.gamepp.cf/chsi/hotnews" />
+      <outline type="rss" text="中国研究生招生信息网 - 考研动态" title="中国研究生招生信息网 - 考研动态" xmlUrl="https://rsshub.gamepp.cf/chsi/kydt" />
+      <outline type="rss" text="中国研究生招生信息网 - 考研资讯" title="中国研究生招生信息网 - 考研资讯" xmlUrl="https://rsshub.gamepp.cf/chsi/kyzx/fstj" />
+      <outline type="rss" text="中国人事考试网 - 中国人事考试网发布" title="中国人事考试网 - 中国人事考试网发布" xmlUrl="https://rsshub.gamepp.cf/cpta/notice" />
+      <outline type="rss" text="Chinese Social Science Net - Institute of Law" title="Chinese Social Science Net - Institute of Law" xmlUrl="https://rsshub.gamepp.cf/cssn/iolaw/zxzp" />
+      <outline type="rss" text="中国技术经济学会 - 栏目" title="中国技术经济学会 - 栏目" xmlUrl="https://rsshub.gamepp.cf/cste" />
+      <outline type="rss" text="DBLP - Keyword Search" title="DBLP - Keyword Search" xmlUrl="https://rsshub.gamepp.cf/dblp/knowledge%20tracing" />
+      <outline type="rss" text="万维书刊网 - 学术资讯" title="万维书刊网 - 学术资讯" xmlUrl="https://rsshub.gamepp.cf/eshukan/academic/1" />
+      <outline type="rss" text="福建考试报名网 - 分类" title="福建考试报名网 - 分类" xmlUrl="https://rsshub.gamepp.cf/fjksbm" />
+      <outline type="rss" text="Howtoforge Linux Tutorials - Tutorials" title="Howtoforge Linux Tutorials - Tutorials" xmlUrl="https://rsshub.gamepp.cf/howtoforge" />
+      <outline type="rss" text="湖南人事考试网 - 公告" title="湖南人事考试网 - 公告" xmlUrl="https://rsshub.gamepp.cf/hunanpea/rsks/2f1a6239-b4dc-491b-92af-7d95e0f0543e" />
+      <outline type="rss" text="实用日本语鉴定考试（J.TEST） - 公告" title="实用日本语鉴定考试（J.TEST） - 公告" xmlUrl="https://rsshub.gamepp.cf/j-test/news" />
+      <outline type="rss" text="The Korea Institute of Marine Law - Thesis" title="The Korea Institute of Marine Law - Thesis" xmlUrl="https://rsshub.gamepp.cf/kimlaw/thesis" />
+      <outline type="rss" text="MindMeister - Public Maps" title="MindMeister - Public Maps" xmlUrl="https://rsshub.gamepp.cf/mindmeister/mind-map-examples" />
+      <outline type="rss" text="国家哲学社会科学文献中心 - 最新文献" title="国家哲学社会科学文献中心 - 最新文献" xmlUrl="https://rsshub.gamepp.cf/ncpssd/newlist" />
+      <outline type="rss" text="中国教育考试网 - 国内考试动态" title="中国教育考试网 - 国内考试动态" xmlUrl="https://rsshub.gamepp.cf/neea/local/cet" />
+      <outline type="rss" text="中国教育考试网 - 日本语能力测试 JLPT 通知" title="中国教育考试网 - 日本语能力测试 JLPT 通知" xmlUrl="https://rsshub.gamepp.cf/neea/jlpt" />
+      <outline type="rss" text="ORCID - Works List" title="ORCID - Works List" xmlUrl="https://rsshub.gamepp.cf/orcid/0000-0002-4731-9700" />
+      <outline type="rss" text="中国计算机职业技术资格考试 - 软考动态" title="中国计算机职业技术资格考试 - 软考动态" xmlUrl="https://rsshub.gamepp.cf/ruankao/news" />
+      <outline type="rss" text="山东省教育招生考试院 - 新闻" title="山东省教育招生考试院 - 新闻" xmlUrl="https://rsshub.gamepp.cf/sdzk" />
+      <outline type="rss" text="上海市教育考试院 - 消息" title="上海市教育考试院 - 消息" xmlUrl="https://rsshub.gamepp.cf/shmeea/08000" />
+      <outline type="rss" text="上海市教育考试院 - 自学考试通知公告" title="上海市教育考试院 - 自学考试通知公告" xmlUrl="https://rsshub.gamepp.cf/shmeea/self-study" />
+      <outline type="rss" text="Tableau - Viz of the day" title="Tableau - Viz of the day" xmlUrl="https://rsshub.gamepp.cf/tableau/viz-of-the-day" />
+      <outline type="rss" text="全国通信专业技术人员职业水平考试 - 通信考试动态" title="全国通信专业技术人员职业水平考试 - 通信考试动态" xmlUrl="https://rsshub.gamepp.cf/txks/news" />
+      <outline type="rss" text="VisionIAS - Daily News Summary" title="VisionIAS - Daily News Summary" xmlUrl="https://rsshub.gamepp.cf/visionias/dailySummary" />
+      <outline type="rss" text="VisionIAS - Monthly Magazine" title="VisionIAS - Monthly Magazine" xmlUrl="https://rsshub.gamepp.cf/visionias/monthlyMagazine" />
+      <outline type="rss" text="VisionIAS - News Today" title="VisionIAS - News Today" xmlUrl="https://rsshub.gamepp.cf/visionias/newsToday" />
+      <outline type="rss" text="VisionIAS - Weekly Focus" title="VisionIAS - Weekly Focus" xmlUrl="https://rsshub.gamepp.cf/visionias/weeklyFocus" />
+      <outline type="rss" text="X-MOL - News" title="X-MOL - News" xmlUrl="https://rsshub.gamepp.cf/x-mol/news/3" />
+      <outline type="rss" text="语雀 - 知识库" title="语雀 - 知识库" xmlUrl="https://rsshub.gamepp.cf/yuque/ruanyf/weekly" />
+    </outline>
+  </body>
+</opml>
