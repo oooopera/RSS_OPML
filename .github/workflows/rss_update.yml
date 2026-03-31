@@ -11,9 +11,6 @@ permissions:
 jobs:
   update-opml:
     runs-on: ubuntu-latest
-    env:
-      # 提前适配 Node 24 避免弃用警告
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -33,6 +30,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@://github.com"
           git config --local user.name "github-actions[bot]"
-          # 只有在文件有变动时才提交
           git add rsshub_subscriptions.opml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update OPML: $(date +'%Y-%m-%d')" && git push)
+          # 检查是否有变动，防止空提交报错
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update OPML: $(date +'%Y-%m-%d')"
+            git push
+          fi
