@@ -1,15 +1,16 @@
 import os
 import re
-import json
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import shutil
-from urllib.parse import quote, urlparse, urlunparse
+from urllib.parse import quote
 
 # --- 配置参数 ---
-TARGET_DOMAIN = "rsshub.gamepp.cf"
+# 使用官方演示站作为基准域名
+BASE_DOMAIN = "rsshub.app"
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
+ANALYTICS_JSON_URL = "https://github.com/RSSNext/rsshub-docs/raw/refs/heads/main/rsshub-analytics.json"
 OUTPUT_DIR = "data/categories"
 
 class RSSHubSync:
@@ -19,7 +20,7 @@ class RSSHubSync:
         }
 
     def clean_filename(self, name):
-        """将标签 ID 转换为美观的文件名"""
+        """格式化分类文件名"""
         name_map = {
             "social-media": "Social Media",
             "new-media": "New Media",
@@ -35,70 +36,78 @@ class RSSHubSync:
         display_name = name_map.get(name.lower(), name.replace('-', ' ').title())
         return re.sub(r'[\\/:*?"<>|]', '_', display_name).strip()
 
-    def encode_url(self, path):
-        """对包含中文或特殊字符的路径进行安全编码"""
-        # 补全开头的斜杠
-        full_path = '/' + path.lstrip('/')
-        # 仅对路径部分进行编码，保留协议和域名部分在外部拼接
-        return quote(full_path)
+    def fetch_analytics(self):
+        """获取路由可用性白名单"""
+        print("正在获取路由可用性数据...")
+        try:
+            resp = requests.get(ANALYTICS_JSON_URL, timeout=30)
+            # 注意：该 JSON 结构通常是 {"/path/to/route": 1, ...} 1为可用
+            return resp.json()
+        except Exception as e:
+            print(f"⚠️ 无法获取可用性数据，将不过滤路由: {e}")
+            return None
 
     def run(self):
-        print(f"正在从 RSSNext 获取路由并进行 URL 安全编码...")
+        # 1. 获取可用性白名单
+        available_map = self.fetch_analytics()
+        
+        # 2. 获取原始路由数据
+        print(f"正在抓取全量路由...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
-            resp.raise_for_status()
             data = resp.json()
 
             category_buckets = {}
             global_seen_urls = set()
+            filtered_count = 0
 
             for ns_key, ns_val in data.items():
                 ns_display_name = ns_val.get('name', ns_key)
                 routes = ns_val.get('routes', {})
                 
-                if not isinstance(routes, dict): continue
-
                 for r_path, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
-                    
                     example = r_info.get('example')
                     if not example: continue
                     
-                    # 关键修复：URL 编码处理
-                    encoded_path = self.encode_url(example)
-                    
-                    if encoded_path in global_seen_urls:
-                        continue
-                    global_seen_urls.add(encoded_path)
+                    # --- 核心过滤逻辑 ---
+                    # 只有在 analytics 中标记为 1 (可用) 的才保留
+                    # 如果 analytics 获取失败则不过滤
+                    if available_map is not None:
+                        # 清理路径以匹配 analytics 键名 (通常不带第一个斜杠或带，需兼容)
+                        check_path = '/' + example.lstrip('/')
+                        status = available_map.get(check_path)
+                        if status != 1:
+                            filtered_count += 1
+                            continue
 
-                    r_name = r_info.get('name', r_path)
+                    safe_path = quote('/' + example.lstrip('/'))
+                    if safe_path in global_seen_urls: continue
+                    global_seen_urls.add(safe_path)
+
                     route_item = {
-                        "title": f"{ns_display_name} - {r_name}",
-                        "url": encoded_path
+                        "title": f"{ns_display_name} - {r_info.get('name', r_path)}",
+                        "url": safe_path
                     }
 
                     tags = r_info.get('categories', [])
-                    
-                    # 单分类策略：取第一个标签或归入未分类
-                    if tags:
-                        primary_tag = tags[0]
-                        if primary_tag not in category_buckets:
-                            category_buckets[primary_tag] = []
-                        category_buckets[primary_tag].append(route_item)
-                    else:
-                        if "Uncategorized" not in category_buckets:
-                            category_buckets["Uncategorized"] = []
-                        category_buckets["Uncategorized"].append(route_item)
+                    primary_tag = tags[0] if tags else "Uncategorized"
+                    if primary_tag not in category_buckets:
+                        category_buckets[primary_tag] = []
+                    category_buckets[primary_tag].append(route_item)
 
-            # 生成文件
+            # 3. 生成 OPML
             if os.path.exists(OUTPUT_DIR):
                 shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
             for tag, items in category_buckets.items():
-                safe_name = "Uncategorized" if tag == "Uncategorized" else self.clean_filename(tag)
-                self.write_opml(safe_name, items)
-                print(f"✅ 已生成: {safe_name}.opml (共 {len(items)} 条)")
+                safe_fn = "Uncategorized" if tag == "Uncategorized" else self.clean_filename(tag)
+                self.write_opml(safe_fn, items)
+
+            print(f"✅ 处理完成！")
+            print(f"总计保留: {len(global_seen_urls)} 条")
+            print(f"已去除不可用路由: {filtered_count} 条")
 
         except Exception as e:
             print(f"❌ 运行失败: {e}")
@@ -109,22 +118,16 @@ class RSSHubSync:
         head = ET.SubElement(opml, "head")
         ET.SubElement(head, "title").text = f"RSSHub - {filename}"
         body = ET.SubElement(opml, "body")
-        
         parent = ET.SubElement(body, "outline", text=filename, title=filename)
 
         for r in items:
-            # 拼接最终 URL
-            final_xml_url = f"https://{TARGET_DOMAIN}{r['url']}"
-            ET.SubElement(parent, "outline", 
-                         type="rss", 
-                         text=r['title'], 
-                         title=r['title'], 
-                         xmlUrl=final_xml_url)
+            # 使用官方域名 rsshub.app
+            xml_url = f"https://{BASE_DOMAIN}{r['url']}"
+            ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
 
         tree = ET.ElementTree(opml)
         ET.indent(tree, space="  ", level=0)
-        file_path = os.path.join(OUTPUT_DIR, f"{filename}.opml")
-        tree.write(file_path, encoding="utf-8", xml_declaration=True)
+        tree.write(os.path.join(OUTPUT_DIR, f"{filename}.opml"), encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
     RSSHubSync().run()
