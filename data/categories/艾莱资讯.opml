@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 艾莱资讯</title>
+  </head>
+  <body>
+    <outline text="艾莱资讯" title="艾莱资讯">
+      <outline type="rss" text="艾莱资讯 - 世界轨道交通资讯网" title="艾莱资讯 - 世界轨道交通资讯网" xmlUrl="https://rsshub.gamepp.cf/ally/rail/hyzix/chengguijiaotong" />
+    </outline>
+  </body>
+</opml>

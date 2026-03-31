@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 优酷</title>
+  </head>
+  <body>
+    <outline text="优酷" title="优酷">
+      <outline type="rss" text="优酷 - 频道" title="优酷 - 频道" xmlUrl="https://rsshub.gamepp.cf/youku/channel/UNTg3MTM3OTcy" />
+    </outline>
+  </body>
+</opml>

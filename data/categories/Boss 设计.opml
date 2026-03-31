@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Boss 设计</title>
+  </head>
+  <body>
+    <outline text="Boss 设计" title="Boss 设计">
+      <outline type="rss" text="Boss 设计 - 分类" title="Boss 设计 - 分类" xmlUrl="https://rsshub.gamepp.cf/bossdesign" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Furaffinity</title>
+  </head>
+  <body>
+    <outline text="Furaffinity" title="Furaffinity">
+      <outline type="rss" text="Furaffinity - Gallery" title="Furaffinity - Gallery" xmlUrl="https://rsshub.gamepp.cf/furaffinity/art/gallery/fender/nsfw" />
+      <outline type="rss" text="Furaffinity - Browse" title="Furaffinity - Browse" xmlUrl="https://rsshub.gamepp.cf/furaffinity/browse/nsfw" />
+      <outline type="rss" text="Furaffinity - Commissions" title="Furaffinity - Commissions" xmlUrl="https://rsshub.gamepp.cf/furaffinity/commissions/fender" />
+      <outline type="rss" text="Furaffinity - Home" title="Furaffinity - Home" xmlUrl="https://rsshub.gamepp.cf/furaffinity/home/nsfw" />
+      <outline type="rss" text="Furaffinity - Journal Comments" title="Furaffinity - Journal Comments" xmlUrl="https://rsshub.gamepp.cf/furaffinity/journal-comments/10925112" />
+      <outline type="rss" text="Furaffinity - Journals" title="Furaffinity - Journals" xmlUrl="https://rsshub.gamepp.cf/furaffinity/journals/fender" />
+      <outline type="rss" text="Furaffinity - Search" title="Furaffinity - Search" xmlUrl="https://rsshub.gamepp.cf/furaffinity/search/protogen/nsfw" />
+      <outline type="rss" text="Furaffinity - Shouts" title="Furaffinity - Shouts" xmlUrl="https://rsshub.gamepp.cf/furaffinity/shouts/fender" />
+      <outline type="rss" text="Furaffinity - Status" title="Furaffinity - Status" xmlUrl="https://rsshub.gamepp.cf/furaffinity/status" />
+      <outline type="rss" text="Furaffinity - Submission Comments" title="Furaffinity - Submission Comments" xmlUrl="https://rsshub.gamepp.cf/furaffinity/submission-comments/24259751" />
+      <outline type="rss" text="Furaffinity - Userpage" title="Furaffinity - Userpage" xmlUrl="https://rsshub.gamepp.cf/furaffinity/user/fender/nsfw" />
+      <outline type="rss" text="Furaffinity - User's Watcher List" title="Furaffinity - User's Watcher List" xmlUrl="https://rsshub.gamepp.cf/furaffinity/watchers/fender" />
+      <outline type="rss" text="Furaffinity - User's Watching List" title="Furaffinity - User's Watching List" xmlUrl="https://rsshub.gamepp.cf/furaffinity/watching/fender" />
+    </outline>
+  </body>
+</opml>

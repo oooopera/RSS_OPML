@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Epic Games Store</title>
+  </head>
+  <body>
+    <outline text="Epic Games Store" title="Epic Games Store">
+      <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
+    </outline>
+  </body>
+</opml>

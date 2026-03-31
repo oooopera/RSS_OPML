@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - メロンブックス</title>
+  </head>
+  <body>
+    <outline text="メロンブックス" title="メロンブックス">
+      <outline type="rss" text="メロンブックス - 搜索结果" title="メロンブックス - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/melonbooks/search/name=けいおん" />
+    </outline>
+  </body>
+</opml>

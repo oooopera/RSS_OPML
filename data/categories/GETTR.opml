@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - GETTR</title>
+  </head>
+  <body>
+    <outline text="GETTR" title="GETTR">
+      <outline type="rss" text="GETTR - User timeline" title="GETTR - User timeline" xmlUrl="https://rsshub.gamepp.cf/gettr/user/jasonmillerindc" />
+    </outline>
+  </body>
+</opml>

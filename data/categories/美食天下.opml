@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 美食天下</title>
+  </head>
+  <body>
+    <outline text="美食天下" title="美食天下">
+      <outline type="rss" text="美食天下 - 菜谱" title="美食天下 - 菜谱" xmlUrl="https://rsshub.gamepp.cf/meishichina/recipe" />
+    </outline>
+  </body>
+</opml>

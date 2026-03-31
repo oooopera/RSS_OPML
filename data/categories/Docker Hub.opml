@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Docker Hub</title>
+  </head>
+  <body>
+    <outline text="Docker Hub" title="Docker Hub">
+      <outline type="rss" text="Docker Hub - Image New Build" title="Docker Hub - Image New Build" xmlUrl="https://rsshub.gamepp.cf/dockerhub/build/diygod/rsshub/latest" />
+      <outline type="rss" text="Docker Hub - Owner Repositories" title="Docker Hub - Owner Repositories" xmlUrl="https://rsshub.gamepp.cf/dockerhub/repositories/diygod" />
+      <outline type="rss" text="Docker Hub - Image New Tag" title="Docker Hub - Image New Tag" xmlUrl="https://rsshub.gamepp.cf/dockerhub/tag/library/mariadb" />
+    </outline>
+  </body>
+</opml>

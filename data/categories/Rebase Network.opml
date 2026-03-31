@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Rebase Network</title>
+  </head>
+  <body>
+    <outline text="Rebase Network" title="Rebase Network">
+      <outline type="rss" text="Rebase Network - Web3 Geek Daily" title="Rebase Network - Web3 Geek Daily" xmlUrl="https://rsshub.gamepp.cf/rebase/geekdaily" />
+    </outline>
+  </body>
+</opml>

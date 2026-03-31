@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 风之动漫</title>
+  </head>
+  <body>
+    <outline text="风之动漫" title="风之动漫">
+      <outline type="rss" text="风之动漫 - 在线漫画" title="风之动漫 - 在线漫画" xmlUrl="https://rsshub.gamepp.cf/fffdm/manhua/93" />
+    </outline>
+  </body>
+</opml>

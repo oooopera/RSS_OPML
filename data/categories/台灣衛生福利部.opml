@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 台灣衛生福利部</title>
+  </head>
+  <body>
+    <outline text="台灣衛生福利部" title="台灣衛生福利部">
+      <outline type="rss" text="台灣衛生福利部 - 即時新聞澄清" title="台灣衛生福利部 - 即時新聞澄清" xmlUrl="https://rsshub.gamepp.cf/mohw/clarification" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 游研社</title>
+  </head>
+  <body>
+    <outline text="游研社" title="游研社">
+      <outline type="rss" text="游研社 - 游研社 - 分类文章" title="游研社 - 游研社 - 分类文章" xmlUrl="https://rsshub.gamepp.cf/yystv/category/recommend" />
+      <outline type="rss" text="游研社 - 游研社 - 全部文章" title="游研社 - 游研社 - 全部文章" xmlUrl="https://rsshub.gamepp.cf/yystv/docs" />
+    </outline>
+  </body>
+</opml>

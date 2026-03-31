@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 靠谱新闻</title>
+  </head>
+  <body>
+    <outline text="靠谱新闻" title="靠谱新闻">
+      <outline type="rss" text="靠谱新闻 - 全部" title="靠谱新闻 - 全部" xmlUrl="https://rsshub.gamepp.cf/kaopu/news/zh-hans" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Ben Visness</title>
+  </head>
+  <body>
+    <outline text="Ben Visness" title="Ben Visness">
+      <outline type="rss" text="Ben Visness - Blog" title="Ben Visness - Blog" xmlUrl="https://rsshub.gamepp.cf/bvisness/blog" />
+    </outline>
+  </body>
+</opml>

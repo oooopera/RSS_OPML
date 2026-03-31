@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - swissinfo</title>
+  </head>
+  <body>
+    <outline text="swissinfo" title="swissinfo">
+      <outline type="rss" text="swissinfo - Category" title="swissinfo - Category" xmlUrl="https://rsshub.gamepp.cf/swissinfo/eng/latest-news" />
+    </outline>
+  </body>
+</opml>

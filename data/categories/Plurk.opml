@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Plurk</title>
+  </head>
+  <body>
+    <outline text="Plurk" title="Plurk">
+      <outline type="rss" text="Plurk - Topic" title="Plurk - Topic" xmlUrl="https://rsshub.gamepp.cf/plurk/topic/standwithukraine" />
+      <outline type="rss" text="Plurk - User" title="Plurk - User" xmlUrl="https://rsshub.gamepp.cf/plurk/user/plurkoffice" />
+      <outline type="rss" text="Plurk - Anonymous" title="Plurk - Anonymous" xmlUrl="https://rsshub.gamepp.cf/plurk/anonymous" />
+      <outline type="rss" text="Plurk - Hotlinks" title="Plurk - Hotlinks" xmlUrl="https://rsshub.gamepp.cf/plurk/hotlinks" />
+      <outline type="rss" text="Plurk - Plurk News" title="Plurk - Plurk News" xmlUrl="https://rsshub.gamepp.cf/plurk/news/:lang?" />
+      <outline type="rss" text="Plurk - Search" title="Plurk - Search" xmlUrl="https://rsshub.gamepp.cf/plurk/search/FGO" />
+      <outline type="rss" text="Plurk - Top" title="Plurk - Top" xmlUrl="https://rsshub.gamepp.cf/plurk/top/topReplurks" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Amz123</title>
+  </head>
+  <body>
+    <outline text="Amz123" title="Amz123">
+      <outline type="rss" text="Amz123 - AMZ123 快讯" title="Amz123 - AMZ123 快讯" xmlUrl="https://rsshub.gamepp.cf/amz123/kx" />
+    </outline>
+  </body>
+</opml>

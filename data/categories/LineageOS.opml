@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - LineageOS</title>
+  </head>
+  <body>
+    <outline text="LineageOS" title="LineageOS">
+      <outline type="rss" text="LineageOS - Changes" title="LineageOS - Changes" xmlUrl="https://rsshub.gamepp.cf/lineageos/changes" />
+    </outline>
+  </body>
+</opml>

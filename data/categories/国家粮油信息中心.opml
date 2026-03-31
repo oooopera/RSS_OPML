@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 国家粮油信息中心</title>
+  </head>
+  <body>
+    <outline text="国家粮油信息中心" title="国家粮油信息中心">
+      <outline type="rss" text="国家粮油信息中心 - 分类" title="国家粮油信息中心 - 分类" xmlUrl="https://rsshub.gamepp.cf/grainoil/newsListHome/3" />
+    </outline>
+  </body>
+</opml>

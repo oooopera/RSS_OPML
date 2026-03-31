@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Prime Minister of Canada</title>
+  </head>
+  <body>
+    <outline text="Prime Minister of Canada" title="Prime Minister of Canada">
+      <outline type="rss" text="Prime Minister of Canada - News" title="Prime Minister of Canada - News" xmlUrl="https://rsshub.gamepp.cf/gc.ca/pm/en" />
+    </outline>
+  </body>
+</opml>

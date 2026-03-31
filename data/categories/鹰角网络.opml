@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 鹰角网络</title>
+  </head>
+  <body>
+    <outline text="鹰角网络" title="鹰角网络">
+      <outline type="rss" text="鹰角网络 - アークナイツ (日服新闻)" title="鹰角网络 - アークナイツ (日服新闻)" xmlUrl="https://rsshub.gamepp.cf/hypergryph/arknights/japan" />
+      <outline type="rss" text="鹰角网络 - 明日方舟 - 游戏内公告" title="鹰角网络 - 明日方舟 - 游戏内公告" xmlUrl="https://rsshub.gamepp.cf/hypergryph/arknights/announce" />
+      <outline type="rss" text="鹰角网络 - 回归线" title="鹰角网络 - 回归线" xmlUrl="https://rsshub.gamepp.cf/hypergryph/arknights/arktca" />
+      <outline type="rss" text="鹰角网络 - 明日方舟 - 游戏公告与新闻" title="鹰角网络 - 明日方舟 - 游戏公告与新闻" xmlUrl="https://rsshub.gamepp.cf/hypergryph/arknights/news" />
+    </outline>
+  </body>
+</opml>

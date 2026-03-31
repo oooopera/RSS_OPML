@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Outage.Report</title>
+  </head>
+  <body>
+    <outline text="Outage.Report" title="Outage.Report">
+      <outline type="rss" text="Outage.Report - Report" title="Outage.Report - Report" xmlUrl="https://rsshub.gamepp.cf/outagereport/ubisoft/5" />
+    </outline>
+  </body>
+</opml>

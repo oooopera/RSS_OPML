@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - indienova 独立游戏</title>
+  </head>
+  <body>
+    <outline text="indienova 独立游戏" title="indienova 独立游戏">
+      <outline type="rss" text="indienova 独立游戏 - 文章" title="indienova 独立游戏 - 文章" xmlUrl="https://rsshub.gamepp.cf/indienova/article" />
+      <outline type="rss" text="indienova 独立游戏 - 专题" title="indienova 独立游戏 - 专题" xmlUrl="https://rsshub.gamepp.cf/indienova/column/52" />
+      <outline type="rss" text="indienova 独立游戏 - 会员开发游戏库" title="indienova 独立游戏 - 会员开发游戏库" xmlUrl="https://rsshub.gamepp.cf/indienova/usergames" />
+    </outline>
+  </body>
+</opml>

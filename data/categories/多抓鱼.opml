@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 多抓鱼</title>
+  </head>
+  <body>
+    <outline text="多抓鱼" title="多抓鱼">
+      <outline type="rss" text="多抓鱼 - 搜索结果" title="多抓鱼 - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/duozhuayu/search/JavaScript" />
+    </outline>
+  </body>
+</opml>

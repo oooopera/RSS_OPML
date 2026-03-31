@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 浪 Play 直播</title>
+  </head>
+  <body>
+    <outline text="浪 Play 直播" title="浪 Play 直播">
+      <outline type="rss" text="浪 Play 直播 - 直播间开播" title="浪 Play 直播 - 直播间开播" xmlUrl="https://rsshub.gamepp.cf/lang/live/room/1352360" />
+    </outline>
+  </body>
+</opml>

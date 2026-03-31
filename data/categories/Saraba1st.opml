@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Saraba1st</title>
+  </head>
+  <body>
+    <outline text="Saraba1st" title="Saraba1st">
+      <outline type="rss" text="Saraba1st - 论坛摘要" title="Saraba1st - 论坛摘要" xmlUrl="https://rsshub.gamepp.cf/saraba1st/digest/forum-6-1" />
+      <outline type="rss" text="Saraba1st - 帖子" title="Saraba1st - 帖子" xmlUrl="https://rsshub.gamepp.cf/saraba1st/thread/751272" />
+    </outline>
+  </body>
+</opml>

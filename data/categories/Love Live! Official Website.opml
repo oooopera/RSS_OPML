@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Love Live! Official Website</title>
+  </head>
+  <body>
+    <outline text="Love Live! Official Website" title="Love Live! Official Website">
+      <outline type="rss" text="Love Live! Official Website - News" title="Love Live! Official Website - News" xmlUrl="https://rsshub.gamepp.cf/lovelive-anime/news" />
+    </outline>
+  </body>
+</opml>

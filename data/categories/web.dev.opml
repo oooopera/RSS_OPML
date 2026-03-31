@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - web.dev</title>
+  </head>
+  <body>
+    <outline text="web.dev" title="web.dev">
+      <outline type="rss" text="web.dev - Articles" title="web.dev - Articles" xmlUrl="https://rsshub.gamepp.cf/web/articles" />
+      <outline type="rss" text="web.dev - Blog" title="web.dev - Blog" xmlUrl="https://rsshub.gamepp.cf/web/blog" />
+      <outline type="rss" text="web.dev - Series" title="web.dev - Series" xmlUrl="https://rsshub.gamepp.cf/web/series/new-to-the-web" />
+    </outline>
+  </body>
+</opml>

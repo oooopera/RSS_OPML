@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - App Store_Mac App Store</title>
+  </head>
+  <body>
+    <outline text="App Store_Mac App Store" title="App Store_Mac App Store">
+      <outline type="rss" text="App Store/Mac App Store - Price Drop" title="App Store/Mac App Store - Price Drop" xmlUrl="https://rsshub.gamepp.cf/appstore/price/us/mac/id1152443474" />
+      <outline type="rss" text="App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）" title="App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）" xmlUrl="https://rsshub.gamepp.cf/appstore/xianmian" />
+      <outline type="rss" text="App Store/Mac App Store - In-App-Purchase Price Drop Alert" title="App Store/Mac App Store - In-App-Purchase Price Drop Alert" xmlUrl="https://rsshub.gamepp.cf/appstore/iap/us/id953286746" />
+    </outline>
+  </body>
+</opml>

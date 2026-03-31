@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Diario Frutícola</title>
+  </head>
+  <body>
+    <outline text="Diario Frutícola" title="Diario Frutícola">
+      <outline type="rss" text="Diario Frutícola - Filtro" title="Diario Frutícola - Filtro" xmlUrl="https://rsshub.gamepp.cf/diariofruticola/filtro/cerezas/71" />
+    </outline>
+  </body>
+</opml>

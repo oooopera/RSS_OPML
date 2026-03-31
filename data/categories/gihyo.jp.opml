@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - gihyo.jp</title>
+  </head>
+  <body>
+    <outline text="gihyo.jp" title="gihyo.jp">
+      <outline type="rss" text="gihyo.jp - Series" title="gihyo.jp - Series" xmlUrl="https://rsshub.gamepp.cf/gihyo/list/group/Ubuntu-Weekly-Recipe" />
+    </outline>
+  </body>
+</opml>

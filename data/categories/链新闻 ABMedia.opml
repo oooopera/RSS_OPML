@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 链新闻 ABMedia</title>
+  </head>
+  <body>
+    <outline text="链新闻 ABMedia" title="链新闻 ABMedia">
+      <outline type="rss" text="链新闻 ABMedia - 类别" title="链新闻 ABMedia - 类别" xmlUrl="https://rsshub.gamepp.cf/abmedia/technology-development" />
+      <outline type="rss" text="链新闻 ABMedia - 首页最新新闻" title="链新闻 ABMedia - 首页最新新闻" xmlUrl="https://rsshub.gamepp.cf/abmedia/index" />
+    </outline>
+  </body>
+</opml>

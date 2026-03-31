@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Massachusetts Institute of Technology</title>
+  </head>
+  <body>
+    <outline text="Massachusetts Institute of Technology" title="Massachusetts Institute of Technology">
+      <outline type="rss" text="Massachusetts Institute of Technology - Scratch User Projects" title="Massachusetts Institute of Technology - Scratch User Projects" xmlUrl="https://rsshub.gamepp.cf/mit/scratch/user-projects/abee" />
+      <outline type="rss" text="Massachusetts Institute of Technology - HAN Lab Blog" title="Massachusetts Institute of Technology - HAN Lab Blog" xmlUrl="https://rsshub.gamepp.cf/mit/hanlab/blog" />
+      <outline type="rss" text="Massachusetts Institute of Technology - Scratch User Comments" title="Massachusetts Institute of Technology - Scratch User Comments" xmlUrl="https://rsshub.gamepp.cf/mit/scratch/user-comments/skota11" />
+    </outline>
+  </body>
+</opml>

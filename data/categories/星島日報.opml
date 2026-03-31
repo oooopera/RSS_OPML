@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 星島日報</title>
+  </head>
+  <body>
+    <outline text="星島日報" title="星島日報">
+      <outline type="rss" text="星島日報 - 即時" title="星島日報 - 即時" xmlUrl="https://rsshub.gamepp.cf/stheadline/std/realtimenews" />
+    </outline>
+  </body>
+</opml>

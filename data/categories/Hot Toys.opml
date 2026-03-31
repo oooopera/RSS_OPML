@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hot Toys</title>
+  </head>
+  <body>
+    <outline text="Hot Toys" title="Hot Toys">
+      <outline type="rss" text="Hot Toys - Toys List" title="Hot Toys - Toys List" xmlUrl="https://rsshub.gamepp.cf/hottoys" />
+    </outline>
+  </body>
+</opml>

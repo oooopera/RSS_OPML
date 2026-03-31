@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 联合早报</title>
+  </head>
+  <body>
+    <outline text="联合早报" title="联合早报">
+      <outline type="rss" text="联合早报 - 互动新闻" title="联合早报 - 互动新闻" xmlUrl="https://rsshub.gamepp.cf/zaobao/interactive-graphics" />
+      <outline type="rss" text="联合早报 - 其他栏目" title="联合早报 - 其他栏目" xmlUrl="https://rsshub.gamepp.cf/zaobao/other/lifestyle/health" />
+      <outline type="rss" text="联合早报 - 即时新闻" title="联合早报 - 即时新闻" xmlUrl="https://rsshub.gamepp.cf/zaobao/realtime/china" />
+      <outline type="rss" text="联合早报 - 新闻" title="联合早报 - 新闻" xmlUrl="https://rsshub.gamepp.cf/zaobao/znews/china" />
+    </outline>
+  </body>
+</opml>

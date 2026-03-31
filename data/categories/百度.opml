@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 百度</title>
+  </head>
+  <body>
+    <outline text="百度" title="百度">
+      <outline type="rss" text="百度 - 首页指数" title="百度 - 首页指数" xmlUrl="https://rsshub.gamepp.cf/baidu/gushitong/index" />
+      <outline type="rss" text="百度 - 搜索" title="百度 - 搜索" xmlUrl="https://rsshub.gamepp.cf/baidu/search/rss" />
+      <outline type="rss" text="百度 - 精品帖子" title="百度 - 精品帖子" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/forum/good/女图" />
+      <outline type="rss" text="百度 - 帖子动态" title="百度 - 帖子动态" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/post/686961453" />
+      <outline type="rss" text="百度 - 贴吧搜索" title="百度 - 贴吧搜索" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/search/neuro" />
+      <outline type="rss" text="百度 - 用户帖子" title="百度 - 用户帖子" xmlUrl="https://rsshub.gamepp.cf/baidu/tieba/user/斗鱼游戏君" />
+      <outline type="rss" text="百度 - 热搜榜单" title="百度 - 热搜榜单" xmlUrl="https://rsshub.gamepp.cf/baidu/top" />
+    </outline>
+  </body>
+</opml>

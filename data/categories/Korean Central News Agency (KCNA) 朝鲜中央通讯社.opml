@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Korean Central News Agency (KCNA) 朝鲜中央通讯社</title>
+  </head>
+  <body>
+    <outline text="Korean Central News Agency (KCNA) 朝鲜中央通讯社" title="Korean Central News Agency (KCNA) 朝鲜中央通讯社">
+      <outline type="rss" text="Korean Central News Agency (KCNA) 朝鲜中央通讯社 - News" title="Korean Central News Agency (KCNA) 朝鲜中央通讯社 - News" xmlUrl="https://rsshub.gamepp.cf/kcna/en" />
+    </outline>
+  </body>
+</opml>

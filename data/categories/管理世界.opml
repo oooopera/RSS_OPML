@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 管理世界</title>
+  </head>
+  <body>
+    <outline text="管理世界" title="管理世界">
+      <outline type="rss" text="管理世界 - 分类" title="管理世界 - 分类" xmlUrl="https://rsshub.gamepp.cf/mwm" />
+    </outline>
+  </body>
+</opml>

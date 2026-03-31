@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 半月谈</title>
+  </head>
+  <body>
+    <outline text="半月谈" title="半月谈">
+      <outline type="rss" text="半月谈 - 栏目" title="半月谈 - 栏目" xmlUrl="https://rsshub.gamepp.cf/banyuetan/jinritan" />
+    </outline>
+  </body>
+</opml>

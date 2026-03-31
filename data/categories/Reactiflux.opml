@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Reactiflux</title>
+  </head>
+  <body>
+    <outline text="Reactiflux" title="Reactiflux">
+      <outline type="rss" text="Reactiflux - Transcripts" title="Reactiflux - Transcripts" xmlUrl="https://rsshub.gamepp.cf/reactiflux/transcripts" />
+    </outline>
+  </body>
+</opml>

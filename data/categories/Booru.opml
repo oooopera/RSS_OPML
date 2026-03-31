@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Booru</title>
+  </head>
+  <body>
+    <outline text="Booru" title="Booru">
+      <outline type="rss" text="Booru - MMDArchive 标签查询" title="Booru - MMDArchive 标签查询" xmlUrl="https://rsshub.gamepp.cf/booru/mmda/tags/full_body%20blue_eyes" />
+    </outline>
+  </body>
+</opml>

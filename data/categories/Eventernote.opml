@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Eventernote</title>
+  </head>
+  <body>
+    <outline text="Eventernote" title="Eventernote">
+      <outline type="rss" text="Eventernote - 声优活动及演唱会" title="Eventernote - 声优活动及演唱会" xmlUrl="https://rsshub.gamepp.cf/eventernote/actors/三森すずこ/2634" />
+    </outline>
+  </body>
+</opml>

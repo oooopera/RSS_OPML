@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 香港 01</title>
+  </head>
+  <body>
+    <outline text="香港 01" title="香港 01">
+      <outline type="rss" text="香港 01 - 热门" title="香港 01 - 热门" xmlUrl="https://rsshub.gamepp.cf/hk01/hot" />
+      <outline type="rss" text="香港 01 - 即時" title="香港 01 - 即時" xmlUrl="https://rsshub.gamepp.cf/hk01/latest" />
+    </outline>
+  </body>
+</opml>

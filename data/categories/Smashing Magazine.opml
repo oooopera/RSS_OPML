@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Smashing Magazine</title>
+  </head>
+  <body>
+    <outline text="Smashing Magazine" title="Smashing Magazine">
+      <outline type="rss" text="Smashing Magazine - Category" title="Smashing Magazine - Category" xmlUrl="https://rsshub.gamepp.cf/smashingmagazine/react" />
+    </outline>
+  </body>
+</opml>

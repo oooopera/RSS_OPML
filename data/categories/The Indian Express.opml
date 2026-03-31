@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Indian Express</title>
+  </head>
+  <body>
+    <outline text="The Indian Express" title="The Indian Express">
+      <outline type="rss" text="The Indian Express - Section" title="The Indian Express - Section" xmlUrl="https://rsshub.gamepp.cf/indianexpress/section/explained" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 智通财经网</title>
+  </head>
+  <body>
+    <outline text="智通财经网" title="智通财经网">
+      <outline type="rss" text="智通财经网 - 推荐" title="智通财经网 - 推荐" xmlUrl="https://rsshub.gamepp.cf/zhitongcaijing" />
+    </outline>
+  </body>
+</opml>

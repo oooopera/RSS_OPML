@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 希望之声</title>
+  </head>
+  <body>
+    <outline text="希望之声" title="希望之声">
+      <outline type="rss" text="希望之声 - 频道" title="希望之声 - 频道" xmlUrl="https://rsshub.gamepp.cf/soundofhope/term/203" />
+    </outline>
+  </body>
+</opml>

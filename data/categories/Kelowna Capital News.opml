@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Kelowna Capital News</title>
+  </head>
+  <body>
+    <outline text="Kelowna Capital News" title="Kelowna Capital News">
+      <outline type="rss" text="Kelowna Capital News - News" title="Kelowna Capital News - News" xmlUrl="https://rsshub.gamepp.cf/kelownacapnews/local-news" />
+    </outline>
+  </body>
+</opml>

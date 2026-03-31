@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - CSS-Tricks</title>
+  </head>
+  <body>
+    <outline text="CSS-Tricks" title="CSS-Tricks">
+      <outline type="rss" text="CSS-Tricks - Articles" title="CSS-Tricks - Articles" xmlUrl="https://rsshub.gamepp.cf/css-tricks/articles" />
+      <outline type="rss" text="CSS-Tricks - CSS Guides" title="CSS-Tricks - CSS Guides" xmlUrl="https://rsshub.gamepp.cf/css-tricks/collections/2" />
+      <outline type="rss" text="CSS-Tricks - Popular this month" title="CSS-Tricks - Popular this month" xmlUrl="https://rsshub.gamepp.cf/css-tricks/popular" />
+    </outline>
+  </body>
+</opml>

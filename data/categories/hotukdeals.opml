@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - hotukdeals</title>
+  </head>
+  <body>
+    <outline text="hotukdeals" title="hotukdeals">
+      <outline type="rss" text="hotukdeals - hottest" title="hotukdeals - hottest" xmlUrl="https://rsshub.gamepp.cf/hotukdeals/hottest" />
+      <outline type="rss" text="hotukdeals - thread" title="hotukdeals - thread" xmlUrl="https://rsshub.gamepp.cf/hotukdeals/hot" />
+    </outline>
+  </body>
+</opml>

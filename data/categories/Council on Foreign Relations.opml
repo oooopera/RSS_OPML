@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Council on Foreign Relations</title>
+  </head>
+  <body>
+    <outline text="Council on Foreign Relations" title="Council on Foreign Relations">
+      <outline type="rss" text="Council on Foreign Relations - News" title="Council on Foreign Relations - News" xmlUrl="https://rsshub.gamepp.cf/cfr/asia" />
+    </outline>
+  </body>
+</opml>

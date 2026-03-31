@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Uber</title>
+  </head>
+  <body>
+    <outline text="Uber" title="Uber">
+      <outline type="rss" text="Uber - Engineering" title="Uber - Engineering" xmlUrl="https://rsshub.gamepp.cf/uber/blog" />
+    </outline>
+  </body>
+</opml>

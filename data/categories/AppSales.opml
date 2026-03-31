@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - AppSales</title>
+  </head>
+  <body>
+    <outline text="AppSales" title="AppSales">
+      <outline type="rss" text="AppSales - Category" title="AppSales - Category" xmlUrl="https://rsshub.gamepp.cf/app-sales/highlights" />
+      <outline type="rss" text="AppSales - Watchlist Charts" title="AppSales - Watchlist Charts" xmlUrl="https://rsshub.gamepp.cf/app-sales/mostwanted" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 老虎社区</title>
+  </head>
+  <body>
+    <outline text="老虎社区" title="老虎社区">
+      <outline type="rss" text="老虎社区 - 个人主页" title="老虎社区 - 个人主页" xmlUrl="https://rsshub.gamepp.cf/laohu8/personal/3527667596890271" />
+    </outline>
+  </body>
+</opml>

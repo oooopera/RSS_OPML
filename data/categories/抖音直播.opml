@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 抖音直播</title>
+  </head>
+  <body>
+    <outline text="抖音直播" title="抖音直播">
+      <outline type="rss" text="抖音直播 - 标签" title="抖音直播 - 标签" xmlUrl="https://rsshub.gamepp.cf/douyin/hashtag/1592824105719812" />
+      <outline type="rss" text="抖音直播 - 直播间开播" title="抖音直播 - 直播间开播" xmlUrl="https://rsshub.gamepp.cf/douyin/live/685317364746" />
+      <outline type="rss" text="抖音直播 - 博主" title="抖音直播 - 博主" xmlUrl="https://rsshub.gamepp.cf/douyin/user/MS4wLjABAAAARcAHmmF9mAG3JEixq_CdP72APhBlGlLVbN-1eBcPqao" />
+    </outline>
+  </body>
+</opml>

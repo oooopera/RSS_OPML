@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Washington Post</title>
+  </head>
+  <body>
+    <outline text="The Washington Post" title="The Washington Post">
+      <outline type="rss" text="The Washington Post - App" title="The Washington Post - App" xmlUrl="https://rsshub.gamepp.cf/washingtonpost/app/national" />
+    </outline>
+  </body>
+</opml>

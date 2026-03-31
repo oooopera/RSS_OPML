@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - JetBrains</title>
+  </head>
+  <body>
+    <outline text="JetBrains" title="JetBrains">
+      <outline type="rss" text="JetBrains - YouTrack Issue Comments" title="JetBrains - YouTrack Issue Comments" xmlUrl="https://rsshub.gamepp.cf/jetbrains/youtrack/comments/IJPL-174543" />
+    </outline>
+  </body>
+</opml>

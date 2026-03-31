@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - V2EX</title>
+  </head>
+  <body>
+    <outline text="V2EX" title="V2EX">
+      <outline type="rss" text="V2EX - 帖子" title="V2EX - 帖子" xmlUrl="https://rsshub.gamepp.cf/v2ex/post/584403" />
+      <outline type="rss" text="V2EX - 最热 / 最新主题" title="V2EX - 最热 / 最新主题" xmlUrl="https://rsshub.gamepp.cf/v2ex/topics/latest" />
+      <outline type="rss" text="V2EX - 标签" title="V2EX - 标签" xmlUrl="https://rsshub.gamepp.cf/v2ex/tab/hot" />
+      <outline type="rss" text="V2EX - XNA" title="V2EX - XNA" xmlUrl="https://rsshub.gamepp.cf/v2ex/xna" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Scoop</title>
+  </head>
+  <body>
+    <outline text="Scoop" title="Scoop">
+      <outline type="rss" text="Scoop - Apps" title="Scoop - Apps" xmlUrl="https://rsshub.gamepp.cf/scoop/apps" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - JavDB</title>
+  </head>
+  <body>
+    <outline text="JavDB" title="JavDB">
+      <outline type="rss" text="JavDB - 演員" title="JavDB - 演員" xmlUrl="https://rsshub.gamepp.cf/javdb/actors/R2Vg" />
+      <outline type="rss" text="JavDB - 主页" title="JavDB - 主页" xmlUrl="https://rsshub.gamepp.cf/javdb/home" />
+      <outline type="rss" text="JavDB - 片商" title="JavDB - 片商" xmlUrl="https://rsshub.gamepp.cf/javdb/makers/7R" />
+      <outline type="rss" text="JavDB - 排行榜" title="JavDB - 排行榜" xmlUrl="https://rsshub.gamepp.cf/javdb/rankings" />
+      <outline type="rss" text="JavDB - 搜索" title="JavDB - 搜索" xmlUrl="https://rsshub.gamepp.cf/javdb/search/巨乳" />
+      <outline type="rss" text="JavDB - 系列" title="JavDB - 系列" xmlUrl="https://rsshub.gamepp.cf/javdb/series/1NW" />
+      <outline type="rss" text="JavDB - 分類" title="JavDB - 分類" xmlUrl="https://rsshub.gamepp.cf/javdb/tags/c2=5&amp;c10=1" />
+      <outline type="rss" text="JavDB - 番号" title="JavDB - 番号" xmlUrl="https://rsshub.gamepp.cf/javdb/video_codes/SIVR" />
+    </outline>
+  </body>
+</opml>

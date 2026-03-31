@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Panda</title>
+  </head>
+  <body>
+    <outline text="Panda" title="Panda">
+      <outline type="rss" text="Panda - Feeds" title="Panda - Feeds" xmlUrl="https://rsshub.gamepp.cf/usepanda/feeds/5718e53e7a84fb1901e059cc" />
+    </outline>
+  </body>
+</opml>

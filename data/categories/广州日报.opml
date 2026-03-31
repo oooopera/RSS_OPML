@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 广州日报</title>
+  </head>
+  <body>
+    <outline text="广州日报" title="广州日报">
+      <outline type="rss" text="广州日报 - 客户端" title="广州日报 - 客户端" xmlUrl="https://rsshub.gamepp.cf/gzdaily/app/74" />
+    </outline>
+  </body>
+</opml>

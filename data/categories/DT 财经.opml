@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - DT 财经</title>
+  </head>
+  <body>
+    <outline text="DT 财经" title="DT 财经">
+      <outline type="rss" text="DT 财经 - 数据侠专栏" title="DT 财经 - 数据侠专栏" xmlUrl="https://rsshub.gamepp.cf/dtcj/datahero" />
+      <outline type="rss" text="DT 财经 - 数据洞察" title="DT 财经 - 数据洞察" xmlUrl="https://rsshub.gamepp.cf/dtcj/datainsight" />
+    </outline>
+  </body>
+</opml>

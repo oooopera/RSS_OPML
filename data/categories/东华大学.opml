@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 东华大学</title>
+  </head>
+  <body>
+    <outline text="东华大学" title="东华大学">
+      <outline type="rss" text="东华大学 - 教务处通知" title="东华大学 - 教务处通知" xmlUrl="https://rsshub.gamepp.cf/dhu/jiaowu/news/student" />
+      <outline type="rss" text="东华大学 - 学术信息" title="东华大学 - 学术信息" xmlUrl="https://rsshub.gamepp.cf/dhu/news/xsxx" />
+      <outline type="rss" text="东华大学 - 最新信息公开" title="东华大学 - 最新信息公开" xmlUrl="https://rsshub.gamepp.cf/dhu/xxgk/news" />
+      <outline type="rss" text="东华大学 - 研究生院通知" title="东华大学 - 研究生院通知" xmlUrl="https://rsshub.gamepp.cf/dhu/yjs/news/class" />
+      <outline type="rss" text="东华大学 - 研究生招生信息" title="东华大学 - 研究生招生信息" xmlUrl="https://rsshub.gamepp.cf/dhu/yjs/zs/master" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 消费者委员会</title>
+  </head>
+  <body>
+    <outline text="消费者委员会" title="消费者委员会">
+      <outline type="rss" text="消费者委员会 - 文章" title="消费者委员会 - 文章" xmlUrl="https://rsshub.gamepp.cf/consumer" />
+      <outline type="rss" text="消费者委员会 - 消費全攻略" title="消费者委员会 - 消費全攻略" xmlUrl="https://rsshub.gamepp.cf/consumer/shopping-guide" />
+    </outline>
+  </body>
+</opml>

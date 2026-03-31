@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Rawkuma</title>
+  </head>
+  <body>
+    <outline text="Rawkuma" title="Rawkuma">
+      <outline type="rss" text="Rawkuma - Manga" title="Rawkuma - Manga" xmlUrl="https://rsshub.gamepp.cf/rawkuma/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu" />
+    </outline>
+  </body>
+</opml>

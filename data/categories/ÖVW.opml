@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - ÖVW</title>
+  </head>
+  <body>
+    <outline text="ÖVW" title="ÖVW">
+      <outline type="rss" text="ÖVW - ÖVW Suche" title="ÖVW - ÖVW Suche" xmlUrl="https://rsshub.gamepp.cf/oevw/%7B%22rooms%22%3A%5B%222%22%2C%223%22%5D%7D" />
+    </outline>
+  </body>
+</opml>

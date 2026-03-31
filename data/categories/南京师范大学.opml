@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南京师范大学</title>
+  </head>
+  <body>
+    <outline text="南京师范大学" title="南京师范大学">
+      <outline type="rss" text="南京师范大学 - 计算机与电子信息学院 - 人工智能学院" title="南京师范大学 - 计算机与电子信息学院 - 人工智能学院" xmlUrl="https://rsshub.gamepp.cf/njnu/ceai/xszx" />
+      <outline type="rss" text="南京师范大学 - 教务通知" title="南京师范大学 - 教务通知" xmlUrl="https://rsshub.gamepp.cf/njnu/jwc/xstz" />
+    </outline>
+  </body>
+</opml>

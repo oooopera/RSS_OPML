@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 米课</title>
+  </head>
+  <body>
+    <outline text="米课" title="米课">
+      <outline type="rss" text="米课 - 米课圈精华" title="米课 - 米课圈精华" xmlUrl="https://rsshub.gamepp.cf/imiker/ask/jinghua" />
+    </outline>
+  </body>
+</opml>

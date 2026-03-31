@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 同济大学</title>
+  </head>
+  <body>
+    <outline text="同济大学" title="同济大学">
+      <outline type="rss" text="同济大学 - 本科生院通知公告" title="同济大学 - 本科生院通知公告" xmlUrl="https://rsshub.gamepp.cf/tongji/bks" />
+      <outline type="rss" text="同济大学 - 研究生院通知公告" title="同济大学 - 研究生院通知公告" xmlUrl="https://rsshub.gamepp.cf/tongji/gs" />
+      <outline type="rss" text="同济大学 - 软件学院通知" title="同济大学 - 软件学院通知" xmlUrl="https://rsshub.gamepp.cf/tongji/sse/xytz" />
+      <outline type="rss" text="同济大学 - 研究生招生网通知公告" title="同济大学 - 研究生招生网通知公告" xmlUrl="https://rsshub.gamepp.cf/tongji/yjs" />
+      <outline type="rss" text="同济大学 - 经济与管理学院通知" title="同济大学 - 经济与管理学院通知" xmlUrl="https://rsshub.gamepp.cf/tongji/sem/notice" />
+    </outline>
+  </body>
+</opml>

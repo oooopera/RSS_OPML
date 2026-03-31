@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Notion</title>
+  </head>
+  <body>
+    <outline text="Notion" title="Notion">
+      <outline type="rss" text="Notion - Database" title="Notion - Database" xmlUrl="https://rsshub.gamepp.cf/notion/database/a7cc133b68454f138011f1530a13531e" />
+      <outline type="rss" text="Notion - Release" title="Notion - Release" xmlUrl="https://rsshub.gamepp.cf/notion/release" />
+    </outline>
+  </body>
+</opml>

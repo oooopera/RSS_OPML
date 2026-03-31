@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国农业农村信息网</title>
+  </head>
+  <body>
+    <outline text="中国农业农村信息网" title="中国农业农村信息网">
+      <outline type="rss" text="中国农业农村信息网 - 分类" title="中国农业农村信息网 - 分类" xmlUrl="https://rsshub.gamepp.cf/agri/zx/zxfb" />
+    </outline>
+  </body>
+</opml>

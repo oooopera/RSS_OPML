@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 四川广播电视台</title>
+  </head>
+  <body>
+    <outline text="四川广播电视台" title="四川广播电视台">
+      <outline type="rss" text="四川广播电视台 - 电视回放" title="四川广播电视台 - 电视回放" xmlUrl="https://rsshub.gamepp.cf/sctv/programme/1" />
+    </outline>
+  </body>
+</opml>

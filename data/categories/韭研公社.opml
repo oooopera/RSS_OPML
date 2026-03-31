@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 韭研公社</title>
+  </head>
+  <body>
+    <outline text="韭研公社" title="韭研公社">
+      <outline type="rss" text="韭研公社 - 社群" title="韭研公社 - 社群" xmlUrl="https://rsshub.gamepp.cf/jiuyangongshe/community" />
+    </outline>
+  </body>
+</opml>

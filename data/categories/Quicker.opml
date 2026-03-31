@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Quicker</title>
+  </head>
+  <body>
+    <outline text="Quicker" title="Quicker">
+      <outline type="rss" text="Quicker - 讨论区" title="Quicker - 讨论区" xmlUrl="https://rsshub.gamepp.cf/quicker/qa" />
+      <outline type="rss" text="Quicker - 动作分享" title="Quicker - 动作分享" xmlUrl="https://rsshub.gamepp.cf/quicker/share/Recent" />
+      <outline type="rss" text="Quicker - 用户更新" title="Quicker - 用户更新" xmlUrl="https://rsshub.gamepp.cf/quicker/user/Actions/3-CL" />
+    </outline>
+  </body>
+</opml>

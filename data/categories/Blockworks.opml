@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Blockworks</title>
+  </head>
+  <body>
+    <outline text="Blockworks" title="Blockworks">
+      <outline type="rss" text="Blockworks - News" title="Blockworks - News" xmlUrl="https://rsshub.gamepp.cf/blockworks" />
+    </outline>
+  </body>
+</opml>

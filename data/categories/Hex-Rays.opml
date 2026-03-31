@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hex-Rays</title>
+  </head>
+  <body>
+    <outline text="Hex-Rays" title="Hex-Rays">
+      <outline type="rss" text="Hex-Rays - Hex-Rays News" title="Hex-Rays - Hex-Rays News" xmlUrl="https://rsshub.gamepp.cf/hex-rays/news" />
+    </outline>
+  </body>
+</opml>

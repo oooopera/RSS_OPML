@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 网猴线报</title>
+  </head>
+  <body>
+    <outline text="网猴线报" title="网猴线报">
+      <outline type="rss" text="网猴线报 - 线报" title="网猴线报 - 线报" xmlUrl="https://rsshub.gamepp.cf/iehou" />
+    </outline>
+  </body>
+</opml>

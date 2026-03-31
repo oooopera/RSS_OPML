@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 和风天气</title>
+  </head>
+  <body>
+    <outline text="和风天气" title="和风天气">
+      <outline type="rss" text="和风天气 - 近三天天气" title="和风天气 - 近三天天气" xmlUrl="https://rsshub.gamepp.cf/qweather/3days/广州" />
+      <outline type="rss" text="和风天气 - 实时天气" title="和风天气 - 实时天气" xmlUrl="https://rsshub.gamepp.cf/qweather/now/广州" />
+    </outline>
+  </body>
+</opml>

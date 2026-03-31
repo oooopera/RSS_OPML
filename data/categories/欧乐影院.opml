@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 欧乐影院</title>
+  </head>
+  <body>
+    <outline text="欧乐影院" title="欧乐影院">
+      <outline type="rss" text="欧乐影院 - 视频" title="欧乐影院 - 视频" xmlUrl="https://rsshub.gamepp.cf/olevod/vod/202449091" />
+      <outline type="rss" text="欧乐影院 - 最新视频" title="欧乐影院 - 最新视频" xmlUrl="https://rsshub.gamepp.cf/olevod/vodlist" />
+    </outline>
+  </body>
+</opml>

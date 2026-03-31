@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Ganjing World</title>
+  </head>
+  <body>
+    <outline text="Ganjing World" title="Ganjing World">
+      <outline type="rss" text="Ganjing World - posts in a channel" title="Ganjing World - posts in a channel" xmlUrl="https://rsshub.gamepp.cf/ganjingworld/channel/posts/1fcahpcut9t3gz4zIvYSJR7qd1cs0c" />
+      <outline type="rss" text="Ganjing World - Shorts in a channel" title="Ganjing World - Shorts in a channel" xmlUrl="https://rsshub.gamepp.cf/ganjingworld/channel/shorts/1fq5chh3ajo67UNu14uAvfzOp1a80c" />
+      <outline type="rss" text="Ganjing World - Videos in a channel" title="Ganjing World - Videos in a channel" xmlUrl="https://rsshub.gamepp.cf/ganjingworld/channel/videos/1eiqjdnq7go1OPYtIbLDVMpM61ok0c" />
+      <outline type="rss" text="Ganjing World - Articles in a channel" title="Ganjing World - Articles in a channel" xmlUrl="https://rsshub.gamepp.cf/ganjingworld/channel/articles/1fcahpcut9t3gz4zIvYSJR7qd1cs0c" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - BaoBua</title>
+  </head>
+  <body>
+    <outline text="BaoBua" title="BaoBua">
+      <outline type="rss" text="BaoBua - Category" title="BaoBua - Category" xmlUrl="https://rsshub.gamepp.cf/baobua/category/network" />
+      <outline type="rss" text="BaoBua - Latest" title="BaoBua - Latest" xmlUrl="https://rsshub.gamepp.cf/baobua" />
+      <outline type="rss" text="BaoBua - Search" title="BaoBua - Search" xmlUrl="https://rsshub.gamepp.cf/baobua/search/cos" />
+    </outline>
+  </body>
+</opml>

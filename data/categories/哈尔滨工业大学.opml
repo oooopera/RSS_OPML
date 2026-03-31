@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 哈尔滨工业大学</title>
+  </head>
+  <body>
+    <outline text="哈尔滨工业大学" title="哈尔滨工业大学">
+      <outline type="rss" text="哈尔滨工业大学 - 研究生院" title="哈尔滨工业大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/hit/hitgs/tzgg" />
+      <outline type="rss" text="哈尔滨工业大学 - 今日哈工大" title="哈尔滨工业大学 - 今日哈工大" xmlUrl="https://rsshub.gamepp.cf/hit/today/10" />
+    </outline>
+  </body>
+</opml>

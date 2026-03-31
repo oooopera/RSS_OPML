@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Amazfitwatchfaces</title>
+  </head>
+  <body>
+    <outline text="Amazfitwatchfaces" title="Amazfitwatchfaces">
+      <outline type="rss" text="Amazfitwatchfaces - Watch Faces" title="Amazfitwatchfaces - Watch Faces" xmlUrl="https://rsshub.gamepp.cf/amazfitwatchfaces/amazfit-x/fresh" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 全国翻译专业资格水平考试 (CATTI)</title>
+  </head>
+  <body>
+    <outline text="全国翻译专业资格水平考试 (CATTI)" title="全国翻译专业资格水平考试 (CATTI)">
+      <outline type="rss" text="全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息" title="全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息" xmlUrl="https://rsshub.gamepp.cf/catti/news/zxzc" />
+    </outline>
+  </body>
+</opml>

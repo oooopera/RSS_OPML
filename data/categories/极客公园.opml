@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 极客公园</title>
+  </head>
+  <body>
+    <outline text="极客公园" title="极客公园">
+      <outline type="rss" text="极客公园 - 栏目" title="极客公园 - 栏目" xmlUrl="https://rsshub.gamepp.cf/geekpark" />
+    </outline>
+  </body>
+</opml>

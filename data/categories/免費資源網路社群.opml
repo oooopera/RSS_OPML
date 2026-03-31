@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 免費資源網路社群</title>
+  </head>
+  <body>
+    <outline text="免費資源網路社群" title="免費資源網路社群">
+      <outline type="rss" text="免費資源網路社群 - 最新文章" title="免費資源網路社群 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/free" />
+    </outline>
+  </body>
+</opml>

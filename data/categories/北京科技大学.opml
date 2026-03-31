@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 北京科技大学</title>
+  </head>
+  <body>
+    <outline text="北京科技大学" title="北京科技大学">
+      <outline type="rss" text="北京科技大学 - 天津学院" title="北京科技大学 - 天津学院" xmlUrl="https://rsshub.gamepp.cf/ustb/tj/news/all" />
+      <outline type="rss" text="北京科技大学 - 研究生院" title="北京科技大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/ustb/yjsy/news/all" />
+      <outline type="rss" text="北京科技大学 - 研究生招生信息网" title="北京科技大学 - 研究生招生信息网" xmlUrl="https://rsshub.gamepp.cf/ustb/yzxc/tzgg" />
+    </outline>
+  </body>
+</opml>

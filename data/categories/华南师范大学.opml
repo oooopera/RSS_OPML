@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 华南师范大学</title>
+  </head>
+  <body>
+    <outline text="华南师范大学" title="华南师范大学">
+      <outline type="rss" text="华南师范大学 - 计算机学院竞赛通知" title="华南师范大学 - 计算机学院竞赛通知" xmlUrl="https://rsshub.gamepp.cf/scnu/cs/match" />
+      <outline type="rss" text="华南师范大学 - 教务处通知" title="华南师范大学 - 教务处通知" xmlUrl="https://rsshub.gamepp.cf/scnu/jw" />
+      <outline type="rss" text="华南师范大学 - 图书馆通知" title="华南师范大学 - 图书馆通知" xmlUrl="https://rsshub.gamepp.cf/scnu/library" />
+      <outline type="rss" text="华南师范大学 - 软件学院通知公告" title="华南师范大学 - 软件学院通知公告" xmlUrl="https://rsshub.gamepp.cf/scnu/ss" />
+      <outline type="rss" text="华南师范大学 - 研究生院通知公告" title="华南师范大学 - 研究生院通知公告" xmlUrl="https://rsshub.gamepp.cf/scnu/yjs" />
+    </outline>
+  </body>
+</opml>

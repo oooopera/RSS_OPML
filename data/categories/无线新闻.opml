@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 无线新闻</title>
+  </head>
+  <body>
+    <outline text="无线新闻" title="无线新闻">
+      <outline type="rss" text="无线新闻 - 新闻" title="无线新闻 - 新闻" xmlUrl="https://rsshub.gamepp.cf/tvb/news" />
+    </outline>
+  </body>
+</opml>

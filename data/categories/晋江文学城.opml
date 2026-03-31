@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 晋江文学城</title>
+  </head>
+  <body>
+    <outline text="晋江文学城" title="晋江文学城">
+      <outline type="rss" text="晋江文学城 - 作者最新作品" title="晋江文学城 - 作者最新作品" xmlUrl="https://rsshub.gamepp.cf/jjwxc/author/4364484" />
+      <outline type="rss" text="晋江文学城 - 作品章节" title="晋江文学城 - 作品章节" xmlUrl="https://rsshub.gamepp.cf/jjwxc/book/7013024" />
+    </outline>
+  </body>
+</opml>

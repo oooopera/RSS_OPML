@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 阿基米德 FM</title>
+  </head>
+  <body>
+    <outline text="阿基米德 FM" title="阿基米德 FM">
+      <outline type="rss" text="阿基米德 FM - 播客" title="阿基米德 FM - 播客" xmlUrl="https://rsshub.gamepp.cf/ajmide/10603594" />
+    </outline>
+  </body>
+</opml>

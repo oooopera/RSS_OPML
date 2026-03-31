@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南京大学</title>
+  </head>
+  <body>
+    <outline text="南京大学" title="南京大学">
+      <outline type="rss" text="南京大学 - 人才招聘网" title="南京大学 - 人才招聘网" xmlUrl="https://rsshub.gamepp.cf/nju/rczp/xxfb" />
+      <outline type="rss" text="南京大学 - 本科生交换生系统" title="南京大学 - 本科生交换生系统" xmlUrl="https://rsshub.gamepp.cf/nju/exchangesys/proj" />
+      <outline type="rss" text="南京大学 - 本科生院" title="南京大学 - 本科生院" xmlUrl="https://rsshub.gamepp.cf/nju/jw/ggtz" />
+      <outline type="rss" text="南京大学 - 本科迎新" title="南京大学 - 本科迎新" xmlUrl="https://rsshub.gamepp.cf/nju/admission" />
+      <outline type="rss" text="南京大学 - 大学外语部" title="南京大学 - 大学外语部" xmlUrl="https://rsshub.gamepp.cf/nju/dafls" />
+      <outline type="rss" text="南京大学 - 研究生院" title="南京大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/nju/gra" />
+      <outline type="rss" text="南京大学 - 校医院" title="南京大学 - 校医院" xmlUrl="https://rsshub.gamepp.cf/nju/hospital" />
+      <outline type="rss" text="南京大学 - 后勤集团" title="南京大学 - 后勤集团" xmlUrl="https://rsshub.gamepp.cf/nju/hqjt" />
+      <outline type="rss" text="南京大学 - ITSC 信息中心" title="南京大学 - ITSC 信息中心" xmlUrl="https://rsshub.gamepp.cf/nju/itsc" />
+      <outline type="rss" text="南京大学 - 基建处" title="南京大学 - 基建处" xmlUrl="https://rsshub.gamepp.cf/nju/jjc" />
+      <outline type="rss" text="南京大学 - 科学技术处" title="南京大学 - 科学技术处" xmlUrl="https://rsshub.gamepp.cf/nju/scit/tzgg" />
+      <outline type="rss" text="南京大学 - 招标办公室" title="南京大学 - 招标办公室" xmlUrl="https://rsshub.gamepp.cf/nju/zbb/cgxx" />
+      <outline type="rss" text="南京大学 - 资产管理处" title="南京大学 - 资产管理处" xmlUrl="https://rsshub.gamepp.cf/nju/zcc" />
+    </outline>
+  </body>
+</opml>

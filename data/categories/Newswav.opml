@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Newswav</title>
+  </head>
+  <body>
+    <outline text="Newswav" title="Newswav">
+      <outline type="rss" text="Newswav - Latest" title="Newswav - Latest" xmlUrl="https://rsshub.gamepp.cf/newswav" />
+    </outline>
+  </body>
+</opml>

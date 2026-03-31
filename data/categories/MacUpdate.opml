@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MacUpdate</title>
+  </head>
+  <body>
+    <outline text="MacUpdate" title="MacUpdate">
+      <outline type="rss" text="MacUpdate - Update" title="MacUpdate - Update" xmlUrl="https://rsshub.gamepp.cf/macupdate/app/11942" />
+    </outline>
+  </body>
+</opml>

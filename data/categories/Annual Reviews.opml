@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Annual Reviews</title>
+  </head>
+  <body>
+    <outline text="Annual Reviews" title="Annual Reviews">
+      <outline type="rss" text="Annual Reviews - Journal" title="Annual Reviews - Journal" xmlUrl="https://rsshub.gamepp.cf/annualreviews/anchem" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Furstar</title>
+  </head>
+  <body>
+    <outline text="Furstar" title="Furstar">
+      <outline type="rss" text="Furstar - 画师列表" title="Furstar - 画师列表" xmlUrl="https://rsshub.gamepp.cf/furstar/artists/cn" />
+      <outline type="rss" text="Furstar - 已经出售的角色列表" title="Furstar - 已经出售的角色列表" xmlUrl="https://rsshub.gamepp.cf/furstar/archive/cn" />
+      <outline type="rss" text="Furstar - 最新售卖角色列表" title="Furstar - 最新售卖角色列表" xmlUrl="https://rsshub.gamepp.cf/furstar/characters/cn" />
+    </outline>
+  </body>
+</opml>

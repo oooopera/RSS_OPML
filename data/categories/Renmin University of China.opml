@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Renmin University of China</title>
+  </head>
+  <body>
+    <outline text="Renmin University of China" title="Renmin University of China">
+      <outline type="rss" text="Renmin University of China - 高瓴人工智能学院" title="Renmin University of China - 高瓴人工智能学院" xmlUrl="https://rsshub.gamepp.cf/ruc/ai" />
+      <outline type="rss" text="Renmin University of China - 人事处" title="Renmin University of China - 人事处" xmlUrl="https://rsshub.gamepp.cf/ruc/hr" />
+    </outline>
+  </body>
+</opml>

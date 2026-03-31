@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Syosetu</title>
+  </head>
+  <body>
+    <outline text="Syosetu" title="Syosetu">
+      <outline type="rss" text="Syosetu - R18 Rankings" title="Syosetu - R18 Rankings" xmlUrl="https://rsshub.gamepp.cf/syosetu/rankingr18/noc/daily_total?limit=50" />
+      <outline type="rss" text="Syosetu - Search" title="Syosetu - Search" xmlUrl="https://rsshub.gamepp.cf/syosetu/search/noc/word=ハーレム&amp;notword=&amp;type=r&amp;mintime=&amp;maxtime=&amp;minlen=30000&amp;maxlen=&amp;min_globalpoint=&amp;max_globalpoint=&amp;minlastup=&amp;maxlastup=&amp;minfirstup=&amp;maxfirstup=&amp;isgl=1&amp;notbl=1&amp;order=new?limit=5" />
+      <outline type="rss" text="Syosetu - Rankings" title="Syosetu - Rankings" xmlUrl="https://rsshub.gamepp.cf/syosetu/ranking/list/daily_total?limit=50" />
+      <outline type="rss" text="Syosetu - なろう小説 API の更新履歴" title="Syosetu - なろう小説 API の更新履歴" xmlUrl="https://rsshub.gamepp.cf/syosetu/dev" />
+      <outline type="rss" text="Syosetu - Novel Updates" title="Syosetu - Novel Updates" xmlUrl="https://rsshub.gamepp.cf/syosetu/n9292ii" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Bandcamp</title>
+  </head>
+  <body>
+    <outline text="Bandcamp" title="Bandcamp">
+      <outline type="rss" text="Bandcamp - Weekly" title="Bandcamp - Weekly" xmlUrl="https://rsshub.gamepp.cf/bandcamp/weekly" />
+      <outline type="rss" text="Bandcamp - Upcoming Live Streams" title="Bandcamp - Upcoming Live Streams" xmlUrl="https://rsshub.gamepp.cf/bandcamp/live" />
+      <outline type="rss" text="Bandcamp - Tag" title="Bandcamp - Tag" xmlUrl="https://rsshub.gamepp.cf/bandcamp/tag/united-kingdom" />
+    </outline>
+  </body>
+</opml>

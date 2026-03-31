@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 搜狗</title>
+  </head>
+  <body>
+    <outline text="搜狗" title="搜狗">
+      <outline type="rss" text="搜狗 - 特色 LOGO" title="搜狗 - 特色 LOGO" xmlUrl="https://rsshub.gamepp.cf/sogou/doodles" />
+      <outline type="rss" text="搜狗 - 搜索" title="搜狗 - 搜索" xmlUrl="https://rsshub.gamepp.cf/sogou/search/rss" />
+    </outline>
+  </body>
+</opml>

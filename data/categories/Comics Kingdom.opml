@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Comics Kingdom</title>
+  </head>
+  <body>
+    <outline text="Comics Kingdom" title="Comics Kingdom">
+      <outline type="rss" text="Comics Kingdom - Archive" title="Comics Kingdom - Archive" xmlUrl="https://rsshub.gamepp.cf/comicskingdom/pardon-my-planet" />
+    </outline>
+  </body>
+</opml>

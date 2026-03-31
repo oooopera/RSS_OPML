@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - meteoblue</title>
+  </head>
+  <body>
+    <outline text="meteoblue" title="meteoblue">
+      <outline type="rss" text="meteoblue - Weather News" title="meteoblue - Weather News" xmlUrl="https://rsshub.gamepp.cf/meteoblue/weathernews" />
+    </outline>
+  </body>
+</opml>

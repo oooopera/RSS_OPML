@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 河南财政金融学院</title>
+  </head>
+  <body>
+    <outline text="河南财政金融学院" title="河南财政金融学院">
+      <outline type="rss" text="河南财政金融学院 - 河南财政金融学院" title="河南财政金融学院 - 河南财政金融学院" xmlUrl="https://rsshub.gamepp.cf/hafu/news/ggtz" />
+    </outline>
+  </body>
+</opml>

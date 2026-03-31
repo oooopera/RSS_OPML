@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - BT影视</title>
+  </head>
+  <body>
+    <outline text="BT影视" title="BT影视">
+      <outline type="rss" text="BT影视 - BTBTLA | 指定剧名" title="BT影视 - BTBTLA | 指定剧名" xmlUrl="https://rsshub.gamepp.cf/btbtla/detail/雍正王朝" />
+      <outline type="rss" text="BT影视 - BTBTLA | 最近更新" title="BT影视 - BTBTLA | 最近更新" xmlUrl="https://rsshub.gamepp.cf/btbtla/gxlist" />
+    </outline>
+  </body>
+</opml>

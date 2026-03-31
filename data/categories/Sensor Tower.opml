@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Sensor Tower</title>
+  </head>
+  <body>
+    <outline text="Sensor Tower" title="Sensor Tower">
+      <outline type="rss" text="Sensor Tower - Blog" title="Sensor Tower - Blog" xmlUrl="https://rsshub.gamepp.cf/sensortower/blog" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Constitutional Court of Baden-Württemberg (Germany)</title>
+  </head>
+  <body>
+    <outline text="Constitutional Court of Baden-Württemberg (Germany)" title="Constitutional Court of Baden-Württemberg (Germany)">
+      <outline type="rss" text="Constitutional Court of Baden-Württemberg (Germany) - Press releases" title="Constitutional Court of Baden-Württemberg (Germany) - Press releases" xmlUrl="https://rsshub.gamepp.cf/verfghbw/press" />
+    </outline>
+  </body>
+</opml>

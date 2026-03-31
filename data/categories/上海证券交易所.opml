@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 上海证券交易所</title>
+  </head>
+  <body>
+    <outline text="上海证券交易所" title="上海证券交易所">
+      <outline type="rss" text="上海证券交易所 - 可转换公司债券公告" title="上海证券交易所 - 可转换公司债券公告" xmlUrl="https://rsshub.gamepp.cf/sse/convert/beginDate=2018-08-18&amp;endDate=2019-08-18&amp;companyCode=603283&amp;title=股份" />
+      <outline type="rss" text="上海证券交易所 - 上市公司信息最新公告披露" title="上海证券交易所 - 上市公司信息最新公告披露" xmlUrl="https://rsshub.gamepp.cf/sse/disclosure/beginDate=2018-08-18&amp;endDate=2020-08-25&amp;productId=600696" />
+      <outline type="rss" text="上海证券交易所 - 监管问询" title="上海证券交易所 - 监管问询" xmlUrl="https://rsshub.gamepp.cf/sse/inquire" />
+      <outline type="rss" text="上海证券交易所 - 科创板项目动态" title="上海证券交易所 - 科创板项目动态" xmlUrl="https://rsshub.gamepp.cf/sse/renewal" />
+      <outline type="rss" text="上海证券交易所 - 本所业务规则" title="上海证券交易所 - 本所业务规则" xmlUrl="https://rsshub.gamepp.cf/sse/sselawsrules/latest" />
+    </outline>
+  </body>
+</opml>

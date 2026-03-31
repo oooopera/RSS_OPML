@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Yoasobi Official</title>
+  </head>
+  <body>
+    <outline text="Yoasobi Official" title="Yoasobi Official">
+      <outline type="rss" text="Yoasobi Official - News &amp; Biography" title="Yoasobi Official - News &amp; Biography" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/info/news" />
+      <outline type="rss" text="Yoasobi Official - Live" title="Yoasobi Official - Live" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/live" />
+      <outline type="rss" text="Yoasobi Official - Media" title="Yoasobi Official - Media" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/media" />
+    </outline>
+  </body>
+</opml>

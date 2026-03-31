@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 川流</title>
+  </head>
+  <body>
+    <outline text="川流" title="川流">
+      <outline type="rss" text="川流 - 严选" title="川流 - 严选" xmlUrl="https://rsshub.gamepp.cf/chuanliu/nice" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 深圳市医疗器械行业协会</title>
+  </head>
+  <body>
+    <outline text="深圳市医疗器械行业协会" title="深圳市医疗器械行业协会">
+      <outline type="rss" text="深圳市医疗器械行业协会 - 资讯信息" title="深圳市医疗器械行业协会 - 资讯信息" xmlUrl="https://rsshub.gamepp.cf/samd/news/440" />
+    </outline>
+  </body>
+</opml>

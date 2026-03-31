@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Paradigm</title>
+  </head>
+  <body>
+    <outline text="Paradigm" title="Paradigm">
+      <outline type="rss" text="Paradigm - Writing" title="Paradigm - Writing" xmlUrl="https://rsshub.gamepp.cf/paradigm/writing" />
+    </outline>
+  </body>
+</opml>

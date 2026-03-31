@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 赣南医科大学</title>
+  </head>
+  <body>
+    <outline text="赣南医科大学" title="赣南医科大学">
+      <outline type="rss" text="赣南医科大学 - 新闻中心" title="赣南医科大学 - 新闻中心" xmlUrl="https://rsshub.gamepp.cf/gmu/news/gyyw" />
+      <outline type="rss" text="赣南医科大学 - 研究生院" title="赣南医科大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/gmu/yjs/zsgz/tzgg" />
+    </outline>
+  </body>
+</opml>

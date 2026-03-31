@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MC百科</title>
+  </head>
+  <body>
+    <outline text="MC百科" title="MC百科">
+      <outline type="rss" text="MC百科 - 最新MOD" title="MC百科 - 最新MOD" xmlUrl="https://rsshub.gamepp.cf/mcmod/new" />
+    </outline>
+  </body>
+</opml>

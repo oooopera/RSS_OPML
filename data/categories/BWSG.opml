@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - BWSG</title>
+  </head>
+  <body>
+    <outline text="BWSG" title="BWSG">
+      <outline type="rss" text="BWSG - Angebote" title="BWSG - Angebote" xmlUrl="https://rsshub.gamepp.cf/bwsg/_vermarktungsart=miete&amp;_objektart=wohnung&amp;_zimmer=2,3&amp;_wohnflaeche=45,70&amp;_plz=1210,1220" />
+    </outline>
+  </body>
+</opml>

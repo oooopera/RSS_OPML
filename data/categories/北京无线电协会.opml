@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 北京无线电协会</title>
+  </head>
+  <body>
+    <outline text="北京无线电协会" title="北京无线电协会">
+      <outline type="rss" text="北京无线电协会 - 最新资讯" title="北京无线电协会 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/bjwxdxh/114" />
+    </outline>
+  </body>
+</opml>

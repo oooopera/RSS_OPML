@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 51Read</title>
+  </head>
+  <body>
+    <outline text="51Read" title="51Read">
+      <outline type="rss" text="51Read - 章节" title="51Read - 章节" xmlUrl="https://rsshub.gamepp.cf/51read/article/152685" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - DLsite</title>
+  </head>
+  <body>
+    <outline text="DLsite" title="DLsite">
+      <outline type="rss" text="DLsite - Discounted Works" title="DLsite - Discounted Works" xmlUrl="https://rsshub.gamepp.cf/dlsite/campaign/home" />
+      <outline type="rss" text="DLsite - Ci-en Creators' Article" title="DLsite - Ci-en Creators' Article" xmlUrl="https://rsshub.gamepp.cf/dlsite/ci-en/7400/article" />
+      <outline type="rss" text="DLsite - Current Release" title="DLsite - Current Release" xmlUrl="https://rsshub.gamepp.cf/dlsite/new/home" />
+    </outline>
+  </body>
+</opml>

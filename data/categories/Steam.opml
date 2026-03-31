@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Steam</title>
+  </head>
+  <body>
+    <outline text="Steam" title="Steam">
+      <outline type="rss" text="Steam - News" title="Steam - News" xmlUrl="https://rsshub.gamepp.cf/news/958260/english" />
+      <outline type="rss" text="Steam - Steam Community Hub Feeds" title="Steam - Steam Community Hub Feeds" xmlUrl="https://rsshub.gamepp.cf/steam/appcommunityfeed/730" />
+      <outline type="rss" text="Steam - Latest Curator Reviews" title="Steam - Latest Curator Reviews" xmlUrl="https://rsshub.gamepp.cf/steam/curator/34646096-80-Days" />
+      <outline type="rss" text="Steam - Store Search" title="Steam - Store Search" xmlUrl="https://rsshub.gamepp.cf/steam/search/sort_by=Released_DESC&amp;tags=492&amp;category1=10&amp;os=linux" />
+      <outline type="rss" text="Steam - Sharefile Changelog" title="Steam - Sharefile Changelog" xmlUrl="https://rsshub.gamepp.cf/steam/sharefile-changelog/2851063440/l=schinese" />
+      <outline type="rss" text="Steam - Community Workshop Search" title="Steam - Community Workshop Search" xmlUrl="https://rsshub.gamepp.cf/steam/workshopsearch/730" />
+    </outline>
+  </body>
+</opml>

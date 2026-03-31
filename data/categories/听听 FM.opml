@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 听听 FM</title>
+  </head>
+  <body>
+    <outline text="听听 FM" title="听听 FM">
+      <outline type="rss" text="听听 FM - 节目" title="听听 FM - 节目" xmlUrl="https://rsshub.gamepp.cf/tingtingfm/program/M7VJv6Jj4R" />
+    </outline>
+  </body>
+</opml>

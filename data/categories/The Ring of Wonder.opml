@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Ring of Wonder</title>
+  </head>
+  <body>
+    <outline text="The Ring of Wonder" title="The Ring of Wonder">
+      <outline type="rss" text="The Ring of Wonder - 首页更新" title="The Ring of Wonder - 首页更新" xmlUrl="https://rsshub.gamepp.cf/trow/portal" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - GamerSky</title>
+  </head>
+  <body>
+    <outline text="GamerSky" title="GamerSky">
+      <outline type="rss" text="GamerSky - 娱乐" title="GamerSky - 娱乐" xmlUrl="https://rsshub.gamepp.cf/gamersky/ent/xz" />
+      <outline type="rss" text="GamerSky - 资讯" title="GamerSky - 资讯" xmlUrl="https://rsshub.gamepp.cf/gamersky/news/pc" />
+      <outline type="rss" text="GamerSky - 评测" title="GamerSky - 评测" xmlUrl="https://rsshub.gamepp.cf/gamersky/review/pc" />
+      <outline type="rss" text="GamerSky - 用户动态" title="GamerSky - 用户动态" xmlUrl="https://rsshub.gamepp.cf/gamersky/user/4009731/detail" />
+    </outline>
+  </body>
+</opml>

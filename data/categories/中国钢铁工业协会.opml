@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国钢铁工业协会</title>
+  </head>
+  <body>
+    <outline text="中国钢铁工业协会" title="中国钢铁工业协会">
+      <outline type="rss" text="中国钢铁工业协会 - 栏目" title="中国钢铁工业协会 - 栏目" xmlUrl="https://rsshub.gamepp.cf/chinaisa" />
+    </outline>
+  </body>
+</opml>

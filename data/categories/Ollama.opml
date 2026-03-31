@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Ollama</title>
+  </head>
+  <body>
+    <outline text="Ollama" title="Ollama">
+      <outline type="rss" text="Ollama - Blog" title="Ollama - Blog" xmlUrl="https://rsshub.gamepp.cf/ollama/blog" />
+      <outline type="rss" text="Ollama - Models" title="Ollama - Models" xmlUrl="https://rsshub.gamepp.cf/ollama/library" />
+    </outline>
+  </body>
+</opml>

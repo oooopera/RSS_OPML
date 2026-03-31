@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 知园</title>
+  </head>
+  <body>
+    <outline text="知园" title="知园">
+      <outline type="rss" text="知园 - Newsletter" title="知园 - Newsletter" xmlUrl="https://rsshub.gamepp.cf/zhiy/letters/messy" />
+      <outline type="rss" text="知园 - 笔记" title="知园 - 笔记" xmlUrl="https://rsshub.gamepp.cf/zhiy/posts/long" />
+    </outline>
+  </body>
+</opml>

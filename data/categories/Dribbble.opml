@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Dribbble</title>
+  </head>
+  <body>
+    <outline text="Dribbble" title="Dribbble">
+      <outline type="rss" text="Dribbble - Keyword" title="Dribbble - Keyword" xmlUrl="https://rsshub.gamepp.cf/dribbble/keyword/player" />
+      <outline type="rss" text="Dribbble - Popular" title="Dribbble - Popular" xmlUrl="https://rsshub.gamepp.cf/dribbble/popular" />
+      <outline type="rss" text="Dribbble - User (or team)" title="Dribbble - User (or team)" xmlUrl="https://rsshub.gamepp.cf/dribbble/user/google" />
+    </outline>
+  </body>
+</opml>

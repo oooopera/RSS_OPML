@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Go 语言中文网</title>
+  </head>
+  <body>
+    <outline text="Go 语言中文网" title="Go 语言中文网">
+      <outline type="rss" text="Go 语言中文网 - 板块" title="Go 语言中文网 - 板块" xmlUrl="https://rsshub.gamepp.cf/studygolang/go/daily" />
+      <outline type="rss" text="Go 语言中文网 - 招聘" title="Go 语言中文网 - 招聘" xmlUrl="https://rsshub.gamepp.cf/studygolang/jobs" />
+      <outline type="rss" text="Go 语言中文网 - 周刊" title="Go 语言中文网 - 周刊" xmlUrl="https://rsshub.gamepp.cf/studygolang/weekly" />
+    </outline>
+  </body>
+</opml>

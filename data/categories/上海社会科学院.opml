@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 上海社会科学院</title>
+  </head>
+  <body>
+    <outline text="上海社会科学院" title="上海社会科学院">
+      <outline type="rss" text="上海社会科学院 - 研究生院" title="上海社会科学院 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/sass/gs/1793" />
+    </outline>
+  </body>
+</opml>

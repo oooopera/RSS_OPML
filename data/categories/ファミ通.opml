@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - ファミ通</title>
+  </head>
+  <body>
+    <outline text="ファミ通" title="ファミ通">
+      <outline type="rss" text="ファミ通 - Category" title="ファミ通 - Category" xmlUrl="https://rsshub.gamepp.cf/famitsu/category/new-article" />
+    </outline>
+  </body>
+</opml>

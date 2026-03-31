@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 天下雜誌</title>
+  </head>
+  <body>
+    <outline text="天下雜誌" title="天下雜誌">
+      <outline type="rss" text="天下雜誌 - 作者" title="天下雜誌 - 作者" xmlUrl="https://rsshub.gamepp.cf/cw/author/57" />
+      <outline type="rss" text="天下雜誌 - 主頻道" title="天下雜誌 - 主頻道" xmlUrl="https://rsshub.gamepp.cf/cw/master/8" />
+      <outline type="rss" text="天下雜誌 - 子頻道" title="天下雜誌 - 子頻道" xmlUrl="https://rsshub.gamepp.cf/cw/sub/615" />
+      <outline type="rss" text="天下雜誌 - 最新上線" title="天下雜誌 - 最新上線" xmlUrl="https://rsshub.gamepp.cf/cw/today" />
+    </outline>
+  </body>
+</opml>

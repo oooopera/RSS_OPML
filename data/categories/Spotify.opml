@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Spotify</title>
+  </head>
+  <body>
+    <outline text="Spotify" title="Spotify">
+      <outline type="rss" text="Spotify - Artist Albums" title="Spotify - Artist Albums" xmlUrl="https://rsshub.gamepp.cf/spotify/artist/6k9TBCxyr4bXwZ8Y21Kwn1" />
+      <outline type="rss" text="Spotify - Personal Top Artists" title="Spotify - Personal Top Artists" xmlUrl="https://rsshub.gamepp.cf/spotify/top/artists" />
+      <outline type="rss" text="Spotify - Playlist" title="Spotify - Playlist" xmlUrl="https://rsshub.gamepp.cf/spotify/playlist/4UBVy1LttvodwivPUuwJk2" />
+      <outline type="rss" text="Spotify - Personal Saved Tracks" title="Spotify - Personal Saved Tracks" xmlUrl="https://rsshub.gamepp.cf/spotify/saved/50" />
+      <outline type="rss" text="Spotify - Show/Podcasts" title="Spotify - Show/Podcasts" xmlUrl="https://rsshub.gamepp.cf/spotify/show/5CfCWKI5pZ28U0uOzXkDHe" />
+      <outline type="rss" text="Spotify - Personal Top Tracks" title="Spotify - Personal Top Tracks" xmlUrl="https://rsshub.gamepp.cf/spotify/top/tracks" />
+    </outline>
+  </body>
+</opml>

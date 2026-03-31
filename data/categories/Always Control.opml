@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Always Control</title>
+  </head>
+  <body>
+    <outline text="Always Control" title="Always Control">
+      <outline type="rss" text="Always Control - 最新动态" title="Always Control - 最新动态" xmlUrl="https://rsshub.gamepp.cf/alwayscontrol/news" />
+    </outline>
+  </body>
+</opml>

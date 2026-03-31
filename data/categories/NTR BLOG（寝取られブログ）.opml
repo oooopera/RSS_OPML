@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NTR BLOG（寝取られブログ）</title>
+  </head>
+  <body>
+    <outline text="NTR BLOG（寝取られブログ）" title="NTR BLOG（寝取られブログ）">
+      <outline type="rss" text="NTR BLOG（寝取られブログ） - Articles" title="NTR BLOG（寝取られブログ） - Articles" xmlUrl="https://rsshub.gamepp.cf/ntrblog/articles" />
+    </outline>
+  </body>
+</opml>

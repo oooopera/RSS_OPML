@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - LVV2</title>
+  </head>
+  <body>
+    <outline text="LVV2" title="LVV2">
+      <outline type="rss" text="LVV2 - 频道" title="LVV2 - 频道" xmlUrl="https://rsshub.gamepp.cf/lvv2/news/sort-score" />
+      <outline type="rss" text="LVV2 - 24 小时点击排行 Top 10" title="LVV2 - 24 小时点击排行 Top 10" xmlUrl="https://rsshub.gamepp.cf/lvv2/top/sort-score" />
+    </outline>
+  </body>
+</opml>

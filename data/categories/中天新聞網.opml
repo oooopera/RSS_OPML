@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中天新聞網</title>
+  </head>
+  <body>
+    <outline text="中天新聞網" title="中天新聞網">
+      <outline type="rss" text="中天新聞網 - 話題" title="中天新聞網 - 話題" xmlUrl="https://rsshub.gamepp.cf/ctinews/topic/KDdek5vgXx" />
+    </outline>
+  </body>
+</opml>

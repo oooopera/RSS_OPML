@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 欧易 OKX</title>
+  </head>
+  <body>
+    <outline text="欧易 OKX" title="欧易 OKX">
+      <outline type="rss" text="欧易 OKX - 公告" title="欧易 OKX - 公告" xmlUrl="https://rsshub.gamepp.cf/okx/new-listings" />
+    </outline>
+  </body>
+</opml>

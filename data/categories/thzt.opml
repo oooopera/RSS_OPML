@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - thzt</title>
+  </head>
+  <body>
+    <outline text="thzt" title="thzt">
+      <outline type="rss" text="thzt - Blog" title="thzt - Blog" xmlUrl="https://rsshub.gamepp.cf/thzt/blog" />
+    </outline>
+  </body>
+</opml>

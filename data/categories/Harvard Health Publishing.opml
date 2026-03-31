@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Harvard Health Publishing</title>
+  </head>
+  <body>
+    <outline text="Harvard Health Publishing" title="Harvard Health Publishing">
+      <outline type="rss" text="Harvard Health Publishing - Health Blog" title="Harvard Health Publishing - Health Blog" xmlUrl="https://rsshub.gamepp.cf/harvard/health/blog" />
+    </outline>
+  </body>
+</opml>

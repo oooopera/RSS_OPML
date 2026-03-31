@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Nanjing University of the Arts 南京艺术学院</title>
+  </head>
+  <body>
+    <outline text="Nanjing University of the Arts 南京艺术学院" title="Nanjing University of the Arts 南京艺术学院">
+      <outline type="rss" text="Nanjing University of the Arts 南京艺术学院 - School of Design" title="Nanjing University of the Arts 南京艺术学院 - School of Design" xmlUrl="https://rsshub.gamepp.cf/nua/dc/news" />
+      <outline type="rss" text="Nanjing University of the Arts 南京艺术学院 - Graduate Institute" title="Nanjing University of the Arts 南京艺术学院 - Graduate Institute" xmlUrl="https://rsshub.gamepp.cf/nua/gra/1959" />
+      <outline type="rss" text="Nanjing University of the Arts 南京艺术学院 - Official Information" title="Nanjing University of the Arts 南京艺术学院 - Official Information" xmlUrl="https://rsshub.gamepp.cf/nua/index/346" />
+      <outline type="rss" text="Nanjing University of the Arts 南京艺术学院 - Library" title="Nanjing University of the Arts 南京艺术学院 - Library" xmlUrl="https://rsshub.gamepp.cf/nua/lib/xwdt" />
+      <outline type="rss" text="Nanjing University of the Arts 南京艺术学院 - Shuangxing Information" title="Nanjing University of the Arts 南京艺术学院 - Shuangxing Information" xmlUrl="https://rsshub.gamepp.cf/nua/sxw/230" />
+    </outline>
+  </body>
+</opml>

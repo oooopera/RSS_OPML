@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Taiwan FactCheck Center</title>
+  </head>
+  <body>
+    <outline text="Taiwan FactCheck Center" title="Taiwan FactCheck Center">
+      <outline type="rss" text="Taiwan FactCheck Center - 分類" title="Taiwan FactCheck Center - 分類" xmlUrl="https://rsshub.gamepp.cf/tfc-taiwan/category/weekly-top-ten-rumors" />
+      <outline type="rss" text="Taiwan FactCheck Center - 最新查核報告" title="Taiwan FactCheck Center - 最新查核報告" xmlUrl="https://rsshub.gamepp.cf/tfc-taiwan" />
+    </outline>
+  </body>
+</opml>

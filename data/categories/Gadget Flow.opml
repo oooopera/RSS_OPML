@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Gadget Flow</title>
+  </head>
+  <body>
+    <outline text="Gadget Flow" title="Gadget Flow">
+      <outline type="rss" text="Gadget Flow - Category" title="Gadget Flow - Category" xmlUrl="https://rsshub.gamepp.cf/thegadgetflow/cool-gadgets-gifts" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Gumroad</title>
+  </head>
+  <body>
+    <outline text="Gumroad" title="Gumroad">
+      <outline type="rss" text="Gumroad - Products" title="Gumroad - Products" xmlUrl="https://rsshub.gamepp.cf/gumroad/afkmaster/Eve10" />
+    </outline>
+  </body>
+</opml>

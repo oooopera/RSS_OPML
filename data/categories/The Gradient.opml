@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Gradient</title>
+  </head>
+  <body>
+    <outline text="The Gradient" title="The Gradient">
+      <outline type="rss" text="The Gradient - Posts" title="The Gradient - Posts" xmlUrl="https://rsshub.gamepp.cf/thegradient/posts" />
+    </outline>
+  </body>
+</opml>

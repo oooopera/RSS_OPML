@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 吉林大学</title>
+  </head>
+  <body>
+    <outline text="吉林大学" title="吉林大学">
+      <outline type="rss" text="吉林大学 - 吉林大学计算机科学与技术学院 - 新闻中心" title="吉林大学 - 吉林大学计算机科学与技术学院 - 新闻中心" xmlUrl="https://rsshub.gamepp.cf/jlu/ccst/xwzx/gsl" />
+      <outline type="rss" text="吉林大学 - 教务通知" title="吉林大学 - 教务通知" xmlUrl="https://rsshub.gamepp.cf/jlu/jwc" />
+      <outline type="rss" text="吉林大学 - 物理学院" title="吉林大学 - 物理学院" xmlUrl="https://rsshub.gamepp.cf/jlu/phy/xzgz/tzgg" />
+    </outline>
+  </body>
+</opml>

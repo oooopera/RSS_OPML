@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Sony</title>
+  </head>
+  <body>
+    <outline text="Sony" title="Sony">
+      <outline type="rss" text="Sony - Software Downloads" title="Sony - Software Downloads" xmlUrl="https://rsshub.gamepp.cf/sony/downloads/product/nw-wm1am2" />
+    </outline>
+  </body>
+</opml>

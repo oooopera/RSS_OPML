@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 广州大学</title>
+  </head>
+  <body>
+    <outline text="广州大学" title="广州大学">
+      <outline type="rss" text="广州大学 - 研究生院招生动态" title="广州大学 - 研究生院招生动态" xmlUrl="https://rsshub.gamepp.cf/gzhu/yjs" />
+    </outline>
+  </body>
+</opml>

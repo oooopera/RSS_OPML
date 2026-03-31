@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 前端早早聊</title>
+  </head>
+  <body>
+    <outline text="前端早早聊" title="前端早早聊">
+      <outline type="rss" text="前端早早聊 - 文章" title="前端早早聊 - 文章" xmlUrl="https://rsshub.gamepp.cf/zaozao/article/quality" />
+    </outline>
+  </body>
+</opml>

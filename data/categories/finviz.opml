@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - finviz</title>
+  </head>
+  <body>
+    <outline text="finviz" title="finviz">
+      <outline type="rss" text="finviz - News" title="finviz - News" xmlUrl="https://rsshub.gamepp.cf/finviz" />
+      <outline type="rss" text="finviz - US Stock News" title="finviz - US Stock News" xmlUrl="https://rsshub.gamepp.cf/finviz/news/AAPL" />
+    </outline>
+  </body>
+</opml>

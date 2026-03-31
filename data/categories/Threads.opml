@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Threads</title>
+  </head>
+  <body>
+    <outline text="Threads" title="Threads">
+      <outline type="rss" text="Threads - User timeline" title="Threads - User timeline" xmlUrl="https://rsshub.gamepp.cf/threads/zuck" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南方都市报</title>
+  </head>
+  <body>
+    <outline text="南方都市报" title="南方都市报">
+      <outline type="rss" text="南方都市报 - 南都客户端（按记者）" title="南方都市报 - 南都客户端（按记者）" xmlUrl="https://rsshub.gamepp.cf/oeeee/app/reporter/249" />
+      <outline type="rss" text="南方都市报 - 奥一网" title="南方都市报 - 奥一网" xmlUrl="https://rsshub.gamepp.cf/oeeee/web/170" />
+    </outline>
+  </body>
+</opml>

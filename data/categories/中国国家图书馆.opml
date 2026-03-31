@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国国家图书馆</title>
+  </head>
+  <body>
+    <outline text="中国国家图书馆" title="中国国家图书馆">
+      <outline type="rss" text="中国国家图书馆 - 读者云平台" title="中国国家图书馆 - 读者云平台" xmlUrl="https://rsshub.gamepp.cf/nlc/read/电子图书" />
+    </outline>
+  </body>
+</opml>

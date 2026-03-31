@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Goldman Sachs</title>
+  </head>
+  <body>
+    <outline text="Goldman Sachs" title="Goldman Sachs">
+      <outline type="rss" text="Goldman Sachs - Goldman Sachs Developer Blog" title="Goldman Sachs - Goldman Sachs Developer Blog" xmlUrl="https://rsshub.gamepp.cf/gs/developer/blog" />
+    </outline>
+  </body>
+</opml>

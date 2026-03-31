@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 小宇宙</title>
+  </head>
+  <body>
+    <outline text="小宇宙" title="小宇宙">
+      <outline type="rss" text="小宇宙 - 播客" title="小宇宙 - 播客" xmlUrl="https://rsshub.gamepp.cf/xiaoyuzhou/podcast/6021f949a789fca4eff4492c" />
+    </outline>
+  </body>
+</opml>

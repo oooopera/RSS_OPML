@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 电脑玩物</title>
+  </head>
+  <body>
+    <outline text="电脑玩物" title="电脑玩物">
+      <outline type="rss" text="电脑玩物 - 每日精选文章" title="电脑玩物 - 每日精选文章" xmlUrl="https://rsshub.gamepp.cf/playpcesor" />
+    </outline>
+  </body>
+</opml>

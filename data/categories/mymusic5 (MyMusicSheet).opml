@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - mymusic5 (MyMusicSheet)</title>
+  </head>
+  <body>
+    <outline text="mymusic5 (MyMusicSheet)" title="mymusic5 (MyMusicSheet)">
+      <outline type="rss" text="mymusic5 (MyMusicSheet) - User Sheets" title="mymusic5 (MyMusicSheet) - User Sheets" xmlUrl="https://rsshub.gamepp.cf/mymusicsheet/user/sheets/HalcyonMusic/USD/1" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - LearnKu</title>
+  </head>
+  <body>
+    <outline text="LearnKu" title="LearnKu">
+      <outline type="rss" text="LearnKu - 社区" title="LearnKu - 社区" xmlUrl="https://rsshub.gamepp.cf/learnku/laravel/qa" />
+    </outline>
+  </body>
+</opml>

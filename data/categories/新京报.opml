@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 新京报</title>
+  </head>
+  <body>
+    <outline text="新京报" title="新京报">
+      <outline type="rss" text="新京报 - 分类" title="新京报 - 分类" xmlUrl="https://rsshub.gamepp.cf/bjnews/cat/depth" />
+      <outline type="rss" text="新京报 - 分类" title="新京报 - 分类" xmlUrl="https://rsshub.gamepp.cf/bjnews/column/204" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 漫小肆韓漫</title>
+  </head>
+  <body>
+    <outline text="漫小肆韓漫" title="漫小肆韓漫">
+      <outline type="rss" text="漫小肆韓漫 - 漫画更新" title="漫小肆韓漫 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/freexcomic/book/90" />
+    </outline>
+  </body>
+</opml>

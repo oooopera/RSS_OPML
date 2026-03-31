@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - AIbase</title>
+  </head>
+  <body>
+    <outline text="AIbase" title="AIbase">
+      <outline type="rss" text="AIbase - AI日报" title="AIbase - AI日报" xmlUrl="https://rsshub.gamepp.cf/aibase/daily" />
+      <outline type="rss" text="AIbase - 发现" title="AIbase - 发现" xmlUrl="https://rsshub.gamepp.cf/aibase/discover" />
+      <outline type="rss" text="AIbase - 资讯" title="AIbase - 资讯" xmlUrl="https://rsshub.gamepp.cf/aibase/news" />
+      <outline type="rss" text="AIbase - 标签" title="AIbase - 标签" xmlUrl="https://rsshub.gamepp.cf/aibase/topic" />
+    </outline>
+  </body>
+</opml>

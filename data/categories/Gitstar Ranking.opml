@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Gitstar Ranking</title>
+  </head>
+  <body>
+    <outline text="Gitstar Ranking" title="Gitstar Ranking">
+      <outline type="rss" text="Gitstar Ranking - Ranking" title="Gitstar Ranking - Ranking" xmlUrl="https://rsshub.gamepp.cf/gitstar-ranking/repositories" />
+    </outline>
+  </body>
+</opml>

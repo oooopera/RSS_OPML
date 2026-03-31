@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国收入分配研究院</title>
+  </head>
+  <body>
+    <outline text="中国收入分配研究院" title="中国收入分配研究院">
+      <outline type="rss" text="中国收入分配研究院 - 分类" title="中国收入分配研究院 - 分类" xmlUrl="https://rsshub.gamepp.cf/ciidbnu" />
+    </outline>
+  </body>
+</opml>

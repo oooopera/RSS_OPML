@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 云听</title>
+  </head>
+  <body>
+    <outline text="云听" title="云听">
+      <outline type="rss" text="云听 - 专辑" title="云听 - 专辑" xmlUrl="https://rsshub.gamepp.cf/radio/album/15682090498666" />
+      <outline type="rss" text="云听 - 节目" title="云听 - 节目" xmlUrl="https://rsshub.gamepp.cf/radio/1552135" />
+      <outline type="rss" text="云听 - 直播" title="云听 - 直播" xmlUrl="https://rsshub.gamepp.cf/radio/zhibo/1395528" />
+    </outline>
+  </body>
+</opml>

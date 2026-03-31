@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Google</title>
+  </head>
+  <body>
+    <outline text="Google" title="Google">
+      <outline type="rss" text="Google - Public Albums" title="Google - Public Albums" xmlUrl="https://rsshub.gamepp.cf/google/album/msFFnAzKmQmWj76EA" />
+      <outline type="rss" text="Google - Update" title="Google - Update" xmlUrl="https://rsshub.gamepp.cf/google/doodles/zh-CN" />
+      <outline type="rss" text="Google - Google Fonts" title="Google - Google Fonts" xmlUrl="https://rsshub.gamepp.cf/google/fonts/date" />
+      <outline type="rss" text="Google - Alerts" title="Google - Alerts" xmlUrl="https://rsshub.gamepp.cf/google/alerts/RSSHub" />
+      <outline type="rss" text="Google - Scholar Author Citations" title="Google - Scholar Author Citations" xmlUrl="https://rsshub.gamepp.cf/google/citations/mlmE4JMAAAAJ" />
+      <outline type="rss" text="Google - Developers Blog" title="Google - Developers Blog" xmlUrl="https://rsshub.gamepp.cf/google/developers/en" />
+      <outline type="rss" text="Google - Extension Update" title="Google - Extension Update" xmlUrl="https://rsshub.gamepp.cf/google/chrome/extension/kefjpfngnndepjbopdmoebkipbgkggaa" />
+      <outline type="rss" text="Google - Jules Changelog" title="Google - Jules Changelog" xmlUrl="https://rsshub.gamepp.cf/google/jules/changelog" />
+      <outline type="rss" text="Google - News" title="Google - News" xmlUrl="https://rsshub.gamepp.cf/google/news/Top stories/hl=en-US&amp;gl=US&amp;ceid=US:en" />
+      <outline type="rss" text="Google - Research Blog" title="Google - Research Blog" xmlUrl="https://rsshub.gamepp.cf/google/research" />
+      <outline type="rss" text="Google - Scholar Keywords Monitoring" title="Google - Scholar Keywords Monitoring" xmlUrl="https://rsshub.gamepp.cf/google/scholar/data+visualization" />
+      <outline type="rss" text="Google - Search" title="Google - Search" xmlUrl="https://rsshub.gamepp.cf/google/search/rss/zh-CN,zh" />
+      <outline type="rss" text="Google - Play Store Update" title="Google - Play Store Update" xmlUrl="https://rsshub.gamepp.cf/google/play/net.dinglisch.android.taskerm" />
+    </outline>
+  </body>
+</opml>

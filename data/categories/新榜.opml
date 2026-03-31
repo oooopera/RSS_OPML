@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 新榜</title>
+  </head>
+  <body>
+    <outline text="新榜" title="新榜">
+      <outline type="rss" text="新榜 - 抖音短视频" title="新榜 - 抖音短视频" xmlUrl="https://rsshub.gamepp.cf/newrank/douyin/110266463747" />
+      <outline type="rss" text="新榜 - 微信公众号" title="新榜 - 微信公众号" xmlUrl="https://rsshub.gamepp.cf/newrank/wechat/chijiread" />
+    </outline>
+  </body>
+</opml>

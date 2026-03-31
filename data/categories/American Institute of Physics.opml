@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - American Institute of Physics</title>
+  </head>
+  <body>
+    <outline text="American Institute of Physics" title="American Institute of Physics">
+      <outline type="rss" text="American Institute of Physics - Journal" title="American Institute of Physics - Journal" xmlUrl="https://rsshub.gamepp.cf/aip/aapt/ajp" />
+    </outline>
+  </body>
+</opml>

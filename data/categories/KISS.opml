@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - KISS</title>
+  </head>
+  <body>
+    <outline text="KISS" title="KISS">
+      <outline type="rss" text="KISS - ブログ" title="KISS - ブログ" xmlUrl="https://rsshub.gamepp.cf/blog/DLC" />
+    </outline>
+  </body>
+</opml>

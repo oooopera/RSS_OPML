@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Korea Institute of Marine Law</title>
+  </head>
+  <body>
+    <outline text="The Korea Institute of Marine Law" title="The Korea Institute of Marine Law">
+      <outline type="rss" text="The Korea Institute of Marine Law - Thesis" title="The Korea Institute of Marine Law - Thesis" xmlUrl="https://rsshub.gamepp.cf/kimlaw/thesis" />
+    </outline>
+  </body>
+</opml>

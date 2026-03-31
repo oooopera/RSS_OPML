@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 福州地铁</title>
+  </head>
+  <body>
+    <outline text="福州地铁" title="福州地铁">
+      <outline type="rss" text="福州地铁 - 通知公告" title="福州地铁 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/fzmtr/announcements" />
+    </outline>
+  </body>
+</opml>

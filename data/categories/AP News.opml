@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - AP News</title>
+  </head>
+  <body>
+    <outline text="AP News" title="AP News">
+      <outline type="rss" text="AP News - Sitemap" title="AP News - Sitemap" xmlUrl="https://rsshub.gamepp.cf/apnews/sitemap/ap-sitemap-latest" />
+      <outline type="rss" text="AP News - Topics" title="AP News - Topics" xmlUrl="https://rsshub.gamepp.cf/apnews/topics/apf-topnews" />
+      <outline type="rss" text="AP News - News (from mobile client API)" title="AP News - News (from mobile client API)" xmlUrl="https://rsshub.gamepp.cf/apnews/mobile/ap-top-news" />
+      <outline type="rss" text="AP News - News" title="AP News - News" xmlUrl="https://rsshub.gamepp.cf/apnews/rss/business" />
+    </outline>
+  </body>
+</opml>

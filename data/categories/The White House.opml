@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The White House</title>
+  </head>
+  <body>
+    <outline text="The White House" title="The White House">
+      <outline type="rss" text="The White House - News" title="The White House - News" xmlUrl="https://rsshub.gamepp.cf/whitehouse/news" />
+    </outline>
+  </body>
+</opml>

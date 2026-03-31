@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Penguin Random House</title>
+  </head>
+  <body>
+    <outline text="Penguin Random House" title="Penguin Random House">
+      <outline type="rss" text="Penguin Random House - Articles" title="Penguin Random House - Articles" xmlUrl="https://rsshub.gamepp.cf/penguin-random-house/articles" />
+      <outline type="rss" text="Penguin Random House - Book Lists" title="Penguin Random House - Book Lists" xmlUrl="https://rsshub.gamepp.cf/penguin-random-house/the-read-down" />
+    </outline>
+  </body>
+</opml>

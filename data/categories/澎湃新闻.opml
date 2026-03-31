@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 澎湃新闻</title>
+  </head>
+  <body>
+    <outline text="澎湃新闻" title="澎湃新闻">
+      <outline type="rss" text="澎湃新闻 - 明查" title="澎湃新闻 - 明查" xmlUrl="https://rsshub.gamepp.cf/thepaper/factpaper" />
+      <outline type="rss" text="澎湃新闻 - 频道" title="澎湃新闻 - 频道" xmlUrl="https://rsshub.gamepp.cf/thepaper/channel/25950" />
+      <outline type="rss" text="澎湃新闻 - 首页头条" title="澎湃新闻 - 首页头条" xmlUrl="https://rsshub.gamepp.cf/thepaper/featured" />
+      <outline type="rss" text="澎湃新闻 - 栏目" title="澎湃新闻 - 栏目" xmlUrl="https://rsshub.gamepp.cf/thepaper/list/25457" />
+      <outline type="rss" text="澎湃新闻 - 澎湃号" title="澎湃新闻 - 澎湃号" xmlUrl="https://rsshub.gamepp.cf/thepaper/user/4221423" />
+      <outline type="rss" text="澎湃新闻 - 政务号" title="澎湃新闻 - 政务号" xmlUrl="https://rsshub.gamepp.cf/thepaper/gov/63850" />
+      <outline type="rss" text="澎湃新闻 - 侧边栏" title="澎湃新闻 - 侧边栏" xmlUrl="https://rsshub.gamepp.cf/thepaper/sidebar" />
+    </outline>
+  </body>
+</opml>

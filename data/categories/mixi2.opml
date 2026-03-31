@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - mixi2</title>
+  </head>
+  <body>
+    <outline text="mixi2" title="mixi2">
+      <outline type="rss" text="mixi2 - コミュニティ" title="mixi2 - コミュニティ" xmlUrl="https://rsshub.gamepp.cf/mixi2/community/62e7e813-d242-4c54-a0ee-0aab5b2bbad2" />
+      <outline type="rss" text="mixi2 - 発見" title="mixi2 - 発見" xmlUrl="https://rsshub.gamepp.cf/mixi2/discovery" />
+      <outline type="rss" text="mixi2 - フォロー中" title="mixi2 - フォロー中" xmlUrl="https://rsshub.gamepp.cf/mixi2/home" />
+      <outline type="rss" text="mixi2 - ユーザー" title="mixi2 - ユーザー" xmlUrl="https://rsshub.gamepp.cf/mixi2/user/@deyo" />
+    </outline>
+  </body>
+</opml>

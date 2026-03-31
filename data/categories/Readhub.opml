@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Readhub</title>
+  </head>
+  <body>
+    <outline text="Readhub" title="Readhub">
+      <outline type="rss" text="Readhub - 每日早报" title="Readhub - 每日早报" xmlUrl="https://rsshub.gamepp.cf/readhub/daily" />
+      <outline type="rss" text="Readhub - 分类" title="Readhub - 分类" xmlUrl="https://rsshub.gamepp.cf/readhub" />
+    </outline>
+  </body>
+</opml>

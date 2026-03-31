@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Lofter</title>
+  </head>
+  <body>
+    <outline text="Lofter" title="Lofter">
+      <outline type="rss" text="Lofter - Collection" title="Lofter - Collection" xmlUrl="https://rsshub.gamepp.cf/lofter/collection/552041" />
+      <outline type="rss" text="Lofter - User" title="Lofter - User" xmlUrl="https://rsshub.gamepp.cf/lofter/user/i" />
+      <outline type="rss" text="Lofter - Tag" title="Lofter - Tag" xmlUrl="https://rsshub.gamepp.cf/lofter/tag/cosplay/date" />
+    </outline>
+  </body>
+</opml>

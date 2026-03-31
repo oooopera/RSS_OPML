@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 明月中文网</title>
+  </head>
+  <body>
+    <outline text="明月中文网" title="明月中文网">
+      <outline type="rss" text="明月中文网 - 分类" title="明月中文网 - 分类" xmlUrl="https://rsshub.gamepp.cf/56kog/class/1_1" />
+      <outline type="rss" text="明月中文网 - 榜单" title="明月中文网 - 榜单" xmlUrl="https://rsshub.gamepp.cf/56kog/top/weekvisit" />
+    </outline>
+  </body>
+</opml>

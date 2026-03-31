@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 走进日本</title>
+  </head>
+  <body>
+    <outline text="走进日本" title="走进日本">
+      <outline type="rss" text="走进日本 - 政治外交" title="走进日本 - 政治外交" xmlUrl="https://rsshub.gamepp.cf/nippon/Politics" />
+    </outline>
+  </body>
+</opml>

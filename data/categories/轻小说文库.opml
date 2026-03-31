@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 轻小说文库</title>
+  </head>
+  <body>
+    <outline text="轻小说文库" title="轻小说文库">
+      <outline type="rss" text="轻小说文库 - 章节" title="轻小说文库 - 章节" xmlUrl="https://rsshub.gamepp.cf/wenku8/chapter/74" />
+      <outline type="rss" text="轻小说文库 - 最新卷" title="轻小说文库 - 最新卷" xmlUrl="https://rsshub.gamepp.cf/wenku8/volume/1163" />
+    </outline>
+  </body>
+</opml>

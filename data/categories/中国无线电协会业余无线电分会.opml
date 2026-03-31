@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国无线电协会业余无线电分会</title>
+  </head>
+  <body>
+    <outline text="中国无线电协会业余无线电分会" title="中国无线电协会业余无线电分会">
+      <outline type="rss" text="中国无线电协会业余无线电分会 - 考试信息" title="中国无线电协会业余无线电分会 - 考试信息" xmlUrl="https://rsshub.gamepp.cf/crac/exam" />
+      <outline type="rss" text="中国无线电协会业余无线电分会 - 最新资讯" title="中国无线电协会业余无线电分会 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/crac/2" />
+    </outline>
+  </body>
+</opml>

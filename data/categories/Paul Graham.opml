@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Paul Graham</title>
+  </head>
+  <body>
+    <outline text="Paul Graham" title="Paul Graham">
+      <outline type="rss" text="Paul Graham - Essays" title="Paul Graham - Essays" xmlUrl="https://rsshub.gamepp.cf/paulgraham/articles" />
+    </outline>
+  </body>
+</opml>

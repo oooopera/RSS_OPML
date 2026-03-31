@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - yande.re</title>
+  </head>
+  <body>
+    <outline text="yande.re" title="yande.re">
+      <outline type="rss" text="yande.re - Popular Recent Posts" title="yande.re - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/yande/post/popular_recent/1d" />
+    </outline>
+  </body>
+</opml>

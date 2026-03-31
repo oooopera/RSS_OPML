@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 开源中国</title>
+  </head>
+  <body>
+    <outline text="开源中国" title="开源中国">
+      <outline type="rss" text="开源中国 - 用户博客" title="开源中国 - 用户博客" xmlUrl="https://rsshub.gamepp.cf/oschina/u/3920392" />
+      <outline type="rss" text="开源中国 - 资讯" title="开源中国 - 资讯" xmlUrl="https://rsshub.gamepp.cf/oschina/news" />
+      <outline type="rss" text="开源中国 - 专栏" title="开源中国 - 专栏" xmlUrl="https://rsshub.gamepp.cf/oschina/column/14" />
+      <outline type="rss" text="开源中国 - 活动" title="开源中国 - 活动" xmlUrl="https://rsshub.gamepp.cf/oschina/event" />
+      <outline type="rss" text="开源中国 - 问答主题" title="开源中国 - 问答主题" xmlUrl="https://rsshub.gamepp.cf/oschina/topic/weekly-news" />
+    </outline>
+  </body>
+</opml>

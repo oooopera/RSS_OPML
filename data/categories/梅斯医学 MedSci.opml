@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 梅斯医学 MedSci</title>
+  </head>
+  <body>
+    <outline text="梅斯医学 MedSci" title="梅斯医学 MedSci">
+      <outline type="rss" text="梅斯医学 MedSci - 资讯" title="梅斯医学 MedSci - 资讯" xmlUrl="https://rsshub.gamepp.cf/medsci" />
+    </outline>
+  </body>
+</opml>

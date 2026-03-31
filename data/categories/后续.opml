@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 后续</title>
+  </head>
+  <body>
+    <outline text="后续" title="后续">
+      <outline type="rss" text="后续 - Live" title="后续 - Live" xmlUrl="https://rsshub.gamepp.cf/houxu/lives/33899" />
+      <outline type="rss" text="后续 - 专栏" title="后续 - 专栏" xmlUrl="https://rsshub.gamepp.cf/houxu/events" />
+      <outline type="rss" text="后续 - 热点" title="后续 - 热点" xmlUrl="https://rsshub.gamepp.cf/houxu" />
+      <outline type="rss" text="后续 - 跟踪" title="后续 - 跟踪" xmlUrl="https://rsshub.gamepp.cf/houxu/memory" />
+    </outline>
+  </body>
+</opml>

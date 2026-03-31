@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Bellroy</title>
+  </head>
+  <body>
+    <outline text="Bellroy" title="Bellroy">
+      <outline type="rss" text="Bellroy - New Releases" title="Bellroy - New Releases" xmlUrl="https://rsshub.gamepp.cf/bellroy/new-releases" />
+    </outline>
+  </body>
+</opml>

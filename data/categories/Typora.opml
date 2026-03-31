@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Typora</title>
+  </head>
+  <body>
+    <outline text="Typora" title="Typora">
+      <outline type="rss" text="Typora - Dev Release Changelog" title="Typora - Dev Release Changelog" xmlUrl="https://rsshub.gamepp.cf/typora/changelog/dev" />
+      <outline type="rss" text="Typora - Changelog" title="Typora - Changelog" xmlUrl="https://rsshub.gamepp.cf/typora/changelog" />
+    </outline>
+  </body>
+</opml>

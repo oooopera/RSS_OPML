@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Backlinko</title>
+  </head>
+  <body>
+    <outline text="Backlinko" title="Backlinko">
+      <outline type="rss" text="Backlinko - Blog" title="Backlinko - Blog" xmlUrl="https://rsshub.gamepp.cf/backlinko/blog" />
+    </outline>
+  </body>
+</opml>

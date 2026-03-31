@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Nature Journal</title>
+  </head>
+  <body>
+    <outline text="Nature Journal" title="Nature Journal">
+      <outline type="rss" text="Nature Journal - Cover Story" title="Nature Journal - Cover Story" xmlUrl="https://rsshub.gamepp.cf/nature/cover" />
+      <outline type="rss" text="Nature Journal - Research Highlight" title="Nature Journal - Research Highlight" xmlUrl="https://rsshub.gamepp.cf/nature/highlight" />
+      <outline type="rss" text="Nature Journal - Nature News" title="Nature Journal - Nature News" xmlUrl="https://rsshub.gamepp.cf/nature/news" />
+      <outline type="rss" text="Nature Journal - Latest Research" title="Nature Journal - Latest Research" xmlUrl="https://rsshub.gamepp.cf/nature/research/ng" />
+      <outline type="rss" text="Nature Journal - Journal List" title="Nature Journal - Journal List" xmlUrl="https://rsshub.gamepp.cf/nature/siteindex" />
+    </outline>
+  </body>
+</opml>

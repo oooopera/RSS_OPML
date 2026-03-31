@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Eagle</title>
+  </head>
+  <body>
+    <outline text="Eagle" title="Eagle">
+      <outline type="rss" text="Eagle - Blog" title="Eagle - Blog" xmlUrl="https://rsshub.gamepp.cf/eagle/blog/en" />
+      <outline type="rss" text="Eagle - Changelog" title="Eagle - Changelog" xmlUrl="https://rsshub.gamepp.cf/eagle/changelog/en" />
+    </outline>
+  </body>
+</opml>

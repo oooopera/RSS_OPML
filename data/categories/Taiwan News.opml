@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Taiwan News</title>
+  </head>
+  <body>
+    <outline text="Taiwan News" title="Taiwan News">
+      <outline type="rss" text="Taiwan News - Hot News" title="Taiwan News - Hot News" xmlUrl="https://rsshub.gamepp.cf/taiwannews/hot" />
+    </outline>
+  </body>
+</opml>

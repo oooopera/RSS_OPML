@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中指研究院</title>
+  </head>
+  <body>
+    <outline text="中指研究院" title="中指研究院">
+      <outline type="rss" text="中指研究院 - 报告" title="中指研究院 - 报告" xmlUrl="https://rsshub.gamepp.cf/cih-index/report/list/p1-oaddtime-ddesc" />
+    </outline>
+  </body>
+</opml>

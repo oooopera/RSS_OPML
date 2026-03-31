@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国新闻周刊</title>
+  </head>
+  <body>
+    <outline text="中国新闻周刊" title="中国新闻周刊">
+      <outline type="rss" text="中国新闻周刊 - 栏目" title="中国新闻周刊 - 栏目" xmlUrl="https://rsshub.gamepp.cf/inewsweek/survey" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 秋爸日字</title>
+  </head>
+  <body>
+    <outline text="秋爸日字" title="秋爸日字">
+      <outline type="rss" text="秋爸日字 - 分类" title="秋爸日字 - 分类" xmlUrl="https://rsshub.gamepp.cf/qq88" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 四川工商学院</title>
+  </head>
+  <body>
+    <outline text="四川工商学院" title="四川工商学院">
+      <outline type="rss" text="四川工商学院 - 计算机学院 - 通知公告" title="四川工商学院 - 计算机学院 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/stbu/jsjxy" />
+      <outline type="rss" text="四川工商学院 - 学院新闻" title="四川工商学院 - 学院新闻" xmlUrl="https://rsshub.gamepp.cf/stbu/xyxw" />
+    </outline>
+  </body>
+</opml>

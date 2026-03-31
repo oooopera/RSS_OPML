@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NPM</title>
+  </head>
+  <body>
+    <outline text="NPM" title="NPM">
+      <outline type="rss" text="NPM - Package" title="NPM - Package" xmlUrl="https://rsshub.gamepp.cf/npm/package/rsshub" />
+    </outline>
+  </body>
+</opml>

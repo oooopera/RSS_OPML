@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 地震速报</title>
+  </head>
+  <body>
+    <outline text="地震速报" title="地震速报">
+      <outline type="rss" text="地震速报 - 中国地震台" title="地震速报 - 中国地震台" xmlUrl="https://rsshub.gamepp.cf/earthquake/ceic/1" />
+      <outline type="rss" text="地震速报 - 中国地震局" title="地震速报 - 中国地震局" xmlUrl="https://rsshub.gamepp.cf/earthquake" />
+    </outline>
+  </body>
+</opml>

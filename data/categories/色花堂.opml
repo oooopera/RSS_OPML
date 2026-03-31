@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 色花堂</title>
+  </head>
+  <body>
+    <outline text="色花堂" title="色花堂">
+      <outline type="rss" text="色花堂 - 作者文章" title="色花堂 - 作者文章" xmlUrl="https://rsshub.gamepp.cf/sehuatang/user/411096" />
+    </outline>
+  </body>
+</opml>

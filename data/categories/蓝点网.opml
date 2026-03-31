@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 蓝点网</title>
+  </head>
+  <body>
+    <outline text="蓝点网" title="蓝点网">
+      <outline type="rss" text="蓝点网 - 分类" title="蓝点网 - 分类" xmlUrl="https://rsshub.gamepp.cf/landiannews/category/sells" />
+      <outline type="rss" text="蓝点网 - 首页" title="蓝点网 - 首页" xmlUrl="https://rsshub.gamepp.cf/landiannews" />
+      <outline type="rss" text="蓝点网 - 标签" title="蓝点网 - 标签" xmlUrl="https://rsshub.gamepp.cf/landiannews/tag/linux-kernel" />
+    </outline>
+  </body>
+</opml>

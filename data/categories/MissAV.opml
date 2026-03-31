@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MissAV</title>
+  </head>
+  <body>
+    <outline text="MissAV" title="MissAV">
+      <outline type="rss" text="MissAV - 最近更新" title="MissAV - 最近更新" xmlUrl="https://rsshub.gamepp.cf/missav/new" />
+    </outline>
+  </body>
+</opml>

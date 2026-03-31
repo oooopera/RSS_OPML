@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - zyw</title>
+  </head>
+  <body>
+    <outline text="zyw" title="zyw">
+      <outline type="rss" text="zyw - 今日热榜" title="zyw - 今日热榜" xmlUrl="https://rsshub.gamepp.cf/zyw/hot" />
+    </outline>
+  </body>
+</opml>

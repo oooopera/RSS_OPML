@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - SoBooks</title>
+  </head>
+  <body>
+    <outline text="SoBooks" title="SoBooks">
+      <outline type="rss" text="SoBooks - 归档" title="SoBooks - 归档" xmlUrl="https://rsshub.gamepp.cf/sobooks/date/2020-11" />
+      <outline type="rss" text="SoBooks - 首页" title="SoBooks - 首页" xmlUrl="https://rsshub.gamepp.cf/sobooks" />
+      <outline type="rss" text="SoBooks - 标签" title="SoBooks - 标签" xmlUrl="https://rsshub.gamepp.cf/sobooks/tag/小说" />
+    </outline>
+  </body>
+</opml>

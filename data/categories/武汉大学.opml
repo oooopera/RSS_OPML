@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 武汉大学</title>
+  </head>
+  <body>
+    <outline text="武汉大学" title="武汉大学">
+      <outline type="rss" text="武汉大学 - 计算机学院公告" title="武汉大学 - 计算机学院公告" xmlUrl="https://rsshub.gamepp.cf/whu/cs/2" />
+      <outline type="rss" text="武汉大学 - 研究生院" title="武汉大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/whu/gs/0" />
+      <outline type="rss" text="武汉大学 - 新闻网" title="武汉大学 - 新闻网" xmlUrl="https://rsshub.gamepp.cf/whu/news" />
+      <outline type="rss" text="武汉大学 - 武汉大学遥感信息工程学院" title="武汉大学 - 武汉大学遥感信息工程学院" xmlUrl="https://rsshub.gamepp.cf/whu/rsgis/index" />
+      <outline type="rss" text="武汉大学 - 水利水电学院公告" title="武汉大学 - 水利水电学院公告" xmlUrl="https://rsshub.gamepp.cf/whu/swrh/2" />
+    </outline>
+  </body>
+</opml>

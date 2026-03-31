@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 来漫画</title>
+  </head>
+  <body>
+    <outline text="来漫画" title="来漫画">
+      <outline type="rss" text="来漫画 - 漫画列表" title="来漫画 - 漫画列表" xmlUrl="https://rsshub.gamepp.cf/laimanhua/tiandikangzhanjiVERSUS" />
+    </outline>
+  </body>
+</opml>

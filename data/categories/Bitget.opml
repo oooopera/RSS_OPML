@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Bitget</title>
+  </head>
+  <body>
+    <outline text="Bitget" title="Bitget">
+      <outline type="rss" text="Bitget - Announcement" title="Bitget - Announcement" xmlUrl="https://rsshub.gamepp.cf/bitget/announcement/all/zh-CN" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国人事考试网</title>
+  </head>
+  <body>
+    <outline text="中国人事考试网" title="中国人事考试网">
+      <outline type="rss" text="中国人事考试网 - 中国人事考试网发布" title="中国人事考试网 - 中国人事考试网发布" xmlUrl="https://rsshub.gamepp.cf/cpta/notice" />
+    </outline>
+  </body>
+</opml>

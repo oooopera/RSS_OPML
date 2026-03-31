@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - DNA India</title>
+  </head>
+  <body>
+    <outline text="DNA India" title="DNA India">
+      <outline type="rss" text="DNA India - News" title="DNA India - News" xmlUrl="https://rsshub.gamepp.cf/dnaindia/headlines" />
+      <outline type="rss" text="DNA India - Topic" title="DNA India - Topic" xmlUrl="https://rsshub.gamepp.cf/dnaindia/topic/dna-verified" />
+    </outline>
+  </body>
+</opml>

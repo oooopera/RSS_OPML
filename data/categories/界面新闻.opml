@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 界面新闻</title>
+  </head>
+  <body>
+    <outline text="界面新闻" title="界面新闻">
+      <outline type="rss" text="界面新闻 - 界面号" title="界面新闻 - 界面号" xmlUrl="https://rsshub.gamepp.cf/jiemian/account/main/1" />
+      <outline type="rss" text="界面新闻 - 栏目" title="界面新闻 - 栏目" xmlUrl="https://rsshub.gamepp.cf/jiemian/lists/65" />
+      <outline type="rss" text="界面新闻 - 专题" title="界面新闻 - 专题" xmlUrl="https://rsshub.gamepp.cf/jiemian/special/1192" />
+      <outline type="rss" text="界面新闻 - 视频" title="界面新闻 - 视频" xmlUrl="https://rsshub.gamepp.cf/jiemian/video/lists/258_1" />
+      <outline type="rss" text="界面新闻 - VIP" title="界面新闻 - VIP" xmlUrl="https://rsshub.gamepp.cf/jiemian/pro/lists/12" />
+    </outline>
+  </body>
+</opml>

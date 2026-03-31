@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Sakamichi Series 坂道系列官网资讯</title>
+  </head>
+  <body>
+    <outline text="Sakamichi Series 坂道系列官网资讯" title="Sakamichi Series 坂道系列官网资讯">
+      <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Hinatazaka46 Blog 日向坂 46 博客" title="Sakamichi Series 坂道系列官网资讯 - Hinatazaka46 Blog 日向坂 46 博客" xmlUrl="https://rsshub.gamepp.cf/hinatazaka46/blog" />
+      <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Hinatazaka46 News 日向坂 46 新闻" title="Sakamichi Series 坂道系列官网资讯 - Hinatazaka46 News 日向坂 46 新闻" xmlUrl="https://rsshub.gamepp.cf/hinatazaka46/news" />
+      <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客" title="Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客" xmlUrl="https://rsshub.gamepp.cf/nogizaka46/blog" />
+      <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Nogizaka46 News 乃木坂 46 新闻" title="Sakamichi Series 坂道系列官网资讯 - Nogizaka46 News 乃木坂 46 新闻" xmlUrl="https://rsshub.gamepp.cf/nogizaka46/news" />
+      <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 Blog 櫻坂 46 博客" title="Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 Blog 櫻坂 46 博客" xmlUrl="https://rsshub.gamepp.cf/sakurazaka46/blog" />
+      <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 News 櫻坂 46 新闻" title="Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 News 櫻坂 46 新闻" xmlUrl="https://rsshub.gamepp.cf/sakurazaka46/news" />
+    </outline>
+  </body>
+</opml>

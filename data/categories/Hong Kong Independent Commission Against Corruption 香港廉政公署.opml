@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hong Kong Independent Commission Against Corruption 香港廉政公署</title>
+  </head>
+  <body>
+    <outline text="Hong Kong Independent Commission Against Corruption 香港廉政公署" title="Hong Kong Independent Commission Against Corruption 香港廉政公署">
+      <outline type="rss" text="Hong Kong Independent Commission Against Corruption 香港廉政公署 - Press Releases" title="Hong Kong Independent Commission Against Corruption 香港廉政公署 - Press Releases" xmlUrl="https://rsshub.gamepp.cf/icac/news/sc" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Josh W Comeau</title>
+  </head>
+  <body>
+    <outline text="Josh W Comeau" title="Josh W Comeau">
+      <outline type="rss" text="Josh W Comeau - Articles and Tutorials" title="Josh W Comeau - Articles and Tutorials" xmlUrl="https://rsshub.gamepp.cf/joshwcomeau/latest/css" />
+      <outline type="rss" text="Josh W Comeau - Popular Content" title="Josh W Comeau - Popular Content" xmlUrl="https://rsshub.gamepp.cf/joshwcomeau/popular" />
+    </outline>
+  </body>
+</opml>

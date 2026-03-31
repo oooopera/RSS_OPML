@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中南大学</title>
+  </head>
+  <body>
+    <outline text="中南大学" title="中南大学">
+      <outline type="rss" text="中南大学 - 就业信息网招聘信息" title="中南大学 - 就业信息网招聘信息" xmlUrl="https://rsshub.gamepp.cf/csu/career" />
+      <outline type="rss" text="中南大学 - 计算机学院" title="中南大学 - 计算机学院" xmlUrl="https://rsshub.gamepp.cf/csu/cse" />
+      <outline type="rss" text="中南大学 - 校长信箱" title="中南大学 - 校长信箱" xmlUrl="https://rsshub.gamepp.cf/csu/mail" />
+    </outline>
+  </body>
+</opml>

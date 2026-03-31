@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Towards Data Science</title>
+  </head>
+  <body>
+    <outline text="Towards Data Science" title="Towards Data Science">
+      <outline type="rss" text="Towards Data Science - Towards Data Science" title="Towards Data Science - Towards Data Science" xmlUrl="https://rsshub.gamepp.cf/latest" />
+    </outline>
+  </body>
+</opml>

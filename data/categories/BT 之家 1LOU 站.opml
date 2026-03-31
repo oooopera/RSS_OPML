@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - BT 之家 1LOU 站</title>
+  </head>
+  <body>
+    <outline text="BT 之家 1LOU 站" title="BT 之家 1LOU 站">
+      <outline type="rss" text="BT 之家 1LOU 站 - 通用" title="BT 之家 1LOU 站 - 通用" xmlUrl="https://rsshub.gamepp.cf/1lou/forum-2-1" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Typst</title>
+  </head>
+  <body>
+    <outline text="Typst" title="Typst">
+      <outline type="rss" text="Typst - Universe" title="Typst - Universe" xmlUrl="https://rsshub.gamepp.cf/typst/universe" />
+    </outline>
+  </body>
+</opml>

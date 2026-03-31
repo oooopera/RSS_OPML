@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 巴哈姆特電玩資訊站</title>
+  </head>
+  <body>
+    <outline text="巴哈姆特電玩資訊站" title="巴哈姆特電玩資訊站">
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" title="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/anime/36868" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" title="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/new_anime" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - GNN 新聞" title="巴哈姆特電玩資訊站 - GNN 新聞" xmlUrl="https://rsshub.gamepp.cf/gamer/gnn/1" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 本板推薦" title="巴哈姆特電玩資訊站 - 本板推薦" xmlUrl="https://rsshub.gamepp.cf/gamer/hot/47157" />
+    </outline>
+  </body>
+</opml>

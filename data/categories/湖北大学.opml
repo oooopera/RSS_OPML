@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 湖北大学</title>
+  </head>
+  <body>
+    <outline text="湖北大学" title="湖北大学">
+      <outline type="rss" text="湖北大学 - 主页" title="湖北大学 - 主页" xmlUrl="https://rsshub.gamepp.cf/hubu/www/index/tzgg" />
+      <outline type="rss" text="湖北大学 - 资源环境学院" title="湖北大学 - 资源环境学院" xmlUrl="https://rsshub.gamepp.cf/hubu/zhxy/index/tzgg" />
+    </outline>
+  </body>
+</opml>

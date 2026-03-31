@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 司机社</title>
+  </head>
+  <body>
+    <outline text="司机社" title="司机社">
+      <outline type="rss" text="司机社 - 论坛" title="司机社 - 论坛" xmlUrl="https://rsshub.gamepp.cf/xsijishe/forum/51" />
+      <outline type="rss" text="司机社 - 排行榜" title="司机社 - 排行榜" xmlUrl="https://rsshub.gamepp.cf/xsijishe/rank/weekly" />
+    </outline>
+  </body>
+</opml>

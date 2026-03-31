@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 巴伦周刊中文版</title>
+  </head>
+  <body>
+    <outline text="巴伦周刊中文版" title="巴伦周刊中文版">
+      <outline type="rss" text="巴伦周刊中文版 - 栏目" title="巴伦周刊中文版 - 栏目" xmlUrl="https://rsshub.gamepp.cf/barronschina" />
+    </outline>
+  </body>
+</opml>

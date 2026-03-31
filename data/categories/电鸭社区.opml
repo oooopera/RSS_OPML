@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 电鸭社区</title>
+  </head>
+  <body>
+    <outline text="电鸭社区" title="电鸭社区">
+      <outline type="rss" text="电鸭社区 - 工作机会" title="电鸭社区 - 工作机会" xmlUrl="https://rsshub.gamepp.cf/eleduck/jobs" />
+      <outline type="rss" text="电鸭社区 - 分类文章" title="电鸭社区 - 分类文章" xmlUrl="https://rsshub.gamepp.cf/eleduck/posts/4" />
+    </outline>
+  </body>
+</opml>

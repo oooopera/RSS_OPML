@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Perplexity</title>
+  </head>
+  <body>
+    <outline text="Perplexity" title="Perplexity">
+      <outline type="rss" text="Perplexity - Blog" title="Perplexity - Blog" xmlUrl="https://rsshub.gamepp.cf/perplexity/blog" />
+      <outline type="rss" text="Perplexity - Changelog" title="Perplexity - Changelog" xmlUrl="https://rsshub.gamepp.cf/perplexity/changelog" />
+    </outline>
+  </body>
+</opml>

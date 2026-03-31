@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Wikipedia</title>
+  </head>
+  <body>
+    <outline text="Wikipedia" title="Wikipedia">
+      <outline type="rss" text="Wikipedia - Current Events" title="Wikipedia - Current Events" xmlUrl="https://rsshub.gamepp.cf/wikipedia/current-events" />
+    </outline>
+  </body>
+</opml>

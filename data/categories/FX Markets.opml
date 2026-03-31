@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - FX Markets</title>
+  </head>
+  <body>
+    <outline text="FX Markets" title="FX Markets">
+      <outline type="rss" text="FX Markets - Channel" title="FX Markets - Channel" xmlUrl="https://rsshub.gamepp.cf/fx-markets/trading" />
+    </outline>
+  </body>
+</opml>

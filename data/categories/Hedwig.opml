@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hedwig</title>
+  </head>
+  <body>
+    <outline text="Hedwig" title="Hedwig">
+      <outline type="rss" text="Hedwig - Posts" title="Hedwig - Posts" xmlUrl="https://rsshub.gamepp.cf/posts/walnut" />
+    </outline>
+  </body>
+</opml>

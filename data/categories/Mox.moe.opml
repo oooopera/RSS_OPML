@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Mox.moe</title>
+  </head>
+  <body>
+    <outline text="Mox.moe" title="Mox.moe">
+      <outline type="rss" text="Mox.moe - 首頁" title="Mox.moe - 首頁" xmlUrl="https://rsshub.gamepp.cf/mox" />
+    </outline>
+  </body>
+</opml>

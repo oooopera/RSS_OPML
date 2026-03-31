@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 江苏海洋大学</title>
+  </head>
+  <body>
+    <outline text="江苏海洋大学" title="江苏海洋大学">
+      <outline type="rss" text="江苏海洋大学 - 官网通知公告" title="江苏海洋大学 - 官网通知公告" xmlUrl="https://rsshub.gamepp.cf/jou/tzgg" />
+      <outline type="rss" text="江苏海洋大学 - 研招网通知公告" title="江苏海洋大学 - 研招网通知公告" xmlUrl="https://rsshub.gamepp.cf/jou/yztzgg" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Forklog</title>
+  </head>
+  <body>
+    <outline text="Forklog" title="Forklog">
+      <outline type="rss" text="Forklog - Новости" title="Forklog - Новости" xmlUrl="https://rsshub.gamepp.cf/forklog/news" />
+    </outline>
+  </body>
+</opml>

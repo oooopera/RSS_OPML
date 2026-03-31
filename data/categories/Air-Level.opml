@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Air-Level</title>
+  </head>
+  <body>
+    <outline text="Air-Level" title="Air-Level">
+      <outline type="rss" text="Air-Level - 空气质量" title="Air-Level - 空气质量" xmlUrl="https://rsshub.gamepp.cf/air-level/air/xian" />
+      <outline type="rss" text="Air-Level - 空气质量排行" title="Air-Level - 空气质量排行" xmlUrl="https://rsshub.gamepp.cf/air-level/rank/best,/air-level/rank" />
+    </outline>
+  </body>
+</opml>

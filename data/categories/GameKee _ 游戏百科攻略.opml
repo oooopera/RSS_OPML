@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - GameKee _ 游戏百科攻略</title>
+  </head>
+  <body>
+    <outline text="GameKee _ 游戏百科攻略" title="GameKee _ 游戏百科攻略">
+      <outline type="rss" text="GameKee | 游戏百科攻略 - 游戏情报" title="GameKee | 游戏百科攻略 - 游戏情报" xmlUrl="https://rsshub.gamepp.cf/gamekee/news" />
+    </outline>
+  </body>
+</opml>

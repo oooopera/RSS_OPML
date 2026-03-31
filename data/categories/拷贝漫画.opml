@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 拷贝漫画</title>
+  </head>
+  <body>
+    <outline text="拷贝漫画" title="拷贝漫画">
+      <outline type="rss" text="拷贝漫画 - 漫画更新" title="拷贝漫画 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/copymanga/comic/dianjuren/5" />
+    </outline>
+  </body>
+</opml>

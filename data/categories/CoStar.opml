@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - CoStar</title>
+  </head>
+  <body>
+    <outline text="CoStar" title="CoStar">
+      <outline type="rss" text="CoStar - Press Releases" title="CoStar - Press Releases" xmlUrl="https://rsshub.gamepp.cf/costar/press-releases" />
+    </outline>
+  </body>
+</opml>

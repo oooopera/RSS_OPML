@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - FastBull</title>
+  </head>
+  <body>
+    <outline text="FastBull" title="FastBull">
+      <outline type="rss" text="FastBull - News Flash" title="FastBull - News Flash" xmlUrl="https://rsshub.gamepp.cf/fastbull/express-news" />
+      <outline type="rss" text="FastBull - News" title="FastBull - News" xmlUrl="https://rsshub.gamepp.cf/fastbull/news" />
+    </outline>
+  </body>
+</opml>

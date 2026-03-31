@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Chinese Social Science Net</title>
+  </head>
+  <body>
+    <outline text="Chinese Social Science Net" title="Chinese Social Science Net">
+      <outline type="rss" text="Chinese Social Science Net - Institute of Law" title="Chinese Social Science Net - Institute of Law" xmlUrl="https://rsshub.gamepp.cf/cssn/iolaw/zxzp" />
+    </outline>
+  </body>
+</opml>

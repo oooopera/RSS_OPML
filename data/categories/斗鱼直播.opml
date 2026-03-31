@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 斗鱼直播</title>
+  </head>
+  <body>
+    <outline text="斗鱼直播" title="斗鱼直播">
+      <outline type="rss" text="斗鱼直播 - 直播间开播" title="斗鱼直播 - 直播间开播" xmlUrl="https://rsshub.gamepp.cf/douyu/room/24422" />
+      <outline type="rss" text="斗鱼直播 - 鱼吧帖子" title="斗鱼直播 - 鱼吧帖子" xmlUrl="https://rsshub.gamepp.cf/douyu/group/1011" />
+      <outline type="rss" text="斗鱼直播 - 鱼吧跟帖" title="斗鱼直播 - 鱼吧跟帖" xmlUrl="https://rsshub.gamepp.cf/douyu/post/631737151576473201" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hong Kong Observatory</title>
+  </head>
+  <body>
+    <outline text="Hong Kong Observatory" title="Hong Kong Observatory">
+      <outline type="rss" text="Hong Kong Observatory - 全球地震資訊網" title="Hong Kong Observatory - 全球地震資訊網" xmlUrl="https://rsshub.gamepp.cf/hko/earthquake" />
+      <outline type="rss" text="Hong Kong Observatory - Current Weather Report" title="Hong Kong Observatory - Current Weather Report" xmlUrl="https://rsshub.gamepp.cf/hko/weather" />
+    </outline>
+  </body>
+</opml>

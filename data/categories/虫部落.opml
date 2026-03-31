@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 虫部落</title>
+  </head>
+  <body>
+    <outline text="虫部落" title="虫部落">
+      <outline type="rss" text="虫部落 - 最新发表" title="虫部落 - 最新发表" xmlUrl="https://rsshub.gamepp.cf/chongbuluo/newthread" />
+    </outline>
+  </body>
+</opml>

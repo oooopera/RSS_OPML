@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 虎嗅</title>
+  </head>
+  <body>
+    <outline text="虎嗅" title="虎嗅">
+      <outline type="rss" text="虎嗅 - 资讯" title="虎嗅 - 资讯" xmlUrl="https://rsshub.gamepp.cf/huxiu/article" />
+      <outline type="rss" text="虎嗅 - 源流" title="虎嗅 - 源流" xmlUrl="https://rsshub.gamepp.cf/huxiu/club/1161" />
+      <outline type="rss" text="虎嗅 - 文集" title="虎嗅 - 文集" xmlUrl="https://rsshub.gamepp.cf/huxiu/collection/212" />
+      <outline type="rss" text="虎嗅 - 用户" title="虎嗅 - 用户" xmlUrl="https://rsshub.gamepp.cf/huxiu/member/2313050" />
+      <outline type="rss" text="虎嗅 - 24 小时" title="虎嗅 - 24 小时" xmlUrl="https://rsshub.gamepp.cf/huxiu/moment" />
+      <outline type="rss" text="虎嗅 - 搜索" title="虎嗅 - 搜索" xmlUrl="https://rsshub.gamepp.cf/huxiu/search/生活" />
+      <outline type="rss" text="虎嗅 - 标签" title="虎嗅 - 标签" xmlUrl="https://rsshub.gamepp.cf/huxiu/tag/291" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 禁漫天堂</title>
+  </head>
+  <body>
+    <outline text="禁漫天堂" title="禁漫天堂">
+      <outline type="rss" text="禁漫天堂 - 文庫" title="禁漫天堂 - 文庫" xmlUrl="https://rsshub.gamepp.cf/18comic/blogs" />
+      <outline type="rss" text="禁漫天堂 - 专辑" title="禁漫天堂 - 专辑" xmlUrl="https://rsshub.gamepp.cf/18comic/album/292282" />
+      <outline type="rss" text="禁漫天堂 - 成人 A 漫" title="禁漫天堂 - 成人 A 漫" xmlUrl="https://rsshub.gamepp.cf/18comic" />
+      <outline type="rss" text="禁漫天堂 - 搜索" title="禁漫天堂 - 搜索" xmlUrl="https://rsshub.gamepp.cf/18comic/search/photos/all/NTR" />
+    </outline>
+  </body>
+</opml>

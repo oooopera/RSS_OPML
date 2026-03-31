@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国食品土畜进出口商会</title>
+  </head>
+  <body>
+    <outline text="中国食品土畜进出口商会" title="中国食品土畜进出口商会">
+      <outline type="rss" text="中国食品土畜进出口商会 - 资讯信息" title="中国食品土畜进出口商会 - 资讯信息" xmlUrl="https://rsshub.gamepp.cf/cccfna/meirigengxin" />
+    </outline>
+  </body>
+</opml>

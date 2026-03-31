@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 有知有行</title>
+  </head>
+  <body>
+    <outline text="有知有行" title="有知有行">
+      <outline type="rss" text="有知有行 - 有知文章" title="有知有行 - 有知文章" xmlUrl="https://rsshub.gamepp.cf/youzhiyouxing/materials" />
+    </outline>
+  </body>
+</opml>

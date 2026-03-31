@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 山东省教育招生考试院</title>
+  </head>
+  <body>
+    <outline text="山东省教育招生考试院" title="山东省教育招生考试院">
+      <outline type="rss" text="山东省教育招生考试院 - 新闻" title="山东省教育招生考试院 - 新闻" xmlUrl="https://rsshub.gamepp.cf/sdzk" />
+    </outline>
+  </body>
+</opml>

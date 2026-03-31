@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Focus Taiwan</title>
+  </head>
+  <body>
+    <outline text="Focus Taiwan" title="Focus Taiwan">
+      <outline type="rss" text="Focus Taiwan - Category" title="Focus Taiwan - Category" xmlUrl="https://rsshub.gamepp.cf/focustaiwan" />
+    </outline>
+  </body>
+</opml>

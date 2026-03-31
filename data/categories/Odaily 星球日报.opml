@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Odaily 星球日报</title>
+  </head>
+  <body>
+    <outline text="Odaily 星球日报" title="Odaily 星球日报">
+      <outline type="rss" text="Odaily 星球日报 - 快讯" title="Odaily 星球日报 - 快讯" xmlUrl="https://rsshub.gamepp.cf/odaily/newsflash" />
+      <outline type="rss" text="Odaily 星球日报 - 搜索快讯" title="Odaily 星球日报 - 搜索快讯" xmlUrl="https://rsshub.gamepp.cf/odaily/search/news/RSS3" />
+      <outline type="rss" text="Odaily 星球日报 - 活动" title="Odaily 星球日报 - 活动" xmlUrl="https://rsshub.gamepp.cf/odaily/activity" />
+      <outline type="rss" text="Odaily 星球日报 - 文章" title="Odaily 星球日报 - 文章" xmlUrl="https://rsshub.gamepp.cf/odaily" />
+      <outline type="rss" text="Odaily 星球日报 - 用户文章" title="Odaily 星球日报 - 用户文章" xmlUrl="https://rsshub.gamepp.cf/odaily/user/2147486902" />
+    </outline>
+  </body>
+</opml>

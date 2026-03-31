@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 浙江大学</title>
+  </head>
+  <body>
+    <outline text="浙江大学" title="浙江大学">
+      <outline type="rss" text="浙江大学 - 就业服务平台" title="浙江大学 - 就业服务平台" xmlUrl="https://rsshub.gamepp.cf/zju/career/1" />
+      <outline type="rss" text="浙江大学 - 控制学院通知" title="浙江大学 - 控制学院通知" xmlUrl="https://rsshub.gamepp.cf/zju/cse/bksjy" />
+      <outline type="rss" text="浙江大学 - 软件学院" title="浙江大学 - 软件学院" xmlUrl="https://rsshub.gamepp.cf/zju/cst/custom/36194+36241+36246" />
+      <outline type="rss" text="浙江大学 - 软件学院" title="浙江大学 - 软件学院" xmlUrl="https://rsshub.gamepp.cf/zju/cst/0" />
+      <outline type="rss" text="浙江大学 - 研究生院" title="浙江大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/zju/grs/1" />
+      <outline type="rss" text="浙江大学 - 普通栏目 如学术 / 图片 / 新闻等" title="浙江大学 - 普通栏目 如学术 / 图片 / 新闻等" xmlUrl="https://rsshub.gamepp.cf/zju/list/xs" />
+      <outline type="rss" text="浙江大学 - 物理学院" title="浙江大学 - 物理学院" xmlUrl="https://rsshub.gamepp.cf/zju/physics/1" />
+      <outline type="rss" text="浙江大学 - 外国语学院" title="浙江大学 - 外国语学院" xmlUrl="https://rsshub.gamepp.cf/zju/sis/0" />
+    </outline>
+  </body>
+</opml>

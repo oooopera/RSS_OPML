@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Microsoft</title>
+  </head>
+  <body>
+    <outline text="Microsoft" title="Microsoft">
+      <outline type="rss" text="Microsoft - Addons Update" title="Microsoft - Addons Update" xmlUrl="https://rsshub.gamepp.cf/microsoft/edge/addon/gangkeiaobmjcjokiofpkfpcobpbmnln" />
+      <outline type="rss" text="Microsoft - Product tags in mcr.microsoft.com" title="Microsoft - Product tags in mcr.microsoft.com" xmlUrl="https://rsshub.gamepp.cf/microsoft/mcr/product/dotnet/framework/runtime" />
+    </outline>
+  </body>
+</opml>

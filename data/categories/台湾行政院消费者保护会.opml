@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 台湾行政院消费者保护会</title>
+  </head>
+  <body>
+    <outline text="台湾行政院消费者保护会" title="台湾行政院消费者保护会">
+      <outline type="rss" text="台湾行政院消费者保护会 - 消费资讯" title="台湾行政院消费者保护会 - 消费资讯" xmlUrl="https://rsshub.gamepp.cf/cpcey/xwg" />
+    </outline>
+  </body>
+</opml>

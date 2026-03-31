@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Thailand Department of Lands</title>
+  </head>
+  <body>
+    <outline text="Thailand Department of Lands" title="Thailand Department of Lands">
+      <outline type="rss" text="Thailand Department of Lands - e-LandsAnnouncement" title="Thailand Department of Lands - e-LandsAnnouncement" xmlUrl="https://rsshub.gamepp.cf/dol/announce" />
+    </outline>
+  </body>
+</opml>

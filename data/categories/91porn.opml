@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 91porn</title>
+  </head>
+  <body>
+    <outline text="91porn" title="91porn">
+      <outline type="rss" text="91porn - Author" title="91porn - Author" xmlUrl="https://rsshub.gamepp.cf/91porn/author/2d6d2iWm4vVCwqujAZbSrKt2QJCbbaObv9HQ21Zo8wGJWudWBg" />
+      <outline type="rss" text="91porn - Hot Video Today" title="91porn - Hot Video Today" xmlUrl="https://rsshub.gamepp.cf/91porn" />
+    </outline>
+  </body>
+</opml>

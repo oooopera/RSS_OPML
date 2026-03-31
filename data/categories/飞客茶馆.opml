@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 飞客茶馆</title>
+  </head>
+  <body>
+    <outline text="飞客茶馆" title="飞客茶馆">
+      <outline type="rss" text="飞客茶馆 - 信用卡" title="飞客茶馆 - 信用卡" xmlUrl="https://rsshub.gamepp.cf/flyert/creditcard/zhongxin" />
+      <outline type="rss" text="飞客茶馆 - 会员说" title="飞客茶馆 - 会员说" xmlUrl="https://rsshub.gamepp.cf/flyert/forum" />
+      <outline type="rss" text="飞客茶馆 - 优惠信息" title="飞客茶馆 - 优惠信息" xmlUrl="https://rsshub.gamepp.cf/flyert/preferential" />
+    </outline>
+  </body>
+</opml>

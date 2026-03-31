@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - PANews</title>
+  </head>
+  <body>
+    <outline text="PANews" title="PANews">
+      <outline type="rss" text="PANews - 快讯" title="PANews - 快讯" xmlUrl="https://rsshub.gamepp.cf/panewslab/news" />
+      <outline type="rss" text="PANews - 专栏" title="PANews - 专栏" xmlUrl="https://rsshub.gamepp.cf/panewslab/author/166" />
+      <outline type="rss" text="PANews - 深度" title="PANews - 深度" xmlUrl="https://rsshub.gamepp.cf/panewslab/profundity" />
+      <outline type="rss" text="PANews - 专题" title="PANews - 专题" xmlUrl="https://rsshub.gamepp.cf/panewslab/topic/1629365774078402" />
+    </outline>
+  </body>
+</opml>

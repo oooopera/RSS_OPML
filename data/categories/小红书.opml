@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 小红书</title>
+  </head>
+  <body>
+    <outline text="小红书" title="小红书">
+      <outline type="rss" text="小红书 - 专辑" title="小红书 - 专辑" xmlUrl="https://rsshub.gamepp.cf/xiaohongshu/board/5db6f79200000000020032df" />
+      <outline type="rss" text="小红书 - 用户笔记/收藏" title="小红书 - 用户笔记/收藏" xmlUrl="https://rsshub.gamepp.cf/xiaohongshu/user/593032945e87e77791e03696/notes" />
+    </outline>
+  </body>
+</opml>

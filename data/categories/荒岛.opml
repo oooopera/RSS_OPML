@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 荒岛</title>
+  </head>
+  <body>
+    <outline text="荒岛" title="荒岛">
+      <outline type="rss" text="荒岛 - 最新发布" title="荒岛 - 最新发布" xmlUrl="https://rsshub.gamepp.cf/lala" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MySQL</title>
+  </head>
+  <body>
+    <outline text="MySQL" title="MySQL">
+      <outline type="rss" text="MySQL - Release Notes" title="MySQL - Release Notes" xmlUrl="https://rsshub.gamepp.cf/mysql/release/8.0" />
+    </outline>
+  </body>
+</opml>

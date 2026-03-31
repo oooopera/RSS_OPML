@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Followin</title>
+  </head>
+  <body>
+    <outline text="Followin" title="Followin">
+      <outline type="rss" text="Followin - Home" title="Followin - Home" xmlUrl="https://rsshub.gamepp.cf/followin" />
+      <outline type="rss" text="Followin - KOL" title="Followin - KOL" xmlUrl="https://rsshub.gamepp.cf/followin/kol/4075592991" />
+      <outline type="rss" text="Followin - News" title="Followin - News" xmlUrl="https://rsshub.gamepp.cf/followin/news" />
+      <outline type="rss" text="Followin - Tag" title="Followin - Tag" xmlUrl="https://rsshub.gamepp.cf/followin/tag/177008" />
+      <outline type="rss" text="Followin - Topic" title="Followin - Topic" xmlUrl="https://rsshub.gamepp.cf/followin/topic/40" />
+    </outline>
+  </body>
+</opml>

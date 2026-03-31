@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Enterprise Craftsmanship</title>
+  </head>
+  <body>
+    <outline text="Enterprise Craftsmanship" title="Enterprise Craftsmanship">
+      <outline type="rss" text="Enterprise Craftsmanship - Archives" title="Enterprise Craftsmanship - Archives" xmlUrl="https://rsshub.gamepp.cf/enterprisecraftsmanship/archives" />
+    </outline>
+  </body>
+</opml>

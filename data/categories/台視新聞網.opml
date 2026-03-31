@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 台視新聞網</title>
+  </head>
+  <body>
+    <outline text="台視新聞網" title="台視新聞網">
+      <outline type="rss" text="台視新聞網 - 分类" title="台視新聞網 - 分类" xmlUrl="https://rsshub.gamepp.cf/ttv" />
+    </outline>
+  </body>
+</opml>

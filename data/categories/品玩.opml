@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 品玩</title>
+  </head>
+  <body>
+    <outline text="品玩" title="品玩">
+      <outline type="rss" text="品玩 - 实时要闻" title="品玩 - 实时要闻" xmlUrl="https://rsshub.gamepp.cf/pingwest/status" />
+      <outline type="rss" text="品玩 - 话题动态" title="品玩 - 话题动态" xmlUrl="https://rsshub.gamepp.cf/pingwest/tag/ChinaJoy/1" />
+      <outline type="rss" text="品玩 - 用户" title="品玩 - 用户" xmlUrl="https://rsshub.gamepp.cf/pingwest/user/7781550877/article" />
+    </outline>
+  </body>
+</opml>

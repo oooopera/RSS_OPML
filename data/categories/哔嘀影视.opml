@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 哔嘀影视</title>
+  </head>
+  <body>
+    <outline text="哔嘀影视" title="哔嘀影视">
+      <outline type="rss" text="哔嘀影视 - 首页" title="哔嘀影视 - 首页" xmlUrl="https://rsshub.gamepp.cf/bdys" />
+    </outline>
+  </body>
+</opml>

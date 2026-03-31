@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 新余学院</title>
+  </head>
+  <body>
+    <outline text="新余学院" title="新余学院">
+      <outline type="rss" text="新余学院 - 图书馆通知公告" title="新余学院 - 图书馆通知公告" xmlUrl="https://rsshub.gamepp.cf/xyu/library" />
+      <outline type="rss" text="新余学院 - 官网通知公告" title="新余学院 - 官网通知公告" xmlUrl="https://rsshub.gamepp.cf/xyu/index/tzgg" />
+    </outline>
+  </body>
+</opml>

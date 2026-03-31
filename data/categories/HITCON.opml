@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - HITCON</title>
+  </head>
+  <body>
+    <outline text="HITCON" title="HITCON">
+      <outline type="rss" text="HITCON - 漏洞" title="HITCON - 漏洞" xmlUrl="https://rsshub.gamepp.cf/hitcon/zeroday/vulnerability" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Pixabay</title>
+  </head>
+  <body>
+    <outline text="Pixabay" title="Pixabay">
+      <outline type="rss" text="Pixabay - Search" title="Pixabay - Search" xmlUrl="https://rsshub.gamepp.cf/pixabay/search/cat" />
+    </outline>
+  </body>
+</opml>

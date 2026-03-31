@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 深圳证券交易所</title>
+  </head>
+  <body>
+    <outline text="深圳证券交易所" title="深圳证券交易所">
+      <outline type="rss" text="深圳证券交易所 - 问询函件" title="深圳证券交易所 - 问询函件" xmlUrl="https://rsshub.gamepp.cf/szse/inquire" />
+      <outline type="rss" text="深圳证券交易所 - 创业板项目动态" title="深圳证券交易所 - 创业板项目动态" xmlUrl="https://rsshub.gamepp.cf/szse/projectdynamic" />
+      <outline type="rss" text="深圳证券交易所 - 上市公司公告" title="深圳证券交易所 - 上市公司公告" xmlUrl="https://rsshub.gamepp.cf/szse/disclosure/listed/notice" />
+      <outline type="rss" text="深圳证券交易所 - 上市公告 - 可转换债券" title="深圳证券交易所 - 上市公告 - 可转换债券" xmlUrl="https://rsshub.gamepp.cf/szse/notice" />
+      <outline type="rss" text="深圳证券交易所 - 本所业务规则" title="深圳证券交易所 - 本所业务规则" xmlUrl="https://rsshub.gamepp.cf/szse/rule/allrules/bussiness" />
+    </outline>
+  </body>
+</opml>

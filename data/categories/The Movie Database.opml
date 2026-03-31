@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Movie Database</title>
+  </head>
+  <body>
+    <outline text="The Movie Database" title="The Movie Database">
+      <outline type="rss" text="The Movie Database - Collection" title="The Movie Database - Collection" xmlUrl="https://rsshub.gamepp.cf/themoviedb/collection/131292/en-US" />
+      <outline type="rss" text="The Movie Database - TV Show Episodes" title="The Movie Database - TV Show Episodes" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/70593/seasons/1/episodes/en-US" />
+      <outline type="rss" text="The Movie Database - TV Show Seasons" title="The Movie Database - TV Show Seasons" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/70593/seasons/en-US" />
+      <outline type="rss" text="The Movie Database - Sheet" title="The Movie Database - Sheet" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/top-rated/en-US" />
+      <outline type="rss" text="The Movie Database - Trending" title="The Movie Database - Trending" xmlUrl="https://rsshub.gamepp.cf/themoviedb/trending/tv/day/en-US" />
+    </outline>
+  </body>
+</opml>

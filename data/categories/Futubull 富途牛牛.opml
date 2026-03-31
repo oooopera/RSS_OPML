@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Futubull 富途牛牛</title>
+  </head>
+  <body>
+    <outline text="Futubull 富途牛牛" title="Futubull 富途牛牛">
+      <outline type="rss" text="Futubull 富途牛牛 - 快讯" title="Futubull 富途牛牛 - 快讯" xmlUrl="https://rsshub.gamepp.cf/futunn/live" />
+      <outline type="rss" text="Futubull 富途牛牛 - 视频" title="Futubull 富途牛牛 - 视频" xmlUrl="https://rsshub.gamepp.cf/futunn/video" />
+      <outline type="rss" text="Futubull 富途牛牛 - 要闻" title="Futubull 富途牛牛 - 要闻" xmlUrl="https://rsshub.gamepp.cf/futunn/main" />
+      <outline type="rss" text="Futubull 富途牛牛 - 专题" title="Futubull 富途牛牛 - 专题" xmlUrl="https://rsshub.gamepp.cf/futunn/topic/1267" />
+    </outline>
+  </body>
+</opml>

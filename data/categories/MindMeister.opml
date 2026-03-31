@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MindMeister</title>
+  </head>
+  <body>
+    <outline text="MindMeister" title="MindMeister">
+      <outline type="rss" text="MindMeister - Public Maps" title="MindMeister - Public Maps" xmlUrl="https://rsshub.gamepp.cf/mindmeister/mind-map-examples" />
+    </outline>
+  </body>
+</opml>

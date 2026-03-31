@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 華視</title>
+  </head>
+  <body>
+    <outline text="華視" title="華視">
+      <outline type="rss" text="華視 - 新聞" title="華視 - 新聞" xmlUrl="https://rsshub.gamepp.cf/cts/real" />
+    </outline>
+  </body>
+</opml>

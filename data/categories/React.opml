@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - React</title>
+  </head>
+  <body>
+    <outline text="React" title="React">
+      <outline type="rss" text="React - Blog" title="React - Blog" xmlUrl="https://rsshub.gamepp.cf/react/blog" />
+    </outline>
+  </body>
+</opml>

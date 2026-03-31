@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Canada.ca</title>
+  </head>
+  <body>
+    <outline text="Canada.ca" title="Canada.ca">
+      <outline type="rss" text="Canada.ca - News by Department" title="Canada.ca - News by Department" xmlUrl="https://rsshub.gamepp.cf/canada.ca/news/en/departmentfinance" />
+    </outline>
+  </body>
+</opml>

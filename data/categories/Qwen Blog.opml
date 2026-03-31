@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Qwen Blog</title>
+  </head>
+  <body>
+    <outline text="Qwen Blog" title="Qwen Blog">
+      <outline type="rss" text="Qwen Blog - Blog" title="Qwen Blog - Blog" xmlUrl="https://rsshub.gamepp.cf/qwenlm/blog/zh" />
+    </outline>
+  </body>
+</opml>

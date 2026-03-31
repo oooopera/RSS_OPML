@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 特斯拉中国</title>
+  </head>
+  <body>
+    <outline text="特斯拉中国" title="特斯拉中国">
+      <outline type="rss" text="特斯拉中国 - 权益中心" title="特斯拉中国 - 权益中心" xmlUrl="https://rsshub.gamepp.cf/tesla/cx/生活方式/北京" />
+      <outline type="rss" text="特斯拉中国 - 价格" title="特斯拉中国 - 价格" xmlUrl="https://rsshub.gamepp.cf/tesla/price" />
+    </outline>
+  </body>
+</opml>

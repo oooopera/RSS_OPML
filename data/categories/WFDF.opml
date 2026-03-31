@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - WFDF</title>
+  </head>
+  <body>
+    <outline text="WFDF" title="WFDF">
+      <outline type="rss" text="WFDF - News" title="WFDF - News" xmlUrl="https://rsshub.gamepp.cf/wfdf/news" />
+    </outline>
+  </body>
+</opml>

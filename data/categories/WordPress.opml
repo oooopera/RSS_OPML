@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - WordPress</title>
+  </head>
+  <body>
+    <outline text="WordPress" title="WordPress">
+      <outline type="rss" text="WordPress - WordPress" title="WordPress - WordPress" xmlUrl="https://rsshub.gamepp.cf/wordpress/https%3A%2F%2Fwordpress.org%2Fnews/category/Podcast" />
+    </outline>
+  </body>
+</opml>

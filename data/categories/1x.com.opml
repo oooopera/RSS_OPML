@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 1x.com</title>
+  </head>
+  <body>
+    <outline text="1x.com" title="1x.com">
+      <outline type="rss" text="1x.com - Gallery" title="1x.com - Gallery" xmlUrl="https://rsshub.gamepp.cf/1x/latest/awarded" />
+    </outline>
+  </body>
+</opml>

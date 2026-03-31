@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Telegram</title>
+  </head>
+  <body>
+    <outline text="Telegram" title="Telegram">
+      <outline type="rss" text="Telegram - Channel Media" title="Telegram - Channel Media" xmlUrl="https://rsshub.gamepp.cf/telegram/media/telegram/1233" />
+      <outline type="rss" text="Telegram - Sticker Pack" title="Telegram - Sticker Pack" xmlUrl="https://rsshub.gamepp.cf/telegram/stickerpack/DIYgod" />
+      <outline type="rss" text="Telegram - Stories" title="Telegram - Stories" xmlUrl="https://rsshub.gamepp.cf/telegram/stories/telegram" />
+      <outline type="rss" text="Telegram - Telegram Blog" title="Telegram - Telegram Blog" xmlUrl="https://rsshub.gamepp.cf/telegram/blog" />
+      <outline type="rss" text="Telegram - Channel" title="Telegram - Channel" xmlUrl="https://rsshub.gamepp.cf/telegram/channel/awesomeRSSHub" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - BOOKWALKER電子書</title>
+  </head>
+  <body>
+    <outline text="BOOKWALKER電子書" title="BOOKWALKER電子書">
+      <outline type="rss" text="BOOKWALKER電子書 - 搜尋" title="BOOKWALKER電子書 - 搜尋" xmlUrl="https://rsshub.gamepp.cf/bookwalker/search/order=sell_desc&amp;s=34" />
+    </outline>
+  </body>
+</opml>

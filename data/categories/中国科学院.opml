@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国科学院</title>
+  </head>
+  <body>
+    <outline text="中国科学院" title="中国科学院">
+      <outline type="rss" text="中国科学院 - 成果转化" title="中国科学院 - 成果转化" xmlUrl="https://rsshub.gamepp.cf/cas/cg/cgzhld" />
+      <outline type="rss" text="中国科学院 - 自动化所" title="中国科学院 - 自动化所" xmlUrl="https://rsshub.gamepp.cf/cas/ia/yjs" />
+      <outline type="rss" text="中国科学院 - 电工研究所 科研动态" title="中国科学院 - 电工研究所 科研动态" xmlUrl="https://rsshub.gamepp.cf/cas/iee/kydt" />
+      <outline type="rss" text="中国科学院 - 信息工程研究所 第二研究室 处理架构组 知识库" title="中国科学院 - 信息工程研究所 第二研究室 处理架构组 知识库" xmlUrl="https://rsshub.gamepp.cf/cas/mesalab/kb" />
+      <outline type="rss" text="中国科学院 - 上海微系统与信息技术研究所 科技进展" title="中国科学院 - 上海微系统与信息技术研究所 科技进展" xmlUrl="https://rsshub.gamepp.cf/cas/sim/kyjz" />
+    </outline>
+  </body>
+</opml>

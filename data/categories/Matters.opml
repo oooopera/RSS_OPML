@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Matters</title>
+  </head>
+  <body>
+    <outline text="Matters" title="Matters">
+      <outline type="rss" text="Matters - Author" title="Matters - Author" xmlUrl="https://rsshub.gamepp.cf/matters/author/robertu" />
+      <outline type="rss" text="Matters - Latest, heat, essence" title="Matters - Latest, heat, essence" xmlUrl="https://rsshub.gamepp.cf/matters/latest/heat" />
+      <outline type="rss" text="Matters - Tags" title="Matters - Tags" xmlUrl="https://rsshub.gamepp.cf/matters/tags/972-哲學" />
+    </outline>
+  </body>
+</opml>

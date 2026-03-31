@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Mastodon</title>
+  </head>
+  <body>
+    <outline text="Mastodon" title="Mastodon">
+      <outline type="rss" text="Mastodon - Hashtag timeline" title="Mastodon - Hashtag timeline" xmlUrl="https://rsshub.gamepp.cf/mastodon/tag/mastodon.social/gochisou/true" />
+      <outline type="rss" text="Mastodon - Instance timeline (local)" title="Mastodon - Instance timeline (local)" xmlUrl="https://rsshub.gamepp.cf/mastodon/timeline/pawoo.net/true" />
+      <outline type="rss" text="Mastodon - Instance timeline (federated)" title="Mastodon - Instance timeline (federated)" xmlUrl="https://rsshub.gamepp.cf/mastodon/remote/pawoo.net/true" />
+      <outline type="rss" text="Mastodon - User timeline (by account ID)" title="Mastodon - User timeline (by account ID)" xmlUrl="https://rsshub.gamepp.cf/mastodon/account_id/mas.to/109300507275095341/statuses/false" />
+      <outline type="rss" text="Mastodon - User timeline" title="Mastodon - User timeline" xmlUrl="https://rsshub.gamepp.cf/mastodon/acct/Mastodon@mastodon.social/statuses" />
+    </outline>
+  </body>
+</opml>

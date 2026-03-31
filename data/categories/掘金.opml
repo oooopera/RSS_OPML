@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 掘金</title>
+  </head>
+  <body>
+    <outline text="掘金" title="掘金">
+      <outline type="rss" text="掘金 - 小册" title="掘金 - 小册" xmlUrl="https://rsshub.gamepp.cf/juejin/books" />
+      <outline type="rss" text="掘金 - 用户动态" title="掘金 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/juejin/dynamic/3051900006845944" />
+      <outline type="rss" text="掘金 - 沸点" title="掘金 - 沸点" xmlUrl="https://rsshub.gamepp.cf/juejin/pins/6824710202487472141" />
+      <outline type="rss" text="掘金 - AI 编程" title="掘金 - AI 编程" xmlUrl="https://rsshub.gamepp.cf/juejin/aicoding" />
+      <outline type="rss" text="掘金 - 分类" title="掘金 - 分类" xmlUrl="https://rsshub.gamepp.cf/juejin/category/frontend" />
+      <outline type="rss" text="掘金 - 单个收藏夹" title="掘金 - 单个收藏夹" xmlUrl="https://rsshub.gamepp.cf/juejin/collection/6845243180586123271" />
+      <outline type="rss" text="掘金 - 收藏集" title="掘金 - 收藏集" xmlUrl="https://rsshub.gamepp.cf/juejin/collections/1697301682482439" />
+      <outline type="rss" text="掘金 - 专栏" title="掘金 - 专栏" xmlUrl="https://rsshub.gamepp.cf/juejin/column/6960559453037199391" />
+      <outline type="rss" text="掘金 - 用户文章" title="掘金 - 用户文章" xmlUrl="https://rsshub.gamepp.cf/juejin/posts/3051900006845944" />
+      <outline type="rss" text="掘金 - 标签" title="掘金 - 标签" xmlUrl="https://rsshub.gamepp.cf/juejin/tag/JavaScript" />
+      <outline type="rss" text="掘金 - 热门" title="掘金 - 热门" xmlUrl="https://rsshub.gamepp.cf/juejin/trending/ios/monthly" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Wall Street Journal (WSJ) 华尔街日报</title>
+  </head>
+  <body>
+    <outline text="The Wall Street Journal (WSJ) 华尔街日报" title="The Wall Street Journal (WSJ) 华尔街日报">
+      <outline type="rss" text="The Wall Street Journal (WSJ) 华尔街日报 - News" title="The Wall Street Journal (WSJ) 华尔街日报 - News" xmlUrl="https://rsshub.gamepp.cf/wsj/en-us/opinion" />
+    </outline>
+  </body>
+</opml>

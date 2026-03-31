@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Kiro</title>
+  </head>
+  <body>
+    <outline text="Kiro" title="Kiro">
+      <outline type="rss" text="Kiro - Blog" title="Kiro - Blog" xmlUrl="https://rsshub.gamepp.cf/kiro/blog" />
+      <outline type="rss" text="Kiro - Changelog" title="Kiro - Changelog" xmlUrl="https://rsshub.gamepp.cf/kiro/changelog" />
+    </outline>
+  </body>
+</opml>

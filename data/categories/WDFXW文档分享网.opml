@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - WDFXW文档分享网</title>
+  </head>
+  <body>
+    <outline text="WDFXW文档分享网" title="WDFXW文档分享网">
+      <outline type="rss" text="WDFXW文档分享网 - 免费区" title="WDFXW文档分享网 - 免费区" xmlUrl="https://rsshub.gamepp.cf/wdfxw/bookfree" />
+    </outline>
+  </body>
+</opml>

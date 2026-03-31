@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Android</title>
+  </head>
+  <body>
+    <outline text="Android" title="Android">
+      <outline type="rss" text="Android - SDK Platform Tools release notes" title="Android - SDK Platform Tools release notes" xmlUrl="https://rsshub.gamepp.cf/android/platform-tools-releases" />
+      <outline type="rss" text="Android - Security Bulletins" title="Android - Security Bulletins" xmlUrl="https://rsshub.gamepp.cf/android/security-bulletin" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 摩点</title>
+  </head>
+  <body>
+    <outline text="摩点" title="摩点">
+      <outline type="rss" text="摩点 - 众筹" title="摩点 - 众筹" xmlUrl="https://rsshub.gamepp.cf/modian/zhongchou" />
+    </outline>
+  </body>
+</opml>

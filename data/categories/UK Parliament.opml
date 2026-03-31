@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - UK Parliament</title>
+  </head>
+  <body>
+    <outline text="UK Parliament" title="UK Parliament">
+      <outline type="rss" text="UK Parliament - Petitions" title="UK Parliament - Petitions" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/petitions/all" />
+      <outline type="rss" text="UK Parliament - Commonlibrary" title="UK Parliament - Commonlibrary" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/commonslibrary/type/research-briefing" />
+      <outline type="rss" text="UK Parliament - House of Lords Library" title="UK Parliament - House of Lords Library" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/lordslibrary/type/research-briefing" />
+    </outline>
+  </body>
+</opml>

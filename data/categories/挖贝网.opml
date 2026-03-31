@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 挖贝网</title>
+  </head>
+  <body>
+    <outline text="挖贝网" title="挖贝网">
+      <outline type="rss" text="挖贝网 - 热门推荐" title="挖贝网 - 热门推荐" xmlUrl="https://rsshub.gamepp.cf/wabei/hot-recommend" />
+    </outline>
+  </body>
+</opml>

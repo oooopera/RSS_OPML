@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 仮面ライダ</title>
+  </head>
+  <body>
+    <outline text="仮面ライダ" title="仮面ライダ">
+      <outline type="rss" text="仮面ライダ - 最新情報" title="仮面ライダ - 最新情報" xmlUrl="https://rsshub.gamepp.cf/kamen-rider-official/news" />
+    </outline>
+  </body>
+</opml>

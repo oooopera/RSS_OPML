@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 4KHD</title>
+  </head>
+  <body>
+    <outline text="4KHD" title="4KHD">
+      <outline type="rss" text="4KHD - Category" title="4KHD - Category" xmlUrl="https://rsshub.gamepp.cf/4khd/category/cosplay" />
+      <outline type="rss" text="4KHD - Latest" title="4KHD - Latest" xmlUrl="https://rsshub.gamepp.cf/4khd" />
+    </outline>
+  </body>
+</opml>

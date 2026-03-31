@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 微博</title>
+  </head>
+  <body>
+    <outline text="微博" title="微博">
+      <outline type="rss" text="微博 - 最新关注时间线" title="微博 - 最新关注时间线" xmlUrl="https://rsshub.gamepp.cf/weibo/friends" />
+      <outline type="rss" text="微博 - 自定义分组" title="微博 - 自定义分组" xmlUrl="https://rsshub.gamepp.cf/weibo/group/4541216424989965" />
+      <outline type="rss" text="微博 - 关键词" title="微博 - 关键词" xmlUrl="https://rsshub.gamepp.cf/weibo/keyword/RSSHub" />
+      <outline type="rss" text="微博 - 绿洲用户" title="微博 - 绿洲用户" xmlUrl="https://rsshub.gamepp.cf/weibo/oasis/user/1990895721" />
+      <outline type="rss" text="微博 - 热搜榜" title="微博 - 热搜榜" xmlUrl="https://rsshub.gamepp.cf/weibo/search/hot" />
+      <outline type="rss" text="微博 - 超话" title="微博 - 超话" xmlUrl="https://rsshub.gamepp.cf/weibo/super_index/1008084989d223732bf6f02f75ea30efad58a9/sort_time" />
+      <outline type="rss" text="微博 - 个人时间线" title="微博 - 个人时间线" xmlUrl="https://rsshub.gamepp.cf/weibo/timeline/3306934123" />
+      <outline type="rss" text="微博 - 用户收藏动态" title="微博 - 用户收藏动态" xmlUrl="https://rsshub.gamepp.cf/weibo/user_bookmarks/1195230310" />
+      <outline type="rss" text="微博 - 博主" title="微博 - 博主" xmlUrl="https://rsshub.gamepp.cf/weibo/user/1195230310" />
+    </outline>
+  </body>
+</opml>

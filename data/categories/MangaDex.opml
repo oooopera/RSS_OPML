@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MangaDex</title>
+  </head>
+  <body>
+    <outline text="MangaDex" title="MangaDex">
+      <outline type="rss" text="MangaDex - MDList Feed" title="MangaDex - MDList Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/mdlist/10cca803-8dc9-4f0e-86a8-6659a3ce5188?limit=10&amp;private=true" />
+      <outline type="rss" text="MangaDex -  Follows Feed" title="MangaDex -  Follows Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/user/feed/follow/zh?limit=10" />
+      <outline type="rss" text="MangaDex - Logged User's Followed Mangas Feed" title="MangaDex - Logged User's Followed Mangas Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/user/follow/reading" />
+      <outline type="rss" text="MangaDex - Single Manga Feed" title="MangaDex - Single Manga Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/manga/f98660a1-d2e2-461c-960d-7bd13df8b76d/en" />
+    </outline>
+  </body>
+</opml>

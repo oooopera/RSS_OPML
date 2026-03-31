@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - River.to (江河日下)</title>
+  </head>
+  <body>
+    <outline text="River.to (江河日下)" title="River.to (江河日下)">
+      <outline type="rss" text="River.to (江河日下) - 分类" title="River.to (江河日下) - 分类" xmlUrl="https://rsshub.gamepp.cf/the" />
+    </outline>
+  </body>
+</opml>

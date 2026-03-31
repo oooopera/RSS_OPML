@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - U3C3</title>
+  </head>
+  <body>
+    <outline text="U3C3" title="U3C3">
+      <outline type="rss" text="U3C3 - Search" title="U3C3 - Search" xmlUrl="https://rsshub.gamepp.cf/u3c3/search/新片速递" />
+    </outline>
+  </body>
+</opml>

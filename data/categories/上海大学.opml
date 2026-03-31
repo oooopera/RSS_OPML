@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 上海大学</title>
+  </head>
+  <body>
+    <outline text="上海大学" title="上海大学">
+      <outline type="rss" text="上海大学 - 国际部港澳台办公室" title="上海大学 - 国际部港澳台办公室" xmlUrl="https://rsshub.gamepp.cf/shu/global/tzgg" />
+      <outline type="rss" text="上海大学 - 研究生院" title="上海大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/shu/gs/zhxw" />
+      <outline type="rss" text="上海大学 - 官网通知公告" title="上海大学 - 官网通知公告" xmlUrl="https://rsshub.gamepp.cf/shu/news/tzgg" />
+      <outline type="rss" text="上海大学 - 《社会》杂志当期目录" title="上海大学 - 《社会》杂志当期目录" xmlUrl="https://rsshub.gamepp.cf/journals/society/current" />
+      <outline type="rss" text="上海大学 - 信息公开网" title="上海大学 - 信息公开网" xmlUrl="https://rsshub.gamepp.cf/shu/xxgk/dwjlxm" />
+      <outline type="rss" text="上海大学 - 校园看点" title="上海大学 - 校园看点" xmlUrl="https://rsshub.gamepp.cf/shu/xykd/xsbg" />
+    </outline>
+  </body>
+</opml>

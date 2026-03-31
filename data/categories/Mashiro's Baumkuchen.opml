@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Mashiro's Baumkuchen</title>
+  </head>
+  <body>
+    <outline text="Mashiro's Baumkuchen" title="Mashiro's Baumkuchen">
+      <outline type="rss" text="Mashiro's Baumkuchen - Blog" title="Mashiro's Baumkuchen - Blog" xmlUrl="https://rsshub.gamepp.cf/mashiro/en" />
+    </outline>
+  </body>
+</opml>

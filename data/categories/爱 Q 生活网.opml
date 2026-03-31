@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 爱 Q 生活网</title>
+  </head>
+  <body>
+    <outline text="爱 Q 生活网" title="爱 Q 生活网">
+      <outline type="rss" text="爱 Q 生活网 - 最近更新" title="爱 Q 生活网 - 最近更新" xmlUrl="https://rsshub.gamepp.cf/iqnew/latest" />
+    </outline>
+  </body>
+</opml>

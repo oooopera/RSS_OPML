@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 金十数据</title>
+  </head>
+  <body>
+    <outline text="金十数据" title="金十数据">
+      <outline type="rss" text="金十数据 - 主题文章" title="金十数据 - 主题文章" xmlUrl="https://rsshub.gamepp.cf/jin10/topic/396" />
+      <outline type="rss" text="金十数据 - 外汇" title="金十数据 - 外汇" xmlUrl="https://rsshub.gamepp.cf/jin10/category/36" />
+      <outline type="rss" text="金十数据 - 市场快讯" title="金十数据 - 市场快讯" xmlUrl="https://rsshub.gamepp.cf/jin10" />
+    </outline>
+  </body>
+</opml>

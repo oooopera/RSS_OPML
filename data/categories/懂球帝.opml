@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 懂球帝</title>
+  </head>
+  <body>
+    <outline text="懂球帝" title="懂球帝">
+      <outline type="rss" text="懂球帝 - 早报" title="懂球帝 - 早报" xmlUrl="https://rsshub.gamepp.cf/dongqiudi/daily" />
+      <outline type="rss" text="懂球帝 - 足球赛果" title="懂球帝 - 足球赛果" xmlUrl="https://rsshub.gamepp.cf/dongqiudi/result/50001755" />
+      <outline type="rss" text="懂球帝 - 球员新闻" title="懂球帝 - 球员新闻" xmlUrl="https://rsshub.gamepp.cf/dongqiudi/player_news/50000339" />
+      <outline type="rss" text="懂球帝 - 专题" title="懂球帝 - 专题" xmlUrl="https://rsshub.gamepp.cf/dongqiudi/special/41" />
+      <outline type="rss" text="懂球帝 - 球队新闻" title="懂球帝 - 球队新闻" xmlUrl="https://rsshub.gamepp.cf/dongqiudi/team_news/50001755" />
+      <outline type="rss" text="懂球帝 - 新闻" title="懂球帝 - 新闻" xmlUrl="https://rsshub.gamepp.cf/dongqiudi/top_news/1" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 杭州电子科技大学</title>
+  </head>
+  <body>
+    <outline text="杭州电子科技大学" title="杭州电子科技大学">
+      <outline type="rss" text="杭州电子科技大学 - 计算机学院 - 通知公告" title="杭州电子科技大学 - 计算机学院 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/hdu/cs" />
+      <outline type="rss" text="杭州电子科技大学 - 计算机学院 - 研究生通知" title="杭州电子科技大学 - 计算机学院 - 研究生通知" xmlUrl="https://rsshub.gamepp.cf/hdu/cs/pg" />
+      <outline type="rss" text="杭州电子科技大学 - 自动化学院" title="杭州电子科技大学 - 自动化学院" xmlUrl="https://rsshub.gamepp.cf/hdu/auto" />
+    </outline>
+  </body>
+</opml>

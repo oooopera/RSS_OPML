@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 集思录</title>
+  </head>
+  <body>
+    <outline text="集思录" title="集思录">
+      <outline type="rss" text="集思录 - 分类" title="集思录 - 分类" xmlUrl="https://rsshub.gamepp.cf/jisilu/category/4" />
+      <outline type="rss" text="集思录 - 广场" title="集思录 - 广场" xmlUrl="https://rsshub.gamepp.cf/jisilu/explore" />
+      <outline type="rss" text="集思录 - 用户" title="集思录 - 用户" xmlUrl="https://rsshub.gamepp.cf/jisilu/people/天书" />
+      <outline type="rss" text="集思录 - 话题" title="集思录 - 话题" xmlUrl="https://rsshub.gamepp.cf/jisilu/topic/可转债" />
+    </outline>
+  </body>
+</opml>

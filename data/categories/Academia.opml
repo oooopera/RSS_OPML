@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Academia</title>
+  </head>
+  <body>
+    <outline text="Academia" title="Academia">
+      <outline type="rss" text="Academia - interest" title="Academia - interest" xmlUrl="https://rsshub.gamepp.cf/academia/topic/Urban_History" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 西瓜视频</title>
+  </head>
+  <body>
+    <outline text="西瓜视频" title="西瓜视频">
+      <outline type="rss" text="西瓜视频 - 用户视频投稿" title="西瓜视频 - 用户视频投稿" xmlUrl="https://rsshub.gamepp.cf/ixigua/user/video/4234740937" />
+    </outline>
+  </body>
+</opml>

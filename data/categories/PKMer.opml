@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - PKMer</title>
+  </head>
+  <body>
+    <outline text="PKMer" title="PKMer">
+      <outline type="rss" text="PKMer - 最近更新" title="PKMer - 最近更新" xmlUrl="https://rsshub.gamepp.cf/pkmer/recent" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Access Briefing</title>
+  </head>
+  <body>
+    <outline text="Access Briefing" title="Access Briefing">
+      <outline type="rss" text="Access Briefing - Articles" title="Access Briefing - Articles" xmlUrl="https://rsshub.gamepp.cf/accessbriefing/latest/news" />
+    </outline>
+  </body>
+</opml>

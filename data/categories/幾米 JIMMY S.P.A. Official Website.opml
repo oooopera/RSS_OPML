@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 幾米 JIMMY S.P.A. Official Website</title>
+  </head>
+  <body>
+    <outline text="幾米 JIMMY S.P.A. Official Website" title="幾米 JIMMY S.P.A. Official Website">
+      <outline type="rss" text="幾米 JIMMY S.P.A. Official Website - Books" title="幾米 JIMMY S.P.A. Official Website - Books" xmlUrl="https://rsshub.gamepp.cf/jimmyspa/books/tw" />
+      <outline type="rss" text="幾米 JIMMY S.P.A. Official Website - News" title="幾米 JIMMY S.P.A. Official Website - News" xmlUrl="https://rsshub.gamepp.cf/jimmyspa/news/tw" />
+    </outline>
+  </body>
+</opml>

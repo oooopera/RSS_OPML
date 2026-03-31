@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - FossHub</title>
+  </head>
+  <body>
+    <outline text="FossHub" title="FossHub">
+      <outline type="rss" text="FossHub - Software Update" title="FossHub - Software Update" xmlUrl="https://rsshub.gamepp.cf/fosshub/qBittorrent" />
+    </outline>
+  </body>
+</opml>

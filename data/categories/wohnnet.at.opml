@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - wohnnet.at</title>
+  </head>
+  <body>
+    <outline text="wohnnet.at" title="wohnnet.at">
+      <outline type="rss" text="wohnnet.at - Immobiliensuche" title="wohnnet.at - Immobiliensuche" xmlUrl="https://rsshub.gamepp.cf/wohnnet/mietwohnungen/wien/unterregionen=g90101--g90201--g90301--g90401--g90501&amp;flaeche=40&amp;preis=-1000" />
+    </outline>
+  </body>
+</opml>

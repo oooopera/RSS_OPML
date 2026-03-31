@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 完美世界电竞</title>
+  </head>
+  <body>
+    <outline text="完美世界电竞" title="完美世界电竞">
+      <outline type="rss" text="完美世界电竞 - 资讯列表" title="完美世界电竞 - 资讯列表" xmlUrl="https://rsshub.gamepp.cf/wmpvp/news/1" />
+    </outline>
+  </body>
+</opml>

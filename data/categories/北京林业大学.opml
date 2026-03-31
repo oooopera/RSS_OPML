@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 北京林业大学</title>
+  </head>
+  <body>
+    <outline text="北京林业大学" title="北京林业大学">
+      <outline type="rss" text="北京林业大学 - 研究生院培养动态" title="北京林业大学 - 研究生院培养动态" xmlUrl="https://rsshub.gamepp.cf/bjfu/grs" />
+      <outline type="rss" text="北京林业大学 - 信息学院通知" title="北京林业大学 - 信息学院通知" xmlUrl="https://rsshub.gamepp.cf/bjfu/it/xyxw" />
+      <outline type="rss" text="北京林业大学 - 教务处通知公告" title="北京林业大学 - 教务处通知公告" xmlUrl="https://rsshub.gamepp.cf/bjfu/jwc/jwkx" />
+      <outline type="rss" text="北京林业大学 - 科技处通知公告" title="北京林业大学 - 科技处通知公告" xmlUrl="https://rsshub.gamepp.cf/bjfu/kjc" />
+      <outline type="rss" text="北京林业大学 - 绿色新闻网" title="北京林业大学 - 绿色新闻网" xmlUrl="https://rsshub.gamepp.cf/bjfu/news/lsyw" />
+    </outline>
+  </body>
+</opml>

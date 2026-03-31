@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Esquire Hong Kong</title>
+  </head>
+  <body>
+    <outline text="Esquire Hong Kong" title="Esquire Hong Kong">
+      <outline type="rss" text="Esquire Hong Kong - Tag" title="Esquire Hong Kong - Tag" xmlUrl="https://rsshub.gamepp.cf/esquirehk/tag/Fashion" />
+    </outline>
+  </body>
+</opml>

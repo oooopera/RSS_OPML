@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 30 Seconds of code</title>
+  </head>
+  <body>
+    <outline text="30 Seconds of code" title="30 Seconds of code">
+      <outline type="rss" text="30 Seconds of code - Category and Subcategory" title="30 Seconds of code - Category and Subcategory" xmlUrl="https://rsshub.gamepp.cf/category/css/interactivity" />
+      <outline type="rss" text="30 Seconds of code - New &amp; Popular Snippets" title="30 Seconds of code - New &amp; Popular Snippets" xmlUrl="https://rsshub.gamepp.cf/latest" />
+    </outline>
+  </body>
+</opml>

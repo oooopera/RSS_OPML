@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 搜狐号</title>
+  </head>
+  <body>
+    <outline text="搜狐号" title="搜狐号">
+      <outline type="rss" text="搜狐号 - 首页新闻" title="搜狐号 - 首页新闻" xmlUrl="https://rsshub.gamepp.cf/sohu/mobile" />
+      <outline type="rss" text="搜狐号 - 最新" title="搜狐号 - 最新" xmlUrl="https://rsshub.gamepp.cf/sohu/mp/c29odXptdGhnbjZ3NEBzb2h1LmNvbQ==" />
+    </outline>
+  </body>
+</opml>

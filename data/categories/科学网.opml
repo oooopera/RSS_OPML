@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 科学网</title>
+  </head>
+  <body>
+    <outline text="科学网" title="科学网">
+      <outline type="rss" text="科学网 - 精选博客" title="科学网 - 精选博客" xmlUrl="https://rsshub.gamepp.cf/sciencenet/blog" />
+      <outline type="rss" text="科学网 - 用户博客" title="科学网 - 用户博客" xmlUrl="https://rsshub.gamepp.cf/sciencenet/user/tony8310" />
+    </outline>
+  </body>
+</opml>

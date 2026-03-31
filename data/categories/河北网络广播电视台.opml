@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 河北网络广播电视台</title>
+  </head>
+  <body>
+    <outline text="河北网络广播电视台" title="河北网络广播电视台">
+      <outline type="rss" text="河北网络广播电视台 - 农博士在行动" title="河北网络广播电视台 - 农博士在行动" xmlUrl="https://rsshub.gamepp.cf/hebtv/nbszxd" />
+    </outline>
+  </body>
+</opml>

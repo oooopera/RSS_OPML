@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - INSPIRE</title>
+  </head>
+  <body>
+    <outline text="INSPIRE" title="INSPIRE">
+      <outline type="rss" text="INSPIRE - Literature Search" title="INSPIRE - Literature Search" xmlUrl="https://rsshub.gamepp.cf/inspirehep/literature/Physics" />
+      <outline type="rss" text="INSPIRE - Author Search" title="INSPIRE - Author Search" xmlUrl="https://rsshub.gamepp.cf/inspirehep/authors/1696909" />
+    </outline>
+  </body>
+</opml>

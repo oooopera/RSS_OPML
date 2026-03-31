@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 通信人家园</title>
+  </head>
+  <body>
+    <outline text="通信人家园" title="通信人家园">
+      <outline type="rss" text="通信人家园 - 论坛 频道" title="通信人家园 - 论坛 频道" xmlUrl="https://rsshub.gamepp.cf/txrjy/fornumtopic" />
+    </outline>
+  </body>
+</opml>

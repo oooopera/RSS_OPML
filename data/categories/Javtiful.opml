@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Javtiful</title>
+  </head>
+  <body>
+    <outline text="Javtiful" title="Javtiful">
+      <outline type="rss" text="Javtiful - Actress" title="Javtiful - Actress" xmlUrl="https://rsshub.gamepp.cf/javtiful/actress/akari-tsumugi" />
+      <outline type="rss" text="Javtiful - Channel" title="Javtiful - Channel" xmlUrl="https://rsshub.gamepp.cf/javtiful/channel/madonna" />
+    </outline>
+  </body>
+</opml>

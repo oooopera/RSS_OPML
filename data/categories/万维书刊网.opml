@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 万维书刊网</title>
+  </head>
+  <body>
+    <outline text="万维书刊网" title="万维书刊网">
+      <outline type="rss" text="万维书刊网 - 学术资讯" title="万维书刊网 - 学术资讯" xmlUrl="https://rsshub.gamepp.cf/eshukan/academic/1" />
+    </outline>
+  </body>
+</opml>

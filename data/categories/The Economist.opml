@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Economist</title>
+  </head>
+  <body>
+    <outline text="The Economist" title="The Economist">
+      <outline type="rss" text="The Economist - Global Business Review" title="The Economist - Global Business Review" xmlUrl="https://rsshub.gamepp.cf/economist/global-business-review/cn-en" />
+      <outline type="rss" text="The Economist - Espresso" title="The Economist - Espresso" xmlUrl="https://rsshub.gamepp.cf/economist/espresso" />
+      <outline type="rss" text="The Economist - Category" title="The Economist - Category" xmlUrl="https://rsshub.gamepp.cf/economist/latest" />
+    </outline>
+  </body>
+</opml>

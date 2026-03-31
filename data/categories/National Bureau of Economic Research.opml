@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - National Bureau of Economic Research</title>
+  </head>
+  <body>
+    <outline text="National Bureau of Economic Research" title="National Bureau of Economic Research">
+      <outline type="rss" text="National Bureau of Economic Research - All Papers" title="National Bureau of Economic Research - All Papers" xmlUrl="https://rsshub.gamepp.cf/nber/papers" />
+      <outline type="rss" text="National Bureau of Economic Research - New Papers" title="National Bureau of Economic Research - New Papers" xmlUrl="https://rsshub.gamepp.cf/nber/new" />
+    </outline>
+  </body>
+</opml>

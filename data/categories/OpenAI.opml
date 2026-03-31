@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - OpenAI</title>
+  </head>
+  <body>
+    <outline text="OpenAI" title="OpenAI">
+      <outline type="rss" text="OpenAI - ChatGPT Atlas - Release Notes" title="OpenAI - ChatGPT Atlas - Release Notes" xmlUrl="https://rsshub.gamepp.cf/openai/chatgpt-atlas/release-notes" />
+      <outline type="rss" text="OpenAI - ChatGPT - Release Notes" title="OpenAI - ChatGPT - Release Notes" xmlUrl="https://rsshub.gamepp.cf/openai/chatgpt/release-notes" />
+      <outline type="rss" text="OpenAI - Cookbook" title="OpenAI - Cookbook" xmlUrl="https://rsshub.gamepp.cf/openai/cookbook" />
+      <outline type="rss" text="OpenAI - News" title="OpenAI - News" xmlUrl="https://rsshub.gamepp.cf/openai/news" />
+      <outline type="rss" text="OpenAI - Research" title="OpenAI - Research" xmlUrl="https://rsshub.gamepp.cf/openai/research" />
+    </outline>
+  </body>
+</opml>

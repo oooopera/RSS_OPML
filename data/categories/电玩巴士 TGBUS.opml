@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 电玩巴士 TGBUS</title>
+  </head>
+  <body>
+    <outline text="电玩巴士 TGBUS" title="电玩巴士 TGBUS">
+      <outline type="rss" text="电玩巴士 TGBUS - 文章列表" title="电玩巴士 TGBUS - 文章列表" xmlUrl="https://rsshub.gamepp.cf/tgbus/list/news" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - FoodTalks全球食品资讯网</title>
+  </head>
+  <body>
+    <outline text="FoodTalks全球食品资讯网" title="FoodTalks全球食品资讯网">
+      <outline type="rss" text="FoodTalks全球食品资讯网 - 最新资讯" title="FoodTalks全球食品资讯网 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/foodtalks" />
+      <outline type="rss" text="FoodTalks全球食品资讯网 - 标签" title="FoodTalks全球食品资讯网 - 标签" xmlUrl="https://rsshub.gamepp.cf/foodtalks/news/tag/13335" />
+    </outline>
+  </body>
+</opml>

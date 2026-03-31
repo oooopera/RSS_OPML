@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 上下游 News&amp;Market</title>
+  </head>
+  <body>
+    <outline text="上下游 News&amp;Market" title="上下游 News&amp;Market">
+      <outline type="rss" text="上下游 News&amp;Market - 分類" title="上下游 News&amp;Market - 分類" xmlUrl="https://rsshub.gamepp.cf/newsmarket" />
+    </outline>
+  </body>
+</opml>

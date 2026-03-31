@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Huggingface</title>
+  </head>
+  <body>
+    <outline text="Huggingface" title="Huggingface">
+      <outline type="rss" text="Huggingface - Community Articles" title="Huggingface - Community Articles" xmlUrl="https://rsshub.gamepp.cf/huggingface/blog-community" />
+      <outline type="rss" text="Huggingface - 中文博客" title="Huggingface - 中文博客" xmlUrl="https://rsshub.gamepp.cf/huggingface/blog-zh" />
+      <outline type="rss" text="Huggingface - 英文博客" title="Huggingface - 英文博客" xmlUrl="https://rsshub.gamepp.cf/huggingface/blog" />
+      <outline type="rss" text="Huggingface - Daily Papers" title="Huggingface - Daily Papers" xmlUrl="https://rsshub.gamepp.cf/huggingface/daily-papers/week/50" />
+      <outline type="rss" text="Huggingface - Group Models" title="Huggingface - Group Models" xmlUrl="https://rsshub.gamepp.cf/huggingface/models/deepseek-ai" />
+    </outline>
+  </body>
+</opml>

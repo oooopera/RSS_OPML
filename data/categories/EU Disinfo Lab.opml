@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - EU Disinfo Lab</title>
+  </head>
+  <body>
+    <outline text="EU Disinfo Lab" title="EU Disinfo Lab">
+      <outline type="rss" text="EU Disinfo Lab - Publications" title="EU Disinfo Lab - Publications" xmlUrl="https://rsshub.gamepp.cf/disinfo/publications" />
+    </outline>
+  </body>
+</opml>

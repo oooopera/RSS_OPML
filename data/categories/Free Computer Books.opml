@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Free Computer Books</title>
+  </head>
+  <body>
+    <outline text="Free Computer Books" title="Free Computer Books">
+      <outline type="rss" text="Free Computer Books - Book List" title="Free Computer Books - Book List" xmlUrl="https://rsshub.gamepp.cf/freecomputerbooks/compscAlgorithmBooks" />
+    </outline>
+  </body>
+</opml>

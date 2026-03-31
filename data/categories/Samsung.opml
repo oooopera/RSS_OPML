@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Samsung</title>
+  </head>
+  <body>
+    <outline text="Samsung" title="Samsung">
+      <outline type="rss" text="Samsung - Research Blog" title="Samsung - Research Blog" xmlUrl="https://rsshub.gamepp.cf/samsung/research/blog" />
+    </outline>
+  </body>
+</opml>

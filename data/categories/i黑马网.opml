@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - i黑马网</title>
+  </head>
+  <body>
+    <outline text="i黑马网" title="i黑马网">
+      <outline type="rss" text="i黑马网 - 推荐" title="i黑马网 - 推荐" xmlUrl="https://rsshub.gamepp.cf/iheima/recommend" />
+    </outline>
+  </body>
+</opml>

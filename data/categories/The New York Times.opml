@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The New York Times</title>
+  </head>
+  <body>
+    <outline text="The New York Times" title="The New York Times">
+      <outline type="rss" text="The New York Times - Best Seller Books" title="The New York Times - Best Seller Books" xmlUrl="https://rsshub.gamepp.cf/nytimes/book/combined-print-and-e-book-nonfiction" />
+      <outline type="rss" text="The New York Times - Daily Briefing" title="The New York Times - Daily Briefing" xmlUrl="https://rsshub.gamepp.cf/nytimes/daily_briefing_chinese" />
+      <outline type="rss" text="The New York Times - News" title="The New York Times - News" xmlUrl="https://rsshub.gamepp.cf/nytimes/rss/HomePage" />
+      <outline type="rss" text="The New York Times - News" title="The New York Times - News" xmlUrl="https://rsshub.gamepp.cf/nytimes/dual" />
+    </outline>
+  </body>
+</opml>

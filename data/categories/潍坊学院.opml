@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 潍坊学院</title>
+  </head>
+  <body>
+    <outline text="潍坊学院" title="潍坊学院">
+      <outline type="rss" text="潍坊学院 - 教务处通知" title="潍坊学院 - 教务处通知" xmlUrl="https://rsshub.gamepp.cf/wfu/jwc" />
+      <outline type="rss" text="潍坊学院 - 新闻" title="潍坊学院 - 新闻" xmlUrl="https://rsshub.gamepp.cf/wfu/news/wyyw" />
+    </outline>
+  </body>
+</opml>

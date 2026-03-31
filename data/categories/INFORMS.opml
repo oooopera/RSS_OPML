@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - INFORMS</title>
+  </head>
+  <body>
+    <outline text="INFORMS" title="INFORMS">
+      <outline type="rss" text="INFORMS - Category" title="INFORMS - Category" xmlUrl="https://rsshub.gamepp.cf/informs/mnsc" />
+    </outline>
+  </body>
+</opml>

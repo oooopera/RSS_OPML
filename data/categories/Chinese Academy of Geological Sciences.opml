@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Chinese Academy of Geological Sciences</title>
+  </head>
+  <body>
+    <outline text="Chinese Academy of Geological Sciences" title="Chinese Academy of Geological Sciences">
+      <outline type="rss" text="Chinese Academy of Geological Sciences - 研究生院" title="Chinese Academy of Geological Sciences - 研究生院" xmlUrl="https://rsshub.gamepp.cf/cags/edu/tzgg" />
+    </outline>
+  </body>
+</opml>

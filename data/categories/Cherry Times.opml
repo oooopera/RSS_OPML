@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Cherry Times</title>
+  </head>
+  <body>
+    <outline text="Cherry Times" title="Cherry Times">
+      <outline type="rss" text="Cherry Times - Market" title="Cherry Times - Market" xmlUrl="https://rsshub.gamepp.cf/cherrytimes/market" />
+    </outline>
+  </body>
+</opml>

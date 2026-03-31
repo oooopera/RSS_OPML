@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Produce Report</title>
+  </head>
+  <body>
+    <outline text="Produce Report" title="Produce Report">
+      <outline type="rss" text="Produce Report - Category" title="Produce Report - Category" xmlUrl="https://rsshub.gamepp.cf/producereport/produce/fresh-fruits/apples" />
+    </outline>
+  </body>
+</opml>

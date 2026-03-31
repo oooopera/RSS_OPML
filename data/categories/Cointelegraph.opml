@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Cointelegraph</title>
+  </head>
+  <body>
+    <outline text="Cointelegraph" title="Cointelegraph">
+      <outline type="rss" text="Cointelegraph - News" title="Cointelegraph - News" xmlUrl="https://rsshub.gamepp.cf/cointelegraph" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 今日热榜</title>
+  </head>
+  <body>
+    <outline text="今日热榜" title="今日热榜">
+      <outline type="rss" text="今日热榜 - 榜单" title="今日热榜 - 榜单" xmlUrl="https://rsshub.gamepp.cf/tophub/Om4ejxvxEN" />
+      <outline type="rss" text="今日热榜 - 榜单列表" title="今日热榜 - 榜单列表" xmlUrl="https://rsshub.gamepp.cf/tophub/list/Om4ejxvxEN" />
+    </outline>
+  </body>
+</opml>

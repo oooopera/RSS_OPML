@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Wojciech Muła</title>
+  </head>
+  <body>
+    <outline text="Wojciech Muła" title="Wojciech Muła">
+      <outline type="rss" text="Wojciech Muła - Articles" title="Wojciech Muła - Articles" xmlUrl="https://rsshub.gamepp.cf/0x80/blog" />
+    </outline>
+  </body>
+</opml>

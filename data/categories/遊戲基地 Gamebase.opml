@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 遊戲基地 Gamebase</title>
+  </head>
+  <body>
+    <outline text="遊戲基地 Gamebase" title="遊戲基地 Gamebase">
+      <outline type="rss" text="遊戲基地 Gamebase - 新聞" title="遊戲基地 Gamebase - 新聞" xmlUrl="https://rsshub.gamepp.cf/gamebase/news" />
+    </outline>
+  </body>
+</opml>

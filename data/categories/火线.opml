@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 火线</title>
+  </head>
+  <body>
+    <outline text="火线" title="火线">
+      <outline type="rss" text="火线 - Zone" title="火线 - Zone" xmlUrl="https://rsshub.gamepp.cf/huoxian/zone" />
+    </outline>
+  </body>
+</opml>

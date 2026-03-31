@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - kpopping</title>
+  </head>
+  <body>
+    <outline text="kpopping" title="kpopping">
+      <outline type="rss" text="kpopping - Pics" title="kpopping - Pics" xmlUrl="https://rsshub.gamepp.cf/kpopping/kpics/gender-male/category-all/idol-any/group-any/order" />
+      <outline type="rss" text="kpopping - News" title="kpopping - News" xmlUrl="https://rsshub.gamepp.cf/kpopping/news/gender-all/category-all/idol-any/group-any/order" />
+    </outline>
+  </body>
+</opml>

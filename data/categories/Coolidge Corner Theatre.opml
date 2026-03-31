@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Coolidge Corner Theatre</title>
+  </head>
+  <body>
+    <outline text="Coolidge Corner Theatre" title="Coolidge Corner Theatre">
+      <outline type="rss" text="Coolidge Corner Theatre - Film Guide" title="Coolidge Corner Theatre - Film Guide" xmlUrl="https://rsshub.gamepp.cf/coolidge/film-guide" />
+      <outline type="rss" text="Coolidge Corner Theatre - News" title="Coolidge Corner Theatre - News" xmlUrl="https://rsshub.gamepp.cf/coolidge/news" />
+    </outline>
+  </body>
+</opml>

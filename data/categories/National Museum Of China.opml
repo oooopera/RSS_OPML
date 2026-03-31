@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - National Museum Of China</title>
+  </head>
+  <body>
+    <outline text="National Museum Of China" title="National Museum Of China">
+      <outline type="rss" text="National Museum Of China - 资讯要闻" title="National Museum Of China - 资讯要闻" xmlUrl="https://rsshub.gamepp.cf/zx/xingnew" />
+      <outline type="rss" text="National Museum Of China - 资讯专题" title="National Museum Of China - 资讯专题" xmlUrl="https://rsshub.gamepp.cf/zx/xwzt" />
+    </outline>
+  </body>
+</opml>

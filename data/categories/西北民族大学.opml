@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 西北民族大学</title>
+  </head>
+  <body>
+    <outline text="西北民族大学" title="西北民族大学">
+      <outline type="rss" text="西北民族大学 - 学术信息" title="西北民族大学 - 学术信息" xmlUrl="https://rsshub.gamepp.cf/xbmu/academic" />
+      <outline type="rss" text="西北民族大学 - 通知公告" title="西北民族大学 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/xbmu/announcement" />
+    </outline>
+  </body>
+</opml>

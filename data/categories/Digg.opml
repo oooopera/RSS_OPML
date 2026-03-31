@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Digg</title>
+  </head>
+  <body>
+    <outline text="Digg" title="Digg">
+      <outline type="rss" text="Digg - Community Posts" title="Digg - Community Posts" xmlUrl="https://rsshub.gamepp.cf/digg/community/askdigg" />
+    </outline>
+  </body>
+</opml>

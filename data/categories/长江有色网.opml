@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 长江有色网</title>
+  </head>
+  <body>
+    <outline text="长江有色网" title="长江有色网">
+      <outline type="rss" text="长江有色网 - 调价动态" title="长江有色网 - 调价动态" xmlUrl="https://rsshub.gamepp.cf/ccmn/price-adjustment/copper" />
+    </outline>
+  </body>
+</opml>

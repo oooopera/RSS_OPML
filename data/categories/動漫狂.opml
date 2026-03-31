@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 動漫狂</title>
+  </head>
+  <body>
+    <outline text="動漫狂" title="動漫狂">
+      <outline type="rss" text="動漫狂 - 漫画更新" title="動漫狂 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/cartoonmad/comic/5827" />
+    </outline>
+  </body>
+</opml>

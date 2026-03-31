@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 合肥工业大学</title>
+  </head>
+  <body>
+    <outline text="合肥工业大学" title="合肥工业大学">
+      <outline type="rss" text="合肥工业大学 - 合肥校区通知" title="合肥工业大学 - 合肥校区通知" xmlUrl="https://rsshub.gamepp.cf/hfut/hf/notice/tzgg" />
+      <outline type="rss" text="合肥工业大学 - 宣城校区通知" title="合肥工业大学 - 宣城校区通知" xmlUrl="https://rsshub.gamepp.cf/hfut/xc/notice/tzgg" />
+    </outline>
+  </body>
+</opml>

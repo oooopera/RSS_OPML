@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hacking8</title>
+  </head>
+  <body>
+    <outline text="Hacking8" title="Hacking8">
+      <outline type="rss" text="Hacking8 - 信息流" title="Hacking8 - 信息流" xmlUrl="https://rsshub.gamepp.cf/hacking8" />
+      <outline type="rss" text="Hacking8 - 搜索" title="Hacking8 - 搜索" xmlUrl="https://rsshub.gamepp.cf/hacking8/search/rsshub" />
+    </outline>
+  </body>
+</opml>

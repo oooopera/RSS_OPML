@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - OTOBANANA</title>
+  </head>
+  <body>
+    <outline text="OTOBANANA" title="OTOBANANA">
+      <outline type="rss" text="OTOBANANA - Cast 音声投稿" title="OTOBANANA - Cast 音声投稿" xmlUrl="https://rsshub.gamepp.cf/otobanana/user/cee16401-96b1-420f-8188-abd4d33093f1/cast" />
+      <outline type="rss" text="OTOBANANA - Livestream ライブ配信" title="OTOBANANA - Livestream ライブ配信" xmlUrl="https://rsshub.gamepp.cf/otobanana/user/cee16401-96b1-420f-8188-abd4d33093f1/livestream" />
+      <outline type="rss" text="OTOBANANA - Timeline タイムライン" title="OTOBANANA - Timeline タイムライン" xmlUrl="https://rsshub.gamepp.cf/otobanana/user/cee16401-96b1-420f-8188-abd4d33093f1" />
+    </outline>
+  </body>
+</opml>

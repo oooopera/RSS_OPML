@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Solidot</title>
+  </head>
+  <body>
+    <outline text="Solidot" title="Solidot">
+      <outline type="rss" text="Solidot - 最新消息" title="Solidot - 最新消息" xmlUrl="https://rsshub.gamepp.cf/solidot/linux" />
+    </outline>
+  </body>
+</opml>

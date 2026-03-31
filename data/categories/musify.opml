@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - musify</title>
+  </head>
+  <body>
+    <outline text="musify" title="musify">
+      <outline type="rss" text="musify - Latest" title="musify - Latest" xmlUrl="https://rsshub.gamepp.cf/musify/en" />
+    </outline>
+  </body>
+</opml>

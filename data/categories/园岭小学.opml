@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 园岭小学</title>
+  </head>
+  <body>
+    <outline text="园岭小学" title="园岭小学">
+      <outline type="rss" text="园岭小学 - 动态" title="园岭小学 - 动态" xmlUrl="https://rsshub.gamepp.cf/szftedu/dongtai" />
+      <outline type="rss" text="园岭小学 - 公告" title="园岭小学 - 公告" xmlUrl="https://rsshub.gamepp.cf/szftedu/gonggao" />
+    </outline>
+  </body>
+</opml>

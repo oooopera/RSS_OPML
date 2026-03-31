@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 萌番组</title>
+  </head>
+  <body>
+    <outline text="萌番组" title="萌番组">
+      <outline type="rss" text="萌番组 - Latest" title="萌番组 - Latest" xmlUrl="https://rsshub.gamepp.cf/bangumi.moe" />
+    </outline>
+  </body>
+</opml>

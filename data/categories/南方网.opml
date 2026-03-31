@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南方网</title>
+  </head>
+  <body>
+    <outline text="南方网" title="南方网">
+      <outline type="rss" text="南方网 - 南方 +（按栏目 ID）" title="南方网 - 南方 +（按栏目 ID）" xmlUrl="https://rsshub.gamepp.cf/southcn/nfapp/column/38" />
+      <outline type="rss" text="南方网 - 南方 +（按作者）" title="南方网 - 南方 +（按作者）" xmlUrl="https://rsshub.gamepp.cf/southcn/nfapp/reporter/969927791" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - ASUS</title>
+  </head>
+  <body>
+    <outline text="ASUS" title="ASUS">
+      <outline type="rss" text="ASUS - BIOS" title="ASUS - BIOS" xmlUrl="https://rsshub.gamepp.cf/asus/bios/RT-AX88U/zh" />
+      <outline type="rss" text="ASUS - GPU Tweak" title="ASUS - GPU Tweak" xmlUrl="https://rsshub.gamepp.cf/asus/gpu-tweak" />
+    </outline>
+  </body>
+</opml>

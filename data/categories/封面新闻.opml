@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 封面新闻</title>
+  </head>
+  <body>
+    <outline text="封面新闻" title="封面新闻">
+      <outline type="rss" text="封面新闻 - 频道" title="封面新闻 - 频道" xmlUrl="https://rsshub.gamepp.cf/thecover/channel/3560" />
+    </outline>
+  </body>
+</opml>

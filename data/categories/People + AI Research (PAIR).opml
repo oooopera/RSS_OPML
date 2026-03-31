@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - People + AI Research (PAIR)</title>
+  </head>
+  <body>
+    <outline text="People + AI Research (PAIR)" title="People + AI Research (PAIR)">
+      <outline type="rss" text="People + AI Research (PAIR) - PAIR - AI Exploreables" title="People + AI Research (PAIR) - PAIR - AI Exploreables" xmlUrl="https://rsshub.gamepp.cf/withgoogle/explorables" />
+    </outline>
+  </body>
+</opml>

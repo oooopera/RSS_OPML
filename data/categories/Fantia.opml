@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Fantia</title>
+  </head>
+  <body>
+    <outline text="Fantia" title="Fantia">
+      <outline type="rss" text="Fantia - Search" title="Fantia - Search" xmlUrl="https://rsshub.gamepp.cf/fantia/search/posts/all/daily" />
+      <outline type="rss" text="Fantia - User Posts" title="Fantia - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantia/user/3498" />
+    </outline>
+  </body>
+</opml>

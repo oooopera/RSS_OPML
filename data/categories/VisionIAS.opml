@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - VisionIAS</title>
+  </head>
+  <body>
+    <outline text="VisionIAS" title="VisionIAS">
+      <outline type="rss" text="VisionIAS - Daily News Summary" title="VisionIAS - Daily News Summary" xmlUrl="https://rsshub.gamepp.cf/visionias/dailySummary" />
+      <outline type="rss" text="VisionIAS - Monthly Magazine" title="VisionIAS - Monthly Magazine" xmlUrl="https://rsshub.gamepp.cf/visionias/monthlyMagazine" />
+      <outline type="rss" text="VisionIAS - News Today" title="VisionIAS - News Today" xmlUrl="https://rsshub.gamepp.cf/visionias/newsToday" />
+      <outline type="rss" text="VisionIAS - Weekly Focus" title="VisionIAS - Weekly Focus" xmlUrl="https://rsshub.gamepp.cf/visionias/weeklyFocus" />
+    </outline>
+  </body>
+</opml>

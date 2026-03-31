@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 月幕 Galgame</title>
+  </head>
+  <body>
+    <outline text="月幕 Galgame" title="月幕 Galgame">
+      <outline type="rss" text="月幕 Galgame - 文章" title="月幕 Galgame - 文章" xmlUrl="https://rsshub.gamepp.cf/ymgal/article" />
+      <outline type="rss" text="月幕 Galgame - 本月新作" title="月幕 Galgame - 本月新作" xmlUrl="https://rsshub.gamepp.cf/ymgal/game/release" />
+    </outline>
+  </body>
+</opml>

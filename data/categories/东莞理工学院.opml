@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 东莞理工学院</title>
+  </head>
+  <body>
+    <outline text="东莞理工学院" title="东莞理工学院">
+      <outline type="rss" text="东莞理工学院 - 教务部通知公告" title="东莞理工学院 - 教务部通知公告" xmlUrl="https://rsshub.gamepp.cf/dgut/jwb/jwtz" />
+    </outline>
+  </body>
+</opml>

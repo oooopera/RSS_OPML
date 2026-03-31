@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 社科期刊网</title>
+  </head>
+  <body>
+    <outline text="社科期刊网" title="社科期刊网">
+      <outline type="rss" text="社科期刊网 - 社会学研究" title="社科期刊网 - 社会学研究" xmlUrl="https://rsshub.gamepp.cf/ajcass/shxyj/2024/1" />
+    </outline>
+  </body>
+</opml>

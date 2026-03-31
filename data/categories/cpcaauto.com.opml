@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - cpcaauto.com</title>
+  </head>
+  <body>
+    <outline text="cpcaauto.com" title="cpcaauto.com">
+      <outline type="rss" text="cpcaauto.com - 文章" title="cpcaauto.com - 文章" xmlUrl="https://rsshub.gamepp.cf/cpcaauto/news/news" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Bloomberg</title>
+  </head>
+  <body>
+    <outline text="Bloomberg" title="Bloomberg">
+      <outline type="rss" text="Bloomberg - Authors" title="Bloomberg - Authors" xmlUrl="https://rsshub.gamepp.cf/bloomberg/authors/ARbTQlRLRjE/matthew-s-levine" />
+      <outline type="rss" text="Bloomberg - Bloomberg Site" title="Bloomberg - Bloomberg Site" xmlUrl="https://rsshub.gamepp.cf/bloomberg/bbiz" />
+    </outline>
+  </body>
+</opml>

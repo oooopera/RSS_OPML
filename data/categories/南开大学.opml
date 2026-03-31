@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南开大学</title>
+  </head>
+  <body>
+    <outline text="南开大学" title="南开大学">
+      <outline type="rss" text="南开大学 - 人工智能学院" title="南开大学 - 人工智能学院" xmlUrl="https://rsshub.gamepp.cf/nankai/ai/zxdt" />
+      <outline type="rss" text="南开大学 - 计算机学院" title="南开大学 - 计算机学院" xmlUrl="https://rsshub.gamepp.cf/nankai/cc/13291" />
+      <outline type="rss" text="南开大学 - 研究生院" title="南开大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/nankai/graduate/zxdt" />
+      <outline type="rss" text="南开大学 - 教务处通知公告" title="南开大学 - 教务处通知公告" xmlUrl="https://rsshub.gamepp.cf/nankai/jwc" />
+      <outline type="rss" text="南开大学 - 通知公告" title="南开大学 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/nankai/notice" />
+      <outline type="rss" text="南开大学 - 研究生招生网" title="南开大学 - 研究生招生网" xmlUrl="https://rsshub.gamepp.cf/nankai/yzb/5509" />
+    </outline>
+  </body>
+</opml>

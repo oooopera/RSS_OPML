@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 未知文明</title>
+  </head>
+  <body>
+    <outline text="未知文明" title="未知文明">
+      <outline type="rss" text="未知文明 - 分类" title="未知文明 - 分类" xmlUrl="https://rsshub.gamepp.cf/xwenming/news" />
+    </outline>
+  </body>
+</opml>

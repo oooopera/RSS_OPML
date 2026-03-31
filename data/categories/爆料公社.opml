@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 爆料公社</title>
+  </head>
+  <body>
+    <outline text="爆料公社" title="爆料公社">
+      <outline type="rss" text="爆料公社 - 動態" title="爆料公社 - 動態" xmlUrl="https://rsshub.gamepp.cf/bc3ts/post/list" />
+    </outline>
+  </body>
+</opml>

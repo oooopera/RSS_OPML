@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Komiic</title>
+  </head>
+  <body>
+    <outline text="Komiic" title="Komiic">
+      <outline type="rss" text="Komiic - 漫画更新" title="Komiic - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/komiic/comic/533" />
+    </outline>
+  </body>
+</opml>

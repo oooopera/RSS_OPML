@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - SmartLink</title>
+  </head>
+  <body>
+    <outline text="SmartLink" title="SmartLink">
+      <outline type="rss" text="SmartLink - Posts" title="SmartLink - Posts" xmlUrl="https://rsshub.gamepp.cf/smartlink/bloombergpursuits" />
+    </outline>
+  </body>
+</opml>

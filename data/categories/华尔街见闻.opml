@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 华尔街见闻</title>
+  </head>
+  <body>
+    <outline text="华尔街见闻" title="华尔街见闻">
+      <outline type="rss" text="华尔街见闻 - 财经日历" title="华尔街见闻 - 财经日历" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/calendar" />
+      <outline type="rss" text="华尔街见闻 - 最热文章" title="华尔街见闻 - 最热文章" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/hot" />
+      <outline type="rss" text="华尔街见闻 - 资讯" title="华尔街见闻 - 资讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/news" />
+      <outline type="rss" text="华尔街见闻 - 实时快讯" title="华尔街见闻 - 实时快讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/live" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 印记中文</title>
+  </head>
+  <body>
+    <outline text="印记中文" title="印记中文">
+      <outline type="rss" text="印记中文 - 周刊 - JavaScript" title="印记中文 - 周刊 - JavaScript" xmlUrl="https://rsshub.gamepp.cf/docschina/weekly" />
+    </outline>
+  </body>
+</opml>

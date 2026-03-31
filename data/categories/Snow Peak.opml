@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Snow Peak</title>
+  </head>
+  <body>
+    <outline text="Snow Peak" title="Snow Peak">
+      <outline type="rss" text="Snow Peak - New Arrivals(USA)" title="Snow Peak - New Arrivals(USA)" xmlUrl="https://rsshub.gamepp.cf/snowpeak/us/new-arrivals" />
+    </outline>
+  </body>
+</opml>

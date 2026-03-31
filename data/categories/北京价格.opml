@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 北京价格</title>
+  </head>
+  <body>
+    <outline text="北京价格" title="北京价格">
+      <outline type="rss" text="北京价格 - 资讯" title="北京价格 - 资讯" xmlUrl="https://rsshub.gamepp.cf/beijingprice/jgzx/xwzx" />
+    </outline>
+  </body>
+</opml>

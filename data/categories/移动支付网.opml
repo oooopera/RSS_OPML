@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 移动支付网</title>
+  </head>
+  <body>
+    <outline text="移动支付网" title="移动支付网">
+      <outline type="rss" text="移动支付网 - 分类" title="移动支付网 - 分类" xmlUrl="https://rsshub.gamepp.cf/mpaypass/main/policy" />
+      <outline type="rss" text="移动支付网 - 新闻" title="移动支付网 - 新闻" xmlUrl="https://rsshub.gamepp.cf/mpaypass/news" />
+    </outline>
+  </body>
+</opml>

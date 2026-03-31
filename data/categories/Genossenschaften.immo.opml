@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Genossenschaften.immo</title>
+  </head>
+  <body>
+    <outline text="Genossenschaften.immo" title="Genossenschaften.immo">
+      <outline type="rss" text="Genossenschaften.immo - Immobiliensuche" title="Genossenschaften.immo - Immobiliensuche" xmlUrl="https://rsshub.gamepp.cf/genossenschaften/district=wien-1-innere-stadt&amp;district=wien-2-leopoldstadt&amp;district=wien-3-landstrasse&amp;district=wien-4-wieden&amp;district=wien-5-margareten&amp;district=wien-6-mariahilf&amp;district=wien-7-neubau&amp;district=wien-8-josefstadt&amp;district=wien-9-alsergrund&amp;district=wien-10-favoriten&amp;district=wien-11-simmering&amp;district=wien-12-meidling&amp;district=wien-13-hietzing&amp;district=wien-14-penzing&amp;district=wien-15-rudolfsheim-fuenfhaus&amp;district=wien-16-ottakring&amp;district=wien-17-hernals&amp;district=wien-18-waehring&amp;district=wien-19-doebling&amp;district=wien-20-brigittenau&amp;district=wien-21-floridsdorf&amp;district=wien-22-donaustadt&amp;district=wien-23-liesing&amp;has_rent=on&amp;has_rent_option=on&amp;status=available&amp;status=construction&amp;cost=1000&amp;room=2&amp;size=50&amp;has_property=off&amp;has_rent=on&amp;has_rent_option=on&amp;status=available&amp;status=construction&amp;status=planned&amp;type=residence&amp;type=project" />
+    </outline>
+  </body>
+</opml>

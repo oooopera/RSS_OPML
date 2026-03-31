@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Slashdot</title>
+  </head>
+  <body>
+    <outline text="Slashdot" title="Slashdot">
+      <outline type="rss" text="Slashdot - News" title="Slashdot - News" xmlUrl="https://rsshub.gamepp.cf/slashdot" />
+    </outline>
+  </body>
+</opml>

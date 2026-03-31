@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 国家金融与发展实验室</title>
+  </head>
+  <body>
+    <outline text="国家金融与发展实验室" title="国家金融与发展实验室">
+      <outline type="rss" text="国家金融与发展实验室 - 研究" title="国家金融与发展实验室 - 研究" xmlUrl="https://rsshub.gamepp.cf/nifd/research/3333d2af-91d6-429b-be83-28b92f31b6d7" />
+    </outline>
+  </body>
+</opml>

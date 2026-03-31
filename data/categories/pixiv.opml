@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - pixiv</title>
+  </head>
+  <body>
+    <outline text="pixiv" title="pixiv">
+      <outline type="rss" text="pixiv - User Bookmark" title="pixiv - User Bookmark" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/bookmarks/15288095" />
+      <outline type="rss" text="pixiv - Following timeline" title="pixiv - Following timeline" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/illustfollows" />
+      <outline type="rss" text="pixiv - Rankings" title="pixiv - Rankings" xmlUrl="https://rsshub.gamepp.cf/pixiv/ranking/week" />
+      <outline type="rss" text="pixiv - Keyword" title="pixiv - Keyword" xmlUrl="https://rsshub.gamepp.cf/pixiv/search/Nezuko/popular" />
+      <outline type="rss" text="pixiv - User Activity" title="pixiv - User Activity" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/15288095" />
+      <outline type="rss" text="pixiv - Novel Series" title="pixiv - Novel Series" xmlUrl="https://rsshub.gamepp.cf/pixiv/novel/series/11586857" />
+      <outline type="rss" text="pixiv - User Novels" title="pixiv - User Novels" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/novels/27104704" />
+    </outline>
+  </body>
+</opml>

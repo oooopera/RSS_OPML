@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - FIX 字幕侠</title>
+  </head>
+  <body>
+    <outline text="FIX 字幕侠" title="FIX 字幕侠">
+      <outline type="rss" text="FIX 字幕侠 - 分类" title="FIX 字幕侠 - 分类" xmlUrl="https://rsshub.gamepp.cf/zimuxia" />
+      <outline type="rss" text="FIX 字幕侠 - 剧集" title="FIX 字幕侠 - 剧集" xmlUrl="https://rsshub.gamepp.cf/zimuxia/portfolio/我们这一天" />
+    </outline>
+  </body>
+</opml>

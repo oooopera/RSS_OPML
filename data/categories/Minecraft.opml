@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Minecraft</title>
+  </head>
+  <body>
+    <outline text="Minecraft" title="Minecraft">
+      <outline type="rss" text="Minecraft - Java Blocked Servers" title="Minecraft - Java Blocked Servers" xmlUrl="https://rsshub.gamepp.cf/minecraft/blockedservers" />
+      <outline type="rss" text="Minecraft - Java Runtimes" title="Minecraft - Java Runtimes" xmlUrl="https://rsshub.gamepp.cf/minecraft/java-runtime" />
+      <outline type="rss" text="Minecraft - Java Game Update" title="Minecraft - Java Game Update" xmlUrl="https://rsshub.gamepp.cf/minecraft/version" />
+    </outline>
+  </body>
+</opml>

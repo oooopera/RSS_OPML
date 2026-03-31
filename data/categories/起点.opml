@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 起点</title>
+  </head>
+  <body>
+    <outline text="起点" title="起点">
+      <outline type="rss" text="起点 - 作者" title="起点 - 作者" xmlUrl="https://rsshub.gamepp.cf/qidian/author/9639927" />
+      <outline type="rss" text="起点 - 作品章节" title="起点 - 作品章节" xmlUrl="https://rsshub.gamepp.cf/qidian/chapter/1010400217" />
+      <outline type="rss" text="起点 - 讨论区" title="起点 - 讨论区" xmlUrl="https://rsshub.gamepp.cf/qidian/forum/1010400217" />
+      <outline type="rss" text="起点 - 限时免费下期预告" title="起点 - 限时免费下期预告" xmlUrl="https://rsshub.gamepp.cf/qidian/free-next" />
+      <outline type="rss" text="起点 - 限时免费" title="起点 - 限时免费" xmlUrl="https://rsshub.gamepp.cf/qidian/free" />
+    </outline>
+  </body>
+</opml>

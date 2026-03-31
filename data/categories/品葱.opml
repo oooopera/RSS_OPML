@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 品葱</title>
+  </head>
+  <body>
+    <outline text="品葱" title="品葱">
+      <outline type="rss" text="品葱 - 精选" title="品葱 - 精选" xmlUrl="https://rsshub.gamepp.cf/pincong/hot" />
+      <outline type="rss" text="品葱 - 发现" title="品葱 - 发现" xmlUrl="https://rsshub.gamepp.cf/pincong/category/1/new" />
+    </outline>
+  </body>
+</opml>

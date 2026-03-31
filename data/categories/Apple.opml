@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Apple</title>
+  </head>
+  <body>
+    <outline text="Apple" title="Apple">
+      <outline type="rss" text="Apple - Design updates" title="Apple - Design updates" xmlUrl="https://rsshub.gamepp.cf/apple/design" />
+      <outline type="rss" text="Apple - Exchange and Repair Extension Programs" title="Apple - Exchange and Repair Extension Programs" xmlUrl="https://rsshub.gamepp.cf/apple/exchange_repair" />
+      <outline type="rss" text="Apple - Newsroom (中国大陆)" title="Apple - Newsroom (中国大陆)" xmlUrl="https://rsshub.gamepp.cf/apple/newsroom" />
+      <outline type="rss" text="Apple - 播客" title="Apple - 播客" xmlUrl="https://rsshub.gamepp.cf/apple/podcast/id1559695855/cn" />
+      <outline type="rss" text="Apple - Security releases" title="Apple - Security releases" xmlUrl="https://rsshub.gamepp.cf/apple/security-releases" />
+      <outline type="rss" text="Apple - App Update" title="Apple - App Update" xmlUrl="https://rsshub.gamepp.cf/apple/apps/update/us/id408709785" />
+    </outline>
+  </body>
+</opml>

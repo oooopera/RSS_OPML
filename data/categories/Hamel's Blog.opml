@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hamel's Blog</title>
+  </head>
+  <body>
+    <outline text="Hamel's Blog" title="Hamel's Blog">
+      <outline type="rss" text="Hamel's Blog - Blog" title="Hamel's Blog - Blog" xmlUrl="https://rsshub.gamepp.cf/hamel/blog" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - WIRED</title>
+  </head>
+  <body>
+    <outline text="WIRED" title="WIRED">
+      <outline type="rss" text="WIRED - Tags" title="WIRED - Tags" xmlUrl="https://rsshub.gamepp.cf/wired/tag/facebook" />
+    </outline>
+  </body>
+</opml>

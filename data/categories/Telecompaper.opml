@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Telecompaper</title>
+  </head>
+  <body>
+    <outline text="Telecompaper" title="Telecompaper">
+      <outline type="rss" text="Telecompaper - News" title="Telecompaper - News" xmlUrl="https://rsshub.gamepp.cf/telecompaper/news/mobile/2020/China/News" />
+      <outline type="rss" text="Telecompaper - Search" title="Telecompaper - Search" xmlUrl="https://rsshub.gamepp.cf/telecompaper/search/Nokia" />
+    </outline>
+  </body>
+</opml>

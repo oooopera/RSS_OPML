@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Sputnik News 俄罗斯卫星通讯社</title>
+  </head>
+  <body>
+    <outline text="Sputnik News 俄罗斯卫星通讯社" title="Sputnik News 俄罗斯卫星通讯社">
+      <outline type="rss" text="Sputnik News 俄罗斯卫星通讯社 - Category" title="Sputnik News 俄罗斯卫星通讯社 - Category" xmlUrl="https://rsshub.gamepp.cf/sputniknews" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 591 Rental house</title>
+  </head>
+  <body>
+    <outline text="591 Rental house" title="591 Rental house">
+      <outline type="rss" text="591 Rental house - Rental house" title="591 Rental house - Rental house" xmlUrl="https://rsshub.gamepp.cf/591/tw/rent/order=posttime&amp;orderType=desc" />
+    </outline>
+  </body>
+</opml>

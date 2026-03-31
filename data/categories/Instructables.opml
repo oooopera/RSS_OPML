@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Instructables</title>
+  </head>
+  <body>
+    <outline text="Instructables" title="Instructables">
+      <outline type="rss" text="Instructables - Projects" title="Instructables - Projects" xmlUrl="https://rsshub.gamepp.cf/instructables/projects/circuits" />
+    </outline>
+  </body>
+</opml>

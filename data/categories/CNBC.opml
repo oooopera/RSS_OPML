@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - CNBC</title>
+  </head>
+  <body>
+    <outline text="CNBC" title="CNBC">
+      <outline type="rss" text="CNBC - Full article RSS" title="CNBC - Full article RSS" xmlUrl="https://rsshub.gamepp.cf/cnbc/rss" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Bitbucket</title>
+  </head>
+  <body>
+    <outline text="Bitbucket" title="Bitbucket">
+      <outline type="rss" text="Bitbucket - Commits" title="Bitbucket - Commits" xmlUrl="https://rsshub.gamepp.cf/bitbucket/commits/blaze-lib/blaze" />
+      <outline type="rss" text="Bitbucket - Tags" title="Bitbucket - Tags" xmlUrl="https://rsshub.gamepp.cf/bitbucket/tags/blaze-lib/blaze" />
+    </outline>
+  </body>
+</opml>

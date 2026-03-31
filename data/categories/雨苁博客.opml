@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 雨苁博客</title>
+  </head>
+  <body>
+    <outline text="雨苁博客" title="雨苁博客">
+      <outline type="rss" text="雨苁博客 - 分类" title="雨苁博客 - 分类" xmlUrl="https://rsshub.gamepp.cf/ddosi/category/黑客工具" />
+      <outline type="rss" text="雨苁博客 - 首页" title="雨苁博客 - 首页" xmlUrl="https://rsshub.gamepp.cf/ddosi" />
+    </outline>
+  </body>
+</opml>

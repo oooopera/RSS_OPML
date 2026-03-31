@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 4chan</title>
+  </head>
+  <body>
+    <outline text="4chan" title="4chan">
+      <outline type="rss" text="4chan - Board's catalog" title="4chan - Board's catalog" xmlUrl="https://rsshub.gamepp.cf/4chan/g/catalog" />
+    </outline>
+  </body>
+</opml>

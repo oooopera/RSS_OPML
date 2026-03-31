@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - HoYoLAB</title>
+  </head>
+  <body>
+    <outline text="HoYoLAB" title="HoYoLAB">
+      <outline type="rss" text="HoYoLAB - Official Announcement" title="HoYoLAB - Official Announcement" xmlUrl="https://rsshub.gamepp.cf/hoyolab/news/zh-cn/2/2" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Japan Bullion Market Association</title>
+  </head>
+  <body>
+    <outline text="Japan Bullion Market Association" title="Japan Bullion Market Association">
+      <outline type="rss" text="Japan Bullion Market Association - Precious Metals Report" title="Japan Bullion Market Association - Precious Metals Report" xmlUrl="https://rsshub.gamepp.cf/jbma/report" />
+    </outline>
+  </body>
+</opml>

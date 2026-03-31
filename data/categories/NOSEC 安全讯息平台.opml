@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NOSEC 安全讯息平台</title>
+  </head>
+  <body>
+    <outline text="NOSEC 安全讯息平台" title="NOSEC 安全讯息平台">
+      <outline type="rss" text="NOSEC 安全讯息平台 - Posts" title="NOSEC 安全讯息平台 - Posts" xmlUrl="https://rsshub.gamepp.cf/nosec/hole" />
+    </outline>
+  </body>
+</opml>

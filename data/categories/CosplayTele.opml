@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - CosplayTele</title>
+  </head>
+  <body>
+    <outline text="CosplayTele" title="CosplayTele">
+      <outline type="rss" text="CosplayTele - Category" title="CosplayTele - Category" xmlUrl="https://rsshub.gamepp.cf/cosplaytele/category/cosplay" />
+      <outline type="rss" text="CosplayTele - Latest" title="CosplayTele - Latest" xmlUrl="https://rsshub.gamepp.cf/cosplaytele" />
+      <outline type="rss" text="CosplayTele - Popular" title="CosplayTele - Popular" xmlUrl="https://rsshub.gamepp.cf/cosplaytele/popular/3" />
+      <outline type="rss" text="CosplayTele - Tag" title="CosplayTele - Tag" xmlUrl="https://rsshub.gamepp.cf/cosplaytele/tag/aqua" />
+    </outline>
+  </body>
+</opml>

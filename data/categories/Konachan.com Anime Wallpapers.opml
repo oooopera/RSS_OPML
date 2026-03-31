@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Konachan.com Anime Wallpapers</title>
+  </head>
+  <body>
+    <outline text="Konachan.com Anime Wallpapers" title="Konachan.com Anime Wallpapers">
+      <outline type="rss" text="Konachan.com Anime Wallpapers - Popular Recent Posts" title="Konachan.com Anime Wallpapers - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/konachan/post/popular_recent/1d" />
+    </outline>
+  </body>
+</opml>

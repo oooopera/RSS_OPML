@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 上海交通大学</title>
+  </head>
+  <body>
+    <outline text="上海交通大学" title="上海交通大学">
+      <outline type="rss" text="上海交通大学 - 同去网最新活动" title="上海交通大学 - 同去网最新活动" xmlUrl="https://rsshub.gamepp.cf/sjtu/tongqu/lecture" />
+      <outline type="rss" text="上海交通大学 - 研究生通知公告" title="上海交通大学 - 研究生通知公告" xmlUrl="https://rsshub.gamepp.cf/sjtu/gs/enroll/59" />
+      <outline type="rss" text="上海交通大学 - 教务处通知公告" title="上海交通大学 - 教务处通知公告" xmlUrl="https://rsshub.gamepp.cf/sjtu/jwc" />
+      <outline type="rss" text="上海交通大学 - 集成电路学院（信息与电子工程学院）" title="上海交通大学 - 集成电路学院（信息与电子工程学院）" xmlUrl="https://rsshub.gamepp.cf/sjtu/seiee/icisee/news" />
+      <outline type="rss" text="上海交通大学 - 电子信息与电气工程学院" title="上海交通大学 - 电子信息与电气工程学院" xmlUrl="https://rsshub.gamepp.cf/sjtu/seiee/xzzx_notice_bks" />
+      <outline type="rss" text="上海交通大学 - 研究生招生网招考信息" title="上海交通大学 - 研究生招生网招考信息" xmlUrl="https://rsshub.gamepp.cf/sjtu/yzb/zkxx/sszs" />
+    </outline>
+  </body>
+</opml>

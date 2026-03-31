@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - COMIC FUZ</title>
+  </head>
+  <body>
+    <outline text="COMIC FUZ" title="COMIC FUZ">
+      <outline type="rss" text="COMIC FUZ - 杂志详情" title="COMIC FUZ - 杂志详情" xmlUrl="https://rsshub.gamepp.cf/comic-fuz/magazine/27860" />
+      <outline type="rss" text="COMIC FUZ - 漫画详情" title="COMIC FUZ - 漫画详情" xmlUrl="https://rsshub.gamepp.cf/comic-fuz/manga/218" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - cnBeta.COM</title>
+  </head>
+  <body>
+    <outline text="cnBeta.COM" title="cnBeta.COM">
+      <outline type="rss" text="cnBeta.COM - 分类" title="cnBeta.COM - 分类" xmlUrl="https://rsshub.gamepp.cf/cnbeta/category/movie" />
+      <outline type="rss" text="cnBeta.COM - 头条资讯" title="cnBeta.COM - 头条资讯" xmlUrl="https://rsshub.gamepp.cf/cnbeta" />
+      <outline type="rss" text="cnBeta.COM - 主题" title="cnBeta.COM - 主题" xmlUrl="https://rsshub.gamepp.cf/cnbeta/topics/453" />
+    </outline>
+  </body>
+</opml>

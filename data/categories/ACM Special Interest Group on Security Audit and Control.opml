@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - ACM Special Interest Group on Security Audit and Control</title>
+  </head>
+  <body>
+    <outline text="ACM Special Interest Group on Security Audit and Control" title="ACM Special Interest Group on Security Audit and Control">
+      <outline type="rss" text="ACM Special Interest Group on Security Audit and Control - The ACM Conference on Computer and Communications Security" title="ACM Special Interest Group on Security Audit and Control - The ACM Conference on Computer and Communications Security" xmlUrl="https://rsshub.gamepp.cf/sigsac/ccs" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - BioOne</title>
+  </head>
+  <body>
+    <outline text="BioOne" title="BioOne">
+      <outline type="rss" text="BioOne - Featured articles" title="BioOne - Featured articles" xmlUrl="https://rsshub.gamepp.cf/bioone/featured" />
+      <outline type="rss" text="BioOne - Journals" title="BioOne - Journals" xmlUrl="https://rsshub.gamepp.cf/bioone/journals/acta-chiropterologica" />
+    </outline>
+  </body>
+</opml>

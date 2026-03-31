@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Neat Download Manager</title>
+  </head>
+  <body>
+    <outline text="Neat Download Manager" title="Neat Download Manager">
+      <outline type="rss" text="Neat Download Manager - Download" title="Neat Download Manager - Download" xmlUrl="https://rsshub.gamepp.cf/neatdownloadmanager/download" />
+    </outline>
+  </body>
+</opml>

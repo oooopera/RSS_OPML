@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NL Times</title>
+  </head>
+  <body>
+    <outline text="NL Times" title="NL Times">
+      <outline type="rss" text="NL Times - News" title="NL Times - News" xmlUrl="https://rsshub.gamepp.cf/nltimes/news/top-stories" />
+    </outline>
+  </body>
+</opml>

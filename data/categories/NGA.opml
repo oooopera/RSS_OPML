@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NGA</title>
+  </head>
+  <body>
+    <outline text="NGA" title="NGA">
+      <outline type="rss" text="NGA - 分区帖子" title="NGA - 分区帖子" xmlUrl="https://rsshub.gamepp.cf/nga/forum/489" />
+      <outline type="rss" text="NGA - 帖子" title="NGA - 帖子" xmlUrl="https://rsshub.gamepp.cf/nga/post/18449558" />
+    </outline>
+  </body>
+</opml>

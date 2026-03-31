@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 東森新聞</title>
+  </head>
+  <body>
+    <outline text="東森新聞" title="東森新聞">
+      <outline type="rss" text="東森新聞 - 即時新聞" title="東森新聞 - 即時新聞" xmlUrl="https://rsshub.gamepp.cf/ebc/realtime/politics" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Greasy Fork</title>
+  </head>
+  <body>
+    <outline text="Greasy Fork" title="Greasy Fork">
+      <outline type="rss" text="Greasy Fork - Script Feedback" title="Greasy Fork - Script Feedback" xmlUrl="https://rsshub.gamepp.cf/greasyfork/scripts/431691-bypass-all-shortlinks/feedback" />
+      <outline type="rss" text="Greasy Fork - Script Update" title="Greasy Fork - Script Update" xmlUrl="https://rsshub.gamepp.cf/greasyfork/en/google.com" />
+      <outline type="rss" text="Greasy Fork - Script Version History" title="Greasy Fork - Script Version History" xmlUrl="https://rsshub.gamepp.cf/greasyfork/scripts/431691-bypass-all-shortlinks/versions" />
+    </outline>
+  </body>
+</opml>

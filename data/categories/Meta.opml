@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Meta</title>
+  </head>
+  <body>
+    <outline text="Meta" title="Meta">
+      <outline type="rss" text="Meta - AI Blog" title="Meta - AI Blog" xmlUrl="https://rsshub.gamepp.cf/meta/ai/blog" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - AIAA Aerospace Research Central</title>
+  </head>
+  <body>
+    <outline text="AIAA Aerospace Research Central" title="AIAA Aerospace Research Central">
+      <outline type="rss" text="AIAA Aerospace Research Central - ASR Articles" title="AIAA Aerospace Research Central - ASR Articles" xmlUrl="https://rsshub.gamepp.cf/aiaa/journal/aiaaj" />
+    </outline>
+  </body>
+</opml>

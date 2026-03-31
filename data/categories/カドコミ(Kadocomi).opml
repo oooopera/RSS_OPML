@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - カドコミ(Kadocomi)</title>
+  </head>
+  <body>
+    <outline text="カドコミ(Kadocomi)" title="カドコミ(Kadocomi)">
+      <outline type="rss" text="カドコミ(Kadocomi) - 漫画详情" title="カドコミ(Kadocomi) - 漫画详情" xmlUrl="https://rsshub.gamepp.cf/comic-walker/manga/KC_006778_S" />
+    </outline>
+  </body>
+</opml>

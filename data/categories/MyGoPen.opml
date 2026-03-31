@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - MyGoPen</title>
+  </head>
+  <body>
+    <outline text="MyGoPen" title="MyGoPen">
+      <outline type="rss" text="MyGoPen - 分類" title="MyGoPen - 分類" xmlUrl="https://rsshub.gamepp.cf/mygopen" />
+    </outline>
+  </body>
+</opml>

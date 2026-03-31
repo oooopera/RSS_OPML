@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Xi'an Jiaotong-Liverpool University</title>
+  </head>
+  <body>
+    <outline text="Xi'an Jiaotong-Liverpool University" title="Xi'an Jiaotong-Liverpool University">
+      <outline type="rss" text="Xi'an Jiaotong-Liverpool University - News" title="Xi'an Jiaotong-Liverpool University - News" xmlUrl="https://rsshub.gamepp.cf/xjtlu/news/en/technology" />
+    </outline>
+  </body>
+</opml>

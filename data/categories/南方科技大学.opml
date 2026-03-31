@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南方科技大学</title>
+  </head>
+  <body>
+    <outline text="南方科技大学" title="南方科技大学">
+      <outline type="rss" text="南方科技大学 - 研究生网通知公告" title="南方科技大学 - 研究生网通知公告" xmlUrl="https://rsshub.gamepp.cf/sustech/yjs" />
+      <outline type="rss" text="南方科技大学 - 采购与招标管理部" title="南方科技大学 - 采购与招标管理部" xmlUrl="https://rsshub.gamepp.cf/sustech/bidding" />
+      <outline type="rss" text="南方科技大学 - 新闻网（中文）" title="南方科技大学 - 新闻网（中文）" xmlUrl="https://rsshub.gamepp.cf/sustech/newshub-zh" />
+    </outline>
+  </body>
+</opml>

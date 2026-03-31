@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Radio France Internationale</title>
+  </head>
+  <body>
+    <outline text="Radio France Internationale" title="Radio France Internationale">
+      <outline type="rss" text="Radio France Internationale - Generic News" title="Radio France Internationale - Generic News" xmlUrl="https://rsshub.gamepp.cf/rfi" />
+    </outline>
+  </body>
+</opml>

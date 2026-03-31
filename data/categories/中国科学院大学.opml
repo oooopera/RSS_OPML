@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中国科学院大学</title>
+  </head>
+  <body>
+    <outline text="中国科学院大学" title="中国科学院大学">
+      <outline type="rss" text="中国科学院大学 - 人工智能学院" title="中国科学院大学 - 人工智能学院" xmlUrl="https://rsshub.gamepp.cf/ucas/ai" />
+      <outline type="rss" text="中国科学院大学 - 招聘信息" title="中国科学院大学 - 招聘信息" xmlUrl="https://rsshub.gamepp.cf/ucas/job" />
+    </outline>
+  </body>
+</opml>

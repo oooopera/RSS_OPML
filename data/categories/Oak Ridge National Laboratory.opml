@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Oak Ridge National Laboratory</title>
+  </head>
+  <body>
+    <outline text="Oak Ridge National Laboratory" title="Oak Ridge National Laboratory">
+      <outline type="rss" text="Oak Ridge National Laboratory - All News" title="Oak Ridge National Laboratory - All News" xmlUrl="https://rsshub.gamepp.cf/ornl/all-news" />
+    </outline>
+  </body>
+</opml>

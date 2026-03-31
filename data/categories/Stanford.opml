@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Stanford</title>
+  </head>
+  <body>
+    <outline text="Stanford" title="Stanford">
+      <outline type="rss" text="Stanford - Hazy Research Blog" title="Stanford - Hazy Research Blog" xmlUrl="https://rsshub.gamepp.cf/stanford/hazyresearch/blog" />
+    </outline>
+  </body>
+</opml>

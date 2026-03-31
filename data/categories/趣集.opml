@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 趣集</title>
+  </head>
+  <body>
+    <outline text="趣集" title="趣集">
+      <outline type="rss" text="趣集 - 盐选故事分类" title="趣集 - 盐选故事分类" xmlUrl="https://rsshub.gamepp.cf/ifun/n/category" />
+      <outline type="rss" text="趣集 - 盐选故事搜索" title="趣集 - 盐选故事搜索" xmlUrl="https://rsshub.gamepp.cf/ifun/n/search/NPC" />
+      <outline type="rss" text="趣集 - 盐选故事专栏" title="趣集 - 盐选故事专栏" xmlUrl="https://rsshub.gamepp.cf/ifun/n/tag/zhihu" />
+    </outline>
+  </body>
+</opml>

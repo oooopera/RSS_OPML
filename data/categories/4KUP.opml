@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 4KUP</title>
+  </head>
+  <body>
+    <outline text="4KUP" title="4KUP">
+      <outline type="rss" text="4KUP - Popular" title="4KUP - Popular" xmlUrl="https://rsshub.gamepp.cf/4kup/popular/7" />
+      <outline type="rss" text="4KUP - Category" title="4KUP - Category" xmlUrl="https://rsshub.gamepp.cf/4kup/category/coser" />
+      <outline type="rss" text="4KUP - Latest" title="4KUP - Latest" xmlUrl="https://rsshub.gamepp.cf/4kup" />
+      <outline type="rss" text="4KUP - Tag" title="4KUP - Tag" xmlUrl="https://rsshub.gamepp.cf/4kup/tag/asian" />
+    </outline>
+  </body>
+</opml>

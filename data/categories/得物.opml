@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 得物</title>
+  </head>
+  <body>
+    <outline text="得物" title="得物">
+      <outline type="rss" text="得物 - 技术博客" title="得物 - 技术博客" xmlUrl="https://rsshub.gamepp.cf/dewu/techblog" />
+      <outline type="rss" text="得物 - 平台公告" title="得物 - 平台公告" xmlUrl="https://rsshub.gamepp.cf/dewu/declaration/1010580020" />
+    </outline>
+  </body>
+</opml>

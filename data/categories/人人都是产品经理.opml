@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 人人都是产品经理</title>
+  </head>
+  <body>
+    <outline text="人人都是产品经理" title="人人都是产品经理">
+      <outline type="rss" text="人人都是产品经理 - 用户文章" title="人人都是产品经理 - 用户文章" xmlUrl="https://rsshub.gamepp.cf/woshipm/user_article/324696" />
+      <outline type="rss" text="人人都是产品经理 - 天天问" title="人人都是产品经理 - 天天问" xmlUrl="https://rsshub.gamepp.cf/woshipm/wen" />
+      <outline type="rss" text="人人都是产品经理 - 热门文章" title="人人都是产品经理 - 热门文章" xmlUrl="https://rsshub.gamepp.cf/woshipm/popular" />
+    </outline>
+  </body>
+</opml>

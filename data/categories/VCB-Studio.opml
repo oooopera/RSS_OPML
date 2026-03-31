@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - VCB-Studio</title>
+  </head>
+  <body>
+    <outline text="VCB-Studio" title="VCB-Studio">
+      <outline type="rss" text="VCB-Studio - 分类文章" title="VCB-Studio - 分类文章" xmlUrl="https://rsshub.gamepp.cf/vcb-s/category/works" />
+    </outline>
+  </body>
+</opml>

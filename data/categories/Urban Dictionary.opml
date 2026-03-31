@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Urban Dictionary</title>
+  </head>
+  <body>
+    <outline text="Urban Dictionary" title="Urban Dictionary">
+      <outline type="rss" text="Urban Dictionary - Random words" title="Urban Dictionary - Random words" xmlUrl="https://rsshub.gamepp.cf/urbandictionary/random" />
+    </outline>
+  </body>
+</opml>

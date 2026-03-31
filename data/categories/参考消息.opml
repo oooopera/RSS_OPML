@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 参考消息</title>
+  </head>
+  <body>
+    <outline text="参考消息" title="参考消息">
+      <outline type="rss" text="参考消息 - 栏目" title="参考消息 - 栏目" xmlUrl="https://rsshub.gamepp.cf/cankaoxiaoxi/column/diyi" />
+    </outline>
+  </body>
+</opml>

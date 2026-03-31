@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 抖店开放平台</title>
+  </head>
+  <body>
+    <outline text="抖店开放平台" title="抖店开放平台">
+      <outline type="rss" text="抖店开放平台 - 平台公告" title="抖店开放平台 - 平台公告" xmlUrl="https://rsshub.gamepp.cf/jinritemai/docs/19" />
+    </outline>
+  </body>
+</opml>

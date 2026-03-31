@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Notefolio</title>
+  </head>
+  <body>
+    <outline text="Notefolio" title="Notefolio">
+      <outline type="rss" text="Notefolio - Works" title="Notefolio - Works" xmlUrl="https://rsshub.gamepp.cf/notefolio/search/1/pick/all/life" />
+    </outline>
+  </body>
+</opml>

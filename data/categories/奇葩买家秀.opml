@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 奇葩买家秀</title>
+  </head>
+  <body>
+    <outline text="奇葩买家秀" title="奇葩买家秀">
+      <outline type="rss" text="奇葩买家秀 - 频道" title="奇葩买家秀 - 频道" xmlUrl="https://rsshub.gamepp.cf/qipamaijia/fuli" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南京信息工程大学</title>
+  </head>
+  <body>
+    <outline text="南京信息工程大学" title="南京信息工程大学">
+      <outline type="rss" text="南京信息工程大学 - 南信大信息公告栏" title="南京信息工程大学 - 南信大信息公告栏" xmlUrl="https://rsshub.gamepp.cf/nuist/bulletin/wjgg" />
+      <outline type="rss" text="南京信息工程大学 - NUIST AS（南信大大气科学学院）" title="南京信息工程大学 - NUIST AS（南信大大气科学学院）" xmlUrl="https://rsshub.gamepp.cf/nuist/cas/xxgg" />
+      <outline type="rss" text="南京信息工程大学 - 教务处" title="南京信息工程大学 - 教务处" xmlUrl="https://rsshub.gamepp.cf/nuist/jwc/jxyw" />
+      <outline type="rss" text="南京信息工程大学 - NUIST CS（南信大计软院）" title="南京信息工程大学 - NUIST CS（南信大计软院）" xmlUrl="https://rsshub.gamepp.cf/nuist/scs/xwkx" />
+      <outline type="rss" text="南京信息工程大学 - NUIST ESE（南信大环科院）" title="南京信息工程大学 - NUIST ESE（南信大环科院）" xmlUrl="https://rsshub.gamepp.cf/nuist/sese/tzgg1" />
+      <outline type="rss" text="南京信息工程大学 - 南信大学生工作处" title="南京信息工程大学 - 南信大学生工作处" xmlUrl="https://rsshub.gamepp.cf/nuist/xgc" />
+    </outline>
+  </body>
+</opml>

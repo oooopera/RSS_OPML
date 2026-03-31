@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Readwise</title>
+  </head>
+  <body>
+    <outline text="Readwise" title="Readwise">
+      <outline type="rss" text="Readwise - Reader Document List" title="Readwise - Reader Document List" xmlUrl="https://rsshub.gamepp.cf/readwise/list/location=new&amp;category=article" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 清华大学</title>
+  </head>
+  <body>
+    <outline text="清华大学" title="清华大学">
+      <outline type="rss" text="清华大学 - 图书馆通知公告" title="清华大学 - 图书馆通知公告" xmlUrl="https://rsshub.gamepp.cf/tsinghua/lib/tzgg/qtkx" />
+      <outline type="rss" text="清华大学 - 图书馆资源动态" title="清华大学 - 图书馆资源动态" xmlUrl="https://rsshub.gamepp.cf/tsinghua/lib/zydt" />
+      <outline type="rss" text="清华大学 - 清华新闻" title="清华大学 - 清华新闻" xmlUrl="https://rsshub.gamepp.cf/tsinghua/news" />
+    </outline>
+  </body>
+</opml>

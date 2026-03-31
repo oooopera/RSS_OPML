@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 共产党员网</title>
+  </head>
+  <body>
+    <outline text="共产党员网" title="共产党员网">
+      <outline type="rss" text="共产党员网 - 最新发布" title="共产党员网 - 最新发布" xmlUrl="https://rsshub.gamepp.cf/12371/zxfb" />
+    </outline>
+  </body>
+</opml>

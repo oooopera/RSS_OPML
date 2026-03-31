@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Radio-Canada.ca</title>
+  </head>
+  <body>
+    <outline text="Radio-Canada.ca" title="Radio-Canada.ca">
+      <outline type="rss" text="Radio-Canada.ca - Latest News" title="Radio-Canada.ca - Latest News" xmlUrl="https://rsshub.gamepp.cf/radio-canada/latest" />
+    </outline>
+  </body>
+</opml>

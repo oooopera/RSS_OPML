@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Yonhap News Agency</title>
+  </head>
+  <body>
+    <outline text="Yonhap News Agency" title="Yonhap News Agency">
+      <outline type="rss" text="Yonhap News Agency - News" title="Yonhap News Agency - News" xmlUrl="https://rsshub.gamepp.cf/yna/en/national" />
+    </outline>
+  </body>
+</opml>

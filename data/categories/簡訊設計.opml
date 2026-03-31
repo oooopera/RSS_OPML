@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 簡訊設計</title>
+  </head>
+  <body>
+    <outline text="簡訊設計" title="簡訊設計">
+      <outline type="rss" text="簡訊設計 - 志祺七七" title="簡訊設計 - 志祺七七" xmlUrl="https://rsshub.gamepp.cf/simpleinfo" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - National Yang Ming Chiao Tung University</title>
+  </head>
+  <body>
+    <outline text="National Yang Ming Chiao Tung University" title="National Yang Ming Chiao Tung University">
+      <outline type="rss" text="National Yang Ming Chiao Tung University - 教務處公告" title="National Yang Ming Chiao Tung University - 教務處公告" xmlUrl="https://rsshub.gamepp.cf/nycu/aa/2652" />
+      <outline type="rss" text="National Yang Ming Chiao Tung University - 校園公告" title="National Yang Ming Chiao Tung University - 校園公告" xmlUrl="https://rsshub.gamepp.cf/nycu/announcement/5" />
+      <outline type="rss" text="National Yang Ming Chiao Tung University - 資訊學院公告" title="National Yang Ming Chiao Tung University - 資訊學院公告" xmlUrl="https://rsshub.gamepp.cf/nycu/cs/all" />
+      <outline type="rss" text="National Yang Ming Chiao Tung University - 學務處公告" title="National Yang Ming Chiao Tung University - 學務處公告" xmlUrl="https://rsshub.gamepp.cf/nycu/osa/2844" />
+    </outline>
+  </body>
+</opml>

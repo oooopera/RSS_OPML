@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 78 动漫</title>
+  </head>
+  <body>
+    <outline text="78 动漫" title="78 动漫">
+      <outline type="rss" text="78 动漫 - 分类" title="78 动漫 - 分类" xmlUrl="https://rsshub.gamepp.cf/78dm/news" />
+    </outline>
+  </body>
+</opml>

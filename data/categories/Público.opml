@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Público</title>
+  </head>
+  <body>
+    <outline text="Público" title="Público">
+      <outline type="rss" text="Público - Ciencias" title="Público - Ciencias" xmlUrl="https://rsshub.gamepp.cf/publico/ciencias" />
+      <outline type="rss" text="Público - Culturas" title="Público - Culturas" xmlUrl="https://rsshub.gamepp.cf/publico/culturas" />
+      <outline type="rss" text="Público - Economia" title="Público - Economia" xmlUrl="https://rsshub.gamepp.cf/publico/economia" />
+      <outline type="rss" text="Público - Internacional" title="Público - Internacional" xmlUrl="https://rsshub.gamepp.cf/publico/internacional" />
+      <outline type="rss" text="Público - Mujer" title="Público - Mujer" xmlUrl="https://rsshub.gamepp.cf/publico/mujer" />
+      <outline type="rss" text="Público - Opinión" title="Público - Opinión" xmlUrl="https://rsshub.gamepp.cf/publico/opinion" />
+      <outline type="rss" text="Público - Política" title="Público - Política" xmlUrl="https://rsshub.gamepp.cf/publico/politica" />
+      <outline type="rss" text="Público - Public" title="Público - Public" xmlUrl="https://rsshub.gamepp.cf/publico/public" />
+      <outline type="rss" text="Público - Sociedad" title="Público - Sociedad" xmlUrl="https://rsshub.gamepp.cf/publico/sociedad" />
+      <outline type="rss" text="Público - Tremending" title="Público - Tremending" xmlUrl="https://rsshub.gamepp.cf/publico/tremending" />
+    </outline>
+  </body>
+</opml>

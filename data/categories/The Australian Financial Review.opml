@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - The Australian Financial Review</title>
+  </head>
+  <body>
+    <outline text="The Australian Financial Review" title="The Australian Financial Review">
+      <outline type="rss" text="The Australian Financial Review - Latest" title="The Australian Financial Review - Latest" xmlUrl="https://rsshub.gamepp.cf/afr/latest" />
+      <outline type="rss" text="The Australian Financial Review - Navigation" title="The Australian Financial Review - Navigation" xmlUrl="https://rsshub.gamepp.cf/afr/navigation/markets" />
+    </outline>
+  </body>
+</opml>

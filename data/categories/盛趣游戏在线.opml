@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 盛趣游戏在线</title>
+  </head>
+  <body>
+    <outline text="盛趣游戏在线" title="盛趣游戏在线">
+      <outline type="rss" text="盛趣游戏在线 - 帖子" title="盛趣游戏在线 - 帖子" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/posts/all/hot" />
+      <outline type="rss" text="盛趣游戏在线 - 攻略" title="盛趣游戏在线 - 攻略" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/strats/1,2/refine" />
+      <outline type="rss" text="盛趣游戏在线 - 时间线" title="盛趣游戏在线 - 时间线" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/timeline" />
+      <outline type="rss" text="盛趣游戏在线 - 用户动态" title="盛趣游戏在线 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-dynamics/10001226" />
+      <outline type="rss" text="盛趣游戏在线 - 用户发帖" title="盛趣游戏在线 - 用户发帖" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-posts/10001226" />
+      <outline type="rss" text="盛趣游戏在线 - 游戏近况" title="盛趣游戏在线 - 游戏近况" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-resently/10008214" />
+      <outline type="rss" text="盛趣游戏在线 - 用户攻略" title="盛趣游戏在线 - 用户攻略" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-strats/10001226" />
+    </outline>
+  </body>
+</opml>

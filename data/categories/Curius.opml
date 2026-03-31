@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Curius</title>
+  </head>
+  <body>
+    <outline text="Curius" title="Curius">
+      <outline type="rss" text="Curius - User" title="Curius - User" xmlUrl="https://rsshub.gamepp.cf/curius/links/yuu-yuu" />
+    </outline>
+  </body>
+</opml>

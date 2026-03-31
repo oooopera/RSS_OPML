@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - S&amp;P Global</title>
+  </head>
+  <body>
+    <outline text="S&amp;P Global" title="S&amp;P Global">
+      <outline type="rss" text="S&amp;P Global - Ratings" title="S&amp;P Global - Ratings" xmlUrl="https://rsshub.gamepp.cf/spglobal/ratings/en" />
+    </outline>
+  </body>
+</opml>

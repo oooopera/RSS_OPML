@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 上海海事大学</title>
+  </head>
+  <body>
+    <outline text="上海海事大学" title="上海海事大学">
+      <outline type="rss" text="上海海事大学 - 教务信息" title="上海海事大学 - 教务信息" xmlUrl="https://rsshub.gamepp.cf/shmtu/jwc/jwgg" />
+      <outline type="rss" text="上海海事大学 - 数字平台" title="上海海事大学 - 数字平台" xmlUrl="https://rsshub.gamepp.cf/shmtu/portal/bmtzgg" />
+      <outline type="rss" text="上海海事大学 - 官网信息" title="上海海事大学 - 官网信息" xmlUrl="https://rsshub.gamepp.cf/shmtu/www/events" />
+    </outline>
+  </body>
+</opml>

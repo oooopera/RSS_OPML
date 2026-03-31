@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Cohere</title>
+  </head>
+  <body>
+    <outline text="Cohere" title="Cohere">
+      <outline type="rss" text="Cohere - Blog" title="Cohere - Blog" xmlUrl="https://rsshub.gamepp.cf/cohere/blog" />
+    </outline>
+  </body>
+</opml>

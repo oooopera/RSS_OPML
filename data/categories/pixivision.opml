@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - pixivision</title>
+  </head>
+  <body>
+    <outline text="pixivision" title="pixivision">
+      <outline type="rss" text="pixivision - Category" title="pixivision - Category" xmlUrl="https://rsshub.gamepp.cf/pixivision/zh-tw" />
+    </outline>
+  </body>
+</opml>

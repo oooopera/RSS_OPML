@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Carnegie Mellon University</title>
+  </head>
+  <body>
+    <outline text="Carnegie Mellon University" title="Carnegie Mellon University">
+      <outline type="rss" text="Carnegie Mellon University - Andy Pavlo Blog" title="Carnegie Mellon University - Andy Pavlo Blog" xmlUrl="https://rsshub.gamepp.cf/cmu/andypavlo/blog" />
+    </outline>
+  </body>
+</opml>

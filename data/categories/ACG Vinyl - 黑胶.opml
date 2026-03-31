@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - ACG Vinyl - 黑胶</title>
+  </head>
+  <body>
+    <outline text="ACG Vinyl - 黑胶" title="ACG Vinyl - 黑胶">
+      <outline type="rss" text="ACG Vinyl - 黑胶 - News" title="ACG Vinyl - 黑胶 - News" xmlUrl="https://rsshub.gamepp.cf/news" />
+    </outline>
+  </body>
+</opml>

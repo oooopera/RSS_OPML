@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 牛客网</title>
+  </head>
+  <body>
+    <outline text="牛客网" title="牛客网">
+      <outline type="rss" text="牛客网 - 牛客热榜" title="牛客网 - 牛客热榜" xmlUrl="https://rsshub.gamepp.cf/nowcoder/hots/1?limit=20" />
+      <outline type="rss" text="牛客网 - 牛客面试经验" title="牛客网 - 牛客面试经验" xmlUrl="https://rsshub.gamepp.cf/nowcoder/interview/11200" />
+      <outline type="rss" text="牛客网 - 求职推荐" title="牛客网 - 求职推荐" xmlUrl="https://rsshub.gamepp.cf/nowcoder/recommend" />
+      <outline type="rss" text="牛客网 - 校招日程" title="牛客网 - 校招日程" xmlUrl="https://rsshub.gamepp.cf/nowcoder/schedule" />
+      <outline type="rss" text="牛客网 - 讨论区" title="牛客网 - 讨论区" xmlUrl="https://rsshub.gamepp.cf/nowcoder/discuss/2/4" />
+      <outline type="rss" text="牛客网 - 面经" title="牛客网 - 面经" xmlUrl="https://rsshub.gamepp.cf/nowcoder/experience/639?order=3&amp;companyId=665&amp;phaseId=0" />
+      <outline type="rss" text="牛客网 - 实习广场 &amp; 社招广场" title="牛客网 - 实习广场 &amp; 社招广场" xmlUrl="https://rsshub.gamepp.cf/nowcoder/jobcenter/1/北京/1/1/true" />
+    </outline>
+  </body>
+</opml>

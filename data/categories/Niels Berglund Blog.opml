@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Niels Berglund Blog</title>
+  </head>
+  <body>
+    <outline text="Niels Berglund Blog" title="Niels Berglund Blog">
+      <outline type="rss" text="Niels Berglund Blog - Blog" title="Niels Berglund Blog - Blog" xmlUrl="https://rsshub.gamepp.cf/nielsberglund/blog" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 雷峰网</title>
+  </head>
+  <body>
+    <outline text="雷峰网" title="雷峰网">
+      <outline type="rss" text="雷峰网 - 业界资讯" title="雷峰网 - 业界资讯" xmlUrl="https://rsshub.gamepp.cf/leiphone/newsflash" />
+    </outline>
+  </body>
+</opml>

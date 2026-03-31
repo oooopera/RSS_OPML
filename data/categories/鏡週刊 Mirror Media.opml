@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 鏡週刊 Mirror Media</title>
+  </head>
+  <body>
+    <outline text="鏡週刊 Mirror Media" title="鏡週刊 Mirror Media">
+      <outline type="rss" text="鏡週刊 Mirror Media - 分类" title="鏡週刊 Mirror Media - 分类" xmlUrl="https://rsshub.gamepp.cf/mirrormedia/category/political" />
+      <outline type="rss" text="鏡週刊 Mirror Media - 首页" title="鏡週刊 Mirror Media - 首页" xmlUrl="https://rsshub.gamepp.cf/mirrormedia" />
+    </outline>
+  </body>
+</opml>

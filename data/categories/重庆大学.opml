@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 重庆大学</title>
+  </head>
+  <body>
+    <outline text="重庆大学" title="重庆大学">
+      <outline type="rss" text="重庆大学 - 本科教学信息网通知" title="重庆大学 - 本科教学信息网通知" xmlUrl="https://rsshub.gamepp.cf/cqu/jwc/index/tzgg" />
+    </outline>
+  </body>
+</opml>

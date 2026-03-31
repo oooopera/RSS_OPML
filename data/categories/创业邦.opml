@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 创业邦</title>
+  </head>
+  <body>
+    <outline text="创业邦" title="创业邦">
+      <outline type="rss" text="创业邦 - 作者" title="创业邦 - 作者" xmlUrl="https://rsshub.gamepp.cf/cyzone/author/1225562" />
+      <outline type="rss" text="创业邦 - 标签" title="创业邦 - 标签" xmlUrl="https://rsshub.gamepp.cf/cyzone/label/创业邦周报" />
+    </outline>
+  </body>
+</opml>

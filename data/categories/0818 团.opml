@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 0818 团</title>
+  </head>
+  <body>
+    <outline text="0818 团" title="0818 团">
+      <outline type="rss" text="0818 团 - 分类" title="0818 团 - 分类" xmlUrl="https://rsshub.gamepp.cf/0818tuan" />
+    </outline>
+  </body>
+</opml>

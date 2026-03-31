@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 北京化工大学</title>
+  </head>
+  <body>
+    <outline text="北京化工大学" title="北京化工大学">
+      <outline type="rss" text="北京化工大学 - 信息学院" title="北京化工大学 - 信息学院" xmlUrl="https://rsshub.gamepp.cf/buct/cist" />
+      <outline type="rss" text="北京化工大学 - 研究生院" title="北京化工大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/buct/gr/jzml" />
+      <outline type="rss" text="北京化工大学 - 教务处" title="北京化工大学 - 教务处" xmlUrl="https://rsshub.gamepp.cf/buct/jwc" />
+    </outline>
+  </body>
+</opml>

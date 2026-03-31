@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 哈尔滨理工大学</title>
+  </head>
+  <body>
+    <outline text="哈尔滨理工大学" title="哈尔滨理工大学">
+      <outline type="rss" text="哈尔滨理工大学 - 计算机学院" title="哈尔滨理工大学 - 计算机学院" xmlUrl="https://rsshub.gamepp.cf/hrbust/cs" />
+      <outline type="rss" text="哈尔滨理工大学 - 国有资产管理处" title="哈尔滨理工大学 - 国有资产管理处" xmlUrl="https://rsshub.gamepp.cf/hrbust/gzc" />
+      <outline type="rss" text="哈尔滨理工大学 - 教务处" title="哈尔滨理工大学 - 教务处" xmlUrl="https://rsshub.gamepp.cf/hrbust/jwzx" />
+      <outline type="rss" text="哈尔滨理工大学 - 图书馆" title="哈尔滨理工大学 - 图书馆" xmlUrl="https://rsshub.gamepp.cf/hrbust/lib" />
+      <outline type="rss" text="哈尔滨理工大学 - 新闻网" title="哈尔滨理工大学 - 新闻网" xmlUrl="https://rsshub.gamepp.cf/hrbust/news" />
+      <outline type="rss" text="哈尔滨理工大学 - 网络信息中心" title="哈尔滨理工大学 - 网络信息中心" xmlUrl="https://rsshub.gamepp.cf/hrbust/nic" />
+    </outline>
+  </body>
+</opml>

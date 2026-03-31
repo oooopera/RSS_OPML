@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 爱果果</title>
+  </head>
+  <body>
+    <outline text="爱果果" title="爱果果">
+      <outline type="rss" text="爱果果 - 最新 H5" title="爱果果 - 最新 H5" xmlUrl="https://rsshub.gamepp.cf/iguoguo/html5" />
+    </outline>
+  </body>
+</opml>

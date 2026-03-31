@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中伦律师事务所</title>
+  </head>
+  <body>
+    <outline text="中伦律师事务所" title="中伦律师事务所">
+      <outline type="rss" text="中伦律师事务所 - 中伦研究专业文章" title="中伦律师事务所 - 中伦研究专业文章" xmlUrl="https://rsshub.gamepp.cf/zhonglun/research/article/zh" />
+    </outline>
+  </body>
+</opml>

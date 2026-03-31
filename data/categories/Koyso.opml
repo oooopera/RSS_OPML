@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Koyso</title>
+  </head>
+  <body>
+    <outline text="Koyso" title="Koyso">
+      <outline type="rss" text="Koyso - 游戏" title="Koyso - 游戏" xmlUrl="https://rsshub.gamepp.cf/koyso/0/latest" />
+    </outline>
+  </body>
+</opml>

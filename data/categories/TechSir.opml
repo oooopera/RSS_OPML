@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - TechSir</title>
+  </head>
+  <body>
+    <outline text="TechSir" title="TechSir">
+      <outline type="rss" text="TechSir - 最新资讯" title="TechSir - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/techsir" />
+    </outline>
+  </body>
+</opml>

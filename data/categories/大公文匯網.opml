@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 大公文匯網</title>
+  </head>
+  <body>
+    <outline text="大公文匯網" title="大公文匯網">
+      <outline type="rss" text="大公文匯網 - 新聞" title="大公文匯網 - 新聞" xmlUrl="https://rsshub.gamepp.cf/tkww/hong_kong" />
+    </outline>
+  </body>
+</opml>

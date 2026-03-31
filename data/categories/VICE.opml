@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - VICE</title>
+  </head>
+  <body>
+    <outline text="VICE" title="VICE">
+      <outline type="rss" text="VICE - Topic" title="VICE - Topic" xmlUrl="https://rsshub.gamepp.cf/vice/topic/politics/en" />
+    </outline>
+  </body>
+</opml>

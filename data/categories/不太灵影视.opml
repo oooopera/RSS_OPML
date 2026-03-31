@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 不太灵影视</title>
+  </head>
+  <body>
+    <outline text="不太灵影视" title="不太灵影视">
+      <outline type="rss" text="不太灵影视 - 影视资源下载列表" title="不太灵影视 - 影视资源下载列表" xmlUrl="https://rsshub.gamepp.cf/bt0/mv/35575567/2" />
+      <outline type="rss" text="不太灵影视 - 最新资源列表" title="不太灵影视 - 最新资源列表" xmlUrl="https://rsshub.gamepp.cf/bt0/tlist/1" />
+    </outline>
+  </body>
+</opml>

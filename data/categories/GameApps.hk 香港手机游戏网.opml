@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - GameApps.hk 香港手机游戏网</title>
+  </head>
+  <body>
+    <outline text="GameApps.hk 香港手机游戏网" title="GameApps.hk 香港手机游戏网">
+      <outline type="rss" text="GameApps.hk 香港手机游戏网 - 最新消息" title="GameApps.hk 香港手机游戏网 - 最新消息" xmlUrl="https://rsshub.gamepp.cf/gameapps" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Medium</title>
+  </head>
+  <body>
+    <outline text="Medium" title="Medium">
+      <outline type="rss" text="Medium - Medium Feed" title="Medium - Medium Feed" xmlUrl="https://rsshub.gamepp.cf/medium/feed/zhgchgli" />
+      <outline type="rss" text="Medium - Personalized Recommendations - Following" title="Medium - Personalized Recommendations - Following" xmlUrl="https://rsshub.gamepp.cf/medium/following/imsingee" />
+      <outline type="rss" text="Medium - Personalized Recommendations - For You" title="Medium - Personalized Recommendations - For You" xmlUrl="https://rsshub.gamepp.cf/medium/for-you/imsingee" />
+      <outline type="rss" text="Medium - List" title="Medium - List" xmlUrl="https://rsshub.gamepp.cf/medium/list/imsingee/f2d8d48096a9" />
+      <outline type="rss" text="Medium - Personalized Recommendations - Tag" title="Medium - Personalized Recommendations - Tag" xmlUrl="https://rsshub.gamepp.cf/medium/tag/imsingee/cybersecurity" />
+    </outline>
+  </body>
+</opml>

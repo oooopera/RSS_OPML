@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Yahoo</title>
+  </head>
+  <body>
+    <outline text="Yahoo" title="Yahoo">
+      <outline type="rss" text="Yahoo - News" title="Yahoo - News" xmlUrl="https://rsshub.gamepp.cf/yahoo/news/hk/world" />
+      <outline type="rss" text="Yahoo - 合作媒體" title="Yahoo - 合作媒體" xmlUrl="https://rsshub.gamepp.cf/yahoo/news/list/hk/09fcf7b0-0ab2-11e8-bf1f-4d52d4f79454" />
+      <outline type="rss" text="Yahoo - 新聞來源列表" title="Yahoo - 新聞來源列表" xmlUrl="https://rsshub.gamepp.cf/yahoo/news/providers/tw/list" />
+      <outline type="rss" text="Yahoo - 新聞來源" title="Yahoo - 新聞來源" xmlUrl="https://rsshub.gamepp.cf/yahoo/news/provider/tw/yahoo_tech_tw_942" />
+    </outline>
+  </body>
+</opml>

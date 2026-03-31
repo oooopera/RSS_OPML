@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Vimeo</title>
+  </head>
+  <body>
+    <outline text="Vimeo" title="Vimeo">
+      <outline type="rss" text="Vimeo - User Profile" title="Vimeo - User Profile" xmlUrl="https://rsshub.gamepp.cf/vimeo/user/filmsupply/picks" />
+      <outline type="rss" text="Vimeo - Category" title="Vimeo - Category" xmlUrl="https://rsshub.gamepp.cf/vimeo/category/documentary/staffpicks" />
+      <outline type="rss" text="Vimeo - Channel" title="Vimeo - Channel" xmlUrl="https://rsshub.gamepp.cf/vimeo/channel/bestoftheyear" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 超星</title>
+  </head>
+  <body>
+    <outline text="超星" title="超星">
+      <outline type="rss" text="超星 - 期刊" title="超星 - 期刊" xmlUrl="https://rsshub.gamepp.cf/chaoxing/qk/6b5c39b3dd84352be512e29df0297437" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - CUPL</title>
+  </head>
+  <body>
+    <outline text="CUPL" title="CUPL">
+      <outline type="rss" text="CUPL - 教务处通知公告" title="CUPL - 教务处通知公告" xmlUrl="https://rsshub.gamepp.cf/cupl/jwc" />
+    </outline>
+  </body>
+</opml>

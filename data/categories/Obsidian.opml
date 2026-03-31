@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Obsidian</title>
+  </head>
+  <body>
+    <outline text="Obsidian" title="Obsidian">
+      <outline type="rss" text="Obsidian - Obsidian Plugins" title="Obsidian - Obsidian Plugins" xmlUrl="https://rsshub.gamepp.cf/obsidian/plugins" />
+      <outline type="rss" text="Obsidian - Publish" title="Obsidian - Publish" xmlUrl="https://rsshub.gamepp.cf/obsidian/publish/marshallontheroad" />
+    </outline>
+  </body>
+</opml>

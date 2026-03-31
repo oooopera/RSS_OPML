@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hanime1</title>
+  </head>
+  <body>
+    <outline text="Hanime1" title="Hanime1">
+      <outline type="rss" text="Hanime1 - 每月新番" title="Hanime1 - 每月新番" xmlUrl="https://rsshub.gamepp.cf/hanime1/previews/202504" />
+      <outline type="rss" text="Hanime1 - 搜索结果" title="Hanime1 - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/hanime1/search/tags%5B%5D=%E7%B4%94%E6%84%9B&amp;" />
+    </outline>
+  </body>
+</opml>

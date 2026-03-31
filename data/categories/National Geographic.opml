@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - National Geographic</title>
+  </head>
+  <body>
+    <outline text="National Geographic" title="National Geographic">
+      <outline type="rss" text="National Geographic - Daily Selection" title="National Geographic - Daily Selection" xmlUrl="https://rsshub.gamepp.cf/natgeo/dailyselection" />
+      <outline type="rss" text="National Geographic - Daily Photo" title="National Geographic - Daily Photo" xmlUrl="https://rsshub.gamepp.cf/natgeo/dailyphoto" />
+      <outline type="rss" text="National Geographic - 分类" title="National Geographic - 分类" xmlUrl="https://rsshub.gamepp.cf/natgeo/environment/article" />
+      <outline type="rss" text="National Geographic - Latest Stories" title="National Geographic - Latest Stories" xmlUrl="https://rsshub.gamepp.cf/nationalgeographic/latest-stories" />
+    </outline>
+  </body>
+</opml>

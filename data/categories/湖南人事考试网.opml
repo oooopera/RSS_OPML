@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 湖南人事考试网</title>
+  </head>
+  <body>
+    <outline text="湖南人事考试网" title="湖南人事考试网">
+      <outline type="rss" text="湖南人事考试网 - 公告" title="湖南人事考试网 - 公告" xmlUrl="https://rsshub.gamepp.cf/hunanpea/rsks/2f1a6239-b4dc-491b-92af-7d95e0f0543e" />
+    </outline>
+  </body>
+</opml>

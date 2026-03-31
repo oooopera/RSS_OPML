@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Trending Papers</title>
+  </head>
+  <body>
+    <outline text="Trending Papers" title="Trending Papers">
+      <outline type="rss" text="Trending Papers - Trending Papers on arXiv" title="Trending Papers - Trending Papers on arXiv" xmlUrl="https://rsshub.gamepp.cf/trendingpapers/papers" />
+    </outline>
+  </body>
+</opml>

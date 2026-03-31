@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 小米</title>
+  </head>
+  <body>
+    <outline text="小米" title="小米">
+      <outline type="rss" text="小米 - 小米应用商店金米奖" title="小米 - 小米应用商店金米奖" xmlUrl="https://rsshub.gamepp.cf/mi/golden" />
+      <outline type="rss" text="小米 - 小米众筹" title="小米 - 小米众筹" xmlUrl="https://rsshub.gamepp.cf/mi/crowdfunding" />
+    </outline>
+  </body>
+</opml>

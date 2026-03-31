@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - CPUID</title>
+  </head>
+  <body>
+    <outline text="CPUID" title="CPUID">
+      <outline type="rss" text="CPUID - News" title="CPUID - News" xmlUrl="https://rsshub.gamepp.cf/cpuid/news" />
+    </outline>
+  </body>
+</opml>

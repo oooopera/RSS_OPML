@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 游侠网</title>
+  </head>
+  <body>
+    <outline text="游侠网" title="游侠网">
+      <outline type="rss" text="游侠网 - 资讯" title="游侠网 - 资讯" xmlUrl="https://rsshub.gamepp.cf/ali213/news/new" />
+      <outline type="rss" text="游侠网 - 大侠号" title="游侠网 - 大侠号" xmlUrl="https://rsshub.gamepp.cf/ali213/zl" />
+    </outline>
+  </body>
+</opml>

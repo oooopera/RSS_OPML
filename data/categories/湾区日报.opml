@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 湾区日报</title>
+  </head>
+  <body>
+    <outline text="湾区日报" title="湾区日报">
+      <outline type="rss" text="湾区日报 - 最新推荐" title="湾区日报 - 最新推荐" xmlUrl="https://rsshub.gamepp.cf/wanqu/news" />
+    </outline>
+  </body>
+</opml>

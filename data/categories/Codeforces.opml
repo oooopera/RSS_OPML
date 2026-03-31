@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Codeforces</title>
+  </head>
+  <body>
+    <outline text="Codeforces" title="Codeforces">
+      <outline type="rss" text="Codeforces - Latest contests" title="Codeforces - Latest contests" xmlUrl="https://rsshub.gamepp.cf/codeforces/contests" />
+      <outline type="rss" text="Codeforces - Recent actions" title="Codeforces - Recent actions" xmlUrl="https://rsshub.gamepp.cf/codeforces/recent-actions" />
+    </outline>
+  </body>
+</opml>

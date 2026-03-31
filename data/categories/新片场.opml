@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 新片场</title>
+  </head>
+  <body>
+    <outline text="新片场" title="新片场">
+      <outline type="rss" text="新片场 - 发现" title="新片场 - 发现" xmlUrl="https://rsshub.gamepp.cf/xinpianchang/discover" />
+      <outline type="rss" text="新片场 - 排行榜" title="新片场 - 排行榜" xmlUrl="https://rsshub.gamepp.cf/xinpianchang/rank" />
+    </outline>
+  </body>
+</opml>

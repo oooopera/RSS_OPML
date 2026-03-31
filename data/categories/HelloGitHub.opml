@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - HelloGitHub</title>
+  </head>
+  <body>
+    <outline text="HelloGitHub" title="HelloGitHub">
+      <outline type="rss" text="HelloGitHub - 文章" title="HelloGitHub - 文章" xmlUrl="https://rsshub.gamepp.cf/hellogithub/article" />
+      <outline type="rss" text="HelloGitHub - 榜单报告" title="HelloGitHub - 榜单报告" xmlUrl="https://rsshub.gamepp.cf/hellogithub/ranking" />
+      <outline type="rss" text="HelloGitHub - 开源项目" title="HelloGitHub - 开源项目" xmlUrl="https://rsshub.gamepp.cf/hellogithub/home" />
+      <outline type="rss" text="HelloGitHub - 月刊" title="HelloGitHub - 月刊" xmlUrl="https://rsshub.gamepp.cf/hellogithub/volume" />
+    </outline>
+  </body>
+</opml>

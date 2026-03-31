@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - JavTrailers</title>
+  </head>
+  <body>
+    <outline text="JavTrailers" title="JavTrailers">
+      <outline type="rss" text="JavTrailers - Casts" title="JavTrailers - Casts" xmlUrl="https://rsshub.gamepp.cf/javtrailers/casts/hibiki-otsuki" />
+      <outline type="rss" text="JavTrailers - Categories" title="JavTrailers - Categories" xmlUrl="https://rsshub.gamepp.cf/javtrailers/categories/50001755" />
+      <outline type="rss" text="JavTrailers - Studios" title="JavTrailers - Studios" xmlUrl="https://rsshub.gamepp.cf/javtrailers/studios/s1-no-1-style" />
+    </outline>
+  </body>
+</opml>

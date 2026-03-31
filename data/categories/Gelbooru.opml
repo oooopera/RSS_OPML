@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Gelbooru</title>
+  </head>
+  <body>
+    <outline text="Gelbooru" title="Gelbooru">
+      <outline type="rss" text="Gelbooru - 标签查询" title="Gelbooru - 标签查询" xmlUrl="https://rsshub.gamepp.cf/gelbooru/post/1girl rating:general" />
+    </outline>
+  </body>
+</opml>

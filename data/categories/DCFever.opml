@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - DCFever</title>
+  </head>
+  <body>
+    <outline text="DCFever" title="DCFever">
+      <outline type="rss" text="DCFever - 新聞中心" title="DCFever - 新聞中心" xmlUrl="https://rsshub.gamepp.cf/dcfever/news" />
+      <outline type="rss" text="DCFever - 測試報告" title="DCFever - 測試報告" xmlUrl="https://rsshub.gamepp.cf/dcfever/reviews/cameras" />
+      <outline type="rss" text="DCFever - 二手市集 - 物品搜尋" title="DCFever - 二手市集 - 物品搜尋" xmlUrl="https://rsshub.gamepp.cf/dcfever/trading/search/Sony" />
+      <outline type="rss" text="DCFever - 二手市集" title="DCFever - 二手市集" xmlUrl="https://rsshub.gamepp.cf/dcfever/trading/1" />
+    </outline>
+  </body>
+</opml>

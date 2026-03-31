@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Capitalmind</title>
+  </head>
+  <body>
+    <outline text="Capitalmind" title="Capitalmind">
+      <outline type="rss" text="Capitalmind - Insights" title="Capitalmind - Insights" xmlUrl="https://rsshub.gamepp.cf/capitalmind/insights" />
+      <outline type="rss" text="Capitalmind - Podcasts" title="Capitalmind - Podcasts" xmlUrl="https://rsshub.gamepp.cf/capitalmind/podcasts" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Quanta Magazine</title>
+  </head>
+  <body>
+    <outline text="Quanta Magazine" title="Quanta Magazine">
+      <outline type="rss" text="Quanta Magazine - Archive" title="Quanta Magazine - Archive" xmlUrl="https://rsshub.gamepp.cf/quantamagazine/archive" />
+    </outline>
+  </body>
+</opml>

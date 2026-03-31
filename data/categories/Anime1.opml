@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Anime1</title>
+  </head>
+  <body>
+    <outline text="Anime1" title="Anime1">
+      <outline type="rss" text="Anime1 - Anime" title="Anime1 - Anime" xmlUrl="https://rsshub.gamepp.cf/anime1/anime/2024年夏季/神之塔-第二季" />
+      <outline type="rss" text="Anime1 - Search" title="Anime1 - Search" xmlUrl="https://rsshub.gamepp.cf/anime1/search/神之塔" />
+    </outline>
+  </body>
+</opml>

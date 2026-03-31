@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Azul</title>
+  </head>
+  <body>
+    <outline text="Azul" title="Azul">
+      <outline type="rss" text="Azul - Downloads" title="Azul - Downloads" xmlUrl="https://rsshub.gamepp.cf/azul/downloads" />
+    </outline>
+  </body>
+</opml>

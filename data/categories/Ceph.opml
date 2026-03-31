@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Ceph</title>
+  </head>
+  <body>
+    <outline text="Ceph" title="Ceph">
+      <outline type="rss" text="Ceph - Blog" title="Ceph - Blog" xmlUrl="https://rsshub.gamepp.cf/ceph/blog/a11y" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - cognition</title>
+  </head>
+  <body>
+    <outline text="cognition" title="cognition">
+      <outline type="rss" text="cognition - Blog" title="cognition - Blog" xmlUrl="https://rsshub.gamepp.cf/cognition/blog" />
+    </outline>
+  </body>
+</opml>

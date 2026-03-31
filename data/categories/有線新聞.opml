@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 有線新聞</title>
+  </head>
+  <body>
+    <outline text="有線新聞" title="有線新聞">
+      <outline type="rss" text="有線新聞 - 新聞" title="有線新聞 - 新聞" xmlUrl="https://rsshub.gamepp.cf/i-cable/news" />
+    </outline>
+  </body>
+</opml>

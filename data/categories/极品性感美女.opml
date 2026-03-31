@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 极品性感美女</title>
+  </head>
+  <body>
+    <outline text="极品性感美女" title="极品性感美女">
+      <outline type="rss" text="极品性感美女 - 搜索" title="极品性感美女 - 搜索" xmlUrl="https://rsshub.gamepp.cf/jpxgmn/search/candy" />
+      <outline type="rss" text="极品性感美女 - 分类" title="极品性感美女 - 分类" xmlUrl="https://rsshub.gamepp.cf/jpxgmn/tab" />
+      <outline type="rss" text="极品性感美女 - 本周热门" title="极品性感美女 - 本周热门" xmlUrl="https://rsshub.gamepp.cf/jpxgmn/weekly" />
+    </outline>
+  </body>
+</opml>

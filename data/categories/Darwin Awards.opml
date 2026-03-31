@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Darwin Awards</title>
+  </head>
+  <body>
+    <outline text="Darwin Awards" title="Darwin Awards">
+      <outline type="rss" text="Darwin Awards - Award Winners" title="Darwin Awards - Award Winners" xmlUrl="https://rsshub.gamepp.cf/darwinawards" />
+    </outline>
+  </body>
+</opml>

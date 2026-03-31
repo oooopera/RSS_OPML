@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - JapanGov</title>
+  </head>
+  <body>
+    <outline text="JapanGov" title="JapanGov">
+      <outline type="rss" text="JapanGov - 感染症発生動向調査週報" title="JapanGov - 感染症発生動向調査週報" xmlUrl="https://rsshub.gamepp.cf/go/jihs/idwr/2025" />
+      <outline type="rss" text="JapanGov - PDF" title="JapanGov - PDF" xmlUrl="https://rsshub.gamepp.cf/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii" />
+    </outline>
+  </body>
+</opml>

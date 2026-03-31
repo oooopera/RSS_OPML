@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 远川研究所</title>
+  </head>
+  <body>
+    <outline text="远川研究所" title="远川研究所">
+      <outline type="rss" text="远川研究所 - 最新" title="远川研究所 - 最新" xmlUrl="https://rsshub.gamepp.cf/stream-capital/search" />
+    </outline>
+  </body>
+</opml>

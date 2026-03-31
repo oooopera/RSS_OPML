@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Daily.dev</title>
+  </head>
+  <body>
+    <outline text="Daily.dev" title="Daily.dev">
+      <outline type="rss" text="Daily.dev - Most Discussed" title="Daily.dev - Most Discussed" xmlUrl="https://rsshub.gamepp.cf/daily/discussed/30" />
+      <outline type="rss" text="Daily.dev - Popular" title="Daily.dev - Popular" xmlUrl="https://rsshub.gamepp.cf/daily/popular" />
+      <outline type="rss" text="Daily.dev - Source Posts" title="Daily.dev - Source Posts" xmlUrl="https://rsshub.gamepp.cf/daily/source/hn" />
+      <outline type="rss" text="Daily.dev - Squads" title="Daily.dev - Squads" xmlUrl="https://rsshub.gamepp.cf/daily/squads/watercooler" />
+      <outline type="rss" text="Daily.dev - Most upvoted" title="Daily.dev - Most upvoted" xmlUrl="https://rsshub.gamepp.cf/daily/upvoted/7" />
+      <outline type="rss" text="Daily.dev - User Posts" title="Daily.dev - User Posts" xmlUrl="https://rsshub.gamepp.cf/daily/user/kramer" />
+    </outline>
+  </body>
+</opml>

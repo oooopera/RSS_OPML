@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 通識・現代中國</title>
+  </head>
+  <body>
+    <outline text="通識・現代中國" title="通識・現代中國">
+      <outline type="rss" text="通識・現代中國 - 議題熱話" title="通識・現代中國 - 議題熱話" xmlUrl="https://rsshub.gamepp.cf/chiculture/topic" />
+    </outline>
+  </body>
+</opml>

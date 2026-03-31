@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 华北水利水电大学</title>
+  </head>
+  <body>
+    <outline text="华北水利水电大学" title="华北水利水电大学">
+      <outline type="rss" text="华北水利水电大学 - 学校通知" title="华北水利水电大学 - 学校通知" xmlUrl="https://rsshub.gamepp.cf/ncwu/notice" />
+    </outline>
+  </body>
+</opml>

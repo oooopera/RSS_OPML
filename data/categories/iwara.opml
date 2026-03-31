@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - iwara</title>
+  </head>
+  <body>
+    <outline text="iwara" title="iwara">
+      <outline type="rss" text="iwara - User" title="iwara - User" xmlUrl="https://rsshub.gamepp.cf/iwara/users/kelpie/video" />
+      <outline type="rss" text="iwara - Ranking" title="iwara - Ranking" xmlUrl="https://rsshub.gamepp.cf/iwara/ranking/video/date/ecchi" />
+      <outline type="rss" text="iwara - User Subscriptions" title="iwara - User Subscriptions" xmlUrl="https://rsshub.gamepp.cf/iwara/subscriptions" />
+    </outline>
+  </body>
+</opml>

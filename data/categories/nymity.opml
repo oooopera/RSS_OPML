@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - nymity</title>
+  </head>
+  <body>
+    <outline text="nymity" title="nymity">
+      <outline type="rss" text="nymity - CensorBib Updates" title="nymity - CensorBib Updates" xmlUrl="https://rsshub.gamepp.cf/nymity/censorbib" />
+    </outline>
+  </body>
+</opml>

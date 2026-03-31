@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - C114 通信网</title>
+  </head>
+  <body>
+    <outline text="C114 通信网" title="C114 通信网">
+      <outline type="rss" text="C114 通信网 - 滚动资讯" title="C114 通信网 - 滚动资讯" xmlUrl="https://rsshub.gamepp.cf/c114/roll" />
+    </outline>
+  </body>
+</opml>

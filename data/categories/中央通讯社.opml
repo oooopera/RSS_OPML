@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中央通讯社</title>
+  </head>
+  <body>
+    <outline text="中央通讯社" title="中央通讯社">
+      <outline type="rss" text="中央通讯社 - 分类 (网页爬虫方法)" title="中央通讯社 - 分类 (网页爬虫方法)" xmlUrl="https://rsshub.gamepp.cf/cna/web/aall" />
+      <outline type="rss" text="中央通讯社 - 分类" title="中央通讯社 - 分类" xmlUrl="https://rsshub.gamepp.cf/cna/aall" />
+    </outline>
+  </body>
+</opml>

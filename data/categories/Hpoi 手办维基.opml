@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Hpoi 手办维基</title>
+  </head>
+  <body>
+    <outline text="Hpoi 手办维基" title="Hpoi 手办维基">
+      <outline type="rss" text="Hpoi 手办维基 - 热门推荐" title="Hpoi 手办维基 - 热门推荐" xmlUrl="https://rsshub.gamepp.cf/hpoi/bannerItem" />
+      <outline type="rss" text="Hpoi 手办维基 - 情报" title="Hpoi 手办维基 - 情报" xmlUrl="https://rsshub.gamepp.cf/hpoi/info/all/hobby|model" />
+      <outline type="rss" text="Hpoi 手办维基 - 用户动态" title="Hpoi 手办维基 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/hpoi/user/116297/buy" />
+      <outline type="rss" text="Hpoi 手办维基 - 所有周边" title="Hpoi 手办维基 - 所有周边" xmlUrl="https://rsshub.gamepp.cf/hpoi/items/all" />
+      <outline type="rss" text="Hpoi 手办维基 - 角色周边" title="Hpoi 手办维基 - 角色周边" xmlUrl="https://rsshub.gamepp.cf/hpoi/items/character/1035374" />
+      <outline type="rss" text="Hpoi 手办维基 - 作品周边" title="Hpoi 手办维基 - 作品周边" xmlUrl="https://rsshub.gamepp.cf/hpoi/items/work/4117491" />
+    </outline>
+  </body>
+</opml>

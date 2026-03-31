@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 北青网</title>
+  </head>
+  <body>
+    <outline text="北青网" title="北青网">
+      <outline type="rss" text="北青网 - 列表" title="北青网 - 列表" xmlUrl="https://rsshub.gamepp.cf/ynet/list/news/2121t76" />
+    </outline>
+  </body>
+</opml>

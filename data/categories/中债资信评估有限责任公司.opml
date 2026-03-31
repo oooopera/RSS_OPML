@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 中债资信评估有限责任公司</title>
+  </head>
+  <body>
+    <outline text="中债资信评估有限责任公司" title="中债资信评估有限责任公司">
+      <outline type="rss" text="中债资信评估有限责任公司 - 中债研究" title="中债资信评估有限责任公司 - 中债研究" xmlUrl="https://rsshub.gamepp.cf/chinaratings/CreditResearch" />
+    </outline>
+  </body>
+</opml>

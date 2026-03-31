@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - LiSA</title>
+  </head>
+  <body>
+    <outline text="LiSA" title="LiSA">
+      <outline type="rss" text="LiSA - Latest Discography" title="LiSA - Latest Discography" xmlUrl="https://rsshub.gamepp.cf/lxixsxa/disco" />
+      <outline type="rss" text="LiSA - News" title="LiSA - News" xmlUrl="https://rsshub.gamepp.cf/lxixsxa/info" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 鸟哥笔记</title>
+  </head>
+  <body>
+    <outline text="鸟哥笔记" title="鸟哥笔记">
+      <outline type="rss" text="鸟哥笔记 - 今日事" title="鸟哥笔记 - 今日事" xmlUrl="https://rsshub.gamepp.cf/niaogebiji/today" />
+      <outline type="rss" text="鸟哥笔记 - 分类目录" title="鸟哥笔记 - 分类目录" xmlUrl="https://rsshub.gamepp.cf/niaogebiji/cat/103" />
+    </outline>
+  </body>
+</opml>

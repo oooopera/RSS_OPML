@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 吉林一号网</title>
+  </head>
+  <body>
+    <outline text="吉林一号网" title="吉林一号网">
+      <outline type="rss" text="吉林一号网 - 星林社区" title="吉林一号网 - 星林社区" xmlUrl="https://rsshub.gamepp.cf/jl1mall/forum/2" />
+    </outline>
+  </body>
+</opml>

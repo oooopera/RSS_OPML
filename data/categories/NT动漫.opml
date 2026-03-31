@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NT动漫</title>
+  </head>
+  <body>
+    <outline text="NT动漫" title="NT动漫">
+      <outline type="rss" text="NT动漫 - 番剧详情" title="NT动漫 - 番剧详情" xmlUrl="https://rsshub.gamepp.cf/ntdm/video/4309" />
+    </outline>
+  </body>
+</opml>

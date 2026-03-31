@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 南京中医药大学</title>
+  </head>
+  <body>
+    <outline text="南京中医药大学" title="南京中医药大学">
+      <outline type="rss" text="南京中医药大学 - 研究生院博士招生" title="南京中医药大学 - 研究生院博士招生" xmlUrl="https://rsshub.gamepp.cf/njucm/grabszs" />
+    </outline>
+  </body>
+</opml>

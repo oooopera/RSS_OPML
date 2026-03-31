@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - NPR (National Public Radio)</title>
+  </head>
+  <body>
+    <outline text="NPR (National Public Radio)" title="NPR (National Public Radio)">
+      <outline type="rss" text="NPR (National Public Radio) - News" title="NPR (National Public Radio) - News" xmlUrl="https://rsshub.gamepp.cf/npr/1001" />
+    </outline>
+  </body>
+</opml>

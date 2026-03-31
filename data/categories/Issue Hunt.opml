@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Issue Hunt</title>
+  </head>
+  <body>
+    <outline text="Issue Hunt" title="Issue Hunt">
+      <outline type="rss" text="Issue Hunt - Project Funded" title="Issue Hunt - Project Funded" xmlUrl="https://rsshub.gamepp.cf/issuehunt/funded/DIYgod/RSSHub" />
+    </outline>
+  </body>
+</opml>
