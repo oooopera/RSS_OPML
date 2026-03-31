@@ -7,117 +7,130 @@ import shutil
 
 # --- 配置参数 ---
 TARGET_DOMAIN = "rsshub.gamepp.cf"
-# 使用这个包含全量元数据的 JSON
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 OUTPUT_DIR = "data/categories"
 
-# 严格匹配你图片中的分类名称
-SORT_ORDER = [
-    "Popular", "Social Media", "New media", "Traditional media", "BBS",
-    "Blog", "Programming", "Design", "Live", "Multimedia",
-    "Picture", "ACG", "Application Updates", "University", "Forecast and Alerts",
-    "Travel", "Shopping", "Gaming", "Reading", "Government",
-    "Study", "Scientific Journal", "Finance", "Uncategorized"
-]
-
 class RSSHubSync:
     def __init__(self):
-        self.headers = {"User-Agent": "Mozilla/5.0"}
+        self.headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
     def clean_filename(self, name):
-        return re.sub(r'[\\/:*?"<>|]', '_', name).strip()
+        """将标签 ID 转换为美观的文件名"""
+        name_map = {
+            "social-media": "Social Media",
+            "new-media": "New Media",
+            "traditional-media": "Traditional Media",
+            "shop": "Shopping",
+            "game": "Gaming",
+            "study": "Education",
+            "programming": "Programming",
+            "travel": "Travel",
+            "finance": "Finance",
+            "bbs": "BBS"
+        }
+        # 如果在映射表中则使用映射名，否则首字母大写
+        display_name = name_map.get(name.lower(), name.replace('-', ' ').title())
+        return re.sub(r'[\\/:*?"<>|]', '_', display_name).strip()
 
     def run(self):
-        print(f"正在从 {ROUTES_JSON_URL} 获取数据...")
+        print(f"开始解析 JSON (单分类模式)...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             resp.raise_for_status()
             data = resp.json()
 
-            # 1. 建立分类桶 (Category Buckets)
-            # 结构: { "Social Media": [route1, route2], ... }
-            buckets = {cat: [] for cat in SORT_ORDER}
-            
-            # 2. 遍历 JSON 结构提取路由
-            # data 的结构是 { "namespace": { "routes": { "path": { "categories": [...] } } } }
+            # 准备分类桶
+            category_buckets = {}
+            # 用于全局去重，确保一个路由只被处理一次
+            global_seen_urls = set()
+
+            # 遍历 Namespace (第一层)
             for ns_key, ns_val in data.items():
+                ns_display_name = ns_val.get('name', ns_key)
                 routes = ns_val.get('routes', {})
-                ns_name = ns_val.get('name', ns_key)
                 
+                if not isinstance(routes, dict): continue
+
+                # 遍历具体路由 (第二层)
                 for r_path, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
                     
                     example = r_info.get('example')
                     if not example: continue
                     
-                    # 获取该路由所属的所有分类标签
-                    r_categories = r_info.get('categories', [])
-                    r_name = r_info.get('name', r_path)
+                    # 格式化 URL
+                    clean_url = '/' + example.lstrip('/')
                     
+                    # --- 全局去重核心逻辑 ---
+                    if clean_url in global_seen_urls:
+                        continue
+                    global_seen_urls.add(clean_url)
+
+                    r_name = r_info.get('name', r_path)
                     route_item = {
-                        "title": f"{ns_name} - {r_name}",
-                        "url": '/' + example.lstrip('/')
+                        "title": f"{ns_display_name} - {r_name}",
+                        "url": clean_url
                     }
 
-                    # 将路由放入匹配的桶中
-                    matched = False
-                    for cat in SORT_ORDER:
-                        # 如果路由的分类标签里包含我们名单中的项
-                        if cat in r_categories:
-                            buckets[cat].append(route_item)
-                            matched = True
+                    # 获取标签
+                    tags = r_info.get('categories', [])
                     
-                    # 如果没有任何匹配，放入 Uncategorized
-                    if not matched and "Uncategorized" in buckets:
-                        buckets["Uncategorized"].append(route_item)
+                    # --- 单分类分配逻辑 ---
+                    # 如果有多个标签，只取第一个作为归属分类
+                    if tags and len(tags) > 0:
+                        primary_tag = tags[0]
+                        if primary_tag not in category_buckets:
+                            category_buckets[primary_tag] = []
+                        category_buckets[primary_tag].append(route_item)
+                    else:
+                        # 无标签归入未分类
+                        if "Uncategorized" not in category_buckets:
+                            category_buckets["Uncategorized"] = []
+                        category_buckets["Uncategorized"].append(route_item)
 
-            # 3. 生成文件
+            # --- 生成文件 ---
             if os.path.exists(OUTPUT_DIR):
                 shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-            generated_count = 0
-            for cat in SORT_ORDER:
-                items = buckets[cat]
-                if not items:
-                    print(f"[跳过] 分类 {cat} 下没有发现路由。")
-                    continue
+            for tag, items in category_buckets.items():
+                # 再次确保文件内唯一
+                unique_items = list({v['url']:v for v in items}.values())
                 
-                # 去重
-                unique_items = []
-                seen_urls = set()
-                for it in items:
-                    if it['url'] not in seen_urls:
-                        seen_urls.add(it['url'])
-                        unique_items.append(it)
+                if tag == "Uncategorized":
+                    safe_name = "Uncategorized"
+                else:
+                    safe_name = self.clean_filename(tag)
+                
+                self.write_opml(safe_name, unique_items)
+                print(f"已生成: {safe_name}.opml (包含 {len(unique_items)} 条)")
 
-                safe_name = self.clean_filename(cat)
-                self.write_opml(safe_name, cat, unique_items)
-                generated_count += 1
-                print(f"[{generated_count}] 已生成: {safe_name}.opml (包含 {len(unique_items)} 条)")
-
-            if generated_count == 0:
-                print("❌ 严重错误：未匹配到任何分类，请检查 JSON 结构。")
-                exit(1)
+            print(f"\n✅ 同步完成！所有路由已按唯一分类存入 {OUTPUT_DIR}")
 
         except Exception as e:
-            print(f"❌ 运行异常: {e}")
+            print(f"❌ 运行失败: {e}")
             exit(1)
 
-    def write_opml(self, filename, display_name, items):
+    def write_opml(self, filename, items):
         opml = ET.Element("opml", version="2.0")
         head = ET.SubElement(opml, "head")
-        ET.SubElement(head, "title").text = f"RSSHub - {display_name}"
+        ET.SubElement(head, "title").text = f"RSSHub - {filename}"
         body = ET.SubElement(opml, "body")
-        parent = ET.SubElement(body, "outline", text=display_name, title=display_name)
+        
+        parent = ET.SubElement(body, "outline", text=filename, title=filename)
 
         for r in items:
             xml_url = f"https://{TARGET_DOMAIN}{r['url']}"
-            ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
+            ET.SubElement(parent, "outline", 
+                         type="rss", 
+                         text=r['title'], 
+                         title=r['title'], 
+                         xmlUrl=xml_url)
 
         tree = ET.ElementTree(opml)
         ET.indent(tree, space="  ", level=0)
-        tree.write(os.path.join(OUTPUT_DIR, f"{filename}.opml"), encoding="utf-8", xml_declaration=True)
+        file_path = os.path.join(OUTPUT_DIR, f"{filename}.opml")
+        tree.write(file_path, encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
     RSSHubSync().run()
