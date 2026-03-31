@@ -2,7 +2,6 @@ import os
 import re
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime
 import shutil
 from urllib.parse import quote
 
@@ -17,18 +16,12 @@ class RSSHubSync:
         self.headers = {"User-Agent": "Mozilla/5.0"}
 
     def fetch_analytics(self):
-        print("🔍 步骤 1: 正在获取可用性数据...")
+        print("🔍 步骤 1: 获取可用性数据...")
         try:
             resp = requests.get(ANALYTICS_JSON_URL, timeout=30)
-            json_data = resp.json()
-            
-            # 核心修正：官方 JSON 结构是 {"data": {"/path": 1, ...}}
-            actual_data = json_data.get('data', {})
-            
-            sample_keys = list(actual_data.keys())[:3]
-            print(f"DEBUG: 修正后的 Analytics 示例键名: {sample_keys}")
-            print(f"DEBUG: 有效路由状态总数: {len(actual_data)}")
-            return actual_data
+            data = resp.json().get('data', {})
+            print(f"DEBUG: 成功加载 {len(data)} 条路由规则状态")
+            return data
         except Exception as e:
             print(f"⚠️ 无法获取可用性数据: {e}")
             return None
@@ -36,10 +29,9 @@ class RSSHubSync:
     def run(self):
         available_map = self.fetch_analytics()
         if not available_map:
-            print("❌ 无法获取可用性映射表，请检查网络或 URL。")
             exit(1)
 
-        print(f"🔍 步骤 2: 正在抓取全量路由并进行可用性过滤...")
+        print(f"🔍 步骤 2: 匹配路由模板并过滤...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
@@ -53,27 +45,33 @@ class RSSHubSync:
                 ns_name = ns_val.get('name', ns_key)
                 routes = ns_val.get('routes', {})
                 
-                for r_path, r_info in routes.items():
+                for r_pattern, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
-                    example = r_info.get('example')
-                    if not example: continue
                     
-                    # 统一路径格式进行匹配
-                    path_to_check = '/' + example.lstrip('/')
+                    # --- 核心修复逻辑 ---
+                    # Analytics 里的键是 /namespace/route_pattern
+                    # 例如: /bilibili/user/video/:uid
+                    full_pattern = '/' + ns_key.lstrip('/') + '/' + r_pattern.lstrip('/')
                     
-                    # 检查可用性 (1 为可用)
-                    status = available_map.get(path_to_check)
+                    # 检查该模板是否可用
+                    status = available_map.get(full_pattern)
                     
                     if status != 1:
                         filtered_count += 1
                         continue
 
-                    # URL 编码处理 (解决 FreshRSS 中文路径报错)
-                    safe_path = quote(path_to_check)
+                    # 如果模板可用，再拿 example 出来生成实际订阅链接
+                    example = r_info.get('example')
+                    if not example: continue
+                    
+                    # 编码处理
+                    path_to_encode = '/' + example.lstrip('/')
+                    safe_path = quote(path_to_encode)
+                    
                     if safe_path in global_seen_urls: continue
                     global_seen_urls.add(safe_path)
 
-                    # 分类逻辑
+                    # 分类
                     tags = r_info.get('categories', [])
                     primary_tag = tags[0] if tags else "Uncategorized"
                     
@@ -81,12 +79,12 @@ class RSSHubSync:
                         category_buckets[primary_tag] = []
                     
                     category_buckets[primary_tag].append({
-                        "title": f"{ns_name} - {r_info.get('name', r_path)}",
+                        "title": f"{ns_name} - {r_info.get('name', r_pattern)}",
                         "url": safe_path
                     })
                     success_count += 1
 
-            # 生成文件
+            # 生成 OPML
             if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -102,7 +100,6 @@ class RSSHubSync:
             exit(1)
 
     def write_opml(self, tag, items):
-        # 美化标签名为文件名
         safe_fn = re.sub(r'[\\/:*?"<>|]', '_', tag).strip()
         opml = ET.Element("opml", version="2.0")
         head = ET.SubElement(opml, "head")
@@ -112,11 +109,7 @@ class RSSHubSync:
 
         for r in items:
             xml_url = f"https://{BASE_DOMAIN}{r['url']}"
-            ET.SubElement(parent, "outline", 
-                         type="rss", 
-                         text=r['title'], 
-                         title=r['title'], 
-                         xmlUrl=xml_url)
+            ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
 
         tree = ET.ElementTree(opml)
         ET.indent(tree, space="  ", level=0)
