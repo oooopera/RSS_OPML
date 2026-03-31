@@ -1,40 +1,53 @@
-name: Update RSSHub OPML
+name: RSSHub OPML Generator
 
 on:
   schedule:
-    - cron: '0 16 * * *' # 北京时间每天0点
+    - cron: '0 16 * * *'  # 北京时间每天 00:00
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-opml:
+  run-script:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # 解决 Node 弃用警告
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-      - name: Install dependencies
-        run: pip install requests lxml
+    - name: Install dependencies
+      run: pip install requests lxml
 
-      - name: Run Update Script
-        run: python main.py
+    - name: Run script
+      run: python main.py
+      env:
+        # 注意：如果是调用搜索 API，建议在仓库 Settings > Secrets 中手动添加 GH_TOKENN
+        # 如果只是普通操作，直接用内置的 GITHUB_TOKEN 即可
+        GH_TOKEN: ${{ secrets.GH_TOKENN || secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push
-        run: |
-          git config --local user.email "github-actions[bot]@://github.com"
-          git config --local user.name "github-actions[bot]"
-          git add rsshub_subscriptions.opml
-          # 检查是否有变动，防止空提交报错
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update OPML: $(date +'%Y-%m-%d')"
-            git push
-          fi
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and Push Results
+      run: |
+        # 针对你要求的文件进行 add
+        git add rsshub_subscriptions.opml github_sources.log failed_nodes.log || true
+        # 只有有变动时才 commit
+        if ! git diff --cached --quiet; then
+          git commit -m "🔄 自动更新 RSSHub 订阅源 - $(date +'%Y-%m-%d')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
