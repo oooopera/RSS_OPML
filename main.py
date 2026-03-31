@@ -28,13 +28,15 @@ class RSSHubSync:
 
     def run(self):
         available_map = self.fetch_analytics()
-        if not available_map: exit(1)
+        if not available_map:
+            print("❌ 未能获取到可用性数据，请检查网络。")
+            return
 
-        # 采样几个 Analytics 里的 Key 看看真实长相
-        sample_analytics = list(available_map.keys())[:5]
-        print(f"DEBUG: Analytics 真实 Key 采样: {sample_analytics}")
+        # 采样预览
+        sample_keys = list(available_map.keys())[:3]
+        print(f"DEBUG: Analytics 真实 Key 采样: {sample_keys}")
 
-        print(f"🔍 步骤 2: 开始深度匹配...")
+        print(f"🔍 步骤 2: 开始深度匹配与过滤...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
@@ -43,7 +45,9 @@ class RSSHubSync:
             global_seen_urls = set()
             filtered_count = 0
             success_count = 0
-            debug_limit = 5 # 打印前 5 个失败的匹配详情
+            
+            # 用于日志诊断
+            debug_count = 0
 
             for ns_key, ns_val in routes_data.items():
                 routes = ns_val.get('routes', {})
@@ -52,34 +56,38 @@ class RSSHubSync:
                 for r_pattern, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
                     
-                    # 生成多种组合
-                    # 比如 ns_key='bilibili', r_pattern='/user/video/:uid'
-                    p1 = f"/{ns_key.strip('/')}/{r_pattern.strip('/')}"
-                    p2 = f"/{r_pattern.strip('/')}"
+                    # 核心对齐逻辑：
+                    # 1. 尝试 /namespace/pattern
+                    # 2. 尝试 /pattern
+                    p1 = f"/{ns_key.strip('/')}/{r_pattern.lstrip('/')}"
+                    p2 = f"/{r_pattern.lstrip('/')}"
                     
                     status = available_map.get(p1)
-                    if status is None: status = available_map.get(p2)
+                    if status is None:
+                        status = available_map.get(p2)
 
+                    # 只有状态为 1 (Available) 的才保留
                     if status != 1:
-                        if debug_limit > 0:
-                            print(f"DEBUG: 匹配失败单例 [NS: {ns_key} | Pattern: {r_pattern}]")
-                            print(f"       -> 尝试了 Key1: '{p1}'")
-                            print(f"       -> 尝试了 Key2: '{p2}'")
-                            print(f"       -> Analytics 结果: {status}")
-                            debug_limit -= 1
+                        if debug_count < 5:
+                            print(f"DEBUG: 过滤路由 {p1} | 状态: {status}")
+                            debug_count += 1
                         filtered_count += 1
                         continue
 
                     example = r_info.get('example')
                     if not example: continue
                     
+                    # URL 编码处理
                     safe_path = quote('/' + example.lstrip('/'))
                     if safe_path in global_seen_urls: continue
                     global_seen_urls.add(safe_path)
 
+                    # 分类逻辑
                     tags = r_info.get('categories', [])
                     tag = tags[0] if tags else "Uncategorized"
-                    if tag not in category_buckets: category_buckets[tag] = []
+                    
+                    if tag not in category_buckets:
+                        category_buckets[tag] = []
                     
                     category_buckets[tag].append({
                         "title": f"{ns_name} - {r_info.get('name', r_pattern)}",
@@ -87,31 +95,38 @@ class RSSHubSync:
                     })
                     success_count += 1
 
-            if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
+            # 生成 OPML
+            if os.path.exists(OUTPUT_DIR):
+                shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
             for tag, items in category_buckets.items():
                 self.write_opml(tag, items)
 
-            print(f"\n✅ 诊断完成！")
-            print(f"成功保留: {success_count} 条 | 过滤: {filtered_count} 条")
+            print(f"\n✅ 处理完成！")
+            print(f"成功保留: {success_count} 条")
+            print(f"已过滤不可用: {filtered_count} 条")
 
         except Exception as e:
             print(f"❌ 运行异常: {e}")
-            exit(1)
 
     def write_opml(self, tag, items):
+        # 清洗文件名
         safe_fn = re.sub(r'[\\/:*?"<>|]', '_', tag).strip()
         opml = ET.Element("opml", version="2.0")
         head = ET.SubElement(opml, "head")
         ET.SubElement(head, "title").text = f"RSSHub - {tag}"
         body = ET.SubElement(opml, "body")
         parent = ET.SubElement(body, "outline", text=tag, title=tag)
+
         for r in items:
             xml_url = f"https://{BASE_DOMAIN}{r['url']}"
             ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
+
         tree = ET.ElementTree(opml)
         ET.indent(tree, space="  ", level=0)
         tree.write(os.path.join(OUTPUT_DIR, f"{safe_fn}.opml"), encoding="utf-8", xml_declaration=True)
 
-if __name__ ==
+# --- 修复 SyntaxError 的关键行 ---
+if __name__ == "__main__":
+    RSSHubSync().run()
