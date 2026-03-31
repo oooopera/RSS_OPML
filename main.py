@@ -1,6 +1,5 @@
 import os
 import re
-import json
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -11,114 +10,92 @@ TARGET_DOMAIN = "rsshub.gamepp.cf"
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 OUTPUT_DIR = "data/categories"
 
+# 严格按照你图片中的分类顺序定义 (Key 对应 JSON 中的 Namespace ID)
+# 如果 JSON 中的 ID 是中文或不同，脚本会自动尝试匹配 name 字段
+SORT_ORDER = [
+    "Popular", "Social Media", "New media", "Traditional media", "BBS",
+    "Blog", "Programming", "Design", "Live", "Multimedia",
+    "Picture", "ACG", "Application Updates", "University", "Forecast and Alerts",
+    "Travel", "Shopping", "Gaming", "Reading", "Government",
+    "Study", "Scientific Journal", "Finance", "Uncategorized"
+]
+
 class RSSHubSync:
     def __init__(self):
-        self.headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        }
+        self.headers = {"User-Agent": "Mozilla/5.0"}
 
     def clean_filename(self, name):
-        """清洗文件名中的非法字符，防止系统报错"""
-        # 移除 Windows/Linux 不允许的路径字符
         return re.sub(r'[\\/:*?"<>|]', '_', name).strip()
 
-    def fetch_routes(self):
-        """核心逻辑：解析全量路由 JSON"""
-        print(f"正在从 RSSNext 读取路由索引...")
-        routes_data = []
+    def run(self):
+        print(f"正在读取路由索引...")
         try:
-            resp = requests.get(ROUTES_JSON_URL, headers=self.headers, timeout=30)
+            resp = requests.get(ROUTES_JSON_URL, timeout=30)
             resp.raise_for_status()
             data = resp.json()
 
-            for ns_key, ns_content in data.items():
-                # 获取 Namespace 的显示名称
-                ns_display_name = ns_content.get('name', ns_key)
-                # 生成安全的文件名（分类名）
-                safe_cat_name = self.clean_filename(ns_display_name)
-                
-                ns_routes = ns_content.get('routes', {})
-                if not isinstance(ns_routes, dict):
-                    continue
+            if os.path.exists(OUTPUT_DIR):
+                shutil.rmtree(OUTPUT_DIR)
+            os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+            # 建立一个映射表：支持通过 ID 或 Name 找到 JSON 中的内容
+            name_map = {}
+            for ns_key, ns_content in data.items():
+                name_map[ns_key.lower()] = ns_content
+                if 'name' in ns_content:
+                    name_map[ns_content['name'].lower()] = ns_content
+
+            generated_count = 0
+            for target_cat in SORT_ORDER:
+                # 寻找匹配的分类内容
+                content = name_map.get(target_cat.lower())
+                if not content:
+                    continue
+                
+                ns_display_name = content.get('name', target_cat)
+                ns_routes = content.get('routes', {})
+                
+                category_routes = []
+                seen_urls = set()
+                
                 for route_path, route_info in ns_routes.items():
                     if isinstance(route_info, dict):
                         example = route_info.get('example')
-                        route_name = route_info.get('name', route_path)
-                        
                         if example:
-                            # 补全斜杠并处理多余斜杠
                             clean_path = '/' + example.lstrip('/')
-                            routes_data.append({
-                                "title": f"{ns_display_name} - {route_name}",
-                                "url": clean_path,
-                                "category": safe_cat_name
-                            })
-            print(f"✅ 成功解析 {len(routes_data)} 条有效路由。")
-        except Exception as e:
-            print(f"❌ 抓取或解析失败: {e}")
-            # 这里抛出异常以便 GitHub Actions 捕获到失败状态
-            raise e 
-        return routes_data
+                            if clean_path not in seen_urls:
+                                seen_urls.add(clean_path)
+                                category_routes.append({
+                                    "title": f"{ns_display_name} - {route_info.get('name', route_path)}",
+                                    "url": clean_path
+                                })
 
-    def generate_split_opml(self, routes):
-        """按分类生成多个 OPML 文件"""
-        if not routes:
-            print("⚠️ 未发现路由数据，不执行文件生成。")
-            return
+                if category_routes:
+                    safe_name = self.clean_filename(target_cat)
+                    self.write_opml(safe_name, ns_display_name, category_routes)
+                    generated_count += 1
+                    print(f"[{generated_count}] 已生成: {safe_name}.opml")
 
-        # 彻底清理旧目录
-        if os.path.exists(OUTPUT_DIR):
-            shutil.rmtree(OUTPUT_DIR)
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-        # 按分类分组
-        grouped = {}
-        for r in routes:
-            cat = r['category']
-            if cat not in grouped:
-                grouped[cat] = []
-            grouped[cat].append(r)
-
-        print(f"正在生成 {len(grouped)} 个分类文件...")
-
-        for cat, items in grouped.items():
-            opml = ET.Element("opml", version="2.0")
-            head = ET.SubElement(opml, "head")
-            ET.SubElement(head, "title").text = f"RSSHub - {cat}"
-            body = ET.SubElement(opml, "body")
+            print(f"✅ 完成！已按图片顺序生成 {generated_count} 个分类文件。")
             
-            # 分类作为一级大纲
-            parent = ET.SubElement(body, "outline", text=cat, title=cat)
+        except Exception as e:
+            print(f"❌ 运行失败: {e}")
+            exit(1)
 
-            seen_urls = set()
-            for r in items:
-                if r['url'] in seen_urls:
-                    continue
-                seen_urls.add(r['url'])
+    def write_opml(self, filename, display_name, items):
+        opml = ET.Element("opml", version="2.0")
+        head = ET.SubElement(opml, "head")
+        ET.SubElement(head, "title").text = f"RSSHub - {display_name}"
+        body = ET.SubElement(opml, "body")
+        parent = ET.SubElement(body, "outline", text=display_name, title=display_name)
 
-                xml_url = f"https://{TARGET_DOMAIN}{r['url']}"
-                ET.SubElement(parent, "outline", 
-                             type="rss", 
-                             text=r['title'], 
-                             title=r['title'], 
-                             xmlUrl=xml_url)
+        for r in items:
+            xml_url = f"https://{TARGET_DOMAIN}{r['url']}"
+            ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
 
-            # 写入文件
-            file_path = os.path.join(OUTPUT_DIR, f"{cat}.opml")
-            tree = ET.ElementTree(opml)
-            ET.indent(tree, space="  ", level=0)
-            tree.write(file_path, encoding="utf-8", xml_declaration=True)
-
-        print(f"🚀 分类文件已保存至: {OUTPUT_DIR}")
-
-    def run(self):
-        routes = self.fetch_routes()
-        self.generate_split_opml(routes)
+        tree = ET.ElementTree(opml)
+        ET.indent(tree, space="  ", level=0)
+        tree.write(os.path.join(OUTPUT_DIR, f"{filename}.opml"), encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
-    try:
-        RSSHubSync().run()
-    except Exception as e:
-        # 确保错误能被 Actions 捕获
-        exit(1)
+    RSSHubSync().run()
