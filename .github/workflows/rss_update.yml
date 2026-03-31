@@ -42,12 +42,11 @@ jobs:
 
     - name: Commit and Push Results
       run: |
-        # 针对你要求的文件进行 add
-        git add rsshub_subscriptions.opml github_sources.log failed_nodes.log || true
-        # 只有有变动时才 commit
+        # 详细日志文件全部加入提交
+        git add rsshub_subscriptions.opml github_sources.log failed_nodes.log process_detail.log || true
         if ! git diff --cached --quiet; then
-          git commit -m "🔄 自动更新 RSSHub 订阅源 - $(date +'%Y-%m-%d')"
+          git commit -m "🔄 自动更新订阅源 - $(date +'%Y-%m-%d')"
           git push
         else
-          echo "No changes to commit"
+          echo "No changes detected."
         fi
