@@ -1,52 +1,37 @@
-name: RSSHub OPML Generator
+name: RSSHub OPML Auto Sync
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # 北京时间每天 00:00
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 22 * * *' # 北京时间早上 6 点
+  workflow_dispatch: # 支持手动运行
 
 jobs:
-  run-script:
+  sync:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # 解决 Node 弃用警告
+    permissions:
+      contents: write # 必须赋予写入权限
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-    - name: Install dependencies
-      run: pip install requests lxml
+      - name: Install Dependencies
+        run: pip install requests
 
-    - name: Run script
-      run: python main.py
-      env:
-        # 注意：如果是调用搜索 API，建议在仓库 Settings > Secrets 中手动添加 GH_TOKENN
-        # 如果只是普通操作，直接用内置的 GITHUB_TOKEN 即可
-        GH_TOKEN: ${{ secrets.GH_TOKENN || secrets.GITHUB_TOKEN }}
+      - name: Run Sync Script
+        env:
+          # 使用你配置的 Secret 提升 API 配额
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: python main.py
 
-    - name: Configure Git
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-    - name: Commit and Push Results
-      run: |
-        # 详细日志文件全部加入提交
-        git add rsshub_subscriptions.opml github_sources.log failed_nodes.log process_detail.log || true
-        if ! git diff --cached --quiet; then
-          git commit -m "🔄 自动更新订阅源 - $(date +'%Y-%m-%d')"
-          git push
-        else
-          echo "No changes detected."
-        fi
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/subscriptions.opml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update OPML: $(date +%Y-%m-%d)" && git push)
