@@ -1,0 +1,35 @@
+name: Update RSSHub OPML
+
+on:
+  schedule:
+    - cron: '0 16 * * *' # 北京时间每天零点运行
+  workflow_dispatch: # 支持手动运行
+
+permissions:
+  contents: write
+
+jobs:
+  update-opml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests lxml
+
+      - name: Run Update Script
+        run: python main.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+          git add rsshub_subscriptions.opml
+          git commit -m "Auto-update RSSHub OPML: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
