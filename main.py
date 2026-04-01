@@ -10,6 +10,18 @@ BASE_DOMAIN = "rsshub.app"
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 ANALYTICS_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/rsshub-analytics.json"
 OUTPUT_DIR = "data/categories"
+LIST_FILE = "路由清单.txt" # 新增清单文件名
+
+# --- 分类中文映射表 ---
+CN_NAME_MAP = {
+    "social-media": "社交媒体", "new-media": "新媒体", "traditional-media": "传统媒体",
+    "shop": "购物", "game": "游戏", "study": "学习", "programming": "编程",
+    "travel": "出行", "finance": "金融", "bbs": "论坛", "blog": "博客",
+    "live": "直播", "target": "企鹅号", "entertainment": "娱乐",
+    "picture": "图片", "video": "视频", "audio": "音频",
+    "reading": "阅读", "design": "设计", "search": "搜索",
+    "tool": "工具", "other": "其他", "Uncategorized": "未分类"
+}
 
 class RSSHubSync:
     def __init__(self):
@@ -20,107 +32,109 @@ class RSSHubSync:
         try:
             resp = requests.get(ANALYTICS_JSON_URL, timeout=30)
             data = resp.json().get('data', {})
-            print(f"DEBUG: 成功加载 {len(data)} 条路由状态")
             return data
         except Exception as e:
             print(f"⚠️ 无法获取可用性数据: {e}")
             return None
 
+    def get_cn_name(self, tag):
+        return CN_NAME_MAP.get(tag.lower(), tag.replace('-', ' ').title())
+
     def run(self):
         available_map = self.fetch_analytics()
         if not available_map: return
 
-        print(f"🔍 步骤 2: 正在通过智能去重匹配路由...")
+        print(f"🔍 步骤 2: 正在处理路由数据...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
 
             category_buckets = {}
             global_seen_urls = set()
-            filtered_count = 0
             success_count = 0
-            debug_count = 0
 
             for ns_key, ns_val in routes_data.items():
-                routes = ns_val.get('routes', {})
                 ns_name = ns_val.get('name', ns_key)
+                routes = ns_val.get('routes', {})
                 
                 for r_pattern, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
                     
-                    # --- 智能路径构建 (防止重复拼接) ---
-                    clean_ns = ns_key.strip('/')
-                    clean_pat = r_pattern.strip('/')
+                    # 路径拼接与去重逻辑
+                    clean_ns, clean_pat = ns_key.strip('/'), r_pattern.strip('/')
+                    full_path = f"/{clean_pat}" if clean_pat.startswith(clean_ns + '/') else f"/{clean_ns}/{clean_pat}"
                     
-                    # 如果 pattern 已经以 ns 开头，则不再重复拼接
-                    if clean_pat.startswith(clean_ns + '/'):
-                        full_path = '/' + clean_pat
-                    else:
-                        full_path = f"/{clean_ns}/{clean_pat}"
-                    
-                    # --- 检查可用性 ---
-                    # 只要 analytics 字典里存在这个 key，即代表官方探测过且有数据
-                    status_data = available_map.get(full_path)
-                    
-                    if status_data is None:
-                        # 尝试兜底匹配：直接用 pattern 查找
-                        status_data = available_map.get('/' + clean_pat)
-
-                    if status_data is None:
-                        if debug_count < 5:
-                            print(f"DEBUG: 无法匹配模板 {full_path}，已跳过")
-                            debug_count += 1
-                        filtered_count += 1
+                    # 可用性过滤
+                    if not (available_map.get(full_path) or available_map.get('/' + clean_pat)):
                         continue
 
                     example = r_info.get('example')
                     if not example: continue
                     
-                    # URL 编码处理
                     safe_path = quote('/' + example.lstrip('/'))
                     if safe_path in global_seen_urls: continue
                     global_seen_urls.add(safe_path)
 
-                    # 分类逻辑
+                    # 分类
                     tags = r_info.get('categories', [])
-                    tag = tags[0] if tags else "Uncategorized"
+                    cn_tag = self.get_cn_name(tags[0] if tags else "Uncategorized")
                     
-                    if tag not in category_buckets:
-                        category_buckets[tag] = []
+                    if cn_tag not in category_buckets:
+                        category_buckets[cn_tag] = []
                     
-                    category_buckets[tag].append({
-                        "title": f"{ns_name} - {r_info.get('name', r_pattern)}",
+                    category_buckets[cn_tag].append({
+                        "full_title": f"{ns_name} - {r_info.get('name', r_pattern)}",
+                        "pure_name": r_info.get('name', r_pattern),
                         "url": safe_path
                     })
                     success_count += 1
 
-            # 生成 OPML
+            # 生成文件
             if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-            for tag, items in category_buckets.items():
-                self.write_opml(tag, items)
+            # --- 生成 OPML 并准备清单内容 ---
+            list_content = [f"RSSHub 路由清单 (更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M')})\n", "="*60 + "\n"]
+            
+            # 按分类包含数量排序
+            sorted_categories = sorted(category_buckets.items(), key=lambda x: len(x[1]), reverse=True)
 
-            print(f"\n✅ 处理完成！")
-            print(f"成功保留: {success_count} 条")
-            print(f"已过滤 (无记录): {filtered_count} 条")
+            for cn_tag, items in sorted_categories:
+                self.write_opml(cn_tag, items)
+                
+                # 构建清单文本
+                list_content.append(f"📁 分类: {cn_tag} (共 {len(items)} 条)")
+                list_content.append("-" * 30)
+                for idx, item in enumerate(items, 1):
+                    list_content.append(f"{idx:03}. {item['full_title']}")
+                list_content.append("\n")
+
+            # --- 写入清单文件 ---
+            with open(os.path.join(OUTPUT_DIR, LIST_FILE), "w", encoding="utf-8") as f:
+                f.write("\n".join(list_content))
+
+            print(f"✅ 处理完成！")
+            print(f"📁 已生成各分类 OPML 文件")
+            print(f"📄 已生成详细清单: {os.path.join(OUTPUT_DIR, LIST_FILE)}")
+            print(f"📊 总计可用路由: {success_count} 条")
 
         except Exception as e:
             print(f"❌ 运行异常: {e}")
 
-    def write_opml(self, tag, items):
-        safe_fn = re.sub(r'[\\/:*?"<>|]', '_', tag).strip()
+    def write_opml(self, cn_tag, items):
+        safe_fn = re.sub(r'[\\/:*?"<>|]', '_', cn_tag).strip()
         opml = ET.Element("opml", version="2.0")
         head = ET.SubElement(opml, "head")
-        ET.SubElement(head, "title").text = f"RSSHub - {tag}"
+        ET.SubElement(head, "title").text = f"RSSHub - {cn_tag}"
         body = ET.SubElement(opml, "body")
-        parent = ET.SubElement(body, "outline", text=tag, title=tag)
+        parent = ET.SubElement(body, "outline", text=cn_tag, title=cn_tag)
         for r in items:
             xml_url = f"https://{BASE_DOMAIN}{r['url']}"
-            ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
+            ET.SubElement(parent, "outline", type="rss", text=r['full_title'], title=r['full_title'], xmlUrl=xml_url)
         tree = ET.ElementTree(opml)
         ET.indent(tree, space="  ", level=0)
         tree.write(os.path.join(OUTPUT_DIR, f"{safe_fn}.opml"), encoding="utf-8", xml_declaration=True)
 
+from datetime import datetime
 if __name__ == "__main__":
     RSSHubSync().run()
