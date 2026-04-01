@@ -12,6 +12,8 @@ ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/sr
 ANALYTICS_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/rsshub-analytics.json"
 OUTPUT_DIR = "data/categories"
 LIST_FILE = "Route_List.txt" 
+RESPECT_FILE = "Route_RESPECT.txt"
+NEW_ROUTE_FILE = "new_route.txt"
 
 # --- 分类中文映射表 ---
 CN_NAME_MAP = {
@@ -29,25 +31,48 @@ class RSSHubSync:
         self.headers = {"User-Agent": "Mozilla/5.0"}
 
     def fetch_analytics(self):
-        print("🔍 Step 1: Fetching analytics data...")
+        print("🔍 Step 1: 获取可用性数据...")
         try:
             resp = requests.get(ANALYTICS_JSON_URL, timeout=30)
             return resp.json().get('data', {})
         except Exception as e:
-            print(f"⚠️ Error fetching analytics: {e}")
+            print(f"⚠️ 获取可用性数据失败: {e}")
             return None
+
+    def load_respect_list(self):
+        """加载尊重名单，如果文件不存在则返回 None (表示不启用过滤)"""
+        if os.path.exists(RESPECT_FILE):
+            with open(RESPECT_FILE, "r", encoding="utf-8") as f:
+                # 过滤掉空行和注释
+                return {line.strip() for line in f if line.strip() and not line.startswith("#")}
+        return None
+
+    def load_existing_routes(self):
+        """从旧的清单文件中提取已有的路由标题，用于查新"""
+        existing = set()
+        if os.path.exists(LIST_FILE):
+            with open(LIST_FILE, "r", encoding="utf-8") as f:
+                content = f.read()
+                # 匹配格式如 "001. 命名空间 - 路由名"
+                matches = re.findall(r"\d{3}\.\s+(.*)", content)
+                existing.update(matches)
+        return existing
 
     def run(self):
         available_map = self.fetch_analytics()
+        respect_set = self.load_respect_list()
+        old_routes = self.load_existing_routes()
+        
         if not available_map: return
 
-        print("🔍 Step 2: Processing routes...")
+        print("🔍 Step 2: 正在处理并过滤路由...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
 
             category_buckets = {}
             global_seen_urls = set()
+            new_discovered = []
             success_count = 0
 
             for ns_key, ns_val in routes_data.items():
@@ -60,8 +85,15 @@ class RSSHubSync:
                     clean_ns, clean_pat = ns_key.strip('/'), r_pattern.strip('/')
                     full_path = f"/{clean_pat}" if clean_pat.startswith(clean_ns + '/') else f"/{clean_ns}/{clean_pat}"
                     
+                    # 1. 可用性基础过滤
                     if not (available_map.get(full_path) or available_map.get('/' + clean_pat)):
                         continue
+
+                    # 2. Route_RESPECT.txt 过滤
+                    if respect_set is not None:
+                        # 检查 full_path 或 r_pattern 是否在尊重名单中
+                        if not any(item in full_path for item in respect_set):
+                            continue
 
                     example = r_info.get('example')
                     if not example: continue
@@ -70,21 +102,29 @@ class RSSHubSync:
                     if safe_path in global_seen_urls: continue
                     global_seen_urls.add(safe_path)
 
+                    # 数据提取
+                    full_title = f"{ns_name} - {r_info.get('name', r_pattern)}"
                     tags = r_info.get('categories', [])
                     raw_tag = tags[0] if tags else "uncategorized"
                     
+                    # 3. 查新逻辑
+                    if old_routes and full_title not in old_routes:
+                        new_discovered.append(f"[{datetime.now().strftime('%Y-%m-%d')}] {full_title}")
+
                     if raw_tag not in category_buckets:
                         category_buckets[raw_tag] = []
                     
                     category_buckets[raw_tag].append({
-                        "full_title": f"{ns_name} - {r_info.get('name', r_pattern)}",
+                        "full_title": full_title,
                         "url": safe_path
                     })
                     success_count += 1
 
+            # 生成文件
             if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+            # 更新 Route_List.txt
             list_content = [f"RSSHub Route List (Updated: {datetime.now().strftime('%Y-%m-%d %H:%M')})\n", "="*60 + "\n"]
             sorted_categories = sorted(category_buckets.items(), key=lambda x: len(x[1]), reverse=True)
 
@@ -101,17 +141,23 @@ class RSSHubSync:
             with open(LIST_FILE, "w", encoding="utf-8") as f:
                 f.write("\n".join(list_content))
 
-            print(f"✅ Success! Total routes: {success_count}")
+            # 4. 追加写入 new_route.txt (累加)
+            if new_discovered:
+                with open(NEW_ROUTE_FILE, "a", encoding="utf-8") as f:
+                    f.write("\n".join(new_discovered) + "\n")
+                print(f"✨ 发现 {len(new_discovered)} 个新路由，已记录至 {NEW_ROUTE_FILE}")
+
+            print(f"✅ 处理完成! 当前可用路由: {success_count}")
 
         except Exception as e:
-            print(f"❌ Runtime error: {e}")
+            print(f"❌ 运行异常: {e}")
 
     def write_opml(self, raw_tag, cn_display, items):
         safe_fn = re.sub(r'[^a-z0-9\-]', '_', raw_tag.lower())
-        
         opml = ET.Element("opml", version="2.0")
-        head = ET.SubElement(opml, "head")
-        ET.SubElement(head, "title").text = f"RSSHub - {cn_display}"
+        head = ET.SubElement(head := ET.Element("head"), "title")
+        head.text = f"RSSHub - {cn_display}"
+        opml.append(head)
         body = ET.SubElement(opml, "body")
         parent = ET.SubElement(body, "outline", text=cn_display, title=cn_display)
         
@@ -120,7 +166,6 @@ class RSSHubSync:
             ET.SubElement(parent, "outline", type="rss", text=r['full_title'], title=r['full_title'], xmlUrl=xml_url)
         
         tree = ET.ElementTree(opml)
-        # 修正 indent 调用并确保括号完全闭合
         ET.indent(tree, space="  ", level=0)
         tree.write(os.path.join(OUTPUT_DIR, f"{safe_fn}.opml"), encoding="utf-8", xml_declaration=True)
 
