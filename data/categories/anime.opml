@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - anime</title>
+  </head>
+  <body>
+    <outline text="anime" title="anime">
+      <outline type="rss" text="幻之羁绊动漫网 - 资讯" title="幻之羁绊动漫网 - 资讯" xmlUrl="https://rsshub.app/005/zx" />
+      <outline type="rss" text="禁漫天堂 - 文庫" title="禁漫天堂 - 文庫" xmlUrl="https://rsshub.app/18comic/blogs" />
+      <outline type="rss" text="禁漫天堂 - 专辑" title="禁漫天堂 - 专辑" xmlUrl="https://rsshub.app/18comic/album/292282" />
+      <outline type="rss" text="禁漫天堂 - 成人 A 漫" title="禁漫天堂 - 成人 A 漫" xmlUrl="https://rsshub.app/18comic" />
+      <outline type="rss" text="禁漫天堂 - 搜索" title="禁漫天堂 - 搜索" xmlUrl="https://rsshub.app/18comic/search/photos/all/NTR" />
+      <outline type="rss" text="AcFun - 番剧" title="AcFun - 番剧" xmlUrl="https://rsshub.app/acfun/bangumi/5022158" />
+      <outline type="rss" text="AcFun - 文章" title="AcFun - 文章" xmlUrl="https://rsshub.app/acfun/article/110" />
+      <outline type="rss" text="AcFun - 用户投稿" title="AcFun - 用户投稿" xmlUrl="https://rsshub.app/acfun/user/video/6102" />
+      <outline type="rss" text="ACG17 - 全部文章" title="ACG17 - 全部文章" xmlUrl="https://rsshub.app/acg17/post/all" />
+      <outline type="rss" text="ACG Vinyl - 黑胶 - News" title="ACG Vinyl - 黑胶 - News" xmlUrl="https://rsshub.app/news" />
+      <outline type="rss" text="AGE 动漫 - 番剧详情" title="AGE 动漫 - 番剧详情" xmlUrl="https://rsshub.app/agefans/detail/20200035" />
+      <outline type="rss" text="AGE 动漫 - 最近更新" title="AGE 动漫 - 最近更新" xmlUrl="https://rsshub.app/agefans/update" />
+      <outline type="rss" text="巴卡漫画 - 漫画更新" title="巴卡漫画 - 漫画更新" xmlUrl="https://rsshub.app/bakamh/manga/%E6%9C%80%E5%BC%BA%E5%AE%B6%E4%B8%81" />
+      <outline type="rss" text="萌番组 - Latest" title="萌番组 - Latest" xmlUrl="https://rsshub.app/bangumi.moe" />
+      <outline type="rss" text="アニメ新番組 - 當季新番" title="アニメ新番組 - 當季新番" xmlUrl="https://rsshub.app/bangumi.online" />
+      <outline type="rss" text="Bangumi 番组计划 - 放送列表" title="Bangumi 番组计划 - 放送列表" xmlUrl="https://rsshub.app/bangumi.tv/calendar/today" />
+      <outline type="rss" text="Bangumi 番组计划 - Bangumi 用户收藏列表" title="Bangumi 番组计划 - Bangumi 用户收藏列表" xmlUrl="https://rsshub.app/bangumi.tv/user/collections/sai/1/1" />
+      <outline type="rss" text="Bangumi 番组计划 - 小组话题" title="Bangumi 番组计划 - 小组话题" xmlUrl="https://rsshub.app/bangumi.tv/group/boring" />
+      <outline type="rss" text="Bangumi 番组计划 - 成员关注榜" title="Bangumi 番组计划 - 成员关注榜" xmlUrl="https://rsshub.app/bangumi.tv/anime/followrank" />
+      <outline type="rss" text="Bangumi 番组计划 - 现实人物的新作品" title="Bangumi 番组计划 - 现实人物的新作品" xmlUrl="https://rsshub.app/bangumi.tv/person/32943" />
+      <outline type="rss" text="Bangumi 番组计划 - 用户日志" title="Bangumi 番组计划 - 用户日志" xmlUrl="https://rsshub.app/bangumi.tv/user/blog/sai" />
+      <outline type="rss" text="Bangumi 番组计划 - 条目的通用路由格式" title="Bangumi 番组计划 - 条目的通用路由格式" xmlUrl="https://rsshub.app/bangumi.tv/subject/328609/ep/true" />
+      <outline type="rss" text="包子漫画 - 订阅漫画" title="包子漫画 - 订阅漫画" xmlUrl="https://rsshub.app/baozimh/comic/guowangpaiming-shiricaofu" />
+      <outline type="rss" text="番组放送 - 开播提醒" title="番组放送 - 开播提醒" xmlUrl="https://rsshub.app/bgmlist/onair/zh-Hans" />
+      <outline type="rss" text="動漫狂 - 漫画更新" title="動漫狂 - 漫画更新" xmlUrl="https://rsshub.app/cartoonmad/comic/5827" />
+      <outline type="rss" text="CnGal - 制作者 / 游戏新闻" title="CnGal - 制作者 / 游戏新闻" xmlUrl="https://rsshub.app/cngal/entry/2693" />
+      <outline type="rss" text="CnGal - 每周速报" title="CnGal - 每周速报" xmlUrl="https://rsshub.app/cngal/weekly" />
+      <outline type="rss" text="COLAMANGA - Manga" title="COLAMANGA - Manga" xmlUrl="https://rsshub.app/colamanga/manga-qq978758" />
+      <outline type="rss" text="コラボカフェ - 分类" title="コラボカフェ - 分类" xmlUrl="https://rsshub.app/collabo-cafe/category/cafe" />
+      <outline type="rss" text="コラボカフェ - 全部文章" title="コラボカフェ - 全部文章" xmlUrl="https://rsshub.app/collabo-cafe/" />
+      <outline type="rss" text="Comicat - 搜索关键词" title="Comicat - 搜索关键词" xmlUrl="https://rsshub.app/comicat/search/%E5%96%B5%E8%90%8C%E5%A5%B6%E8%8C%B6%E5%B1%8B%2B%E8%B7%83%E5%8A%A8%E9%9D%92%E6%98%A5%2B720P%2B%E7%AE%80%E6%97%A5" />
+      <outline type="rss" text="拷贝漫画 - 漫画更新" title="拷贝漫画 - 漫画更新" xmlUrl="https://rsshub.app/copymanga/comic/dianjuren/5" />
+      <outline type="rss" text="DLsite - Discounted Works" title="DLsite - Discounted Works" xmlUrl="https://rsshub.app/dlsite/campaign/home" />
+      <outline type="rss" text="DLsite - Ci-en Creators' Article" title="DLsite - Ci-en Creators' Article" xmlUrl="https://rsshub.app/dlsite/ci-en/7400/article" />
+      <outline type="rss" text="DLsite - Current Release" title="DLsite - Current Release" xmlUrl="https://rsshub.app/dlsite/new/home" />
+      <outline type="rss" text="动漫之家 - 新闻站" title="动漫之家 - 新闻站" xmlUrl="https://rsshub.app/dmzj/news/donghuaqingbao" />
+      <outline type="rss" text="Doraemon Channel - Article" title="Doraemon Channel - Article" xmlUrl="https://rsshub.app/dora-world/article/contents" />
+      <outline type="rss" text="Eventernote - 声优活动及演唱会" title="Eventernote - 声优活动及演唱会" xmlUrl="https://rsshub.app/eventernote/actors/%E4%B8%89%E6%A3%AE%E3%81%99%E3%81%9A%E3%81%93/2634" />
+      <outline type="rss" text="风之动漫 - 在线漫画" title="风之动漫 - 在线漫画" xmlUrl="https://rsshub.app/fffdm/manhua/93" />
+      <outline type="rss" text="漫小肆韓漫 - 漫画更新" title="漫小肆韓漫 - 漫画更新" xmlUrl="https://rsshub.app/freexcomic/book/90" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" title="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" xmlUrl="https://rsshub.app/gamer/ani/anime/36868" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" title="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" xmlUrl="https://rsshub.app/gamer/ani/new_anime" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - GNN 新聞" title="巴哈姆特電玩資訊站 - GNN 新聞" xmlUrl="https://rsshub.app/gamer/gnn/1" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 本板推薦" title="巴哈姆特電玩資訊站 - 本板推薦" xmlUrl="https://rsshub.app/gamer/hot/47157" />
+      <outline type="rss" text="Gogoanimehd - Recent Releases" title="Gogoanimehd - Recent Releases" xmlUrl="https://rsshub.app/gogoanimehd/recent-releases" />
+      <outline type="rss" text="Hanime1 - 每月新番" title="Hanime1 - 每月新番" xmlUrl="https://rsshub.app/hanime1/previews/202504" />
+      <outline type="rss" text="Hanime1 - 搜索结果" title="Hanime1 - 搜索结果" xmlUrl="https://rsshub.app/hanime1/search/tags%255B%255D%3D%25E7%25B4%2594%25E6%2584%259B%26" />
+      <outline type="rss" text="Hpoi 手办维基 - 热门推荐" title="Hpoi 手办维基 - 热门推荐" xmlUrl="https://rsshub.app/hpoi/bannerItem" />
+      <outline type="rss" text="Hpoi 手办维基 - 情报" title="Hpoi 手办维基 - 情报" xmlUrl="https://rsshub.app/hpoi/info/all/hobby%7Cmodel" />
+      <outline type="rss" text="Hpoi 手办维基 - 用户动态" title="Hpoi 手办维基 - 用户动态" xmlUrl="https://rsshub.app/hpoi/user/116297/buy" />
+      <outline type="rss" text="Hpoi 手办维基 - 所有周边" title="Hpoi 手办维基 - 所有周边" xmlUrl="https://rsshub.app/hpoi/items/all" />
+      <outline type="rss" text="Hpoi 手办维基 - 角色周边" title="Hpoi 手办维基 - 角色周边" xmlUrl="https://rsshub.app/hpoi/items/character/1035374" />
+      <outline type="rss" text="Hpoi 手办维基 - 作品周边" title="Hpoi 手办维基 - 作品周边" xmlUrl="https://rsshub.app/hpoi/items/work/4117491" />
+      <outline type="rss" text="アイドルマスター THE IDOLM@STER - ニュース News" title="アイドルマスター THE IDOLM@STER - ニュース News" xmlUrl="https://rsshub.app/idolmaster/news/brand%3DMILLIONLIVE%26brand%3DSHINYCOLORS%26category%3DGAME%26category%3DANIME" />
+      <outline type="rss" text="IDOLY PRIDE 偶像荣耀 - News" title="IDOLY PRIDE 偶像荣耀 - News" xmlUrl="https://rsshub.app/idolypride/news" />
+      <outline type="rss" text="iwara - User" title="iwara - User" xmlUrl="https://rsshub.app/iwara/users/kelpie/video" />
+      <outline type="rss" text="iwara - User Subscriptions" title="iwara - User Subscriptions" xmlUrl="https://rsshub.app/iwara/subscriptions" />
+      <outline type="rss" text="Kemono - Posts" title="Kemono - Posts" xmlUrl="https://rsshub.app/kemono" />
+      <outline type="rss" text="Komiic - 漫画更新" title="Komiic - 漫画更新" xmlUrl="https://rsshub.app/komiic/comic/533" />
+      <outline type="rss" text="来漫画 - 漫画列表" title="来漫画 - 漫画列表" xmlUrl="https://rsshub.app/laimanhua/tiandikangzhanjiVERSUS" />
+      <outline type="rss" text="Love Live! Official Website - News" title="Love Live! Official Website - News" xmlUrl="https://rsshub.app/lovelive-anime/news" />
+      <outline type="rss" text="円谷ステーション - ニュース" title="円谷ステーション - ニュース" xmlUrl="https://rsshub.app/m-78/news" />
+      <outline type="rss" text="MangaDex - MDList Feed" title="MangaDex - MDList Feed" xmlUrl="https://rsshub.app/mangadex/mdlist/10cca803-8dc9-4f0e-86a8-6659a3ce5188%3Flimit%3D10%26private%3Dtrue" />
+      <outline type="rss" text="看漫画 - 漫画更新" title="看漫画 - 漫画更新" xmlUrl="https://rsshub.app/manhuagui/comic/22942/5" />
+      <outline type="rss" text="Mox.moe - 首頁" title="Mox.moe - 首頁" xmlUrl="https://rsshub.app/mox" />
+      <outline type="rss" text="nhentai - Filter" title="nhentai - Filter" xmlUrl="https://rsshub.app/nhentai/index/language/chinese" />
+      <outline type="rss" text="nhentai - Advanced Search" title="nhentai - Advanced Search" xmlUrl="https://rsshub.app/nhentai/search/language%253Ajapanese%2B-scat%2B-yaoi%2B-guro%2B-%22mosaic%2Bcensorship%22" />
+      <outline type="rss" text="NTR BLOG（寝取られブログ） - Articles" title="NTR BLOG（寝取られブログ） - Articles" xmlUrl="https://rsshub.app/ntrblog/articles" />
+      <outline type="rss" text="俺の 3D エロ動画 (oreno3d) - Author Search" title="俺の 3D エロ動画 (oreno3d) - Author Search" xmlUrl="https://rsshub.app/oreno3d/authors/3189/latest/1" />
+      <outline type="rss" text="pixivision - Category" title="pixivision - Category" xmlUrl="https://rsshub.app/pixivision/zh-tw" />
+      <outline type="rss" text="QooApp - News" title="QooApp - News" xmlUrl="https://rsshub.app/qoo-app/news/en" />
+      <outline type="rss" text="腾讯网 - 排行榜" title="腾讯网 - 排行榜" xmlUrl="https://rsshub.app/qq/ac/rank" />
+      <outline type="rss" text="Rawkuma - Manga" title="Rawkuma - Manga" xmlUrl="https://rsshub.app/rawkuma/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu" />
+      <outline type="rss" text="Skebetter - Illust" title="Skebetter - Illust" xmlUrl="https://rsshub.app/skebetter/illust/hot" />
+      <outline type="rss" text="Skebetter - Hot" title="Skebetter - Hot" xmlUrl="https://rsshub.app/skebetter/hot" />
+      <outline type="rss" text="Skebetter - Manga" title="Skebetter - Manga" xmlUrl="https://rsshub.app/skebetter/manga/1" />
+      <outline type="rss" text="THBWiki - Calendar" title="THBWiki - Calendar" xmlUrl="https://rsshub.app/thwiki/calendar" />
+      <outline type="rss" text="とらのあな - Category" title="とらのあな - Category" xmlUrl="https://rsshub.app/toranoana/news/toragen" />
+      <outline type="rss" text="VCB-Studio - 分类文章" title="VCB-Studio - 分类文章" xmlUrl="https://rsshub.app/vcb-s/category/works" />
+      <outline type="rss" text="X 漫画 - 最新动态" title="X 漫画 - 最新动态" xmlUrl="https://rsshub.app/xmanhua/73xm" />
+      <outline type="rss" text="月幕 Galgame - 文章" title="月幕 Galgame - 文章" xmlUrl="https://rsshub.app/ymgal/article" />
+      <outline type="rss" text="月幕 Galgame - 本月新作" title="月幕 Galgame - 本月新作" xmlUrl="https://rsshub.app/ymgal/game/release" />
+      <outline type="rss" text="再漫画 - 漫画更新" title="再漫画 - 漫画更新" xmlUrl="https://rsshub.app/zaimanhua/comic/14488" />
+      <outline type="rss" text="再漫画 - 最近更新" title="再漫画 - 最近更新" xmlUrl="https://rsshub.app/zaimanhua/update" />
+    </outline>
+  </body>
+</opml>

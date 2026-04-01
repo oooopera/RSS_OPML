@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - picture</title>
+  </head>
+  <body>
+    <outline text="picture" title="picture">
+      <outline type="rss" text="4KHD - Category" title="4KHD - Category" xmlUrl="https://rsshub.app/4khd/category/cosplay" />
+      <outline type="rss" text="4KHD - Latest" title="4KHD - Latest" xmlUrl="https://rsshub.app/4khd" />
+      <outline type="rss" text="4KUP - Popular" title="4KUP - Popular" xmlUrl="https://rsshub.app/4kup/popular/7" />
+      <outline type="rss" text="4KUP - Category" title="4KUP - Category" xmlUrl="https://rsshub.app/4kup/category/coser" />
+      <outline type="rss" text="4KUP - Latest" title="4KUP - Latest" xmlUrl="https://rsshub.app/4kup" />
+      <outline type="rss" text="4KUP - Tag" title="4KUP - Tag" xmlUrl="https://rsshub.app/4kup/tag/asian" />
+      <outline type="rss" text="500px 摄影社区 - 部落影集" title="500px 摄影社区 - 部落影集" xmlUrl="https://rsshub.app/500px/tribe/set/f5de0b8aa6d54ec486f5e79616418001" />
+      <outline type="rss" text="8KCosplay - 最新" title="8KCosplay - 最新" xmlUrl="https://rsshub.app/8kcos" />
+      <outline type="rss" text="8KCosplay - 标签" title="8KCosplay - 标签" xmlUrl="https://rsshub.app/8kcos/tag/cosplay" />
+      <outline type="rss" text="MM 范 - 集合" title="MM 范 - 集合" xmlUrl="https://rsshub.app/95mm/category/1" />
+      <outline type="rss" text="MM 范 - 分类" title="MM 范 - 分类" xmlUrl="https://rsshub.app/95mm/tab/%E7%83%AD%E9%97%A8" />
+      <outline type="rss" text="BaoBua - Category" title="BaoBua - Category" xmlUrl="https://rsshub.app/baobua/category/network" />
+      <outline type="rss" text="BaoBua - Latest" title="BaoBua - Latest" xmlUrl="https://rsshub.app/baobua" />
+      <outline type="rss" text="BaoBua - Search" title="BaoBua - Search" xmlUrl="https://rsshub.app/baobua/search/cos" />
+      <outline type="rss" text="北京天文馆 - 每日一图" title="北京天文馆 - 每日一图" xmlUrl="https://rsshub.app/bjp/apod" />
+      <outline type="rss" text="Booru - MMDArchive 标签查询" title="Booru - MMDArchive 标签查询" xmlUrl="https://rsshub.app/booru/mmda/tags/full_body%2520blue_eyes" />
+      <outline type="rss" text="CosplayTele - Category" title="CosplayTele - Category" xmlUrl="https://rsshub.app/cosplaytele/category/cosplay" />
+      <outline type="rss" text="CosplayTele - Latest" title="CosplayTele - Latest" xmlUrl="https://rsshub.app/cosplaytele" />
+      <outline type="rss" text="CosplayTele - Popular" title="CosplayTele - Popular" xmlUrl="https://rsshub.app/cosplaytele/popular/3" />
+      <outline type="rss" text="CosplayTele - Tag" title="CosplayTele - Tag" xmlUrl="https://rsshub.app/cosplaytele/tag/aqua" />
+      <outline type="rss" text="喷嚏 - 主题" title="喷嚏 - 主题" xmlUrl="https://rsshub.app/dapenti/subject/184" />
+      <outline type="rss" text="喷嚏 - 图卦" title="喷嚏 - 图卦" xmlUrl="https://rsshub.app/dapenti/tugua" />
+      <outline type="rss" text="E-Hentai - Search" title="E-Hentai - Search" xmlUrl="https://rsshub.app/ehentai/search/f_cats%3D1021/0/bittorrent%3Dtrue%26embed_thumb%3Dfalse" />
+      <outline type="rss" text="E-Hentai - Tag" title="E-Hentai - Tag" xmlUrl="https://rsshub.app/ehentai/tag/language%3Achinese/0/bittorrent%3Dtrue%26embed_thumb%3Dfalse" />
+      <outline type="rss" text="EVERIA.CLUB - Images with category" title="EVERIA.CLUB - Images with category" xmlUrl="https://rsshub.app/everia/category/cosplay" />
+      <outline type="rss" text="EVERIA.CLUB - Latest" title="EVERIA.CLUB - Latest" xmlUrl="https://rsshub.app/everia" />
+      <outline type="rss" text="EVERIA.CLUB - Search" title="EVERIA.CLUB - Search" xmlUrl="https://rsshub.app/everia/search/%E6%97%A5%E5%90%91%E5%9D%8246" />
+      <outline type="rss" text="EVERIA.CLUB - Images with tag" title="EVERIA.CLUB - Images with tag" xmlUrl="https://rsshub.app/everia/tag/hinatazaka46-%E6%97%A5%E5%90%91%E5%9D%8246" />
+      <outline type="rss" text="Fantia - Search" title="Fantia - Search" xmlUrl="https://rsshub.app/fantia/search/posts/all/daily" />
+      <outline type="rss" text="Fantia - User Posts" title="Fantia - User Posts" xmlUrl="https://rsshub.app/fantia/user/3498" />
+      <outline type="rss" text="Gelbooru - 标签查询" title="Gelbooru - 标签查询" xmlUrl="https://rsshub.app/gelbooru/post/1girl%20rating%3Ageneral" />
+      <outline type="rss" text="Google - Update" title="Google - Update" xmlUrl="https://rsshub.app/google/doodles/zh-CN" />
+      <outline type="rss" text="极品性感美女 - 搜索" title="极品性感美女 - 搜索" xmlUrl="https://rsshub.app/jpxgmn/search/candy" />
+      <outline type="rss" text="极品性感美女 - 分类" title="极品性感美女 - 分类" xmlUrl="https://rsshub.app/jpxgmn/tab" />
+      <outline type="rss" text="极品性感美女 - 本周热门" title="极品性感美女 - 本周热门" xmlUrl="https://rsshub.app/jpxgmn/weekly" />
+      <outline type="rss" text="Konachan.com Anime Wallpapers - Popular Recent Posts" title="Konachan.com Anime Wallpapers - Popular Recent Posts" xmlUrl="https://rsshub.app/konachan/post/popular_recent/1d" />
+      <outline type="rss" text="kpopping - Pics" title="kpopping - Pics" xmlUrl="https://rsshub.app/kpopping/kpics/gender-male/category-all/idol-any/group-any/order" />
+      <outline type="rss" text="Magnum Photos - Magazine" title="Magnum Photos - Magazine" xmlUrl="https://rsshub.app/magnumphotos/magazine" />
+      <outline type="rss" text="MissKON - Top k days" title="MissKON - Top k days" xmlUrl="https://rsshub.app/misskon/top/60" />
+      <outline type="rss" text="MissKON - Posts" title="MissKON - Posts" xmlUrl="https://rsshub.app/misskon/posts/search%3Dvideo%26tags_exclude%3D353%2C3100%26per_page%3D5" />
+      <outline type="rss" text="MissKON - Tag" title="MissKON - Tag" xmlUrl="https://rsshub.app/misskon/tag/cosplay" />
+      <outline type="rss" text="NASA - NASA 中文" title="NASA - NASA 中文" xmlUrl="https://rsshub.app/nasa/apod-cn" />
+      <outline type="rss" text="NASA - Cheng Kung University Mirror" title="NASA - Cheng Kung University Mirror" xmlUrl="https://rsshub.app/nasa/apod-ncku" />
+      <outline type="rss" text="NASA - Astronomy Picture of the Day" title="NASA - Astronomy Picture of the Day" xmlUrl="https://rsshub.app/nasa/apod" />
+      <outline type="rss" text="National Geographic - Daily Photo" title="National Geographic - Daily Photo" xmlUrl="https://rsshub.app/natgeo/dailyphoto" />
+      <outline type="rss" text="Pinterest - User" title="Pinterest - User" xmlUrl="https://rsshub.app/pinterest/user/howieserious" />
+      <outline type="rss" text="Pixabay - Search" title="Pixabay - Search" xmlUrl="https://rsshub.app/pixabay/search/cat" />
+      <outline type="rss" text="Skeb - Skeb" title="Skeb - Skeb" xmlUrl="https://rsshub.app/skeb/new_art_works" />
+      <outline type="rss" text="Skeb - Creator Works" title="Skeb - Creator Works" xmlUrl="https://rsshub.app/skeb/works/%40brm2_1925" />
+      <outline type="rss" text="Voronoi - Editor's Pick Posts" title="Voronoi - Editor's Pick Posts" xmlUrl="https://rsshub.app/voronoiapp/editors-pick" />
+      <outline type="rss" text="Voronoi - Home Posts" title="Voronoi - Home Posts" xmlUrl="https://rsshub.app/voronoiapp/home" />
+      <outline type="rss" text="Voronoi - Latest Posts" title="Voronoi - Latest Posts" xmlUrl="https://rsshub.app/voronoiapp/latest" />
+      <outline type="rss" text="Voronoi - Popular Posts" title="Voronoi - Popular Posts" xmlUrl="https://rsshub.app/voronoiapp/popular/most-popular/MONTH" />
+      <outline type="rss" text="Voronoi - Search Keyword Posts" title="Voronoi - Search Keyword Posts" xmlUrl="https://rsshub.app/voronoiapp/search/china" />
+      <outline type="rss" text="wallhaven - Search" title="wallhaven - Search" xmlUrl="https://rsshub.app/wallhaven/search/categories%3D110%26purity%3D110%26sorting%3Ddate_added%26order%3Ddesc" />
+      <outline type="rss" text="yande.re - Popular Recent Posts" title="yande.re - Popular Recent Posts" xmlUrl="https://rsshub.app/yande/post/popular_recent/1d" />
+    </outline>
+  </body>
+</opml>

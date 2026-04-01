@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - travel</title>
+  </head>
+  <body>
+    <outline text="travel" title="travel">
+      <outline type="rss" text="12306 - 最新动态" title="12306 - 最新动态" xmlUrl="https://rsshub.app/12306/zxdt" />
+      <outline type="rss" text="National Museum Of China - 资讯要闻" title="National Museum Of China - 资讯要闻" xmlUrl="https://rsshub.app/zx/xingnew" />
+      <outline type="rss" text="National Museum Of China - 资讯专题" title="National Museum Of China - 资讯专题" xmlUrl="https://rsshub.app/zx/xwzt" />
+      <outline type="rss" text="飞客茶馆 - 信用卡" title="飞客茶馆 - 信用卡" xmlUrl="https://rsshub.app/flyert/creditcard/zhongxin" />
+      <outline type="rss" text="飞客茶馆 - 优惠信息" title="飞客茶馆 - 优惠信息" xmlUrl="https://rsshub.app/flyert/preferential" />
+      <outline type="rss" text="National Geographic - 分类" title="National Geographic - 分类" xmlUrl="https://rsshub.app/natgeo/environment/article" />
+      <outline type="rss" text="National Geographic - Latest Stories" title="National Geographic - Latest Stories" xmlUrl="https://rsshub.app/nationalgeographic/latest-stories" />
+      <outline type="rss" text="走进日本 - 政治外交" title="走进日本 - 政治外交" xmlUrl="https://rsshub.app/nippon/Politics" />
+      <outline type="rss" text="YAMAP - 文章" title="YAMAP - 文章" xmlUrl="https://rsshub.app/yamap" />
+    </outline>
+  </body>
+</opml>
