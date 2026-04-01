@@ -28,15 +28,9 @@ class RSSHubSync:
 
     def run(self):
         available_map = self.fetch_analytics()
-        if not available_map:
-            print("❌ 未能获取到可用性数据，请检查网络。")
-            return
+        if not available_map: return
 
-        # 采样预览
-        sample_keys = list(available_map.keys())[:3]
-        print(f"DEBUG: Analytics 真实 Key 采样: {sample_keys}")
-
-        print(f"🔍 步骤 2: 开始深度匹配与过滤...")
+        print(f"🔍 步骤 2: 正在通过智能去重匹配路由...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
@@ -45,8 +39,6 @@ class RSSHubSync:
             global_seen_urls = set()
             filtered_count = 0
             success_count = 0
-            
-            # 用于日志诊断
             debug_count = 0
 
             for ns_key, ns_val in routes_data.items():
@@ -56,20 +48,27 @@ class RSSHubSync:
                 for r_pattern, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
                     
-                    # 核心对齐逻辑：
-                    # 1. 尝试 /namespace/pattern
-                    # 2. 尝试 /pattern
-                    p1 = f"/{ns_key.strip('/')}/{r_pattern.lstrip('/')}"
-                    p2 = f"/{r_pattern.lstrip('/')}"
+                    # --- 智能路径构建 (防止重复拼接) ---
+                    clean_ns = ns_key.strip('/')
+                    clean_pat = r_pattern.strip('/')
                     
-                    status = available_map.get(p1)
-                    if status is None:
-                        status = available_map.get(p2)
+                    # 如果 pattern 已经以 ns 开头，则不再重复拼接
+                    if clean_pat.startswith(clean_ns + '/'):
+                        full_path = '/' + clean_pat
+                    else:
+                        full_path = f"/{clean_ns}/{clean_pat}"
+                    
+                    # --- 检查可用性 ---
+                    # 只要 analytics 字典里存在这个 key，即代表官方探测过且有数据
+                    status_data = available_map.get(full_path)
+                    
+                    if status_data is None:
+                        # 尝试兜底匹配：直接用 pattern 查找
+                        status_data = available_map.get('/' + clean_pat)
 
-                    # 只有状态为 1 (Available) 的才保留
-                    if status != 1:
+                    if status_data is None:
                         if debug_count < 5:
-                            print(f"DEBUG: 过滤路由 {p1} | 状态: {status}")
+                            print(f"DEBUG: 无法匹配模板 {full_path}，已跳过")
                             debug_count += 1
                         filtered_count += 1
                         continue
@@ -96,8 +95,7 @@ class RSSHubSync:
                     success_count += 1
 
             # 生成 OPML
-            if os.path.exists(OUTPUT_DIR):
-                shutil.rmtree(OUTPUT_DIR)
+            if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
             for tag, items in category_buckets.items():
@@ -105,28 +103,24 @@ class RSSHubSync:
 
             print(f"\n✅ 处理完成！")
             print(f"成功保留: {success_count} 条")
-            print(f"已过滤不可用: {filtered_count} 条")
+            print(f"已过滤 (无记录): {filtered_count} 条")
 
         except Exception as e:
             print(f"❌ 运行异常: {e}")
 
     def write_opml(self, tag, items):
-        # 清洗文件名
         safe_fn = re.sub(r'[\\/:*?"<>|]', '_', tag).strip()
         opml = ET.Element("opml", version="2.0")
         head = ET.SubElement(opml, "head")
         ET.SubElement(head, "title").text = f"RSSHub - {tag}"
         body = ET.SubElement(opml, "body")
         parent = ET.SubElement(body, "outline", text=tag, title=tag)
-
         for r in items:
             xml_url = f"https://{BASE_DOMAIN}{r['url']}"
             ET.SubElement(parent, "outline", type="rss", text=r['title'], title=r['title'], xmlUrl=xml_url)
-
         tree = ET.ElementTree(opml)
         ET.indent(tree, space="  ", level=0)
         tree.write(os.path.join(OUTPUT_DIR, f"{safe_fn}.opml"), encoding="utf-8", xml_declaration=True)
 
-# --- 修复 SyntaxError 的关键行 ---
 if __name__ == "__main__":
     RSSHubSync().run()
