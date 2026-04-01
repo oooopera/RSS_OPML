@@ -46,42 +46,14 @@
       <outline type="rss" text="当当开放平台 - 公告" title="当当开放平台 - 公告" xmlUrl="https://rsshub.gamepp.cf/dangdang/notice/1" />
       <outline type="rss" text="dbaplus社群 - 最新文章" title="dbaplus社群 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/dbaplus" />
       <outline type="rss" text="DeepLearning.AI - The Batch" title="DeepLearning.AI - The Batch" xmlUrl="https://rsshub.gamepp.cf/deeplearning/the-batch" />
-      <outline type="rss" text="Deepseek - 新闻" title="Deepseek - 新闻" xmlUrl="https://rsshub.gamepp.cf/deepseek/news" />
       <outline type="rss" text="DEV Community - Trending Guides" title="DEV Community - Trending Guides" xmlUrl="https://rsshub.gamepp.cf/dev.to/guides" />
       <outline type="rss" text="DEV Community - Top Posts" title="DEV Community - Top Posts" xmlUrl="https://rsshub.gamepp.cf/dev.to/top/week" />
       <outline type="rss" text="Devtrium - Official Blogs" title="Devtrium - Official Blogs" xmlUrl="https://rsshub.gamepp.cf/devtrium" />
       <outline type="rss" text="得物 - 平台公告" title="得物 - 平台公告" xmlUrl="https://rsshub.gamepp.cf/dewu/declaration/1010580020" />
       <outline type="rss" text="印记中文 - 周刊 - JavaScript" title="印记中文 - 周刊 - JavaScript" xmlUrl="https://rsshub.gamepp.cf/docschina/weekly" />
-      <outline type="rss" text="DuckDB Foundation - 新闻" title="DuckDB Foundation - 新闻" xmlUrl="https://rsshub.gamepp.cf/duckdb/news" />
       <outline type="rss" text="电子发烧友 - 文章" title="电子发烧友 - 文章" xmlUrl="https://rsshub.gamepp.cf/elecfans/article/special" />
       <outline type="rss" text="Engineering.fyi - Tag" title="Engineering.fyi - Tag" xmlUrl="https://rsshub.gamepp.cf/engineering/tag/javascript" />
       <outline type="rss" text="gihyo.jp - Series" title="gihyo.jp - Series" xmlUrl="https://rsshub.gamepp.cf/gihyo/list/group/Ubuntu-Weekly-Recipe" />
-      <outline type="rss" text="Gitee - 仓库提交" title="Gitee - 仓库提交" xmlUrl="https://rsshub.gamepp.cf/gitee/commits/y_project/RuoYi" />
-      <outline type="rss" text="Gitee - 仓库动态" title="Gitee - 仓库动态" xmlUrl="https://rsshub.gamepp.cf/gitee/events/y_project/RuoYi" />
-      <outline type="rss" text="Gitee - 仓库 Releases" title="Gitee - 仓库 Releases" xmlUrl="https://rsshub.gamepp.cf/gitee/releases/y_project/RuoYi" />
-      <outline type="rss" text="Gitee - 用户公开动态" title="Gitee - 用户公开动态" xmlUrl="https://rsshub.gamepp.cf/gitee/events/y_project" />
-      <outline type="rss" text="GitHub - User Activities" title="GitHub - User Activities" xmlUrl="https://rsshub.gamepp.cf/github/activity/DIYgod" />
-      <outline type="rss" text="GitHub - Repo Branches" title="GitHub - Repo Branches" xmlUrl="https://rsshub.gamepp.cf/github/branches/DIYgod/RSSHub" />
-      <outline type="rss" text="GitHub - Repo Contributors" title="GitHub - Repo Contributors" xmlUrl="https://rsshub.gamepp.cf/github/contributors/DIYgod/RSSHub" />
-      <outline type="rss" text="GitHub - File Commits" title="GitHub - File Commits" xmlUrl="https://rsshub.gamepp.cf/github/file/DIYgod/RSSHub/master/README.md" />
-      <outline type="rss" text="GitHub - User Followers" title="GitHub - User Followers" xmlUrl="https://rsshub.gamepp.cf/github/user/followers/HenryQW" />
-      <outline type="rss" text="GitHub - Gist Commits" title="GitHub - Gist Commits" xmlUrl="https://rsshub.gamepp.cf/github/gist/d2c152bb7179d07015f336b1a0582679" />
-      <outline type="rss" text="GitHub - Notifications" title="GitHub - Notifications" xmlUrl="https://rsshub.gamepp.cf/github/notifications" />
-      <outline type="rss" text="GitHub - User's Feed" title="GitHub - User's Feed" xmlUrl="https://rsshub.gamepp.cf/github/feed/yihong0618/star%2Crelease%2Cpr" />
-      <outline type="rss" text="GitHub - User Repo" title="GitHub - User Repo" xmlUrl="https://rsshub.gamepp.cf/github/repos/DIYgod" />
-      <outline type="rss" text="GitHub - Search Result" title="GitHub - Search Result" xmlUrl="https://rsshub.gamepp.cf/github/search/RSSHub/bestmatch/desc" />
-      <outline type="rss" text="GitHub - Repo Stars" title="GitHub - Repo Stars" xmlUrl="https://rsshub.gamepp.cf/github/stars/DIYgod/RSSHub" />
-      <outline type="rss" text="GitHub - User Starred Repositories" title="GitHub - User Starred Repositories" xmlUrl="https://rsshub.gamepp.cf/github/starred_repos/DIYgod" />
-      <outline type="rss" text="GitHub - User Event" title="GitHub - User Event" xmlUrl="https://rsshub.gamepp.cf/github/user_event/mslxl" />
-      <outline type="rss" text="GitHub - Issue / Pull Request comments" title="GitHub - Issue / Pull Request comments" xmlUrl="https://rsshub.gamepp.cf/github/comments/DIYgod/RSSHub/8116" />
-      <outline type="rss" text="GitHub - Repo Discussions" title="GitHub - Repo Discussions" xmlUrl="https://rsshub.gamepp.cf/github/discussion/DIYgod/RSSHub" />
-      <outline type="rss" text="GitHub - Repo Issues" title="GitHub - Repo Issues" xmlUrl="https://rsshub.gamepp.cf/github/issue/DIYgod/RSSHub/open" />
-      <outline type="rss" text="GitHub - Repo Pull Requests" title="GitHub - Repo Pull Requests" xmlUrl="https://rsshub.gamepp.cf/github/pull/DIYgod/RSSHub" />
-      <outline type="rss" text="GitHub - Github Advisory Database RSS" title="GitHub - Github Advisory Database RSS" xmlUrl="https://rsshub.gamepp.cf/github/advisor/data/reviewed/composer" />
-      <outline type="rss" text="GitHub - Repo Pulse" title="GitHub - Repo Pulse" xmlUrl="https://rsshub.gamepp.cf/github/pulse/DIYgod/RSSHub" />
-      <outline type="rss" text="GitHub - Topics" title="GitHub - Topics" xmlUrl="https://rsshub.gamepp.cf/github/topics/framework" />
-      <outline type="rss" text="GitHub - Trending" title="GitHub - Trending" xmlUrl="https://rsshub.gamepp.cf/github/trending/daily/javascript/en" />
-      <outline type="rss" text="GitHub - Wiki History" title="GitHub - Wiki History" xmlUrl="https://rsshub.gamepp.cf/github/wiki/flutter/flutter/Roadmap" />
       <outline type="rss" text="Gitpod - Blog" title="Gitpod - Blog" xmlUrl="https://rsshub.gamepp.cf/gitpod/blog" />
       <outline type="rss" text="Gitstar Ranking - Ranking" title="Gitstar Ranking - Ranking" xmlUrl="https://rsshub.gamepp.cf/gitstar-ranking/repositories" />
       <outline type="rss" text="Hacker News - User" title="Hacker News - User" xmlUrl="https://rsshub.gamepp.cf/hackernews/threads/comments_list/dang" />
@@ -103,14 +75,12 @@
       <outline type="rss" text="Josh W Comeau - Articles and Tutorials" title="Josh W Comeau - Articles and Tutorials" xmlUrl="https://rsshub.gamepp.cf/joshwcomeau/latest/css" />
       <outline type="rss" text="Josh W Comeau - Popular Content" title="Josh W Comeau - Popular Content" xmlUrl="https://rsshub.gamepp.cf/joshwcomeau/popular" />
       <outline type="rss" text="掘金 - 小册" title="掘金 - 小册" xmlUrl="https://rsshub.gamepp.cf/juejin/books" />
-      <outline type="rss" text="掘金 - 用户动态" title="掘金 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/juejin/dynamic/3051900006845944" />
       <outline type="rss" text="掘金 - 沸点" title="掘金 - 沸点" xmlUrl="https://rsshub.gamepp.cf/juejin/pins/6824710202487472141" />
       <outline type="rss" text="掘金 - AI 编程" title="掘金 - AI 编程" xmlUrl="https://rsshub.gamepp.cf/juejin/aicoding" />
       <outline type="rss" text="掘金 - 分类" title="掘金 - 分类" xmlUrl="https://rsshub.gamepp.cf/juejin/category/frontend" />
       <outline type="rss" text="掘金 - 单个收藏夹" title="掘金 - 单个收藏夹" xmlUrl="https://rsshub.gamepp.cf/juejin/collection/6845243180586123271" />
       <outline type="rss" text="掘金 - 收藏集" title="掘金 - 收藏集" xmlUrl="https://rsshub.gamepp.cf/juejin/collections/1697301682482439" />
       <outline type="rss" text="掘金 - 专栏" title="掘金 - 专栏" xmlUrl="https://rsshub.gamepp.cf/juejin/column/6960559453037199391" />
-      <outline type="rss" text="掘金 - 用户文章" title="掘金 - 用户文章" xmlUrl="https://rsshub.gamepp.cf/juejin/posts/3051900006845944" />
       <outline type="rss" text="掘金 - 标签" title="掘金 - 标签" xmlUrl="https://rsshub.gamepp.cf/juejin/tag/JavaScript" />
       <outline type="rss" text="掘金 - 热门" title="掘金 - 热门" xmlUrl="https://rsshub.gamepp.cf/juejin/trending/ios/monthly" />
       <outline type="rss" text="Kiro - Blog" title="Kiro - Blog" xmlUrl="https://rsshub.gamepp.cf/kiro/blog" />
@@ -122,7 +92,6 @@
       <outline type="rss" text="LeetCode - Articles" title="LeetCode - Articles" xmlUrl="https://rsshub.gamepp.cf/leetcode/articles" />
       <outline type="rss" text="连享会 - 精彩资讯" title="连享会 - 精彩资讯" xmlUrl="https://rsshub.gamepp.cf/lianxh" />
       <outline type="rss" text="洛谷 - 比赛列表" title="洛谷 - 比赛列表" xmlUrl="https://rsshub.gamepp.cf/luogu/contest" />
-      <outline type="rss" text="洛谷 - 用户文章" title="洛谷 - 用户文章" xmlUrl="https://rsshub.gamepp.cf/luogu/user/article/1" />
       <outline type="rss" text="Manus - Blog" title="Manus - Blog" xmlUrl="https://rsshub.gamepp.cf/manus/blog" />
       <outline type="rss" text="美团 - 技术团队博客" title="美团 - 技术团队博客" xmlUrl="https://rsshub.gamepp.cf/meituan/tech" />
       <outline type="rss" text="Meta - AI Blog" title="Meta - AI Blog" xmlUrl="https://rsshub.gamepp.cf/meta/ai/blog" />
@@ -140,14 +109,12 @@
       <outline type="rss" text="OpenAI - Cookbook" title="OpenAI - Cookbook" xmlUrl="https://rsshub.gamepp.cf/openai/cookbook" />
       <outline type="rss" text="OpenAI - News" title="OpenAI - News" xmlUrl="https://rsshub.gamepp.cf/openai/news" />
       <outline type="rss" text="OpenAI - Research" title="OpenAI - Research" xmlUrl="https://rsshub.gamepp.cf/openai/research" />
-      <outline type="rss" text="开源中国 - 用户博客" title="开源中国 - 用户博客" xmlUrl="https://rsshub.gamepp.cf/oschina/u/3920392" />
       <outline type="rss" text="开源中国 - 资讯" title="开源中国 - 资讯" xmlUrl="https://rsshub.gamepp.cf/oschina/news" />
       <outline type="rss" text="开源中国 - 活动" title="开源中国 - 活动" xmlUrl="https://rsshub.gamepp.cf/oschina/event" />
       <outline type="rss" text="oshwhub 立创开源硬件平台 - 开源广场" title="oshwhub 立创开源硬件平台 - 开源广场" xmlUrl="https://rsshub.gamepp.cf/oshwhub/explore" />
       <outline type="rss" text="Python - Active Python Releases" title="Python - Active Python Releases" xmlUrl="https://rsshub.gamepp.cf/python/release" />
       <outline type="rss" text="Quicker - 讨论区" title="Quicker - 讨论区" xmlUrl="https://rsshub.gamepp.cf/quicker/qa" />
       <outline type="rss" text="Quicker - 动作分享" title="Quicker - 动作分享" xmlUrl="https://rsshub.gamepp.cf/quicker/share/Recent" />
-      <outline type="rss" text="Quicker - 用户更新" title="Quicker - 用户更新" xmlUrl="https://rsshub.gamepp.cf/quicker/user/Actions/3-CL" />
       <outline type="rss" text="Raspberry Pi - Official Magazine" title="Raspberry Pi - Official Magazine" xmlUrl="https://rsshub.gamepp.cf/raspberrypi/magazine" />
       <outline type="rss" text="Reactiflux - Transcripts" title="Reactiflux - Transcripts" xmlUrl="https://rsshub.gamepp.cf/reactiflux/transcripts" />
       <outline type="rss" text="Rock the JVM - Article" title="Rock the JVM - Article" xmlUrl="https://rsshub.gamepp.cf/rockthejvm/articles" />

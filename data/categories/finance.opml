@@ -5,10 +5,8 @@
   </head>
   <body>
     <outline text="金融" title="金融">
-      <outline type="rss" text="同花顺财经 - 7×24小时要闻直播" title="同花顺财经 - 7×24小时要闻直播" xmlUrl="https://rsshub.gamepp.cf/10jqka/realtimenews" />
       <outline type="rss" text="21财经 - 频道" title="21财经 - 频道" xmlUrl="https://rsshub.gamepp.cf/21caijing/channel/%E7%83%AD%E7%82%B9" />
       <outline type="rss" text="AInvest - Latest Article" title="AInvest - Latest Article" xmlUrl="https://rsshub.gamepp.cf/ainvest/article" />
-      <outline type="rss" text="AInvest - Latest News" title="AInvest - Latest News" xmlUrl="https://rsshub.gamepp.cf/ainvest/news" />
       <outline type="rss" text="巴伦周刊中文版 - 栏目" title="巴伦周刊中文版 - 栏目" xmlUrl="https://rsshub.gamepp.cf/barronschina" />
       <outline type="rss" text="BigQuant - 专题报告" title="BigQuant - 专题报告" xmlUrl="https://rsshub.gamepp.cf/bigquant/collections" />
       <outline type="rss" text="Binance - Announcement" title="Binance - Announcement" xmlUrl="https://rsshub.gamepp.cf/binance/announcement/new-cryptocurrency-listing" />
@@ -18,11 +16,9 @@
       <outline type="rss" text="Bloomberg - Authors" title="Bloomberg - Authors" xmlUrl="https://rsshub.gamepp.cf/bloomberg/authors/ARbTQlRLRjE/matthew-s-levine" />
       <outline type="rss" text="Bloomberg - Bloomberg Site" title="Bloomberg - Bloomberg Site" xmlUrl="https://rsshub.gamepp.cf/bloomberg/bbiz" />
       <outline type="rss" text="BullionVault - Gold News" title="BullionVault - Gold News" xmlUrl="https://rsshub.gamepp.cf/bullionvault/gold-news" />
-      <outline type="rss" text="财经网 - 滚动新闻" title="财经网 - 滚动新闻" xmlUrl="https://rsshub.gamepp.cf/caijing/roll" />
       <outline type="rss" text="中国货币网 - 公告" title="中国货币网 - 公告" xmlUrl="https://rsshub.gamepp.cf/chinamoney" />
       <outline type="rss" text="中债资信评估有限责任公司 - 中债研究" title="中债资信评估有限责任公司 - 中债研究" xmlUrl="https://rsshub.gamepp.cf/chinaratings/CreditResearch" />
       <outline type="rss" text="中指研究院 - 报告" title="中指研究院 - 报告" xmlUrl="https://rsshub.gamepp.cf/cih-index/report/list/p1-oaddtime-ddesc" />
-      <outline type="rss" text="财联社 - 电报" title="财联社 - 电报" xmlUrl="https://rsshub.gamepp.cf/cls/telegraph" />
       <outline type="rss" text="财联社 - 深度" title="财联社 - 深度" xmlUrl="https://rsshub.gamepp.cf/cls/depth/1000" />
       <outline type="rss" text="财联社 - 热门文章排行榜" title="财联社 - 热门文章排行榜" xmlUrl="https://rsshub.gamepp.cf/cls/hot" />
       <outline type="rss" text="财联社 - 话题" title="财联社 - 话题" xmlUrl="https://rsshub.gamepp.cf/cls/subject/1103" />
@@ -30,7 +26,6 @@
       <outline type="rss" text="Cointelegraph - News" title="Cointelegraph - News" xmlUrl="https://rsshub.gamepp.cf/cointelegraph" />
       <outline type="rss" text="CryptoSlate - News" title="CryptoSlate - News" xmlUrl="https://rsshub.gamepp.cf/cryptoslate" />
       <outline type="rss" text="中证网 - 中证视频" title="中证网 - 中证视频" xmlUrl="https://rsshub.gamepp.cf/cs/video/%E4%BB%8A%E6%97%A5%E8%81%9A%E7%84%A6" />
-      <outline type="rss" text="Decrypt - News" title="Decrypt - News" xmlUrl="https://rsshub.gamepp.cf/decrypt" />
       <outline type="rss" text="DT 财经 - 数据侠专栏" title="DT 财经 - 数据侠专栏" xmlUrl="https://rsshub.gamepp.cf/dtcj/datahero" />
       <outline type="rss" text="DT 财经 - 数据洞察" title="DT 财经 - 数据洞察" xmlUrl="https://rsshub.gamepp.cf/dtcj/datainsight" />
       <outline type="rss" text="FastBull - News Flash" title="FastBull - News Flash" xmlUrl="https://rsshub.gamepp.cf/fastbull/express-news" />
@@ -45,14 +40,10 @@
       <outline type="rss" text="Followin - News" title="Followin - News" xmlUrl="https://rsshub.gamepp.cf/followin/news" />
       <outline type="rss" text="Forklog - Новости" title="Forklog - Новости" xmlUrl="https://rsshub.gamepp.cf/forklog/news" />
       <outline type="rss" text="FX Markets - Channel" title="FX Markets - Channel" xmlUrl="https://rsshub.gamepp.cf/fx-markets/trading" />
-      <outline type="rss" text="汇通网 - 7x24 小时快讯" title="汇通网 - 7x24 小时快讯" xmlUrl="https://rsshub.gamepp.cf/fx678/kx" />
-      <outline type="rss" text="格隆汇 - 实时快讯" title="格隆汇 - 实时快讯" xmlUrl="https://rsshub.gamepp.cf/gelonghui/live" />
       <outline type="rss" text="格隆汇 - 最热文章" title="格隆汇 - 最热文章" xmlUrl="https://rsshub.gamepp.cf/gelonghui/hot-article" />
       <outline type="rss" text="格隆汇 - 主题文章" title="格隆汇 - 主题文章" xmlUrl="https://rsshub.gamepp.cf/gelonghui/subject/4" />
       <outline type="rss" text="格隆汇 - 首页" title="格隆汇 - 首页" xmlUrl="https://rsshub.gamepp.cf/gelonghui/home" />
       <outline type="rss" text="格隆汇 - 搜索关键字" title="格隆汇 - 搜索关键字" xmlUrl="https://rsshub.gamepp.cf/gelonghui/keyword/%E6%97%A9%E6%8A%A5" />
-      <outline type="rss" text="深圳市罗湖区人民政府 - 工作论文" title="深圳市罗湖区人民政府 - 工作论文" xmlUrl="https://rsshub.gamepp.cf/gov/pbc/gzlw" />
-      <outline type="rss" text="深圳市罗湖区人民政府 - 沟通交流" title="深圳市罗湖区人民政府 - 沟通交流" xmlUrl="https://rsshub.gamepp.cf/gov/pbc/goutongjiaoliu" />
       <outline type="rss" text="和讯网 - 创投行业新闻" title="和讯网 - 创投行业新闻" xmlUrl="https://rsshub.gamepp.cf/hexun/pe/news" />
       <outline type="rss" text="中央汇金投资有限责任公司 - 资讯中心" title="中央汇金投资有限责任公司 - 资讯中心" xmlUrl="https://rsshub.gamepp.cf/huijin-inv/news" />
       <outline type="rss" text="HyperDash - Top Traders" title="HyperDash - Top Traders" xmlUrl="https://rsshub.gamepp.cf/hyperdash/top-traders" />
@@ -83,15 +74,12 @@
       <outline type="rss" text="上海证券交易所 - 监管问询" title="上海证券交易所 - 监管问询" xmlUrl="https://rsshub.gamepp.cf/sse/inquire" />
       <outline type="rss" text="上海证券交易所 - 本所业务规则" title="上海证券交易所 - 本所业务规则" xmlUrl="https://rsshub.gamepp.cf/sse/sselawsrules/latest" />
       <outline type="rss" text="证券时报网 - 列表" title="证券时报网 - 列表" xmlUrl="https://rsshub.gamepp.cf/stcn/article/list/yw" />
-      <outline type="rss" text="证券时报网 - 快讯" title="证券时报网 - 快讯" xmlUrl="https://rsshub.gamepp.cf/stcn/article/list/kx" />
       <outline type="rss" text="证券时报网 - 热榜" title="证券时报网 - 热榜" xmlUrl="https://rsshub.gamepp.cf/stcn/article/rank/yw" />
       <outline type="rss" text="Stock Edge - Daily Updates News" title="Stock Edge - Daily Updates News" xmlUrl="https://rsshub.gamepp.cf/stockedge/daily-updates/news" />
       <outline type="rss" text="深圳证券交易所 - 问询函件" title="深圳证券交易所 - 问询函件" xmlUrl="https://rsshub.gamepp.cf/szse/inquire" />
       <outline type="rss" text="深圳证券交易所 - 创业板项目动态" title="深圳证券交易所 - 创业板项目动态" xmlUrl="https://rsshub.gamepp.cf/szse/projectdynamic" />
       <outline type="rss" text="深圳证券交易所 - 上市公司公告" title="深圳证券交易所 - 上市公司公告" xmlUrl="https://rsshub.gamepp.cf/szse/disclosure/listed/notice" />
-      <outline type="rss" text="深圳证券交易所 - 上市公告 - 可转换债券" title="深圳证券交易所 - 上市公告 - 可转换债券" xmlUrl="https://rsshub.gamepp.cf/szse/notice" />
       <outline type="rss" text="深圳证券交易所 - 本所业务规则" title="深圳证券交易所 - 本所业务规则" xmlUrl="https://rsshub.gamepp.cf/szse/rule/allrules/bussiness" />
-      <outline type="rss" text="淘股吧 - 用户博客" title="淘股吧 - 用户博客" xmlUrl="https://rsshub.gamepp.cf/taoguba/blog/252069" />
       <outline type="rss" text="淘股吧 - 淘股论坛" title="淘股吧 - 淘股论坛" xmlUrl="https://rsshub.gamepp.cf/taoguba" />
       <outline type="rss" text="深潮 TechFlow - 快讯" title="深潮 TechFlow - 快讯" xmlUrl="https://rsshub.gamepp.cf/techflowpost/express" />
       <outline type="rss" text="深潮 TechFlow - 首页" title="深潮 TechFlow - 首页" xmlUrl="https://rsshub.gamepp.cf/techflowpost" />
