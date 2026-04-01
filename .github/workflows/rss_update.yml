@@ -27,23 +27,10 @@ jobs:
         # 即使报错也会记录日志
         run: python main.py
 
-      - name: Commit and Push
+- name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          
-          # 检查目录是否存在且非空
-          if [ -d "data/categories" ] && [ "$(ls -A data/categories)" ]; then
-            git add data/categories/*.opml
-            
-            # 只有在确实有文件变动时才 Commit
-            if ! git diff --staged --quiet; then
-              git commit -m "Update Category OPMLs: $(date +%Y-%m-%d)"
-              git push
-            else
-              echo "No significant changes detected."
-            fi
-          else
-            echo "Error: No OPML files were generated."
-            exit 1
-          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/categories/*.opml
+          git add 路由清单.txt  # 明确添加根目录下的清单文件
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS categories and Route List" && git push)

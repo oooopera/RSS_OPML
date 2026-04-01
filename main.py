@@ -4,13 +4,14 @@ import requests
 import xml.etree.ElementTree as ET
 import shutil
 from urllib.parse import quote
+from datetime import datetime  # 确保导入正确
 
 # --- 配置参数 ---
 BASE_DOMAIN = "rsshub.app"
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 ANALYTICS_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/rsshub-analytics.json"
 OUTPUT_DIR = "data/categories"
-LIST_FILE = "路由清单.txt" # 新增清单文件名
+LIST_FILE = "路由清单.txt"  # 放置在根目录的文件名
 
 # --- 分类中文映射表 ---
 CN_NAME_MAP = {
@@ -84,19 +85,16 @@ class RSSHubSync:
                     
                     category_buckets[cn_tag].append({
                         "full_title": f"{ns_name} - {r_info.get('name', r_pattern)}",
-                        "pure_name": r_info.get('name', r_pattern),
                         "url": safe_path
                     })
                     success_count += 1
 
-            # 生成文件
+            # 清理并创建分类目录
             if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
             # --- 生成 OPML 并准备清单内容 ---
             list_content = [f"RSSHub 路由清单 (更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M')})\n", "="*60 + "\n"]
-            
-            # 按分类包含数量排序
             sorted_categories = sorted(category_buckets.items(), key=lambda x: len(x[1]), reverse=True)
 
             for cn_tag, items in sorted_categories:
@@ -109,13 +107,13 @@ class RSSHubSync:
                     list_content.append(f"{idx:03}. {item['full_title']}")
                 list_content.append("\n")
 
-            # --- 写入清单文件 ---
-            with open(os.path.join(OUTPUT_DIR, LIST_FILE), "w", encoding="utf-8") as f:
+            # --- 写入清单文件 (核心变动：直接保存在当前工作目录，即根目录) ---
+            with open(LIST_FILE, "w", encoding="utf-8") as f:
                 f.write("\n".join(list_content))
 
             print(f"✅ 处理完成！")
-            print(f"📁 已生成各分类 OPML 文件")
-            print(f"📄 已生成详细清单: {os.path.join(OUTPUT_DIR, LIST_FILE)}")
+            print(f"📁 分类 OPML 已保存至: {OUTPUT_DIR}")
+            print(f"📄 详细清单已保存至根目录: {LIST_FILE}")
             print(f"📊 总计可用路由: {success_count} 条")
 
         except Exception as e:
@@ -135,6 +133,5 @@ class RSSHubSync:
         ET.indent(tree, space="  ", level=0)
         tree.write(os.path.join(OUTPUT_DIR, f"{safe_fn}.opml"), encoding="utf-8", xml_declaration=True)
 
-from datetime import datetime
 if __name__ == "__main__":
     RSSHubSync().run()
