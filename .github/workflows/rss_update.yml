@@ -31,7 +31,15 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/categories/*.opml
-          git add Route_List.txt
-          git add new_route.txt  # 必须添加这一行
+          
+          # 1. 尝试添加所有相关文件，如果文件不存在也不会报错
+          git add data/categories/*.opml || true
+          git add Route_List.txt || true
+          
+          # 2. 特别处理 new_route.txt，只在它存在时才 add
+          if [ -f "new_route.txt" ]; then
+            git add new_route.txt
+          fi
+          
+          # 3. 检查是否有文件变化，如果有则提交
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS and New Routes" && git push)
