@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 其他</title>
+  </head>
+  <body>
+    <outline text="其他" title="其他">
+      <outline type="rss" text="爱发电 - 用户动态" title="爱发电 - 用户动态" xmlUrl="https://rsshub.app/afdian/dynamic/%40afdian" />
+      <outline type="rss" text="爱发电 - 发现用户" title="爱发电 - 发现用户" xmlUrl="https://rsshub.app/afdian/explore/hot/%E6%89%80%E6%9C%89" />
+      <outline type="rss" text="Apple - Exchange and Repair Extension Programs" title="Apple - Exchange and Repair Extension Programs" xmlUrl="https://rsshub.app/apple/exchange_repair" />
+      <outline type="rss" text="空气质量 - 实时 AQI" title="空气质量 - 实时 AQI" xmlUrl="https://rsshub.app/aqicn/beijing/pm25" />
+      <outline type="rss" text="ATP Tour - News" title="ATP Tour - News" xmlUrl="https://rsshub.app/atptour/news/en" />
+      <outline type="rss" text="百度 - 搜索" title="百度 - 搜索" xmlUrl="https://rsshub.app/baidu/search/rss" />
+      <outline type="rss" text="百度 - 热搜榜单" title="百度 - 热搜榜单" xmlUrl="https://rsshub.app/baidu/top" />
+      <outline type="rss" text="Bing - 每日壁纸" title="Bing - 每日壁纸" xmlUrl="https://rsshub.app/bing/type%3DUHD%26story%3D1%26lang%3Dzh-CN" />
+      <outline type="rss" text="中国银行 - 外汇牌价" title="中国银行 - 外汇牌价" xmlUrl="https://rsshub.app/boc/whpj/zs%3Ffilter_title%3D%25E8%258B%25B1%25E9%2595%2591" />
+      <outline type="rss" text="成都住建蓉 e 办 - 商品住房购房登记" title="成都住建蓉 e 办 - 商品住房购房登记" xmlUrl="https://rsshub.app/cdzjryb/zw/projectList" />
+      <outline type="rss" text="中国期货业协会 - 分析师园地" title="中国期货业协会 - 分析师园地" xmlUrl="https://rsshub.app/cfachina/servicesupport/analygarden" />
+      <outline type="rss" text="ClickMe - 文章" title="ClickMe - 文章" xmlUrl="https://rsshub.app/clickme/default/category/beauty" />
+      <outline type="rss" text="DataGuidance - News" title="DataGuidance - News" xmlUrl="https://rsshub.app/dataguidance/news" />
+      <outline type="rss" text="Digital Policy Alert - Activity Tracker" title="Digital Policy Alert - Activity Tracker" xmlUrl="https://rsshub.app/digitalpolicyalert/activity-tracker" />
+      <outline type="rss" text="盯梢 - 频道" title="盯梢 - 频道" xmlUrl="https://rsshub.app/dingshao/share/FzFypN" />
+      <outline type="rss" text="轻松游牧-远程工作聚集地 - 远程工作列表" title="轻松游牧-远程工作聚集地 - 远程工作列表" xmlUrl="https://rsshub.app/easynomad" />
+      <outline type="rss" text="Galxe - Quest" title="Galxe - Quest" xmlUrl="https://rsshub.app/galxe/quest/MissionWeb3" />
+      <outline type="rss" text="GameApps.hk 香港手机游戏网 - 最新消息" title="GameApps.hk 香港手机游戏网 - 最新消息" xmlUrl="https://rsshub.app/gameapps" />
+      <outline type="rss" text="Google - Alerts" title="Google - Alerts" xmlUrl="https://rsshub.app/google/alerts/RSSHub" />
+      <outline type="rss" text="Google - Search" title="Google - Search" xmlUrl="https://rsshub.app/google/search/rss/zh-CN%2Czh" />
+      <outline type="rss" text="骨朵数据 - 日榜" title="骨朵数据 - 日榜" xmlUrl="https://rsshub.app/guduodata/daily" />
+      <outline type="rss" text="HiringCafe - Jobs" title="HiringCafe - Jobs" xmlUrl="https://rsshub.app/hiring.cafe/jobs/sustainability" />
+      <outline type="rss" text="全球主机监控 - CloudFlareYes" title="全球主机监控 - CloudFlareYes" xmlUrl="https://rsshub.app/hostmonit/cloudflareyes" />
+      <outline type="rss" text="中国工商银行 - 外汇牌价" title="中国工商银行 - 外汇牌价" xmlUrl="https://rsshub.app/icbc/whpj/zs%3Ffilter_title%3D%25E8%258B%25B1%25E9%2595%2591" />
+      <outline type="rss" text="iDaily - 每日环球视野" title="iDaily - 每日环球视野" xmlUrl="https://rsshub.app/idaily" />
+      <outline type="rss" text="I Know What You Download - Daily Torrents Statistics" title="I Know What You Download - Daily Torrents Statistics" xmlUrl="https://rsshub.app/iknowwhatyoudownload/stats/daily/CN" />
+      <outline type="rss" text="Instructables - Projects" title="Instructables - Projects" xmlUrl="https://rsshub.app/instructables/projects/circuits" />
+      <outline type="rss" text="爱 Q 生活网 - 最近更新" title="爱 Q 生活网 - 最近更新" xmlUrl="https://rsshub.app/iqnew/latest" />
+      <outline type="rss" text="艾瑞咨询 - 研究报告" title="艾瑞咨询 - 研究报告" xmlUrl="https://rsshub.app/iresearch/report" />
+      <outline type="rss" text="煎蛋 - Feed" title="煎蛋 - Feed" xmlUrl="https://rsshub.app/jandan" />
+      <outline type="rss" text="煎蛋 - Section" title="煎蛋 - Section" xmlUrl="https://rsshub.app/jandan/top" />
+      <outline type="rss" text="界面新闻 - 界面号" title="界面新闻 - 界面号" xmlUrl="https://rsshub.app/jiemian/account/main/1" />
+      <outline type="rss" text="界面新闻 - 栏目" title="界面新闻 - 栏目" xmlUrl="https://rsshub.app/jiemian/lists/65" />
+      <outline type="rss" text="界面新闻 - 专题" title="界面新闻 - 专题" xmlUrl="https://rsshub.app/jiemian/special/1192" />
+      <outline type="rss" text="界面新闻 - 视频" title="界面新闻 - 视频" xmlUrl="https://rsshub.app/jiemian/video/lists/258_1" />
+      <outline type="rss" text="界面新闻 - VIP" title="界面新闻 - VIP" xmlUrl="https://rsshub.app/jiemian/pro/lists/12" />
+      <outline type="rss" text="贝壳研究院 - 研究成果" title="贝壳研究院 - 研究成果" xmlUrl="https://rsshub.app/ke/researchResults" />
+      <outline type="rss" text="KPMG - Insights" title="KPMG - Insights" xmlUrl="https://rsshub.app/kpmg/insights" />
+      <outline type="rss" text="LuMa - Events" title="LuMa - Events" xmlUrl="https://rsshub.app/luma/yieldnest" />
+      <outline type="rss" text="明報 - 新聞" title="明報 - 新聞" xmlUrl="https://rsshub.app/mingpao/ins/all" />
+      <outline type="rss" text="Naturalism.org - What's New" title="Naturalism.org - What's New" xmlUrl="https://rsshub.app/naturalism" />
+      <outline type="rss" text="中国互联网联合辟谣平台 - 今日辟谣" title="中国互联网联合辟谣平台 - 今日辟谣" xmlUrl="https://rsshub.app/piyao/jrpy" />
+      <outline type="rss" text="Product Hunt - Top Products Launching Today" title="Product Hunt - Top Products Launching Today" xmlUrl="https://rsshub.app/producthunt/today" />
+      <outline type="rss" text="腾讯网 - 最新辟谣" title="腾讯网 - 最新辟谣" xmlUrl="https://rsshub.app/qq/fact" />
+      <outline type="rss" text="QuestN - Events" title="QuestN - Events" xmlUrl="https://rsshub.app/questn/events" />
+      <outline type="rss" text="Radio France Internationale - Generic News" title="Radio France Internationale - Generic News" xmlUrl="https://rsshub.app/rfi" />
+      <outline type="rss" text="RSSHub - Transformation - HTML" title="RSSHub - Transformation - HTML" xmlUrl="https://rsshub.app/rsshub/transform/html/https%253A%252F%252Fwechat2rss.xlab.app%252Fposts%252Flist%252F/item%3Ddiv%255Bclass%253D%2527post%252Dcontent%2527%255D%2520p%2520a" />
+      <outline type="rss" text="RSSHub - Transformation - JSON" title="RSSHub - Transformation - JSON" xmlUrl="https://rsshub.app/rsshub/transform/json/https%253A%252F%252Fapi.github.com%252Frepos%252Fginuerzh%252Fgost%252Freleases/title%3DGost%2520releases%26itemTitle%3Dtag_name%26itemLink%3Dhtml_url%26itemDesc%3Dbody" />
+      <outline type="rss" text="星島日報 - 即時" title="星島日報 - 即時" xmlUrl="https://rsshub.app/stheadline/std/realtimenews" />
+      <outline type="rss" text="台灣大哥大 - 資費公告" title="台灣大哥大 - 資費公告" xmlUrl="https://rsshub.app/taiwanmobile/rate-plans" />
+      <outline type="rss" text="Taiwan FactCheck Center - 分類" title="Taiwan FactCheck Center - 分類" xmlUrl="https://rsshub.app/tfc-taiwan/category/weekly-top-ten-rumors" />
+      <outline type="rss" text="Taiwan FactCheck Center - 最新查核報告" title="Taiwan FactCheck Center - 最新查核報告" xmlUrl="https://rsshub.app/tfc-taiwan" />
+      <outline type="rss" text="U9A9 - Search" title="U9A9 - Search" xmlUrl="https://rsshub.app/u9a9/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92" />
+      <outline type="rss" text="裏垢女子まとめ - User" title="裏垢女子まとめ - User" xmlUrl="https://rsshub.app/uraaka-joshi/_rrwq" />
+      <outline type="rss" text="Urban Dictionary - Random words" title="Urban Dictionary - Random words" xmlUrl="https://rsshub.app/urbandictionary/random" />
+      <outline type="rss" text="华西医院 - 招聘公告" title="华西医院 - 招聘公告" xmlUrl="https://rsshub.app/wchscu/recruit" />
+      <outline type="rss" text="新假期周刊 - 最新文章" title="新假期周刊 - 最新文章" xmlUrl="https://rsshub.app/weekendhk" />
+      <outline type="rss" text="Wellcee 唯心所寓 - 支持的城市" title="Wellcee 唯心所寓 - 支持的城市" xmlUrl="https://rsshub.app/wellcee/support-city" />
+      <outline type="rss" text="Wellcee 唯心所寓 - 租房信息" title="Wellcee 唯心所寓 - 租房信息" xmlUrl="https://rsshub.app/wellcee/rent/%E5%8C%97%E4%BA%AC" />
+      <outline type="rss" text="Wise - FX Pair Yesterday" title="Wise - FX Pair Yesterday" xmlUrl="https://rsshub.app/wise/pair/GBP/USD" />
+      <outline type="rss" text="紳士漫畫 - 分类更新" title="紳士漫畫 - 分类更新" xmlUrl="https://rsshub.app/wnacg/category/6" />
+      <outline type="rss" text="紳士漫畫 - 最新" title="紳士漫畫 - 最新" xmlUrl="https://rsshub.app/wnacg" />
+      <outline type="rss" text="紳士漫畫 - 標籤更新" title="紳士漫畫 - 標籤更新" xmlUrl="https://rsshub.app/wnacg/tag/%E6%BC%A2%E5%8C%96" />
+      <outline type="rss" text="ZAKER - 分类" title="ZAKER - 分类" xmlUrl="https://rsshub.app/zaker/channel/13" />
+      <outline type="rss" text="ZAKER - 精读" title="ZAKER - 精读" xmlUrl="https://rsshub.app/zaker/focusread" />
+    </outline>
+  </body>
+</opml>
