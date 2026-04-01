@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 学习</title>
+  </head>
+  <body>
+    <outline text="学习" title="学习">
+      <outline type="rss" text="网易公开课 - 精品课程" title="网易公开课 - 精品课程" xmlUrl="https://rsshub.app/163/open/vip" />
+      <outline type="rss" text="BBC - Learning English" title="BBC - Learning English" xmlUrl="https://rsshub.app/bbc/learningenglish/take-away-english" />
+      <outline type="rss" text="中国人工智能学会 - 学会动态" title="中国人工智能学会 - 学会动态" xmlUrl="https://rsshub.app/caai/45" />
+      <outline type="rss" text="中国管理现代化研究会 - 栏目" title="中国管理现代化研究会 - 栏目" xmlUrl="https://rsshub.app/camchina" />
+      <outline type="rss" text="全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息" title="全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息" xmlUrl="https://rsshub.app/catti/news/zxzc" />
+      <outline type="rss" text="中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类" title="中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类" xmlUrl="https://rsshub.app/ccf/ccfcv/xsdt/xsqy" />
+      <outline type="rss" text="中国计算机学会 - 新闻" title="中国计算机学会 - 新闻" xmlUrl="https://rsshub.app/ccf/news" />
+      <outline type="rss" text="中国计算机学会 - 大数据专家委员会" title="中国计算机学会 - 大数据专家委员会" xmlUrl="https://rsshub.app/ccf/tfbd/xwdt/tzgg" />
+      <outline type="rss" text="中国智库网 - 观点与实践" title="中国智库网 - 观点与实践" xmlUrl="https://rsshub.app/chinathinktanks/57" />
+      <outline type="rss" text="中国研究生招生信息网 - 考研热点新闻" title="中国研究生招生信息网 - 考研热点新闻" xmlUrl="https://rsshub.app/chsi/hotnews" />
+      <outline type="rss" text="中国研究生招生信息网 - 考研动态" title="中国研究生招生信息网 - 考研动态" xmlUrl="https://rsshub.app/chsi/kydt" />
+      <outline type="rss" text="中国研究生招生信息网 - 考研资讯" title="中国研究生招生信息网 - 考研资讯" xmlUrl="https://rsshub.app/chsi/kyzx/fstj" />
+      <outline type="rss" text="中国人事考试网 - 中国人事考试网发布" title="中国人事考试网 - 中国人事考试网发布" xmlUrl="https://rsshub.app/cpta/notice" />
+      <outline type="rss" text="Chinese Social Science Net - Institute of Law" title="Chinese Social Science Net - Institute of Law" xmlUrl="https://rsshub.app/cssn/iolaw/zxzp" />
+      <outline type="rss" text="DBLP - Keyword Search" title="DBLP - Keyword Search" xmlUrl="https://rsshub.app/dblp/knowledge%2520tracing" />
+      <outline type="rss" text="万维书刊网 - 学术资讯" title="万维书刊网 - 学术资讯" xmlUrl="https://rsshub.app/eshukan/academic/1" />
+      <outline type="rss" text="福建考试报名网 - 分类" title="福建考试报名网 - 分类" xmlUrl="https://rsshub.app/fjksbm" />
+      <outline type="rss" text="Howtoforge Linux Tutorials - Tutorials" title="Howtoforge Linux Tutorials - Tutorials" xmlUrl="https://rsshub.app/howtoforge" />
+      <outline type="rss" text="湖南人事考试网 - 公告" title="湖南人事考试网 - 公告" xmlUrl="https://rsshub.app/hunanpea/rsks/2f1a6239-b4dc-491b-92af-7d95e0f0543e" />
+      <outline type="rss" text="MindMeister - Public Maps" title="MindMeister - Public Maps" xmlUrl="https://rsshub.app/mindmeister/mind-map-examples" />
+      <outline type="rss" text="国家哲学社会科学文献中心 - 最新文献" title="国家哲学社会科学文献中心 - 最新文献" xmlUrl="https://rsshub.app/ncpssd/newlist" />
+      <outline type="rss" text="中国教育考试网 - 国内考试动态" title="中国教育考试网 - 国内考试动态" xmlUrl="https://rsshub.app/neea/local/cet" />
+      <outline type="rss" text="中国教育考试网 - 日本语能力测试 JLPT 通知" title="中国教育考试网 - 日本语能力测试 JLPT 通知" xmlUrl="https://rsshub.app/neea/jlpt" />
+      <outline type="rss" text="ORCID - Works List" title="ORCID - Works List" xmlUrl="https://rsshub.app/orcid/0000-0002-4731-9700" />
+      <outline type="rss" text="中国计算机职业技术资格考试 - 软考动态" title="中国计算机职业技术资格考试 - 软考动态" xmlUrl="https://rsshub.app/ruankao/news" />
+      <outline type="rss" text="山东省教育招生考试院 - 新闻" title="山东省教育招生考试院 - 新闻" xmlUrl="https://rsshub.app/sdzk" />
+      <outline type="rss" text="上海市教育考试院 - 消息" title="上海市教育考试院 - 消息" xmlUrl="https://rsshub.app/shmeea/08000" />
+      <outline type="rss" text="全国通信专业技术人员职业水平考试 - 通信考试动态" title="全国通信专业技术人员职业水平考试 - 通信考试动态" xmlUrl="https://rsshub.app/txks/news" />
+      <outline type="rss" text="VisionIAS - Daily News Summary" title="VisionIAS - Daily News Summary" xmlUrl="https://rsshub.app/visionias/dailySummary" />
+      <outline type="rss" text="X-MOL - News" title="X-MOL - News" xmlUrl="https://rsshub.app/x-mol/news/3" />
+      <outline type="rss" text="语雀 - 知识库" title="语雀 - 知识库" xmlUrl="https://rsshub.app/yuque/ruanyf/weekly" />
+    </outline>
+  </body>
+</opml>

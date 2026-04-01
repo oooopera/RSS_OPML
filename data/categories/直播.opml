@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 直播</title>
+  </head>
+  <body>
+    <outline text="直播" title="直播">
+      <outline type="rss" text="哔哩哔哩 bilibili - 直播分区" title="哔哩哔哩 bilibili - 直播分区" xmlUrl="https://rsshub.app/bilibili/live/area/207/online" />
+      <outline type="rss" text="哔哩哔哩 bilibili - 直播开播" title="哔哩哔哩 bilibili - 直播开播" xmlUrl="https://rsshub.app/bilibili/live/room/3" />
+      <outline type="rss" text="哔哩哔哩 bilibili - 直播搜索" title="哔哩哔哩 bilibili - 直播搜索" xmlUrl="https://rsshub.app/bilibili/live/search/dota/online" />
+      <outline type="rss" text="抖音直播 - 直播间开播" title="抖音直播 - 直播间开播" xmlUrl="https://rsshub.app/douyin/live/685317364746" />
+      <outline type="rss" text="斗鱼直播 - 直播间开播" title="斗鱼直播 - 直播间开播" xmlUrl="https://rsshub.app/douyu/room/24422" />
+      <outline type="rss" text="浪 Play 直播 - 直播间开播" title="浪 Play 直播 - 直播间开播" xmlUrl="https://rsshub.app/lang/live/room/1352360" />
+      <outline type="rss" text="LiSA - Latest Discography" title="LiSA - Latest Discography" xmlUrl="https://rsshub.app/lxixsxa/disco" />
+      <outline type="rss" text="LiSA - News" title="LiSA - News" xmlUrl="https://rsshub.app/lxixsxa/info" />
+      <outline type="rss" text="Twitch - Live" title="Twitch - Live" xmlUrl="https://rsshub.app/twitch/live/riotgames" />
+      <outline type="rss" text="Twitch - Channel Video" title="Twitch - Channel Video" xmlUrl="https://rsshub.app/twitch/video/riotgames/highlights" />
+      <outline type="rss" text="Yoasobi Official - News &amp; Biography" title="Yoasobi Official - News &amp; Biography" xmlUrl="https://rsshub.app/yoasobi-music/info/news" />
+      <outline type="rss" text="Yoasobi Official - Live" title="Yoasobi Official - Live" xmlUrl="https://rsshub.app/yoasobi-music/live" />
+      <outline type="rss" text="Yoasobi Official - Media" title="Yoasobi Official - Media" xmlUrl="https://rsshub.app/yoasobi-music/media" />
+      <outline type="rss" text="YouTube - Live" title="YouTube - Live" xmlUrl="https://rsshub.app/youtube/live/%40GawrGura" />
+    </outline>
+  </body>
+</opml>
