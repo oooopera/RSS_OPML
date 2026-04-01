@@ -27,7 +27,7 @@ jobs:
         # 即使报错也会记录日志
         run: python main.py
 
-- name: Commit and Push
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
