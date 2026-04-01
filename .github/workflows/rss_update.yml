@@ -32,5 +32,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/categories/*.opml
-          git add 路由清单.txt  # 明确添加根目录下的清单文件
+          git add Route_List.txt  # 明确添加根目录下的清单文件
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS categories and Route List" && git push)

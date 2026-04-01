@@ -4,16 +4,16 @@ import requests
 import xml.etree.ElementTree as ET
 import shutil
 from urllib.parse import quote
-from datetime import datetime  # 确保导入正确
+from datetime import datetime
 
 # --- 配置参数 ---
 BASE_DOMAIN = "rsshub.app"
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 ANALYTICS_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/rsshub-analytics.json"
 OUTPUT_DIR = "data/categories"
-LIST_FILE = "路由清单.txt"  # 放置在根目录的文件名
+LIST_FILE = "Route_List.txt"  # 根目录清单改为英文名
 
-# --- 分类中文映射表 ---
+# --- 分类中文映射表 (仅用于显示，不用于文件名) ---
 CN_NAME_MAP = {
     "social-media": "社交媒体", "new-media": "新媒体", "traditional-media": "传统媒体",
     "shop": "购物", "game": "游戏", "study": "学习", "programming": "编程",
@@ -29,27 +29,24 @@ class RSSHubSync:
         self.headers = {"User-Agent": "Mozilla/5.0"}
 
     def fetch_analytics(self):
-        print("🔍 步骤 1: 获取可用性数据...")
+        print("🔍 Step 1: Fetching analytics data...")
         try:
             resp = requests.get(ANALYTICS_JSON_URL, timeout=30)
-            data = resp.json().get('data', {})
-            return data
+            return resp.json().get('data', {})
         except Exception as e:
-            print(f"⚠️ 无法获取可用性数据: {e}")
+            print(f"⚠️ Error fetching analytics: {e}")
             return None
-
-    def get_cn_name(self, tag):
-        return CN_NAME_MAP.get(tag.lower(), tag.replace('-', ' ').title())
 
     def run(self):
         available_map = self.fetch_analytics()
         if not available_map: return
 
-        print(f"🔍 步骤 2: 正在处理路由数据...")
+        print(f"🔍 Step 2: Processing routes...")
         try:
             resp = requests.get(ROUTES_JSON_URL, timeout=30)
             routes_data = resp.json()
 
+            # category_buckets 使用英文 key 保存数据
             category_buckets = {}
             global_seen_urls = set()
             success_count = 0
@@ -61,7 +58,7 @@ class RSSHubSync:
                 for r_pattern, r_info in routes.items():
                     if not isinstance(r_info, dict): continue
                     
-                    # 路径拼接与去重逻辑
+                    # 路径拼接逻辑
                     clean_ns, clean_pat = ns_key.strip('/'), r_pattern.strip('/')
                     full_path = f"/{clean_pat}" if clean_pat.startswith(clean_ns + '/') else f"/{clean_ns}/{clean_pat}"
                     
@@ -76,62 +73,40 @@ class RSSHubSync:
                     if safe_path in global_seen_urls: continue
                     global_seen_urls.add(safe_path)
 
-                    # 分类
+                    # 分类逻辑：保存原始英文 Tag
                     tags = r_info.get('categories', [])
-                    cn_tag = self.get_cn_name(tags[0] if tags else "Uncategorized")
+                    raw_tag = tags[0] if tags else "Uncategorized"
                     
-                    if cn_tag not in category_buckets:
-                        category_buckets[cn_tag] = []
+                    if raw_tag not in category_buckets:
+                        category_buckets[raw_tag] = []
                     
-                    category_buckets[cn_tag].append({
+                    category_buckets[raw_tag].append({
                         "full_title": f"{ns_name} - {r_info.get('name', r_pattern)}",
                         "url": safe_path
                     })
                     success_count += 1
 
-            # 清理并创建分类目录
+            # 清理目录
             if os.path.exists(OUTPUT_DIR): shutil.rmtree(OUTPUT_DIR)
             os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-            # --- 生成 OPML 并准备清单内容 ---
-            list_content = [f"RSSHub 路由清单 (更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M')})\n", "="*60 + "\n"]
+            # --- 生成 OPML 和清单 ---
+            list_content = [f"RSSHub Route List (Updated: {datetime.now().strftime('%Y-%m-%d %H:%M')})\n", "="*60 + "\n"]
+            
+            # 按数量排序输出
             sorted_categories = sorted(category_buckets.items(), key=lambda x: len(x[1]), reverse=True)
 
-            for cn_tag, items in sorted_categories:
-                self.write_opml(cn_tag, items)
+            for raw_tag, items in sorted_categories:
+                cn_display = CN_NAME_MAP.get(raw_tag.lower(), raw_tag.title())
                 
-                # 构建清单文本
-                list_content.append(f"📁 分类: {cn_tag} (共 {len(items)} 条)")
-                list_content.append("-" * 30)
+                # 写入 OPML (文件名用英文 raw_tag)
+                self.write_opml(raw_tag, cn_display, items)
+                
+                # 写入清单 (显示中文名)
+                list_content.append(f"📁 Category: {cn_display} ({raw_tag}.opml) - Count: {len(items)}")
+                list_content.append("-" * 40)
                 for idx, item in enumerate(items, 1):
                     list_content.append(f"{idx:03}. {item['full_title']}")
                 list_content.append("\n")
 
-            # --- 写入清单文件 (核心变动：直接保存在当前工作目录，即根目录) ---
-            with open(LIST_FILE, "w", encoding="utf-8") as f:
-                f.write("\n".join(list_content))
-
-            print(f"✅ 处理完成！")
-            print(f"📁 分类 OPML 已保存至: {OUTPUT_DIR}")
-            print(f"📄 详细清单已保存至根目录: {LIST_FILE}")
-            print(f"📊 总计可用路由: {success_count} 条")
-
-        except Exception as e:
-            print(f"❌ 运行异常: {e}")
-
-    def write_opml(self, cn_tag, items):
-        safe_fn = re.sub(r'[\\/:*?"<>|]', '_', cn_tag).strip()
-        opml = ET.Element("opml", version="2.0")
-        head = ET.SubElement(opml, "head")
-        ET.SubElement(head, "title").text = f"RSSHub - {cn_tag}"
-        body = ET.SubElement(opml, "body")
-        parent = ET.SubElement(body, "outline", text=cn_tag, title=cn_tag)
-        for r in items:
-            xml_url = f"https://{BASE_DOMAIN}{r['url']}"
-            ET.SubElement(parent, "outline", type="rss", text=r['full_title'], title=r['full_title'], xmlUrl=xml_url)
-        tree = ET.ElementTree(opml)
-        ET.indent(tree, space="  ", level=0)
-        tree.write(os.path.join(OUTPUT_DIR, f"{safe_fn}.opml"), encoding="utf-8", xml_declaration=True)
-
-if __name__ == "__main__":
-    RSSHubSync().run()
+            #
