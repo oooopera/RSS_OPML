@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Forecast</title>
+  </head>
+  <body>
+    <outline text="Forecast" title="Forecast">
+      <outline type="rss" text="Air-Level - 空气质量" title="Air-Level - 空气质量" xmlUrl="https://rsshub.gamepp.cf/air-level/air/xian" />
+      <outline type="rss" text="Air-Level - 空气质量排行" title="Air-Level - 空气质量排行" xmlUrl="https://rsshub.gamepp.cf/air-level/rank/best%2C/air-level/rank" />
+      <outline type="rss" text="BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian) - News" title="BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian) - News" xmlUrl="https://rsshub.gamepp.cf/bmkg/news" />
+      <outline type="rss" text="中国气象局 - 天气预报频道" title="中国气象局 - 天气预报频道" xmlUrl="https://rsshub.gamepp.cf/cma/channel/380" />
+      <outline type="rss" text="中国国家应急广播 - 应急新闻" title="中国国家应急广播 - 应急新闻" xmlUrl="https://rsshub.gamepp.cf/cneb/yjxw" />
+      <outline type="rss" text="重庆燃气 - 停气检修通知" title="重庆燃气 - 停气检修通知" xmlUrl="https://rsshub.gamepp.cf/cqgas/tqtz" />
+      <outline type="rss" text="地震速报 - 中国地震台" title="地震速报 - 中国地震台" xmlUrl="https://rsshub.gamepp.cf/earthquake/ceic/1" />
+      <outline type="rss" text="地震速报 - 中国地震局" title="地震速报 - 中国地震局" xmlUrl="https://rsshub.gamepp.cf/earthquake" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 广东省内城市预警信号" title="深圳市罗湖区人民政府 - 广东省内城市预警信号" xmlUrl="https://rsshub.gamepp.cf/gov/guangdong/tqyb/sncsyjxh" />
+      <outline type="rss" text="深圳市罗湖区人民政府 - 突发性天气提示" title="深圳市罗湖区人民政府 - 突发性天气提示" xmlUrl="https://rsshub.gamepp.cf/gov/guangdong/tqyb/tfxtq" />
+      <outline type="rss" text="Hong Kong Observatory - 全球地震資訊網" title="Hong Kong Observatory - 全球地震資訊網" xmlUrl="https://rsshub.gamepp.cf/hko/earthquake" />
+      <outline type="rss" text="Hong Kong Observatory - Current Weather Report" title="Hong Kong Observatory - Current Weather Report" xmlUrl="https://rsshub.gamepp.cf/hko/weather" />
+      <outline type="rss" text="国家气候中心 - 最新监测" title="国家气候中心 - 最新监测" xmlUrl="https://rsshub.gamepp.cf/ncc-cma/cmdp/image/RPJQWQYZ" />
+      <outline type="rss" text="中央气象台 - 产品" title="中央气象台 - 产品" xmlUrl="https://rsshub.gamepp.cf/nmc/publish/observations/hourly-temperature/html" />
+      <outline type="rss" text="中央气象台 - 全国气象预警" title="中央气象台 - 全国气象预警" xmlUrl="https://rsshub.gamepp.cf/nmc/weatheralarm/%E5%B9%BF%E4%B8%9C%E7%9C%81" />
+      <outline type="rss" text="和风天气 - 近三天天气" title="和风天气 - 近三天天气" xmlUrl="https://rsshub.gamepp.cf/qweather/3days/%E5%B9%BF%E5%B7%9E" />
+      <outline type="rss" text="和风天气 - 实时天气" title="和风天气 - 实时天气" xmlUrl="https://rsshub.gamepp.cf/qweather/now/%E5%B9%BF%E5%B7%9E" />
+      <outline type="rss" text="停水通知 - 广州市" title="停水通知 - 广州市" xmlUrl="https://rsshub.gamepp.cf/tingshuitz/guangzhou" />
+    </outline>
+  </body>
+</opml>

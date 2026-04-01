@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Shopping</title>
+  </head>
+  <body>
+    <outline text="Shopping" title="Shopping">
+      <outline type="rss" text="0818 团 - 分类" title="0818 团 - 分类" xmlUrl="https://rsshub.gamepp.cf/0818tuan" />
+      <outline type="rss" text="五大唱片 - 新貨上架" title="五大唱片 - 新貨上架" xmlUrl="https://rsshub.gamepp.cf/5music/new-releases" />
+      <outline type="rss" text="BOOKWALKER電子書 - 搜尋" title="BOOKWALKER電子書 - 搜尋" xmlUrl="https://rsshub.gamepp.cf/bookwalker/search/order%3Dsell_desc%26s%3D34" />
+      <outline type="rss" text="消费者报道 - 要闻" title="消费者报道 - 要闻" xmlUrl="https://rsshub.gamepp.cf/ccreports/article" />
+      <outline type="rss" text="玩物志 - 产品" title="玩物志 - 产品" xmlUrl="https://rsshub.gamepp.cf/coolbuy" />
+      <outline type="rss" text="原價屋 - 促銷&amp;開箱" title="原價屋 - 促銷&amp;開箱" xmlUrl="https://rsshub.gamepp.cf/coolpc/news" />
+      <outline type="rss" text="大麦网 - 票务更新" title="大麦网 - 票务更新" xmlUrl="https://rsshub.gamepp.cf/damai/activity/%E4%B8%8A%E6%B5%B7/%E9%9F%B3%E4%B9%90%E4%BC%9A/%E5%85%A8%E9%83%A8/%E6%9F%B4%E5%8F%AF%E5%A4%AB%E6%96%AF%E5%9F%BA" />
+      <outline type="rss" text="多抓鱼 - 搜索结果" title="多抓鱼 - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/duozhuayu/search/JavaScript" />
+      <outline type="rss" text="Furstar - 画师列表" title="Furstar - 画师列表" xmlUrl="https://rsshub.gamepp.cf/furstar/artists/cn" />
+      <outline type="rss" text="逛丢 - 九块九" title="逛丢 - 九块九" xmlUrl="https://rsshub.gamepp.cf/guangdiu/cheaps/k%3Dclothes" />
+      <outline type="rss" text="逛丢 - 国内折扣 / 海外折扣" title="逛丢 - 国内折扣 / 海外折扣" xmlUrl="https://rsshub.gamepp.cf/guangdiu/k%3Ddaily" />
+      <outline type="rss" text="逛丢 - 一小时风云榜" title="逛丢 - 一小时风云榜" xmlUrl="https://rsshub.gamepp.cf/guangdiu/rank" />
+      <outline type="rss" text="逛丢 - 关键字搜索" title="逛丢 - 关键字搜索" xmlUrl="https://rsshub.gamepp.cf/guangdiu/search/q%3D%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98" />
+      <outline type="rss" text="環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区" title="環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区" xmlUrl="https://rsshub.gamepp.cf/hkushop/vinyl" />
+      <outline type="rss" text="Hot Toys - Toys List" title="Hot Toys - Toys List" xmlUrl="https://rsshub.gamepp.cf/hottoys" />
+      <outline type="rss" text="hotukdeals - hottest" title="hotukdeals - hottest" xmlUrl="https://rsshub.gamepp.cf/hotukdeals/hottest" />
+      <outline type="rss" text="IKEA - UK - New Product Release" title="IKEA - UK - New Product Release" xmlUrl="https://rsshub.gamepp.cf/ikea/gb/new" />
+      <outline type="rss" text="IKEA - 中国 - 低价优选" title="IKEA - 中国 - 低价优选" xmlUrl="https://rsshub.gamepp.cf/ikea/cn/low_price" />
+      <outline type="rss" text="IKEA - 中国 - 当季新品推荐" title="IKEA - 中国 - 当季新品推荐" xmlUrl="https://rsshub.gamepp.cf/ikea/cn/new" />
+      <outline type="rss" text="Ktown4u - Get the products on sale" title="Ktown4u - Get the products on sale" xmlUrl="https://rsshub.gamepp.cf/ktown4u/artistBrandlist/234590/1723449" />
+      <outline type="rss" text="Mercari - 关键词" title="Mercari - 关键词" xmlUrl="https://rsshub.gamepp.cf/mercari/create_time/desc/default/%E3%81%B5%E3%82%82%E3%81%B5%E3%82%82" />
+      <outline type="rss" text="小米 - 小米众筹" title="小米 - 小米众筹" xmlUrl="https://rsshub.gamepp.cf/mi/crowdfunding" />
+      <outline type="rss" text="摩点 - 众筹" title="摩点 - 众筹" xmlUrl="https://rsshub.gamepp.cf/modian/zhongchou" />
+      <outline type="rss" text="Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票" title="Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票" xmlUrl="https://rsshub.gamepp.cf/openrice/zh/hongkong/voting/top/chinese" />
+      <outline type="rss" text="Openrice開飯喇 - 香港餐廳精選優惠券" title="Openrice開飯喇 - 香港餐廳精選優惠券" xmlUrl="https://rsshub.gamepp.cf/openrice/zh/hongkong/offers" />
+      <outline type="rss" text="Openrice開飯喇 - 香港餐廳排行榜" title="Openrice開飯喇 - 香港餐廳排行榜" xmlUrl="https://rsshub.gamepp.cf/openrice/zh/hongkong/explore/chart/most-bookmarked" />
+      <outline type="rss" text="Openrice開飯喇 - 香港餐厅滋讯" title="Openrice開飯喇 - 香港餐厅滋讯" xmlUrl="https://rsshub.gamepp.cf/openrice/zh/hongkong/promos" />
+      <outline type="rss" text="Patagonia - New Arrivals" title="Patagonia - New Arrivals" xmlUrl="https://rsshub.gamepp.cf/patagonia/new-arrivals/mens" />
+      <outline type="rss" text="上海文化广场 - 节目列表" title="上海文化广场 - 节目列表" xmlUrl="https://rsshub.gamepp.cf/shcstheatre/programs" />
+      <outline type="rss" text="上海东方艺术中心 - 演出月历" title="上海东方艺术中心 - 演出月历" xmlUrl="https://rsshub.gamepp.cf/shoac/recent-show" />
+      <outline type="rss" text="秀动网 - 按音乐人 - 演出更新" title="秀动网 - 按音乐人 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/artist/301783" />
+      <outline type="rss" text="秀动网 - 按城市 - 演出更新" title="秀动网 - 按城市 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/event/571/3" />
+      <outline type="rss" text="秀动网 - 演出搜索" title="秀动网 - 演出搜索" xmlUrl="https://rsshub.gamepp.cf/showstart/search/live" />
+      <outline type="rss" text="秀动网 - 按场地 - 演出更新" title="秀动网 - 按场地 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/site/3583" />
+      <outline type="rss" text="什么值得买 - 排行榜" title="什么值得买 - 排行榜" xmlUrl="https://rsshub.gamepp.cf/smzdm/ranking/pinlei/11/3" />
+      <outline type="rss" text="什么值得买 - 用户文章" title="什么值得买 - 用户文章" xmlUrl="https://rsshub.gamepp.cf/smzdm/article/6902738986" />
+      <outline type="rss" text="什么值得买 - 用户爆料" title="什么值得买 - 用户爆料" xmlUrl="https://rsshub.gamepp.cf/smzdm/baoliao/7367111021" />
+      <outline type="rss" text="什么值得买 - 好文分类" title="什么值得买 - 好文分类" xmlUrl="https://rsshub.gamepp.cf/smzdm/haowen/fenlei/shenghuodianqi" />
+      <outline type="rss" text="什么值得买 - 好文" title="什么值得买 - 好文" xmlUrl="https://rsshub.gamepp.cf/smzdm/haowen/1" />
+      <outline type="rss" text="什么值得买 - 关键词" title="什么值得买 - 关键词" xmlUrl="https://rsshub.gamepp.cf/smzdm/keyword/%E5%A5%B3%E8%A3%85" />
+      <outline type="rss" text="什么值得买 - 商品" title="什么值得买 - 商品" xmlUrl="https://rsshub.gamepp.cf/smzdm/product/zm5vzpe" />
+      <outline type="rss" text="Snow Peak - New Arrivals(USA)" title="Snow Peak - New Arrivals(USA)" xmlUrl="https://rsshub.gamepp.cf/snowpeak/us/new-arrivals" />
+      <outline type="rss" text="淘宝网 - 众筹项目" title="淘宝网 - 众筹项目" xmlUrl="https://rsshub.gamepp.cf/taobao/zhongchou/all" />
+      <outline type="rss" text="特斯拉中国 - 价格" title="特斯拉中国 - 价格" xmlUrl="https://rsshub.gamepp.cf/tesla/price" />
+      <outline type="rss" text="Gadget Flow - Category" title="Gadget Flow - Category" xmlUrl="https://rsshub.gamepp.cf/thegadgetflow/cool-gadgets-gifts" />
+      <outline type="rss" text="Uniqlo - New Arrivals" title="Uniqlo - New Arrivals" xmlUrl="https://rsshub.gamepp.cf/uniqlo/new/sg/men" />
+      <outline type="rss" text="线报酷 - 线板酷" title="线报酷 - 线板酷" xmlUrl="https://rsshub.gamepp.cf/xianbao" />
+      <outline type="rss" text="小米有品 - 小米有品众筹" title="小米有品 - 小米有品众筹" xmlUrl="https://rsshub.gamepp.cf/xiaomiyoupin/crowdfunding" />
+      <outline type="rss" text="小米有品 - 小米有品每日上新" title="小米有品 - 小米有品每日上新" xmlUrl="https://rsshub.gamepp.cf/xiaomiyoupin/latest" />
+      <outline type="rss" text="中国养猪网 - 全国今日生猪价格" title="中国养猪网 - 全国今日生猪价格" xmlUrl="https://rsshub.gamepp.cf/zhuwang/zhujia" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - 阅读</title>
+  </head>
+  <body>
+    <outline text="阅读" title="阅读">
+      <outline type="rss" text="51Read - 章节" title="51Read - 章节" xmlUrl="https://rsshub.gamepp.cf/51read/article/152685" />
+      <outline type="rss" text="明月中文网 - 分类" title="明月中文网 - 分类" xmlUrl="https://rsshub.gamepp.cf/56kog/class/1_1" />
+      <outline type="rss" text="69书吧 - 章节" title="69书吧 - 章节" xmlUrl="https://rsshub.gamepp.cf/69shu/article/47117" />
+      <outline type="rss" text="爱思想 - 栏目" title="爱思想 - 栏目" xmlUrl="https://rsshub.gamepp.cf/aisixiang/column/722" />
+      <outline type="rss" text="爱思想 - 思想库（专栏）" title="爱思想 - 思想库（专栏）" xmlUrl="https://rsshub.gamepp.cf/aisixiang/thinktank/WuQine/%E8%AE%BA%E6%96%87" />
+      <outline type="rss" text="爱思想 - 专题" title="爱思想 - 专题" xmlUrl="https://rsshub.gamepp.cf/aisixiang/zhuanti/211" />
+      <outline type="rss" text="Asianfanfics - 标签" title="Asianfanfics - 标签" xmlUrl="https://rsshub.gamepp.cf/asianfanfics/tag/milklove/N" />
+      <outline type="rss" text="Asianfanfics - 关键词" title="Asianfanfics - 关键词" xmlUrl="https://rsshub.gamepp.cf/asianfanfics/text-search/milklove" />
+      <outline type="rss" text="搬书匠 - 分类" title="搬书匠 - 分类" xmlUrl="https://rsshub.gamepp.cf/banshujiang/other/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" />
+      <outline type="rss" text="书伴 - 分类" title="书伴 - 分类" xmlUrl="https://rsshub.gamepp.cf/bookfere/skills" />
+      <outline type="rss" text="刺猬猫 - 章节" title="刺猬猫 - 章节" xmlUrl="https://rsshub.gamepp.cf/ciweimao/chapter/100043404" />
+      <outline type="rss" text="番茄小说 - 小说更新" title="番茄小说 - 小说更新" xmlUrl="https://rsshub.gamepp.cf/fanqienovel/page/6621052928482348040" />
+      <outline type="rss" text="Free Computer Books - Book List" title="Free Computer Books - Book List" xmlUrl="https://rsshub.gamepp.cf/freecomputerbooks/compscAlgorithmBooks" />
+      <outline type="rss" text="国门传媒在线 - 中国海关" title="国门传媒在线 - 中国海关" xmlUrl="https://rsshub.gamepp.cf/gmcmonline/chinacustoms" />
+      <outline type="rss" text="欢乐书客 - 章节" title="欢乐书客 - 章节" xmlUrl="https://rsshub.gamepp.cf/hbooker/chapter/100113279" />
+      <outline type="rss" text="Inoreader - HTML Clip" title="Inoreader - HTML Clip" xmlUrl="https://rsshub.gamepp.cf/inoreader/html_clip/1005137674/user-favorites" />
+      <outline type="rss" text="Inoreader - RSS" title="Inoreader - RSS" xmlUrl="https://rsshub.gamepp.cf/inoreader/rss/1005137674/user-favorites" />
+      <outline type="rss" text="晋江文学城 - 作者最新作品" title="晋江文学城 - 作者最新作品" xmlUrl="https://rsshub.gamepp.cf/jjwxc/author/4364484" />
+      <outline type="rss" text="晋江文学城 - 作品章节" title="晋江文学城 - 作品章节" xmlUrl="https://rsshub.gamepp.cf/jjwxc/book/7013024" />
+      <outline type="rss" text="カクヨム - 投稿" title="カクヨム - 投稿" xmlUrl="https://rsshub.gamepp.cf/kakuyomu/works/1177354054894027232" />
+      <outline type="rss" text="哔哩轻小说 - 小说更新" title="哔哩轻小说 - 小说更新" xmlUrl="https://rsshub.gamepp.cf/linovelib/novel/2547" />
+      <outline type="rss" text="哔哩轻小说 - 卷" title="哔哩轻小说 - 卷" xmlUrl="https://rsshub.gamepp.cf/linovelib/volume/8" />
+      <outline type="rss" text="MagazineLib - Latest Magazine" title="MagazineLib - Latest Magazine" xmlUrl="https://rsshub.gamepp.cf/magazinelib/latest-magazine/new%2Byorker" />
+      <outline type="rss" text="Nautiljon - France manga releases" title="Nautiljon - France manga releases" xmlUrl="https://rsshub.gamepp.cf/nautiljon/releases/manga" />
+      <outline type="rss" text="虚词 - 版块" title="虚词 - 版块" xmlUrl="https://rsshub.gamepp.cf/p-articles/section/critics" />
+      <outline type="rss" text="Penguin Random House - Articles" title="Penguin Random House - Articles" xmlUrl="https://rsshub.gamepp.cf/penguin-random-house/articles" />
+      <outline type="rss" text="Penguin Random House - Book Lists" title="Penguin Random House - Book Lists" xmlUrl="https://rsshub.gamepp.cf/penguin-random-house/the-read-down" />
+      <outline type="rss" text="起点 - 作品章节" title="起点 - 作品章节" xmlUrl="https://rsshub.gamepp.cf/qidian/chapter/1010400217" />
+      <outline type="rss" text="起点 - 限时免费" title="起点 - 限时免费" xmlUrl="https://rsshub.gamepp.cf/qidian/free" />
+      <outline type="rss" text="SF 轻小说 - 章节" title="SF 轻小说 - 章节" xmlUrl="https://rsshub.gamepp.cf/sfacg/novel/chapter/672431" />
+      <outline type="rss" text="SoBooks - 首页" title="SoBooks - 首页" xmlUrl="https://rsshub.gamepp.cf/sobooks" />
+      <outline type="rss" text="SoBooks - 标签" title="SoBooks - 标签" xmlUrl="https://rsshub.gamepp.cf/sobooks/tag/%E5%B0%8F%E8%AF%B4" />
+      <outline type="rss" text="Syosetu - R18 Rankings" title="Syosetu - R18 Rankings" xmlUrl="https://rsshub.gamepp.cf/syosetu/rankingr18/noc/daily_total%3Flimit%3D50" />
+      <outline type="rss" text="Syosetu - Search" title="Syosetu - Search" xmlUrl="https://rsshub.gamepp.cf/syosetu/search/noc/word%3D%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%26notword%3D%26type%3Dr%26mintime%3D%26maxtime%3D%26minlen%3D30000%26maxlen%3D%26min_globalpoint%3D%26max_globalpoint%3D%26minlastup%3D%26maxlastup%3D%26minfirstup%3D%26maxfirstup%3D%26isgl%3D1%26notbl%3D1%26order%3Dnew%3Flimit%3D5" />
+      <outline type="rss" text="Syosetu - Rankings" title="Syosetu - Rankings" xmlUrl="https://rsshub.gamepp.cf/syosetu/ranking/list/daily_total%3Flimit%3D50" />
+      <outline type="rss" text="Syosetu - Novel Updates" title="Syosetu - Novel Updates" xmlUrl="https://rsshub.gamepp.cf/syosetu/n9292ii" />
+      <outline type="rss" text="東立出版社 - 新聞" title="東立出版社 - 新聞" xmlUrl="https://rsshub.gamepp.cf/tongli/news/6" />
+      <outline type="rss" text="WDFXW文档分享网 - 免费区" title="WDFXW文档分享网 - 免费区" xmlUrl="https://rsshub.gamepp.cf/wdfxw/bookfree" />
+      <outline type="rss" text="轻小说文库 - 章节" title="轻小说文库 - 章节" xmlUrl="https://rsshub.gamepp.cf/wenku8/chapter/74" />
+      <outline type="rss" text="中文成人文學網 - 短篇" title="中文成人文學網 - 短篇" xmlUrl="https://rsshub.gamepp.cf/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81" />
+      <outline type="rss" text="意林杂志 - 文章列表" title="意林杂志 - 文章列表" xmlUrl="https://rsshub.gamepp.cf/yilinzazhi" />
+      <outline type="rss" text="意林杂志 - 近期文章汇总" title="意林杂志 - 近期文章汇总" xmlUrl="https://rsshub.gamepp.cf/yilinzazhi/latest" />
+      <outline type="rss" text="日本語多読道場 - 等级" title="日本語多読道場 - 等级" xmlUrl="https://rsshub.gamepp.cf/yomujp/n1" />
+      <outline type="rss" text="纵横中文网 - 章节更新" title="纵横中文网 - 章节更新" xmlUrl="https://rsshub.gamepp.cf/zongheng/detail/1366535" />
+      <outline type="rss" text="知轩藏书 - 小说列表" title="知轩藏书 - 小说列表" xmlUrl="https://rsshub.gamepp.cf/zxcs/novel/jinqigengxin" />
+    </outline>
+  </body>
+</opml>
