@@ -127,7 +127,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 132. 虎嗅 - 资讯
 133. 虎嗅 - 源流
 134. 虎嗅 - 文集
-135. 虎嗅 - 用户
 136. 虎嗅 - 24 小时
 137. 虎嗅 - 搜索
 138. 虎嗅 - 标签
@@ -176,7 +175,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 187. MyGoPen - 分類
 188. Nautilus - Topics
 189. Netflix - Newsroom
-190. 新华社 - 新华社新闻
 191. Newslaundry - Explainer
 192. Newslaundry - Explains
 193. Newslaundry - Reports
@@ -186,27 +184,22 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 197. NGOCN - 首页
 198. 鸟哥笔记 - 今日事
 199. 鸟哥笔记 - 分类目录
-200. NL Times - News
 201. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
-202. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 News 乃木坂 46 新闻
+
 203. Odaily 星球日报 - 快讯
 204. Odaily 星球日报 - 搜索快讯
 205. Odaily 星球日报 - 活动
 206. Odaily 星球日报 - 文章
-207. Odaily 星球日报 - 用户文章
 208. 隆众资讯 - 资讯
 209. Onet - News
 210. PANews - 快讯
 211. PANews - 专栏
 212. PANews - 深度
 213. Patreon - Home
-214. 太平洋科技 - 科技新闻
+
 215. 铅笔道 - 文章列表
-216. PeoPo 公民新聞 - 新聞分類
-217. Phoronix - News & Reviews
 218. 品玩 - 实时要闻
 219. 品玩 - 话题动态
-220. 品玩 - 用户
 221. PixelsTech - Feed
 222. Psyche - Topics
 223. 量子位 - 标签
@@ -225,7 +218,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 236. Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 News 櫻坂 46 新闻
 237. Samsung - Research Blog
 238. 科学网 - 精选博客
-239. 科学网 - 用户博客
 240. Scientific American - Podcasts
 241. Secret San francisco - Category
 242. Sensor Tower - Blog
@@ -233,7 +225,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 254. 少数派 sspai - 会员社区
 255. 少数派 sspai - 作者动态
 256. 少数派 sspai - 作者
-257. 少数派 sspai - 用户收藏
 258. 少数派 sspai - 专栏
 259. 少数派 sspai - 首页
 260. 少数派 sspai - Matrix
@@ -251,13 +242,11 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 272. TechSir - 最新资讯
 273. 腾讯 - 作者
 274. River.to (江河日下) - 分类
-275. 封面新闻 - 频道
 276. The Initium - App
 277. The Initium - 栏目
 284. PetCity 毛孩日常 - 分類
 285. The Verge - Category
 286. ThoughtCo - Category
-287. 时刻新闻 - 新闻
 288. 腾讯研究院 - 最近更新
 289. 钛媒体 - 快报
 290. 钛媒体 - 最新
@@ -273,7 +262,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 303. 歪脑 - 歪脑读
 304. 歪脑 - 主题
 305. 湾区日报 - 最新推荐
-313. 维基新闻 - 最新新闻
 314. Wikipedia - Current Events
 315. 人人都是产品经理 - 天天问
 316. 人人都是产品经理 - 热门文章
@@ -291,37 +279,14 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 
 📁 Category: 社交媒体 (social-media.opml) - Count: 197
 ----------------------------------------
-001. 哔哩哔哩 bilibili - 会员购票务
-002. 哔哩哔哩 bilibili - 歌单
-003. 哔哩哔哩 bilibili - link 公告
-004. 哔哩哔哩 bilibili - 会员购新品上架
-005. 哔哩哔哩 bilibili - 漫画更新
+
 006. 哔哩哔哩 bilibili - 专栏文集
-007. 哔哩哔哩 bilibili - 番剧
 008. 哔哩哔哩 bilibili - 入站必刷
-009. 哔哩哔哩 bilibili - UP 主非默认收藏夹
 010. 哔哩哔哩 bilibili - 视频选集列表
 011. 哔哩哔哩 bilibili - 分区视频排行榜
 012. 哔哩哔哩 bilibili - 分区视频
 013. 哔哩哔哩 bilibili - 综合热门
-014. 哔哩哔哩 bilibili - UP 主图文
-015. 哔哩哔哩 bilibili - UP 主投币视频
-016. 哔哩哔哩 bilibili - UP 主动态
-017. 哔哩哔哩 bilibili - UP 主粉丝
-018. 哔哩哔哩 bilibili - 用户关注动态
-019. 哔哩哔哩 bilibili - 用户关注视频动态
-020. 哔哩哔哩 bilibili - UP 主关注用户
 021. 哔哩哔哩 bilibili - 热搜
-022. 哔哩哔哩 bilibili - UP 主点赞视频
-023. 哔哩哔哩 bilibili - 排行榜
-024. 哔哩哔哩 bilibili - 视频评论
-025. 哔哩哔哩 bilibili - 用户追番列表
-026. 哔哩哔哩 bilibili - UP 主频道的视频列表
-027. 哔哩哔哩 bilibili - UP 主频道的合集
-028. 哔哩哔哩 bilibili - UP 主默认收藏夹
-029. 哔哩哔哩 bilibili - 用户所有视频
-030. 哔哩哔哩 bilibili - UP 主投稿
-031. 哔哩哔哩 bilibili - 视频搜索
 032. 哔哩哔哩 bilibili - B 站每周必看
 033. Bluesky (bsky) - Keywords
 034. Bluesky (bsky) - Feeds
@@ -329,13 +294,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 036. Cara - Likes
 037. Cara - Portfolio
 038. Cara - Timeline
-039. 唱吧 - 用户
-040. 酷安 - 看看号
-041. 酷安 - 热榜
-042. 酷安 - 话题
-043. 酷安 - 头条
-044. 酷安 - 图文
-045. 酷安 - 用户
 046. Crossbell - Feeds of following
 047. Crossbell - Notes of character
 048. Crossbell - Notes
@@ -346,7 +304,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 053. Daily.dev - Most upvoted
 054. Discord - Channel Messages
 055. Discord - Guild Search
-056. 豆瓣 - 用户广播
 057. 豆瓣 - 即将播出的剧集
 058. 豆瓣 - 新书速递
 059. 豆瓣 - 热门图书排行
@@ -370,7 +327,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 077. 豆瓣 - 即将上映的电影
 078. 豆瓣 - 最新增加的音乐
 079. 豆瓣 - 正在上映的电影
-080. 豆瓣 - 用户想看
 081. 抖音直播 - 博主
 082. fanbox - Creator
 083. Fansly - User Timeline
@@ -389,7 +345,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 096. 简书 - 首页
 097. 简书 - 作者
 098. 即刻 - 圈子
-099. 即刻 - 用户动态
 100. 即刻 - 圈子 - 纯文字
 101. Keep - 运动日记
 102. 快手 - Profile
@@ -411,7 +366,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 118. Misskey - User timeline
 119. Massachusetts Institute of Technology - Scratch User Comments
 120. mixi2 - コミュニティ
-121. 新榜 - 微信公众号
 122. Instagram - User Profile - Pixnoy
 123. Instagram - User Profile - Picnob
 124. pixiv - User Bookmark
@@ -427,7 +381,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 134. Plurk - Plurk News
 135. Plurk - Search
 136. Plurk - Top
-137. 腾讯网 - 全民K歌 - 用户作品列表
 138. Rattibha - User Threads
 139. RSS3 - Account Activities
 140. SmartLink - Posts
@@ -446,47 +399,16 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 153. Vimeo - User Profile
 154. Vimeo - Category
 155. 方格子 - 出版專題
-156. 方格子 - 用户个人文章
-157. 微博 - 关键词
-158. 微博 - 绿洲用户
 159. 微博 - 热搜榜
-160. 微博 - 超话
-161. 微博 - 个人时间线
-162. 微博 - 博主
-163. 小红书 - 用户笔记/收藏
-164. YouTube - Community Posts
-165. YouTube - Custom URL
-166. YouTube - Music Charts
-167. YouTube - Subscriptions
-168. YouTube - Channel with id
-169. YouTube - Playlist
-170. YouTube - Channel with user handle
 171. 知乎 - 知乎热榜
-172. 知乎 - 知乎书店 - 新书
-173. 知乎 - 知乎想法 - 24 小时新闻汇总
 174. 知乎 - 知乎想法热榜
-175. 知乎 - 用户想法
-176. 知乎 - xhu - 用户回答
-177. 知乎 - xhu - 收藏夹
-178. 知乎 - xhu - 用户文章
-179. 知乎 - 收藏夹
 180. 知乎 - 知乎日报
-181. 知乎 - 用户文章
 182. 知乎 - 知乎书店 - 知乎周刊
 183. 知乎 - xhu- 专栏
 184. 知乎 - 专栏
-185. 知乎 - 用户动态
-186. 知乎 - 用户全部收藏内容
-187. 知乎 - 用户回答
 188. 知乎 - 知乎日报 - 合集
-189. 知乎 - 问题
-190. 知乎 - 用户关注时间线
 191. 知乎 - 话题
-192. 知乎 - xhu - 用户动态
-193. 知乎 - xhu - 问题
-194. 知乎 - xhu - 话题
 195. 知识星球 - 星球
-196. 知识星球 - 用户足迹
 197. TikTok - User Profile - Picuki
 
 
@@ -533,42 +455,16 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 039. 当当开放平台 - 公告
 040. dbaplus社群 - 最新文章
 041. DeepLearning.AI - The Batch
-042. Deepseek - 新闻
+
 043. DEV Community - Trending Guides
 044. DEV Community - Top Posts
 045. Devtrium - Official Blogs
 046. 得物 - 平台公告
 047. 印记中文 - 周刊 - JavaScript
-048. DuckDB Foundation - 新闻
+
 049. 电子发烧友 - 文章
 050. Engineering.fyi - Tag
 051. gihyo.jp - Series
-052. Gitee - 仓库提交
-053. Gitee - 仓库动态
-054. Gitee - 仓库 Releases
-055. Gitee - 用户公开动态
-056. GitHub - User Activities
-057. GitHub - Repo Branches
-058. GitHub - Repo Contributors
-059. GitHub - File Commits
-060. GitHub - User Followers
-061. GitHub - Gist Commits
-062. GitHub - Notifications
-063. GitHub - User's Feed
-064. GitHub - User Repo
-065. GitHub - Search Result
-066. GitHub - Repo Stars
-067. GitHub - User Starred Repositories
-068. GitHub - User Event
-069. GitHub - Issue / Pull Request comments
-070. GitHub - Repo Discussions
-071. GitHub - Repo Issues
-072. GitHub - Repo Pull Requests
-073. GitHub - Github Advisory Database RSS
-074. GitHub - Repo Pulse
-075. GitHub - Topics
-076. GitHub - Trending
-077. GitHub - Wiki History
 078. Gitpod - Blog
 079. Gitstar Ranking - Ranking
 080. Hacker News - User
@@ -590,14 +486,12 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 096. Josh W Comeau - Articles and Tutorials
 097. Josh W Comeau - Popular Content
 098. 掘金 - 小册
-099. 掘金 - 用户动态
 100. 掘金 - 沸点
 101. 掘金 - AI 编程
 102. 掘金 - 分类
 103. 掘金 - 单个收藏夹
 104. 掘金 - 收藏集
 105. 掘金 - 专栏
-106. 掘金 - 用户文章
 107. 掘金 - 标签
 108. 掘金 - 热门
 109. Kiro - Blog
@@ -609,7 +503,7 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 115. LeetCode - Articles
 116. 连享会 - 精彩资讯
 117. 洛谷 - 比赛列表
-118. 洛谷 - 用户文章
+
 119. Manus - Blog
 120. 美团 - 技术团队博客
 121. Meta - AI Blog
@@ -627,14 +521,13 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 133. OpenAI - Cookbook
 134. OpenAI - News
 135. OpenAI - Research
-136. 开源中国 - 用户博客
+
 137. 开源中国 - 资讯
 138. 开源中国 - 活动
 139. oshwhub 立创开源硬件平台 - 开源广场
 140. Python - Active Python Releases
 141. Quicker - 讨论区
 142. Quicker - 动作分享
-143. Quicker - 用户更新
 144. Raspberry Pi - Official Magazine
 145. Reactiflux - Transcripts
 146. Rock the JVM - Article
@@ -853,7 +746,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 013. 财新博客 - 新闻分类
 014. 财新博客 - 财新数据通
 015. 财新博客 - 财新周刊
-016. 财新博客 - 首页新闻
 017. 财新博客 - 最新文章
 018. Caixin Global - Latest News
 019. 参考消息 - 栏目
@@ -950,31 +842,12 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 116. 台視新聞網 - 分类
 117. 无线新闻 - 新闻
 118. TVer - Series
-119. 聯合新聞網 - 即時新聞
-120. 聯合新聞網 - 轉角國際 - 首頁
-121. 聯合新聞網 - 轉角國際 - 標籤
+
 122. Voice of Mongolia - News
 123. The Washington Post - App
 124. WIRED - Tags
 125. The Wall Street Journal (WSJ) 华尔街日报 - News
-126. 新快报 - 新闻
-127. 厦门网 - 数字媒体
-128. 羊城晚报金羊网 - 新闻
-129. 第一财经 - 轮播
-130. 第一财经 - DT 财经
-131. 第一财经 - 关注
-132. 第一财经 - VIP 频道
-133. 第一财经 - 正在
-134. 第一财经 - 头条
-135. 第一财经 - 最新
-136. 第一财经 - 新闻
-137. 第一财经 - 视听
 138. Yonhap News Agency - News
-139. 联合早报 - 互动新闻
-140. 联合早报 - 其他栏目
-141. 联合早报 - 即时新闻
-142. 联合早报 - 新闻
-143. 浙江在线 - 浙报集团系列报刊
 
 
 📁 Category: 金融 (finance.opml) - Count: 129
@@ -1065,7 +938,7 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 101. 深圳证券交易所 - 上市公司公告
 102. 深圳证券交易所 - 上市公告 - 可转换债券
 103. 深圳证券交易所 - 本所业务规则
-104. 淘股吧 - 用户博客
+
 105. 淘股吧 - 淘股论坛
 106. 深潮 TechFlow - 快讯
 107. 深潮 TechFlow - 首页
@@ -1668,10 +1541,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 006. 一亩三分地 - 帖子
 007. 一亩三分地 - 博客
 008. 4chan - Board's catalog
-009. 百度 - 精品帖子
-010. 百度 - 帖子动态
-011. 百度 - 贴吧搜索
-012. 百度 - 用户帖子
 013. Chiphell - 分类
 014. 虫部落 - 最新发表
 015. 禁忌书屋 - 禁忌书屋
@@ -1689,9 +1558,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 027. 飞客茶馆 - 会员说
 028. guozaoke - 过早客
 029. 火线 - Zone
-030. 虎扑 - 热帖
-031. 虎扑 - 社区
-032. 虎扑 - 手机虎扑网
 033. 看雪 - 论坛
 034. LearnKu - 社区
 035. LA UOSC社区 - 最热 / 最新帖子
@@ -1718,17 +1584,12 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 056. 第一会所 - 作者
 057. 第一会所 - 子版块
 058. 通信人家园 - 论坛 频道
-059. V2EX - 帖子
-060. V2EX - 最热 / 最新主题
-061. V2EX - 标签
-062. V2EX - XNA
 063. 小特社区 - 首页帖子
 064. 司机社 - 论坛
 065. 司机社 - 排行榜
 066. 百合会 - BBS - 板块
 067. 百合会 - BBS - 讨论串
 068. 猿料 - 主题
-069. 直播吧 - 滚动新闻
 070. Zuvio - 看板列表
 071. Zuvio - 校園話題
 
@@ -1738,12 +1599,8 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 001. 爱发电 - 用户动态
 002. 爱发电 - 发现用户
 003. Apple - Exchange and Repair Extension Programs
-004. 空气质量 - 实时 AQI
 005. ATP Tour - News
-006. 百度 - 搜索
-007. 百度 - 热搜榜单
 008. Bing - 每日壁纸
-009. 中国银行 - 外汇牌价
 010. 成都住建蓉 e 办 - 商品住房购房登记
 011. 中国期货业协会 - 分析师园地
 012. ClickMe - 文章
@@ -1757,24 +1614,17 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 020. Google - Search
 021. 骨朵数据 - 日榜
 022. HiringCafe - Jobs
-023. 全球主机监控 - CloudFlareYes
-024. 中国工商银行 - 外汇牌价
 025. iDaily - 每日环球视野
 026. I Know What You Download - Daily Torrents Statistics
 027. Instructables - Projects
 028. 爱 Q 生活网 - 最近更新
 029. 艾瑞咨询 - 研究报告
-030. 煎蛋 - Feed
-031. 煎蛋 - Section
 032. 界面新闻 - 界面号
 033. 界面新闻 - 栏目
 034. 界面新闻 - 专题
-035. 界面新闻 - 视频
-036. 界面新闻 - VIP
 037. 贝壳研究院 - 研究成果
 038. KPMG - Insights
 039. LuMa - Events
-040. 明報 - 新聞
 041. Naturalism.org - What's New
 042. 中国互联网联合辟谣平台 - 今日辟谣
 043. Product Hunt - Top Products Launching Today
