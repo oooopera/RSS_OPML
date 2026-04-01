@@ -25,10 +25,6 @@
       <outline type="rss" text="Caixin Global - Latest News" title="Caixin Global - Latest News" xmlUrl="https://rsshub.app/caixinglobal/latest" />
       <outline type="rss" text="参考消息 - 栏目" title="参考消息 - 栏目" xmlUrl="https://rsshub.app/cankaoxiaoxi/column/diyi" />
       <outline type="rss" text="Canadian Broadcasting Corporation - News" title="Canadian Broadcasting Corporation - News" xmlUrl="https://rsshub.app/cbc/topics" />
-      <outline type="rss" text="央视新闻 - 央视网图片《镜象》" title="央视新闻 - 央视网图片《镜象》" xmlUrl="https://rsshub.app/cctv/photo/jx" />
-      <outline type="rss" text="央视新闻 - 栏目" title="央视新闻 - 栏目" xmlUrl="https://rsshub.app/cctv/lm/xwzk" />
-      <outline type="rss" text="央视新闻 - 新闻联播" title="央视新闻 - 新闻联播" xmlUrl="https://rsshub.app/cctv/tv/lm/xwlb" />
-      <outline type="rss" text="央视新闻 - 专题" title="央视新闻 - 专题" xmlUrl="https://rsshub.app/cctv/world" />
       <outline type="rss" text="中国经济网 - 地方经济" title="中国经济网 - 地方经济" xmlUrl="https://rsshub.app/ce/district" />
       <outline type="rss" text="Council on Foreign Relations - News" title="Council on Foreign Relations - News" xmlUrl="https://rsshub.app/cfr/asia" />
       <outline type="rss" text="中国环球电视网 - 播客" title="中国环球电视网 - 播客" xmlUrl="https://rsshub.app/cgtn/podcast/ezfm/4" />
@@ -95,8 +91,6 @@
       <outline type="rss" text="南方都市报 - 奥一网" title="南方都市报 - 奥一网" xmlUrl="https://rsshub.app/oeeee/web/170" />
       <outline type="rss" text="东网 - 即時新聞" title="东网 - 即時新聞" xmlUrl="https://rsshub.app/oncc/zh-hant/news" />
       <outline type="rss" text="东网 - Money18" title="东网 - Money18" xmlUrl="https://rsshub.app/oncc/money18/exp" />
-      <outline type="rss" text="人民网 - 首页头条" title="人民网 - 首页头条" xmlUrl="https://rsshub.app/people" />
-      <outline type="rss" text="人民网 - 习近平系列重要讲话" title="人民网 - 习近平系列重要讲话" xmlUrl="https://rsshub.app/people/xjpjh" />
       <outline type="rss" text="公視新聞網 - 專題策展" title="公視新聞網 - 專題策展" xmlUrl="https://rsshub.app/pts/curations" />
       <outline type="rss" text="Público - Ciencias" title="Público - Ciencias" xmlUrl="https://rsshub.app/publico/ciencias" />
       <outline type="rss" text="Público - Internacional" title="Público - Internacional" xmlUrl="https://rsshub.app/publico/internacional" />
