@@ -7,7 +7,7 @@ from urllib.parse import quote
 from datetime import datetime
 
 # --- 配置参数 ---
-BASE_DOMAIN = "rsshub.app"
+BASE_DOMAIN = "rsshub.gamepp.cf"
 ROUTES_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/src/public/routes.json"
 ANALYTICS_JSON_URL = "https://raw.githubusercontent.com/RSSNext/rsshub-docs/main/rsshub-analytics.json"
 OUTPUT_DIR = "data/categories"
