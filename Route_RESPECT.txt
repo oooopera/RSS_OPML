@@ -736,15 +736,11 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 003. AP News - Topics
 004. 半月谈 - 栏目
 005. BBC - Topics
-006. BBC - News
 007. 新京报 - 分类
 008. 新京报 - 分类
 009. 北极星电力网 - 风电
 010. 北极星电力网 - 环保要闻
 011. 北极星电力网 - 光伏
-012. 财新博客 - 财新一线
-013. 财新博客 - 新闻分类
-014. 财新博客 - 财新数据通
 015. 财新博客 - 财新周刊
 017. 财新博客 - 最新文章
 018. Caixin Global - Latest News
@@ -758,9 +754,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 030. 中央通讯社 - 分类 (网页爬虫方法)
 031. 中央通讯社 - 分类
 032. CNBC - Full article RSS
-033. 康健 - 最新內容
-034. 華視 - 新聞
-035. 天下雜誌 - 作者
 036. 天下雜誌 - 主頻道
 037. 天下雜誌 - 最新上線
 038. DealStreetAsia - Home
@@ -769,8 +762,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 041. DW Deutsche Welle - News
 042. DW Deutsche Welle - RSS
 043. 东方网 - 24 小时热闻
-044. 东方网 - 上海新闻
-045. 東森新聞 - 即時新聞
 046. The Economist - Global Business Review
 047. The Economist - Espresso
 048. The Economist - Category
@@ -781,20 +772,10 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 053. FT 中文网 - FT 中文网
 054. GQ - News
 055. 广州日报 - 客户端
-056. 客家電視台 - 新聞首頁
-057. 信报财经新闻 - 即时新闻
-058. 香港经济日报 - 新闻
 059. 湖南日报 - 电子刊物
-060. 环球网 - 分类
-061. 有線新聞 - 新聞
 062. 中国新闻周刊 - 栏目
 063. 南方周末 - 热门文章
 064. 南方周末 - 频道
-065. 中央日报 - 中央日报中文版
-066. Korean Central News Agency (KCNA) 朝鲜中央通讯社 - News
-067. The Korea Herald - News
-068. 共同网 - 最新报道
-069. L'Orient-Le Jour/L'Orient Today - Category
 070. 鏡週刊 Mirror Media - 分类
 071. 鏡週刊 Mirror Media - 首页
 072. 新华每日电讯 - 今日
@@ -802,24 +783,11 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 074. New Yorker - Articles
 075. NHK - WORLD-JAPAN - Top Stories
 076. NHK - News Web Easy
-077. The Nikkei 日本経済新聞 - Nikkei Asia Latest News
-078. The Nikkei 日本経済新聞 - 中文版新闻
-079. The Nikkei 日本経済新聞 - Home
-080. The Nikkei 日本経済新聞 - News
-081. Now 新聞 - 新聞
 082. NPR (National Public Radio) - News
 083. 新唐人电视台 - 频道
-084. The New York Times - Best Seller Books
-085. The New York Times - Daily Briefing
-086. The New York Times - News
-087. The New York Times - News
 088. 南方都市报 - 奥一网
-089. 东网 - 即時新聞
 090. 东网 - Money18
 093. 公視新聞網 - 專題策展
-094. Público - Ciencias
-095. Público - Internacional
-096. Público - Política
 097. 求是网 - 分类
 098. 求是网 - 在线读刊
 099. Reuters - Category/Topic/Author
@@ -828,7 +796,6 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 102. Sankei Shimbun 産経新聞 - News
 103. Corona Virus Disease 2019 - News
 104. 四川广播电视台 - 电视回放
-105. 三立新聞網 - 新聞
 106. Solidot - 最新消息
 107. 希望之声 - 频道
 108. 南方网 - 南方 +（按栏目 ID）
@@ -840,14 +807,10 @@ RSSHub Route List (Updated: 2026-04-01 00:41)
 114. The Hindu - Topic
 115. 大公文匯網 - 新聞
 116. 台視新聞網 - 分类
-117. 无线新闻 - 新闻
 118. TVer - Series
-
-122. Voice of Mongolia - News
 123. The Washington Post - App
 124. WIRED - Tags
 125. The Wall Street Journal (WSJ) 华尔街日报 - News
-138. Yonhap News Agency - News
 
 
 📁 Category: 金融 (finance.opml) - Count: 129
