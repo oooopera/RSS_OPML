@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-04-02 03:42)
+RSSHub Route List (Updated: 2026-04-03 03:44)
 
 ============================================================
 
@@ -1141,90 +1141,92 @@ RSSHub Route List (Updated: 2026-04-02 03:42)
 091. cline - Blog
 
 
-📁 Category: Anime (anime.opml) - Count: 82
+📁 Category: Anime (anime.opml) - Count: 84
 ----------------------------------------
 001. 幻之羁绊动漫网 - 资讯
 002. 禁漫天堂 - 文庫
 003. 禁漫天堂 - 专辑
 004. 禁漫天堂 - 成人 A 漫
 005. 禁漫天堂 - 搜索
-006. AcFun - 文章
-007. ACG17 - 全部文章
-008. ACG Vinyl - 黑胶 - News
-009. AGE 动漫 - 番剧详情
-010. AGE 动漫 - 最近更新
-011. 巴卡漫画 - 漫画更新
-012. 萌番组 - Latest
-013. アニメ新番組 - 當季新番
-014. Bangumi 番组计划 - 放送列表
-015. Bangumi 番组计划 - Bangumi 用户收藏列表
-016. Bangumi 番组计划 - 小组话题
-017. Bangumi 番组计划 - 成员关注榜
-018. Bangumi 番组计划 - 现实人物的新作品
-019. Bangumi 番组计划 - 用户日志
-020. Bangumi 番组计划 - 条目的通用路由格式
-021. 包子漫画 - 订阅漫画
-022. 番组放送 - 开播提醒
-023. 動漫狂 - 漫画更新
-024. CnGal - 制作者 / 游戏新闻
-025. CnGal - 每周速报
-026. COLAMANGA - Manga
-027. コラボカフェ - 分类
-028. コラボカフェ - 全部文章
-029. Comicat - 搜索关键词
-030. 拷贝漫画 - 漫画更新
-031. DLsite - Discounted Works
-032. DLsite - Ci-en Creators' Article
-033. DLsite - Current Release
-034. 动漫之家 - 新闻站
-035. Doraemon Channel - Article
-036. Eventernote - 声优活动及演唱会
-037. 风之动漫 - 在线漫画
-038. 漫小肆韓漫 - 漫画更新
-039. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
-040. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
-041. 巴哈姆特電玩資訊站 - GNN 新聞
-042. 巴哈姆特電玩資訊站 - 本板推薦
-043. Gogoanimehd - Recent Releases
-044. Hanime1 - 每月新番
-045. Hanime1 - 搜索结果
-046. Hpoi 手办维基 - 热门推荐
-047. Hpoi 手办维基 - 情报
-048. Hpoi 手办维基 - 用户动态
-049. Hpoi 手办维基 - 所有周边
-050. Hpoi 手办维基 - 角色周边
-051. Hpoi 手办维基 - 作品周边
-052. アイドルマスター THE IDOLM@STER - ニュース News
-053. IDOLY PRIDE 偶像荣耀 - News
-054. iwara - User
-055. iwara - User Subscriptions
-056. Kemono - Posts
-057. Komiic - 漫画更新
-058. 来漫画 - 漫画列表
-059. Love Live! Official Website - News
-060. 円谷ステーション - ニュース
-061. MangaDex - MDList Feed
-062. 看漫画 - 漫画更新
-063. Mox.moe - 首頁
-064. nhentai - Filter
-065. nhentai - Advanced Search
-066. NTR BLOG（寝取られブログ） - Articles
-067. 俺の 3D エロ動画 (oreno3d) - Author Search
-068. pixivision - Category
-069. QooApp - News
-070. 腾讯网 - 排行榜
-071. Rawkuma - Manga
-072. Skebetter - Illust
-073. Skebetter - Hot
-074. Skebetter - Manga
-075. THBWiki - Calendar
-076. とらのあな - Category
-077. VCB-Studio - 分类文章
-078. X 漫画 - 最新动态
-079. 月幕 Galgame - 文章
-080. 月幕 Galgame - 本月新作
-081. 再漫画 - 漫画更新
-082. 再漫画 - 最近更新
+006. AcFun - 番剧
+007. AcFun - 文章
+008. AcFun - 用户投稿
+009. ACG17 - 全部文章
+010. ACG Vinyl - 黑胶 - News
+011. AGE 动漫 - 番剧详情
+012. AGE 动漫 - 最近更新
+013. 巴卡漫画 - 漫画更新
+014. 萌番组 - Latest
+015. アニメ新番組 - 當季新番
+016. Bangumi 番组计划 - 放送列表
+017. Bangumi 番组计划 - Bangumi 用户收藏列表
+018. Bangumi 番组计划 - 小组话题
+019. Bangumi 番组计划 - 成员关注榜
+020. Bangumi 番组计划 - 现实人物的新作品
+021. Bangumi 番组计划 - 用户日志
+022. Bangumi 番组计划 - 条目的通用路由格式
+023. 包子漫画 - 订阅漫画
+024. 番组放送 - 开播提醒
+025. 動漫狂 - 漫画更新
+026. CnGal - 制作者 / 游戏新闻
+027. CnGal - 每周速报
+028. COLAMANGA - Manga
+029. コラボカフェ - 分类
+030. コラボカフェ - 全部文章
+031. Comicat - 搜索关键词
+032. 拷贝漫画 - 漫画更新
+033. DLsite - Discounted Works
+034. DLsite - Ci-en Creators' Article
+035. DLsite - Current Release
+036. 动漫之家 - 新闻站
+037. Doraemon Channel - Article
+038. Eventernote - 声优活动及演唱会
+039. 风之动漫 - 在线漫画
+040. 漫小肆韓漫 - 漫画更新
+041. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
+042. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
+043. 巴哈姆特電玩資訊站 - GNN 新聞
+044. 巴哈姆特電玩資訊站 - 本板推薦
+045. Gogoanimehd - Recent Releases
+046. Hanime1 - 每月新番
+047. Hanime1 - 搜索结果
+048. Hpoi 手办维基 - 热门推荐
+049. Hpoi 手办维基 - 情报
+050. Hpoi 手办维基 - 用户动态
+051. Hpoi 手办维基 - 所有周边
+052. Hpoi 手办维基 - 角色周边
+053. Hpoi 手办维基 - 作品周边
+054. アイドルマスター THE IDOLM@STER - ニュース News
+055. IDOLY PRIDE 偶像荣耀 - News
+056. iwara - User
+057. iwara - User Subscriptions
+058. Kemono - Posts
+059. Komiic - 漫画更新
+060. 来漫画 - 漫画列表
+061. Love Live! Official Website - News
+062. 円谷ステーション - ニュース
+063. MangaDex - MDList Feed
+064. 看漫画 - 漫画更新
+065. Mox.moe - 首頁
+066. nhentai - Filter
+067. nhentai - Advanced Search
+068. NTR BLOG（寝取られブログ） - Articles
+069. 俺の 3D エロ動画 (oreno3d) - Author Search
+070. pixivision - Category
+071. QooApp - News
+072. 腾讯网 - 排行榜
+073. Rawkuma - Manga
+074. Skebetter - Illust
+075. Skebetter - Hot
+076. Skebetter - Manga
+077. THBWiki - Calendar
+078. とらのあな - Category
+079. VCB-Studio - 分类文章
+080. X 漫画 - 最新动态
+081. 月幕 Galgame - 文章
+082. 月幕 Galgame - 本月新作
+083. 再漫画 - 漫画更新
+084. 再漫画 - 最近更新
 
 
 📁 Category: 传统媒体 (traditional-media.opml) - Count: 80
