@@ -39,7 +39,6 @@
       <outline type="rss" text="SoBooks - 标签" title="SoBooks - 标签" xmlUrl="https://rsshub.gamepp.cf/sobooks/tag/%E5%B0%8F%E8%AF%B4" />
       <outline type="rss" text="Syosetu - R18 Rankings" title="Syosetu - R18 Rankings" xmlUrl="https://rsshub.gamepp.cf/syosetu/rankingr18/noc/daily_total%3Flimit%3D50" />
       <outline type="rss" text="Syosetu - Search" title="Syosetu - Search" xmlUrl="https://rsshub.gamepp.cf/syosetu/search/noc/word%3D%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%26notword%3D%26type%3Dr%26mintime%3D%26maxtime%3D%26minlen%3D30000%26maxlen%3D%26min_globalpoint%3D%26max_globalpoint%3D%26minlastup%3D%26maxlastup%3D%26minfirstup%3D%26maxfirstup%3D%26isgl%3D1%26notbl%3D1%26order%3Dnew%3Flimit%3D5" />
-      <outline type="rss" text="Syosetu - Rankings" title="Syosetu - Rankings" xmlUrl="https://rsshub.gamepp.cf/syosetu/ranking/list/daily_total%3Flimit%3D50" />
       <outline type="rss" text="Syosetu - Novel Updates" title="Syosetu - Novel Updates" xmlUrl="https://rsshub.gamepp.cf/syosetu/n9292ii" />
       <outline type="rss" text="東立出版社 - 新聞" title="東立出版社 - 新聞" xmlUrl="https://rsshub.gamepp.cf/tongli/news/6" />
       <outline type="rss" text="WDFXW文档分享网 - 免费区" title="WDFXW文档分享网 - 免费区" xmlUrl="https://rsshub.gamepp.cf/wdfxw/bookfree" />

@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-04-03 03:44)
+RSSHub Route List (Updated: 2026-04-04 03:32)
 
 ============================================================
 
@@ -1764,7 +1764,7 @@ RSSHub Route List (Updated: 2026-04-03 03:44)
 050. X-MOL - Journal
 
 
-📁 Category: 阅读 (reading.opml) - Count: 45
+📁 Category: 阅读 (reading.opml) - Count: 44
 ----------------------------------------
 001. 51Read - 章节
 002. 明月中文网 - 分类
@@ -1800,17 +1800,16 @@ RSSHub Route List (Updated: 2026-04-03 03:44)
 032. SoBooks - 标签
 033. Syosetu - R18 Rankings
 034. Syosetu - Search
-035. Syosetu - Rankings
-036. Syosetu - Novel Updates
-037. 東立出版社 - 新聞
-038. WDFXW文档分享网 - 免费区
-039. 轻小说文库 - 章节
-040. 中文成人文學網 - 短篇
-041. 意林杂志 - 文章列表
-042. 意林杂志 - 近期文章汇总
-043. 日本語多読道場 - 等级
-044. 纵横中文网 - 章节更新
-045. 知轩藏书 - 小说列表
+035. Syosetu - Novel Updates
+036. 東立出版社 - 新聞
+037. WDFXW文档分享网 - 免费区
+038. 轻小说文库 - 章节
+039. 中文成人文學網 - 短篇
+040. 意林杂志 - 文章列表
+041. 意林杂志 - 近期文章汇总
+042. 日本語多読道場 - 等级
+043. 纵横中文网 - 章节更新
+044. 知轩藏书 - 小说列表
 
 
 📁 Category: 学习 (study.opml) - Count: 31
