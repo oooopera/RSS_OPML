@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-04-04 03:32)
+RSSHub Route List (Updated: 2026-04-05 03:53)
 
 ============================================================
 
@@ -1764,52 +1764,51 @@ RSSHub Route List (Updated: 2026-04-04 03:32)
 050. X-MOL - Journal
 
 
-📁 Category: 阅读 (reading.opml) - Count: 44
+📁 Category: 阅读 (reading.opml) - Count: 43
 ----------------------------------------
 001. 51Read - 章节
-002. 明月中文网 - 分类
-003. 69书吧 - 章节
-004. 爱思想 - 栏目
-005. 爱思想 - 思想库（专栏）
-006. 爱思想 - 专题
-007. Asianfanfics - 标签
-008. Asianfanfics - 关键词
-009. 搬书匠 - 分类
-010. 书伴 - 分类
-011. 刺猬猫 - 章节
-012. 番茄小说 - 小说更新
-013. Free Computer Books - Book List
-014. 国门传媒在线 - 中国海关
-015. 欢乐书客 - 章节
-016. Inoreader - HTML Clip
-017. Inoreader - RSS
-018. 晋江文学城 - 作者最新作品
-019. 晋江文学城 - 作品章节
-020. カクヨム - 投稿
-021. 哔哩轻小说 - 小说更新
-022. 哔哩轻小说 - 卷
-023. MagazineLib - Latest Magazine
-024. Nautiljon - France manga releases
-025. 虚词 - 版块
-026. Penguin Random House - Articles
-027. Penguin Random House - Book Lists
-028. 起点 - 作品章节
-029. 起点 - 限时免费
-030. SF 轻小说 - 章节
-031. SoBooks - 首页
-032. SoBooks - 标签
-033. Syosetu - R18 Rankings
-034. Syosetu - Search
-035. Syosetu - Novel Updates
-036. 東立出版社 - 新聞
-037. WDFXW文档分享网 - 免费区
-038. 轻小说文库 - 章节
-039. 中文成人文學網 - 短篇
-040. 意林杂志 - 文章列表
-041. 意林杂志 - 近期文章汇总
-042. 日本語多読道場 - 等级
-043. 纵横中文网 - 章节更新
-044. 知轩藏书 - 小说列表
+002. 69书吧 - 章节
+003. 爱思想 - 栏目
+004. 爱思想 - 思想库（专栏）
+005. 爱思想 - 专题
+006. Asianfanfics - 标签
+007. Asianfanfics - 关键词
+008. 搬书匠 - 分类
+009. 书伴 - 分类
+010. 刺猬猫 - 章节
+011. 番茄小说 - 小说更新
+012. Free Computer Books - Book List
+013. 国门传媒在线 - 中国海关
+014. 欢乐书客 - 章节
+015. Inoreader - HTML Clip
+016. Inoreader - RSS
+017. 晋江文学城 - 作者最新作品
+018. 晋江文学城 - 作品章节
+019. カクヨム - 投稿
+020. 哔哩轻小说 - 小说更新
+021. 哔哩轻小说 - 卷
+022. MagazineLib - Latest Magazine
+023. Nautiljon - France manga releases
+024. 虚词 - 版块
+025. Penguin Random House - Articles
+026. Penguin Random House - Book Lists
+027. 起点 - 作品章节
+028. 起点 - 限时免费
+029. SF 轻小说 - 章节
+030. SoBooks - 首页
+031. SoBooks - 标签
+032. Syosetu - R18 Rankings
+033. Syosetu - Search
+034. Syosetu - Novel Updates
+035. 東立出版社 - 新聞
+036. WDFXW文档分享网 - 免费区
+037. 轻小说文库 - 章节
+038. 中文成人文學網 - 短篇
+039. 意林杂志 - 文章列表
+040. 意林杂志 - 近期文章汇总
+041. 日本語多読道場 - 等级
+042. 纵横中文网 - 章节更新
+043. 知轩藏书 - 小说列表
 
 
 📁 Category: 学习 (study.opml) - Count: 31
