@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-04-06 03:57)
+RSSHub Route List (Updated: 2026-04-07 03:48)
 
 ============================================================
 
@@ -220,14 +220,14 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 214. Secret San francisco - Category
 215. Sensor Tower - Blog
 216. 簡訊設計 - 志祺七七
-217. 少数派 sspai - 会员社区
-218. 少数派 sspai - 作者动态
-219. 少数派 sspai - 作者
-220. 少数派 sspai - 专栏
-221. 少数派 sspai - 首页
-222. 少数派 sspai - Matrix
-223. 少数派 sspai - 付费专栏文章更新
-224. 少数派 sspai - Shortcuts Gallery
+217. 少数派 sspai - 作者动态
+218. 少数派 sspai - 付费专栏文章更新
+219. 少数派 sspai - Shortcuts Gallery
+220. 少数派 sspai - 会员社区
+221. 少数派 sspai - 作者
+222. 少数派 sspai - 专栏
+223. 少数派 sspai - 首页
+224. 少数派 sspai - Matrix
 225. 少数派 sspai - 标签订阅
 226. 少数派 sspai - 专题内文章更新
 227. 少数派 sspai - 专题
@@ -335,8 +335,8 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 056. 南昌大学 - 教务通知
 057. 华北水利水电大学 - 学校通知
 058. 东北大学 - 研究生招生信息网
-059. 南京大学 - 人才招聘网
-060. 南京大学 - 本科生院
+059. 南京大学 - 本科生院
+060. 南京大学 - 人才招聘网
 061. 南京大学 - 本科迎新
 062. 南京大学 - 大学外语部
 063. 南京大学 - 研究生院
@@ -614,19 +614,19 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 022. Daily.dev - Most upvoted
 023. Discord - Channel Messages
 024. Discord - Guild Search
-025. 豆瓣 - 即将播出的剧集
-026. 豆瓣 - 新书速递
-027. 豆瓣 - 热门图书排行
-028. 豆瓣 - 频道书影音
-029. 豆瓣 - 热门同城活动
-030. 豆瓣 - 豆瓣书店
-031. 豆瓣 - 豆瓣电影分类
-032. 豆瓣 - 话题
-033. 豆瓣 - 北美票房榜
-034. 豆瓣 - 电影即将上映
-035. 豆瓣 - 一周口碑榜
-036. 豆瓣 - 豆瓣榜单与集合
-037. 豆瓣 - 豆瓣每月推荐片单
+025. 豆瓣 - 新书速递
+026. 豆瓣 - 热门图书排行
+027. 豆瓣 - 频道书影音
+028. 豆瓣 - 热门同城活动
+029. 豆瓣 - 豆瓣书店
+030. 豆瓣 - 豆瓣电影分类
+031. 豆瓣 - 北美票房榜
+032. 豆瓣 - 电影即将上映
+033. 豆瓣 - 一周口碑榜
+034. 豆瓣 - 豆瓣榜单与集合
+035. 豆瓣 - 豆瓣每月推荐片单
+036. 豆瓣 - 即将播出的剧集
+037. 豆瓣 - 话题
 038. 豆瓣 - 商务印书馆新书速递
 039. 豆瓣 - 豆瓣电影人
 040. 豆瓣 - 豆瓣读书论坛
@@ -663,8 +663,8 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 071. LinkedIn - Jobs
 072. LinkedIn - Company Posts
 073. Locals - Content Feed
-074. Lofter - Collection
-075. Lofter - User
+074. Lofter - User
+075. Lofter - Collection
 076. Lofter - Tag
 077. Mastodon - Hashtag timeline
 078. Mastodon - Instance timeline (local)
@@ -786,10 +786,10 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 060. 米哈游 - 崩坏：星穹铁道
 061. 米哈游 - 原神
 062. 米哈游 - 绝区零
-063. 米哈游 - 米游社 - 用户关注
-064. 米哈游 - 米游社 - 官方公告
-065. 米哈游 - 米游社 - 同人榜
-066. 米哈游 - 米游社 - 用户帖子
+063. 米哈游 - 米游社 - 同人榜
+064. 米哈游 - 米游社 - 用户帖子
+065. 米哈游 - 米游社 - 用户关注
+066. 米哈游 - 米游社 - 官方公告
 067. Minecraft - Java Blocked Servers
 068. Minecraft - Java Runtimes
 069. Minecraft - Java Game Update
@@ -837,12 +837,12 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 
 📁 Category: Multimedia (multimedia.opml) - Count: 106
 ----------------------------------------
-001. 网易公开课 - 电台节目
-002. 网易公开课 - 用户歌单
-003. 网易公开课 - 用户听歌排行
-004. 网易公开课 - 歌手歌曲
-005. 网易公开课 - 歌手专辑
-006. 网易公开课 - 歌单歌曲
+001. 网易公开课 - 用户歌单
+002. 网易公开课 - 用户听歌排行
+003. 网易公开课 - 歌手歌曲
+004. 网易公开课 - 歌手专辑
+005. 网易公开课 - 歌单歌曲
+006. 网易公开课 - 电台节目
 007. 2048 核基地 - 论坛
 008. 0xxx.ws - Source
 009. BT 之家 1LOU 站 - 通用
@@ -911,8 +911,8 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 072. 欧乐影院 - 视频
 073. 欧乐影院 - 最新视频
 074. Podwise - Collections
-075. PornHub - Category
-076. PornHub - Keyword Search
+075. PornHub - Keyword Search
+076. PornHub - Category
 077. PornHub - Video List
 078. PornHub - Model
 079. PornHub - Pornstar
@@ -1034,9 +1034,9 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 085. Unusual Whales - News Feed
 086. 挖贝网 - 热门推荐
 087. 华尔街见闻 - 财经日历
-088. 华尔街见闻 - 最热文章
-089. 华尔街见闻 - 资讯
-090. 华尔街见闻 - 实时快讯
+088. 华尔街见闻 - 实时快讯
+089. 华尔街见闻 - 最热文章
+090. 华尔街见闻 - 资讯
 091. 雪球 - 股票评论
 092. 雪球 - 热帖
 093. 雪球 - 股票信息
@@ -1158,8 +1158,8 @@ RSSHub Route List (Updated: 2026-04-06 03:57)
 013. 巴卡漫画 - 漫画更新
 014. 萌番组 - Latest
 015. アニメ新番組 - 當季新番
-016. Bangumi 番组计划 - 放送列表
-017. Bangumi 番组计划 - Bangumi 用户收藏列表
+016. Bangumi 番组计划 - Bangumi 用户收藏列表
+017. Bangumi 番组计划 - 放送列表
 018. Bangumi 番组计划 - 小组话题
 019. Bangumi 番组计划 - 成员关注榜
 020. Bangumi 番组计划 - 现实人物的新作品

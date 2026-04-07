@@ -92,9 +92,9 @@
       <outline type="rss" text="Unusual Whales - News Feed" title="Unusual Whales - News Feed" xmlUrl="https://rsshub.gamepp.cf/unusualwhales/news" />
       <outline type="rss" text="挖贝网 - 热门推荐" title="挖贝网 - 热门推荐" xmlUrl="https://rsshub.gamepp.cf/wabei/hot-recommend" />
       <outline type="rss" text="华尔街见闻 - 财经日历" title="华尔街见闻 - 财经日历" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/calendar" />
+      <outline type="rss" text="华尔街见闻 - 实时快讯" title="华尔街见闻 - 实时快讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/live" />
       <outline type="rss" text="华尔街见闻 - 最热文章" title="华尔街见闻 - 最热文章" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/hot" />
       <outline type="rss" text="华尔街见闻 - 资讯" title="华尔街见闻 - 资讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/news" />
-      <outline type="rss" text="华尔街见闻 - 实时快讯" title="华尔街见闻 - 实时快讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/live" />
       <outline type="rss" text="雪球 - 股票评论" title="雪球 - 股票评论" xmlUrl="https://rsshub.gamepp.cf/xueqiu/stock_comments/SZ002626" />
       <outline type="rss" text="雪球 - 热帖" title="雪球 - 热帖" xmlUrl="https://rsshub.gamepp.cf/xueqiu/hots" />
       <outline type="rss" text="雪球 - 股票信息" title="雪球 - 股票信息" xmlUrl="https://rsshub.gamepp.cf/xueqiu/stock_info/SZ000002" />
