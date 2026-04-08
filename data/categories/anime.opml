@@ -20,8 +20,8 @@
       <outline type="rss" text="巴卡漫画 - 漫画更新" title="巴卡漫画 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/bakamh/manga/%E6%9C%80%E5%BC%BA%E5%AE%B6%E4%B8%81" />
       <outline type="rss" text="萌番组 - Latest" title="萌番组 - Latest" xmlUrl="https://rsshub.gamepp.cf/bangumi.moe" />
       <outline type="rss" text="アニメ新番組 - 當季新番" title="アニメ新番組 - 當季新番" xmlUrl="https://rsshub.gamepp.cf/bangumi.online" />
-      <outline type="rss" text="Bangumi 番组计划 - Bangumi 用户收藏列表" title="Bangumi 番组计划 - Bangumi 用户收藏列表" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/user/collections/sai/1/1" />
       <outline type="rss" text="Bangumi 番组计划 - 放送列表" title="Bangumi 番组计划 - 放送列表" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/calendar/today" />
+      <outline type="rss" text="Bangumi 番组计划 - Bangumi 用户收藏列表" title="Bangumi 番组计划 - Bangumi 用户收藏列表" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/user/collections/sai/1/1" />
       <outline type="rss" text="Bangumi 番组计划 - 小组话题" title="Bangumi 番组计划 - 小组话题" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/group/boring" />
       <outline type="rss" text="Bangumi 番组计划 - 成员关注榜" title="Bangumi 番组计划 - 成员关注榜" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/anime/followrank" />
       <outline type="rss" text="Bangumi 番组计划 - 现实人物的新作品" title="Bangumi 番组计划 - 现实人物的新作品" xmlUrl="https://rsshub.gamepp.cf/bangumi.tv/person/32943" />

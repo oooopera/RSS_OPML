@@ -86,7 +86,6 @@
       <outline type="rss" text="Kiro - Blog" title="Kiro - Blog" xmlUrl="https://rsshub.gamepp.cf/kiro/blog" />
       <outline type="rss" text="Kong API 网关平台 - 博客最新文章" title="Kong API 网关平台 - 博客最新文章" xmlUrl="https://rsshub.gamepp.cf/konghq/blog-posts" />
       <outline type="rss" text="LanceDB - Blog" title="LanceDB - Blog" xmlUrl="https://rsshub.gamepp.cf/lancedb/blog" />
-      <outline type="rss" text="蓝桥云课 - 技术社区" title="蓝桥云课 - 技术社区" xmlUrl="https://rsshub.gamepp.cf/lanqiao/questions/2" />
       <outline type="rss" text="蓝桥云课 - 全站发布的课程" title="蓝桥云课 - 全站发布的课程" xmlUrl="https://rsshub.gamepp.cf/lanqiao/courses/latest/all" />
       <outline type="rss" text="登链社区 - 文章" title="登链社区 - 文章" xmlUrl="https://rsshub.gamepp.cf/learnblockchain/posts/DApp/newest" />
       <outline type="rss" text="LeetCode - Articles" title="LeetCode - Articles" xmlUrl="https://rsshub.gamepp.cf/leetcode/articles" />
