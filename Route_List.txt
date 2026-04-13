@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-04-12 04:09)
+RSSHub Route List (Updated: 2026-04-13 04:19)
 
 ============================================================
 
@@ -720,7 +720,7 @@ RSSHub Route List (Updated: 2026-04-12 04:09)
 129. TikTok - User Profile - Picuki
 
 
-📁 Category: 游戏 (game.opml) - Count: 109
+📁 Category: 游戏 (game.opml) - Count: 110
 ----------------------------------------
 001. 网易公开课 - 用户发帖
 002. 游戏星辰 - 游戏星辰
@@ -749,88 +749,89 @@ RSSHub Route List (Updated: 2026-04-12 04:09)
 025. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
 026. FINAL FANTASY XIV - 最终幻想 14 国服
 027. Fortnite - News
-028. 遊戲基地 Gamebase - 新聞
-029. GameKee | 游戏百科攻略 - 游戏情报
-030. 全球游戏交流中心 - 文章
-031. GamerSky - 娱乐
-032. GamerSky - 资讯
-033. GamerSky - 评测
-034. 机核网 - 文章
-035. 机核网 - 分类
-036. 机核网 - 专题
-037. 机核网 - 资讯
-038. 机核网 - 标签
-039. 机核网 - 视频
-040. 少女前线 - 情报局
-041. HoYoLAB - Official Announcement
-042. 鹰角网络 - 明日方舟 - 游戏内公告
-043. 鹰角网络 - 回归线
-044. 鹰角网络 - 明日方舟 - 游戏公告与新闻
-045. imop - 全部消息
-046. indienova 独立游戏 - 文章
-047. indienova 独立游戏 - 专题
-048. indienova 独立游戏 - 会员开发游戏库
-049. itch.io - Developer Logs
-050. JUMP - 游戏折扣
-051. 其乐 - 论坛
-052. KISS - ブログ
-053. Koyso - 游戏
-054. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
-055. League of Legends - Patch Notes
-056. 旅法师营地 - 首页
-057. 旅法师营地 - 首页（旧版）
-058. Liquipedia - Counter-Strike Team Match Results
-059. MC百科 - 最新MOD
-060. 米哈游 - 崩坏：星穹铁道
-061. 米哈游 - 原神
-062. 米哈游 - 绝区零
-063. 米哈游 - 米游社 - 用户关注
-064. 米哈游 - 米游社 - 官方公告
-065. 米哈游 - 米游社 - 同人榜
-066. 米哈游 - 米游社 - 用户帖子
-067. Minecraft - Java Blocked Servers
-068. Minecraft - Java Runtimes
-069. Minecraft - Java Game Update
-070. Modrinth - Project versions
-071. MyCard娛樂中心 - 遊戲新聞
-072. Nintendo - Nintendo Direct
-073. Nintendo - Switch System Update（Japan）
-074. Nintendo - 首页资讯（中国）
-075. Nintendo - News（Hong Kong only）
-076. osu! - Latest Ranked Beatmap
-077. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
-078. PlayStation Store - PlayStation Monthly Games
-079. PlayStation Store - PlayStation Network user trophy
-080. PSN 中文站 - 游戏
-081. PSN 中文站 - 节点
-082. PSN 中文站 - 数折
-083. PSN 中文站 - 闲游
-084. 腾讯网 - 英雄联盟新闻
-085. SEGA - maimai DX Japanese Ver. News
-086. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
-087. Steam - News
-088. Steam - Steam Community Hub Feeds
-089. Steam - Latest Curator Reviews
-090. Steam - Store Search
-091. Steam - Sharefile Changelog
-092. Steam - Community Workshop Search
-093. TapTap - 游戏论坛
-094. TapTap - 游戏更新
-095. 腾讯 - 新闻中心
-096. 电玩巴士 TGBUS - 文章列表
-097. War Thunder - News
-098. 完美世界电竞 - 资讯列表
-099. World of Warships - Development Blog
-100. 盒心光环 - 资讯
-101. 小黑盒 - 游戏折扣
-102. 小黑盒 - 喜加一
-103. 小黑盒 - 游戏新闻
-104. 小黑盒 - 用户动态
-105. 游讯网 - 资讯
-106. 游戏打折情报 - 游戏折扣
-107. 游戏日报 - 分类
-108. 游研社 - 游研社 - 分类文章
-109. 游研社 - 游研社 - 全部文章
+028. GameApps.hk 香港手机游戏网 - 最新消息
+029. 遊戲基地 Gamebase - 新聞
+030. GameKee | 游戏百科攻略 - 游戏情报
+031. 全球游戏交流中心 - 文章
+032. GamerSky - 娱乐
+033. GamerSky - 资讯
+034. GamerSky - 评测
+035. 机核网 - 文章
+036. 机核网 - 分类
+037. 机核网 - 专题
+038. 机核网 - 资讯
+039. 机核网 - 标签
+040. 机核网 - 视频
+041. 少女前线 - 情报局
+042. HoYoLAB - Official Announcement
+043. 鹰角网络 - 明日方舟 - 游戏内公告
+044. 鹰角网络 - 回归线
+045. 鹰角网络 - 明日方舟 - 游戏公告与新闻
+046. imop - 全部消息
+047. indienova 独立游戏 - 文章
+048. indienova 独立游戏 - 专题
+049. indienova 独立游戏 - 会员开发游戏库
+050. itch.io - Developer Logs
+051. JUMP - 游戏折扣
+052. 其乐 - 论坛
+053. KISS - ブログ
+054. Koyso - 游戏
+055. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
+056. League of Legends - Patch Notes
+057. 旅法师营地 - 首页
+058. 旅法师营地 - 首页（旧版）
+059. Liquipedia - Counter-Strike Team Match Results
+060. MC百科 - 最新MOD
+061. 米哈游 - 崩坏：星穹铁道
+062. 米哈游 - 原神
+063. 米哈游 - 绝区零
+064. 米哈游 - 米游社 - 用户关注
+065. 米哈游 - 米游社 - 官方公告
+066. 米哈游 - 米游社 - 同人榜
+067. 米哈游 - 米游社 - 用户帖子
+068. Minecraft - Java Blocked Servers
+069. Minecraft - Java Runtimes
+070. Minecraft - Java Game Update
+071. Modrinth - Project versions
+072. MyCard娛樂中心 - 遊戲新聞
+073. Nintendo - Nintendo Direct
+074. Nintendo - Switch System Update（Japan）
+075. Nintendo - 首页资讯（中国）
+076. Nintendo - News（Hong Kong only）
+077. osu! - Latest Ranked Beatmap
+078. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
+079. PlayStation Store - PlayStation Monthly Games
+080. PlayStation Store - PlayStation Network user trophy
+081. PSN 中文站 - 游戏
+082. PSN 中文站 - 节点
+083. PSN 中文站 - 数折
+084. PSN 中文站 - 闲游
+085. 腾讯网 - 英雄联盟新闻
+086. SEGA - maimai DX Japanese Ver. News
+087. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
+088. Steam - News
+089. Steam - Steam Community Hub Feeds
+090. Steam - Latest Curator Reviews
+091. Steam - Store Search
+092. Steam - Sharefile Changelog
+093. Steam - Community Workshop Search
+094. TapTap - 游戏论坛
+095. TapTap - 游戏更新
+096. 腾讯 - 新闻中心
+097. 电玩巴士 TGBUS - 文章列表
+098. War Thunder - News
+099. 完美世界电竞 - 资讯列表
+100. World of Warships - Development Blog
+101. 盒心光环 - 资讯
+102. 小黑盒 - 游戏折扣
+103. 小黑盒 - 喜加一
+104. 小黑盒 - 游戏新闻
+105. 小黑盒 - 用户动态
+106. 游讯网 - 资讯
+107. 游戏打折情报 - 游戏折扣
+108. 游戏日报 - 分类
+109. 游研社 - 游研社 - 分类文章
+110. 游研社 - 游研社 - 全部文章
 
 
 📁 Category: Multimedia (multimedia.opml) - Count: 106
@@ -1139,7 +1140,7 @@ RSSHub Route List (Updated: 2026-04-12 04:09)
 091. cline - Blog
 
 
-📁 Category: Anime (anime.opml) - Count: 84
+📁 Category: Anime (anime.opml) - Count: 83
 ----------------------------------------
 001. 幻之羁绊动漫网 - 资讯
 002. 禁漫天堂 - 文庫
@@ -1169,62 +1170,61 @@ RSSHub Route List (Updated: 2026-04-12 04:09)
 026. CnGal - 制作者 / 游戏新闻
 027. CnGal - 每周速报
 028. COLAMANGA - Manga
-029. コラボカフェ - 分类
-030. コラボカフェ - 全部文章
-031. Comicat - 搜索关键词
-032. 拷贝漫画 - 漫画更新
-033. DLsite - Discounted Works
-034. DLsite - Ci-en Creators' Article
-035. DLsite - Current Release
-036. 动漫之家 - 新闻站
-037. Doraemon Channel - Article
-038. Eventernote - 声优活动及演唱会
-039. 风之动漫 - 在线漫画
-040. 漫小肆韓漫 - 漫画更新
-041. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
-042. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
-043. 巴哈姆特電玩資訊站 - GNN 新聞
-044. 巴哈姆特電玩資訊站 - 本板推薦
-045. Gogoanimehd - Recent Releases
-046. Hanime1 - 每月新番
-047. Hanime1 - 搜索结果
-048. Hpoi 手办维基 - 热门推荐
-049. Hpoi 手办维基 - 情报
-050. Hpoi 手办维基 - 用户动态
-051. Hpoi 手办维基 - 所有周边
-052. Hpoi 手办维基 - 角色周边
-053. Hpoi 手办维基 - 作品周边
-054. アイドルマスター THE IDOLM@STER - ニュース News
-055. IDOLY PRIDE 偶像荣耀 - News
-056. iwara - User
-057. iwara - User Subscriptions
-058. Kemono - Posts
-059. Komiic - 漫画更新
-060. 来漫画 - 漫画列表
-061. Love Live! Official Website - News
-062. 円谷ステーション - ニュース
-063. MangaDex - MDList Feed
-064. 看漫画 - 漫画更新
-065. Mox.moe - 首頁
-066. nhentai - Filter
-067. nhentai - Advanced Search
-068. NTR BLOG（寝取られブログ） - Articles
-069. 俺の 3D エロ動画 (oreno3d) - Author Search
-070. pixivision - Category
-071. QooApp - News
-072. 腾讯网 - 排行榜
-073. Rawkuma - Manga
-074. Skebetter - Illust
-075. Skebetter - Hot
-076. Skebetter - Manga
-077. THBWiki - Calendar
-078. とらのあな - Category
-079. VCB-Studio - 分类文章
-080. X 漫画 - 最新动态
-081. 月幕 Galgame - 文章
-082. 月幕 Galgame - 本月新作
-083. 再漫画 - 漫画更新
-084. 再漫画 - 最近更新
+029. コラボカフェ - 全部文章
+030. Comicat - 搜索关键词
+031. 拷贝漫画 - 漫画更新
+032. DLsite - Discounted Works
+033. DLsite - Ci-en Creators' Article
+034. DLsite - Current Release
+035. 动漫之家 - 新闻站
+036. Doraemon Channel - Article
+037. Eventernote - 声优活动及演唱会
+038. 风之动漫 - 在线漫画
+039. 漫小肆韓漫 - 漫画更新
+040. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
+041. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
+042. 巴哈姆特電玩資訊站 - GNN 新聞
+043. 巴哈姆特電玩資訊站 - 本板推薦
+044. Gogoanimehd - Recent Releases
+045. Hanime1 - 每月新番
+046. Hanime1 - 搜索结果
+047. Hpoi 手办维基 - 热门推荐
+048. Hpoi 手办维基 - 情报
+049. Hpoi 手办维基 - 用户动态
+050. Hpoi 手办维基 - 所有周边
+051. Hpoi 手办维基 - 角色周边
+052. Hpoi 手办维基 - 作品周边
+053. アイドルマスター THE IDOLM@STER - ニュース News
+054. IDOLY PRIDE 偶像荣耀 - News
+055. iwara - User
+056. iwara - User Subscriptions
+057. Kemono - Posts
+058. Komiic - 漫画更新
+059. 来漫画 - 漫画列表
+060. Love Live! Official Website - News
+061. 円谷ステーション - ニュース
+062. MangaDex - MDList Feed
+063. 看漫画 - 漫画更新
+064. Mox.moe - 首頁
+065. nhentai - Filter
+066. nhentai - Advanced Search
+067. NTR BLOG（寝取られブログ） - Articles
+068. 俺の 3D エロ動画 (oreno3d) - Author Search
+069. pixivision - Category
+070. QooApp - News
+071. 腾讯网 - 排行榜
+072. Rawkuma - Manga
+073. Skebetter - Illust
+074. Skebetter - Hot
+075. Skebetter - Manga
+076. THBWiki - Calendar
+077. とらのあな - Category
+078. VCB-Studio - 分类文章
+079. X 漫画 - 最新动态
+080. 月幕 Galgame - 文章
+081. 月幕 Galgame - 本月新作
+082. 再漫画 - 漫画更新
+083. 再漫画 - 最近更新
 
 
 📁 Category: 传统媒体 (traditional-media.opml) - Count: 81
@@ -1597,62 +1597,60 @@ RSSHub Route List (Updated: 2026-04-12 04:09)
 056. yande.re - Popular Recent Posts
 
 
-📁 Category: 其他 (other.opml) - Count: 54
+📁 Category: 其他 (other.opml) - Count: 52
 ----------------------------------------
 001. 爱发电 - 用户动态
 002. 爱发电 - 发现用户
 003. Apple - Exchange and Repair Extension Programs
-004. ATP Tour - News
-005. Bing - 每日壁纸
-006. 成都住建蓉 e 办 - 商品住房购房登记
-007. 中国期货业协会 - 分析师园地
-008. ClickMe - 文章
-009. DataGuidance - News
-010. Digital Policy Alert - Activity Tracker
-011. 盯梢 - 频道
-012. 轻松游牧-远程工作聚集地 - 远程工作列表
-013. Galxe - Quest
-014. GameApps.hk 香港手机游戏网 - 最新消息
-015. Google - Alerts
-016. Google - Search
-017. 骨朵数据 - 日榜
-018. HiringCafe - Jobs
-019. iDaily - 每日环球视野
-020. I Know What You Download - Daily Torrents Statistics
-021. Instructables - Projects
-022. 爱 Q 生活网 - 最近更新
-023. 艾瑞咨询 - 研究报告
-024. 界面新闻 - 界面号
-025. 界面新闻 - 栏目
-026. 界面新闻 - 专题
-027. 贝壳研究院 - 研究成果
-028. KPMG - Insights
-029. LuMa - Events
-030. Naturalism.org - What's New
-031. 中国互联网联合辟谣平台 - 今日辟谣
-032. Product Hunt - Top Products Launching Today
-033. 腾讯网 - 最新辟谣
-034. QuestN - Events
-035. Radio France Internationale - Generic News
-036. RSSHub - Transformation - HTML
-037. RSSHub - Transformation - JSON
-038. 星島日報 - 即時
-039. 台灣大哥大 - 資費公告
-040. Taiwan FactCheck Center - 分類
-041. Taiwan FactCheck Center - 最新查核報告
-042. U9A9 - Search
-043. 裏垢女子まとめ - User
-044. Urban Dictionary - Random words
-045. 华西医院 - 招聘公告
-046. 新假期周刊 - 最新文章
-047. Wellcee 唯心所寓 - 支持的城市
-048. Wellcee 唯心所寓 - 租房信息
-049. Wise - FX Pair Yesterday
-050. 紳士漫畫 - 分类更新
-051. 紳士漫畫 - 最新
-052. 紳士漫畫 - 標籤更新
-053. ZAKER - 分类
-054. ZAKER - 精读
+004. Bing - 每日壁纸
+005. 成都住建蓉 e 办 - 商品住房购房登记
+006. 中国期货业协会 - 分析师园地
+007. ClickMe - 文章
+008. DataGuidance - News
+009. Digital Policy Alert - Activity Tracker
+010. 盯梢 - 频道
+011. 轻松游牧-远程工作聚集地 - 远程工作列表
+012. Galxe - Quest
+013. Google - Alerts
+014. Google - Search
+015. 骨朵数据 - 日榜
+016. HiringCafe - Jobs
+017. iDaily - 每日环球视野
+018. I Know What You Download - Daily Torrents Statistics
+019. Instructables - Projects
+020. 爱 Q 生活网 - 最近更新
+021. 艾瑞咨询 - 研究报告
+022. 界面新闻 - 界面号
+023. 界面新闻 - 栏目
+024. 界面新闻 - 专题
+025. 贝壳研究院 - 研究成果
+026. KPMG - Insights
+027. LuMa - Events
+028. Naturalism.org - What's New
+029. 中国互联网联合辟谣平台 - 今日辟谣
+030. Product Hunt - Top Products Launching Today
+031. 腾讯网 - 最新辟谣
+032. QuestN - Events
+033. Radio France Internationale - Generic News
+034. RSSHub - Transformation - HTML
+035. RSSHub - Transformation - JSON
+036. 星島日報 - 即時
+037. 台灣大哥大 - 資費公告
+038. Taiwan FactCheck Center - 分類
+039. Taiwan FactCheck Center - 最新查核報告
+040. U9A9 - Search
+041. 裏垢女子まとめ - User
+042. Urban Dictionary - Random words
+043. 华西医院 - 招聘公告
+044. 新假期周刊 - 最新文章
+045. Wellcee 唯心所寓 - 支持的城市
+046. Wellcee 唯心所寓 - 租房信息
+047. Wise - FX Pair Yesterday
+048. 紳士漫畫 - 分类更新
+049. 紳士漫畫 - 最新
+050. 紳士漫畫 - 標籤更新
+051. ZAKER - 分类
+052. ZAKER - 精读
 
 
 📁 Category: Shopping (shopping.opml) - Count: 50
@@ -1917,4 +1915,9 @@ RSSHub Route List (Updated: 2026-04-12 04:09)
 007. National Geographic - Latest Stories
 008. 走进日本 - 政治外交
 009. YAMAP - 文章
+
+
+📁 Category: Sport (sport.opml) - Count: 1
+----------------------------------------
+001. ATP Tour - News
 
