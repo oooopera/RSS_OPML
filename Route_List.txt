@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-04-24 04:16)
+RSSHub Route List (Updated: 2026-04-25 03:51)
 
 ============================================================
 
@@ -1406,8 +1406,8 @@ RSSHub Route List (Updated: 2026-04-24 04:16)
 008. App Center - Release
 009. AppSales - Category
 010. AppSales - Watchlist Charts
-011. Apple - Security releases
-012. Apple - App Update
+011. Apple - App Update
+012. Apple - Security releases
 013. AppStare - Comments
 014. App Store/Mac App Store - Price Drop
 015. App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）
