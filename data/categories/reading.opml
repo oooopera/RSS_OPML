@@ -6,6 +6,7 @@
   <body>
     <outline text="阅读" title="阅读">
       <outline type="rss" text="51Read - 章节" title="51Read - 章节" xmlUrl="https://rsshub.gamepp.cf/51read/article/152685" />
+      <outline type="rss" text="明月中文网 - 分类" title="明月中文网 - 分类" xmlUrl="https://rsshub.gamepp.cf/56kog/class/1_1" />
       <outline type="rss" text="69书吧 - 章节" title="69书吧 - 章节" xmlUrl="https://rsshub.gamepp.cf/69shu/article/47117" />
       <outline type="rss" text="爱思想 - 栏目" title="爱思想 - 栏目" xmlUrl="https://rsshub.gamepp.cf/aisixiang/column/722" />
       <outline type="rss" text="爱思想 - 思想库（专栏）" title="爱思想 - 思想库（专栏）" xmlUrl="https://rsshub.gamepp.cf/aisixiang/thinktank/WuQine/%E8%AE%BA%E6%96%87" />
