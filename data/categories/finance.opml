@@ -95,8 +95,8 @@
       <outline type="rss" text="华尔街见闻 - 最热文章" title="华尔街见闻 - 最热文章" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/hot" />
       <outline type="rss" text="华尔街见闻 - 资讯" title="华尔街见闻 - 资讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/news" />
       <outline type="rss" text="华尔街见闻 - 实时快讯" title="华尔街见闻 - 实时快讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/live" />
-      <outline type="rss" text="雪球 - 股票评论" title="雪球 - 股票评论" xmlUrl="https://rsshub.gamepp.cf/xueqiu/stock_comments/SZ002626" />
       <outline type="rss" text="雪球 - 热帖" title="雪球 - 热帖" xmlUrl="https://rsshub.gamepp.cf/xueqiu/hots" />
+      <outline type="rss" text="雪球 - 股票评论" title="雪球 - 股票评论" xmlUrl="https://rsshub.gamepp.cf/xueqiu/stock_comments/SZ002626" />
       <outline type="rss" text="雪球 - 股票信息" title="雪球 - 股票信息" xmlUrl="https://rsshub.gamepp.cf/xueqiu/stock_info/SZ000002" />
       <outline type="rss" text="雪球 - 今日话题" title="雪球 - 今日话题" xmlUrl="https://rsshub.gamepp.cf/xueqiu/today" />
       <outline type="rss" text="有知有行 - 有知文章" title="有知有行 - 有知文章" xmlUrl="https://rsshub.gamepp.cf/youzhiyouxing/materials" />

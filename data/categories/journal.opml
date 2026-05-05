@@ -39,8 +39,8 @@
       <outline type="rss" text="Cool Papers - Topic" title="Cool Papers - Topic" xmlUrl="https://rsshub.gamepp.cf/papers/query/Detection" />
       <outline type="rss" text="Cool Papers - Category" title="Cool Papers - Category" xmlUrl="https://rsshub.gamepp.cf/papers/category/arxiv/cs.AI" />
       <outline type="rss" text="Royal Society of Chemistry - Journal" title="Royal Society of Chemistry - Journal" xmlUrl="https://rsshub.gamepp.cf/rsc/journal/ta" />
-      <outline type="rss" text="Science Magazine - Cover Story" title="Science Magazine - Cover Story" xmlUrl="https://rsshub.gamepp.cf/science/cover" />
       <outline type="rss" text="Science Magazine - Blogs" title="Science Magazine - Blogs" xmlUrl="https://rsshub.gamepp.cf/science/blogs/pipeline" />
+      <outline type="rss" text="Science Magazine - Cover Story" title="Science Magazine - Cover Story" xmlUrl="https://rsshub.gamepp.cf/science/cover" />
       <outline type="rss" text="Science Magazine - Current Issue" title="Science Magazine - Current Issue" xmlUrl="https://rsshub.gamepp.cf/science/current/science" />
       <outline type="rss" text="Science Magazine - First Release" title="Science Magazine - First Release" xmlUrl="https://rsshub.gamepp.cf/science/early" />
       <outline type="rss" text="ScienceDirect - Call for Papers" title="ScienceDirect - Call for Papers" xmlUrl="https://rsshub.gamepp.cf/sciencedirect/call-for-paper/education" />

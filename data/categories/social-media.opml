@@ -75,8 +75,8 @@
       <outline type="rss" text="快手 - Profile" title="快手 - Profile" xmlUrl="https://rsshub.gamepp.cf/kuaishou/profile/3xk46q9cdnvgife" />
       <outline type="rss" text="Lemmy - Community" title="Lemmy - Community" xmlUrl="https://rsshub.gamepp.cf/lemmy/technology%40lemmy.world/Hot" />
       <outline type="rss" text="Letterboxd - User Watchlist" title="Letterboxd - User Watchlist" xmlUrl="https://rsshub.gamepp.cf/letterboxd/matthew/watchlist" />
-      <outline type="rss" text="LinkedIn - Jobs" title="LinkedIn - Jobs" xmlUrl="https://rsshub.gamepp.cf/linkedin/jobs/C-P/1/software%20engineer" />
       <outline type="rss" text="LinkedIn - Company Posts" title="LinkedIn - Company Posts" xmlUrl="https://rsshub.gamepp.cf/linkedin/company/google/posts" />
+      <outline type="rss" text="LinkedIn - Jobs" title="LinkedIn - Jobs" xmlUrl="https://rsshub.gamepp.cf/linkedin/jobs/C-P/1/software%20engineer" />
       <outline type="rss" text="Locals - Content Feed" title="Locals - Content Feed" xmlUrl="https://rsshub.gamepp.cf/locals/content/mattfradd/video" />
       <outline type="rss" text="Lofter - Collection" title="Lofter - Collection" xmlUrl="https://rsshub.gamepp.cf/lofter/collection/552041" />
       <outline type="rss" text="Lofter - User" title="Lofter - User" xmlUrl="https://rsshub.gamepp.cf/lofter/user/i" />
