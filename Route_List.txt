@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-05-08 04:15)
+RSSHub Route List (Updated: 2026-05-09 04:21)
 
 ============================================================
 
@@ -1044,7 +1044,7 @@ RSSHub Route List (Updated: 2026-05-08 04:15)
 097. 智篆商业 - analytic
 
 
-📁 Category: 博客 (blog.opml) - Count: 91
+📁 Category: 博客 (blog.opml) - Count: 90
 ----------------------------------------
 001. AI 博客 - 归档-全部文章
 002. Apache - APISIX 博客
@@ -1117,26 +1117,25 @@ RSSHub Route List (Updated: 2026-05-08 04:15)
 069. Perplexity - Blog
 070. 便宜VPS网 - 最新发布
 071. 电脑玩物 - 每日精选文章
-072. Qwen Blog - Blog
-073. React - Blog
-074. Read Something Wonderful - Articles
-075. 云谦的博客 - 文章
-076. Stanford - Hazy Research Blog
-077. Substack - Substack Subscription
-078. The Gradient - Posts
-079. thzt - Blog
-080. Uber - Engineering
-081. People + AI Research (PAIR) - PAIR - AI Exploreables
-082. WordPress - WordPress
-083. 虎皮椒 - 文章
-084. 新语丝 - 新到资料
-085. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
-086. 竹白 - 文章
-087. 竹白 - 上周热门 TOP 20
-088. 国外主机测评 - 最新发布
-089. 浙江大学可视分析小组 - 博客
-090. 赵容部落 - 最新文章
-091. cline - Blog
+072. React - Blog
+073. Read Something Wonderful - Articles
+074. 云谦的博客 - 文章
+075. Stanford - Hazy Research Blog
+076. Substack - Substack Subscription
+077. The Gradient - Posts
+078. thzt - Blog
+079. Uber - Engineering
+080. People + AI Research (PAIR) - PAIR - AI Exploreables
+081. WordPress - WordPress
+082. 虎皮椒 - 文章
+083. 新语丝 - 新到资料
+084. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
+085. 竹白 - 文章
+086. 竹白 - 上周热门 TOP 20
+087. 国外主机测评 - 最新发布
+088. 浙江大学可视分析小组 - 博客
+089. 赵容部落 - 最新文章
+090. cline - Blog
 
 
 📁 Category: Anime (anime.opml) - Count: 83
