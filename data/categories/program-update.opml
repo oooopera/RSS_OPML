@@ -61,7 +61,6 @@
       <outline type="rss" text="Not a Tesla App - Tesla Software Updates" title="Not a Tesla App - Tesla Software Updates" xmlUrl="https://rsshub.gamepp.cf/notateslaapp/ota" />
       <outline type="rss" text="Notion - Release" title="Notion - Release" xmlUrl="https://rsshub.gamepp.cf/notion/release" />
       <outline type="rss" text="NPM - Package" title="NPM - Package" xmlUrl="https://rsshub.gamepp.cf/npm/package/rsshub" />
-      <outline type="rss" text="Obsidian - Obsidian Plugins" title="Obsidian - Obsidian Plugins" xmlUrl="https://rsshub.gamepp.cf/obsidian/plugins" />
       <outline type="rss" text="OpenAI - ChatGPT - Release Notes" title="OpenAI - ChatGPT - Release Notes" xmlUrl="https://rsshub.gamepp.cf/openai/chatgpt/release-notes" />
       <outline type="rss" text="Perplexity - Changelog" title="Perplexity - Changelog" xmlUrl="https://rsshub.gamepp.cf/perplexity/changelog" />
       <outline type="rss" text="Postman - Release Notes" title="Postman - Release Notes" xmlUrl="https://rsshub.gamepp.cf/postman/release-notes" />

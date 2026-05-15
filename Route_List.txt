@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-05-14 04:41)
+RSSHub Route List (Updated: 2026-05-15 04:49)
 
 ============================================================
 
@@ -1392,7 +1392,7 @@ RSSHub Route List (Updated: 2026-05-14 04:41)
 078. World Health Organization | WHO - Speeches
 
 
-📁 Category: Program-Update (program-update.opml) - Count: 76
+📁 Category: Program-Update (program-update.opml) - Count: 75
 ----------------------------------------
 001. 423Down - 423Down
 002. Alpine Linux - Packages
@@ -1450,26 +1450,25 @@ RSSHub Route List (Updated: 2026-05-14 04:41)
 054. Not a Tesla App - Tesla Software Updates
 055. Notion - Release
 056. NPM - Package
-057. Obsidian - Obsidian Plugins
-058. OpenAI - ChatGPT - Release Notes
-059. Perplexity - Changelog
-060. Postman - Release Notes
-061. PuTTY - Change Log
-062. qBittorrent - News
-063. Raycast - Changelog
-064. RemNote - Changelog
-065. RSSHub - New routes
-066. Scoop - Apps
-067. 腾讯 - 更新日志
-068. TiddlyWiki - Releases
-069. TradingView - Desktop releases and release notes
-070. Typeless - Changelog
-071. Typora - Changelog
-072. Typst - Universe
-073. Unraid - Community Apps
-074. WebCatalog - Changelog
-075. Zotero - Version History
-076. daum - Potplayer Update History
+057. OpenAI - ChatGPT - Release Notes
+058. Perplexity - Changelog
+059. Postman - Release Notes
+060. PuTTY - Change Log
+061. qBittorrent - News
+062. Raycast - Changelog
+063. RemNote - Changelog
+064. RSSHub - New routes
+065. Scoop - Apps
+066. 腾讯 - 更新日志
+067. TiddlyWiki - Releases
+068. TradingView - Desktop releases and release notes
+069. Typeless - Changelog
+070. Typora - Changelog
+071. Typst - Universe
+072. Unraid - Community Apps
+073. WebCatalog - Changelog
+074. Zotero - Version History
+075. daum - Potplayer Update History
 
 
 📁 Category: 论坛 (bbs.opml) - Count: 59
