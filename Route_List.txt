@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-05-26 05:02)
+RSSHub Route List (Updated: 2026-05-27 05:13)
 
 ============================================================
 
@@ -718,7 +718,7 @@ RSSHub Route List (Updated: 2026-05-26 05:02)
 129. TikTok - User Profile - Picuki
 
 
-📁 Category: 游戏 (game.opml) - Count: 110
+📁 Category: 游戏 (game.opml) - Count: 109
 ----------------------------------------
 001. 网易公开课 - 用户发帖
 002. 游戏星辰 - 游戏星辰
@@ -791,45 +791,44 @@ RSSHub Route List (Updated: 2026-05-26 05:02)
 069. Minecraft - Java Runtimes
 070. Minecraft - Java Game Update
 071. Modrinth - Project versions
-072. MyCard娛樂中心 - 遊戲新聞
-073. Nintendo - Nintendo Direct
-074. Nintendo - Switch System Update（Japan）
-075. Nintendo - 首页资讯（中国）
-076. Nintendo - News（Hong Kong only）
-077. osu! - Latest Ranked Beatmap
-078. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
-079. PlayStation Store - PlayStation Monthly Games
-080. PlayStation Store - PlayStation Network user trophy
-081. PSN 中文站 - 游戏
-082. PSN 中文站 - 节点
-083. PSN 中文站 - 数折
-084. PSN 中文站 - 闲游
-085. 腾讯网 - 英雄联盟新闻
-086. SEGA - maimai DX Japanese Ver. News
-087. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
-088. Steam - News
-089. Steam - Steam Community Hub Feeds
-090. Steam - Latest Curator Reviews
-091. Steam - Store Search
-092. Steam - Sharefile Changelog
-093. Steam - Community Workshop Search
-094. TapTap - 游戏论坛
-095. TapTap - 游戏更新
-096. 腾讯 - 新闻中心
-097. 电玩巴士 TGBUS - 文章列表
-098. War Thunder - News
-099. 完美世界电竞 - 资讯列表
-100. World of Warships - Development Blog
-101. 盒心光环 - 资讯
-102. 小黑盒 - 游戏折扣
-103. 小黑盒 - 喜加一
-104. 小黑盒 - 游戏新闻
-105. 小黑盒 - 用户动态
-106. 游讯网 - 资讯
-107. 游戏打折情报 - 游戏折扣
-108. 游戏日报 - 分类
-109. 游研社 - 游研社 - 分类文章
-110. 游研社 - 游研社 - 全部文章
+072. Nintendo - Nintendo Direct
+073. Nintendo - Switch System Update（Japan）
+074. Nintendo - 首页资讯（中国）
+075. Nintendo - News（Hong Kong only）
+076. osu! - Latest Ranked Beatmap
+077. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
+078. PlayStation Store - PlayStation Monthly Games
+079. PlayStation Store - PlayStation Network user trophy
+080. PSN 中文站 - 游戏
+081. PSN 中文站 - 节点
+082. PSN 中文站 - 数折
+083. PSN 中文站 - 闲游
+084. 腾讯网 - 英雄联盟新闻
+085. SEGA - maimai DX Japanese Ver. News
+086. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
+087. Steam - News
+088. Steam - Steam Community Hub Feeds
+089. Steam - Latest Curator Reviews
+090. Steam - Store Search
+091. Steam - Sharefile Changelog
+092. Steam - Community Workshop Search
+093. TapTap - 游戏论坛
+094. TapTap - 游戏更新
+095. 腾讯 - 新闻中心
+096. 电玩巴士 TGBUS - 文章列表
+097. War Thunder - News
+098. 完美世界电竞 - 资讯列表
+099. World of Warships - Development Blog
+100. 盒心光环 - 资讯
+101. 小黑盒 - 游戏折扣
+102. 小黑盒 - 喜加一
+103. 小黑盒 - 游戏新闻
+104. 小黑盒 - 用户动态
+105. 游讯网 - 资讯
+106. 游戏打折情报 - 游戏折扣
+107. 游戏日报 - 分类
+108. 游研社 - 游研社 - 分类文章
+109. 游研社 - 游研社 - 全部文章
 
 
 📁 Category: Multimedia (multimedia.opml) - Count: 106
