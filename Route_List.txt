@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-06-03 06:02)
+RSSHub Route List (Updated: 2026-06-04 05:55)
 
 ============================================================
 
@@ -1702,7 +1702,7 @@ RSSHub Route List (Updated: 2026-06-03 06:02)
 050. 中国养猪网 - 全国今日生猪价格
 
 
-📁 Category: Journal (journal.opml) - Count: 50
+📁 Category: Journal (journal.opml) - Count: 49
 ----------------------------------------
 001. Academia - interest
 002. American Economic Association - Journal
@@ -1732,28 +1732,27 @@ RSSHub Route List (Updated: 2026-06-03 06:02)
 026. National Bureau of Economic Research - All Papers
 027. National Bureau of Economic Research - New Papers
 028. Network and Distributed System Security (NDSS) Symposium - Accepted papers
-029. nymity - CensorBib Updates
-030. Oxford University Press - Oxford Academic - Journal
-031. 普世社会科学研究所 - 最新文章
-032. Cool Papers - Topic
-033. Cool Papers - Category
-034. Royal Society of Chemistry - Journal
-035. Science Magazine - Blogs
-036. Science Magazine - Cover Story
-037. Science Magazine - Current Issue
-038. Science Magazine - First Release
-039. ScienceDirect - Call for Papers
-040. ScienceDirect - Current Issue
-041. ScienceDirect - Journal
-042. 上海大学 - 《社会》杂志当期目录
-043. ACM Special Interest Group on Security Audit and Control - The ACM Conference on Computer and Communications Security
-044. Springer - Journal
-045. TCTMD - Conference News
-046. Trending Papers - Trending Papers on arXiv
-047. The University of Chicago Press: Journals - Current Issue
-048. USENIX - ;login:
-049. USENIX - Security Symposia
-050. X-MOL - Journal
+029. Oxford University Press - Oxford Academic - Journal
+030. 普世社会科学研究所 - 最新文章
+031. Cool Papers - Topic
+032. Cool Papers - Category
+033. Royal Society of Chemistry - Journal
+034. Science Magazine - Blogs
+035. Science Magazine - Cover Story
+036. Science Magazine - Current Issue
+037. Science Magazine - First Release
+038. ScienceDirect - Call for Papers
+039. ScienceDirect - Current Issue
+040. ScienceDirect - Journal
+041. 上海大学 - 《社会》杂志当期目录
+042. ACM Special Interest Group on Security Audit and Control - The ACM Conference on Computer and Communications Security
+043. Springer - Journal
+044. TCTMD - Conference News
+045. Trending Papers - Trending Papers on arXiv
+046. The University of Chicago Press: Journals - Current Issue
+047. USENIX - ;login:
+048. USENIX - Security Symposia
+049. X-MOL - Journal
 
 
 📁 Category: 阅读 (reading.opml) - Count: 44
