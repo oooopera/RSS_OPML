@@ -90,8 +90,8 @@
       <outline type="rss" text="Misskey - Home Timeline" title="Misskey - Home Timeline" xmlUrl="https://rsshub.gamepp.cf/misskey/timeline/home/misskey.io" />
       <outline type="rss" text="Misskey - User timeline" title="Misskey - User timeline" xmlUrl="https://rsshub.gamepp.cf/misskey/users/notes/support%40misskey.io" />
       <outline type="rss" text="mixi2 - コミュニティ" title="mixi2 - コミュニティ" xmlUrl="https://rsshub.gamepp.cf/mixi2/community/62e7e813-d242-4c54-a0ee-0aab5b2bbad2" />
-      <outline type="rss" text="Instagram - User Profile - Pixnoy" title="Instagram - User Profile - Pixnoy" xmlUrl="https://rsshub.gamepp.cf/picnob/user/xlisa_olivex" />
-      <outline type="rss" text="Instagram - User Profile - Picnob" title="Instagram - User Profile - Picnob" xmlUrl="https://rsshub.gamepp.cf/picnob.info/user/xlisa_olivex" />
+      <outline type="rss" text="Instagram - User Profile - Picnob" title="Instagram - User Profile - Picnob" xmlUrl="https://rsshub.gamepp.cf/picnob/user/xlisa_olivex" />
+      <outline type="rss" text="Instagram - User Profile - Picnob.info" title="Instagram - User Profile - Picnob.info" xmlUrl="https://rsshub.gamepp.cf/picnob.info/user/xlisa_olivex" />
       <outline type="rss" text="pixiv - User Bookmark" title="pixiv - User Bookmark" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/bookmarks/15288095" />
       <outline type="rss" text="pixiv - Following timeline" title="pixiv - Following timeline" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/illustfollows" />
       <outline type="rss" text="pixiv - Rankings" title="pixiv - Rankings" xmlUrl="https://rsshub.gamepp.cf/pixiv/ranking/week" />
