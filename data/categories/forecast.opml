@@ -13,8 +13,6 @@
       <outline type="rss" text="重庆燃气 - 停气检修通知" title="重庆燃气 - 停气检修通知" xmlUrl="https://rsshub.gamepp.cf/cqgas/tqtz" />
       <outline type="rss" text="地震速报 - 中国地震台" title="地震速报 - 中国地震台" xmlUrl="https://rsshub.gamepp.cf/earthquake/ceic/1" />
       <outline type="rss" text="地震速报 - 中国地震局" title="地震速报 - 中国地震局" xmlUrl="https://rsshub.gamepp.cf/earthquake" />
-      <outline type="rss" text="深圳市罗湖区人民政府 - 广东省内城市预警信号" title="深圳市罗湖区人民政府 - 广东省内城市预警信号" xmlUrl="https://rsshub.gamepp.cf/gov/guangdong/tqyb/sncsyjxh" />
-      <outline type="rss" text="深圳市罗湖区人民政府 - 突发性天气提示" title="深圳市罗湖区人民政府 - 突发性天气提示" xmlUrl="https://rsshub.gamepp.cf/gov/guangdong/tqyb/tfxtq" />
       <outline type="rss" text="Hong Kong Observatory - 全球地震資訊網" title="Hong Kong Observatory - 全球地震資訊網" xmlUrl="https://rsshub.gamepp.cf/hko/earthquake" />
       <outline type="rss" text="Hong Kong Observatory - Current Weather Report" title="Hong Kong Observatory - Current Weather Report" xmlUrl="https://rsshub.gamepp.cf/hko/weather" />
       <outline type="rss" text="国家气候中心 - 最新监测" title="国家气候中心 - 最新监测" xmlUrl="https://rsshub.gamepp.cf/ncc-cma/cmdp/image/RPJQWQYZ" />
