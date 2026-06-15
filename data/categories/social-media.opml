@@ -14,7 +14,7 @@
       <outline type="rss" text="哔哩哔哩 bilibili - 热搜" title="哔哩哔哩 bilibili - 热搜" xmlUrl="https://rsshub.gamepp.cf/bilibili/hot-search" />
       <outline type="rss" text="哔哩哔哩 bilibili - B 站每周必看" title="哔哩哔哩 bilibili - B 站每周必看" xmlUrl="https://rsshub.gamepp.cf/bilibili/weekly" />
       <outline type="rss" text="Bluesky (bsky) - Keywords" title="Bluesky (bsky) - Keywords" xmlUrl="https://rsshub.gamepp.cf/bsky/keyword/hello" />
-      <outline type="rss" text="Bluesky (bsky) - Feeds" title="Bluesky (bsky) - Feeds" xmlUrl="https://rsshub.gamepp.cf/bsky.app/profile/jaz.bsky.social/feed/cv%3Acat" />
+      <outline type="rss" text="Bluesky (bsky) - Feeds" title="Bluesky (bsky) - Feeds" xmlUrl="https://rsshub.gamepp.cf/bsky/profile/jaz.bsky.social/feed/cv%3Acat" />
       <outline type="rss" text="Bluesky (bsky) - Post" title="Bluesky (bsky) - Post" xmlUrl="https://rsshub.gamepp.cf/bsky/profile/bsky.app" />
       <outline type="rss" text="Cara - Likes" title="Cara - Likes" xmlUrl="https://rsshub.gamepp.cf/cara/likes/fengz" />
       <outline type="rss" text="Cara - Portfolio" title="Cara - Portfolio" xmlUrl="https://rsshub.gamepp.cf/cara/portfolio/fengz" />

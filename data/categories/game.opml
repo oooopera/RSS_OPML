@@ -57,7 +57,7 @@
       <outline type="rss" text="itch.io - Developer Logs" title="itch.io - Developer Logs" xmlUrl="https://rsshub.gamepp.cf/itch/devlog/teamterrible/the-baby-in-yellow" />
       <outline type="rss" text="JUMP - 游戏折扣" title="JUMP - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/jump/discount/ps5/all" />
       <outline type="rss" text="其乐 - 论坛" title="其乐 - 论坛" xmlUrl="https://rsshub.gamepp.cf/keylol/f161-1" />
-      <outline type="rss" text="KISS - ブログ" title="KISS - ブログ" xmlUrl="https://rsshub.gamepp.cf/blog/DLC" />
+      <outline type="rss" text="KISS - ブログ" title="KISS - ブログ" xmlUrl="https://rsshub.gamepp.cf/kisskiss/blog/DLC" />
       <outline type="rss" text="Koyso - 游戏" title="Koyso - 游戏" xmlUrl="https://rsshub.gamepp.cf/koyso/0/latest" />
       <outline type="rss" text="库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动" title="库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动" xmlUrl="https://rsshub.gamepp.cf/kurogames/wutheringwaves/news" />
       <outline type="rss" text="League of Legends - Patch Notes" title="League of Legends - Patch Notes" xmlUrl="https://rsshub.gamepp.cf/leagueoflegends/patch-notes" />
@@ -91,7 +91,7 @@
       <outline type="rss" text="腾讯网 - 英雄联盟新闻" title="腾讯网 - 英雄联盟新闻" xmlUrl="https://rsshub.gamepp.cf/qq/lol/news" />
       <outline type="rss" text="SEGA - maimai DX Japanese Ver. News" title="SEGA - maimai DX Japanese Ver. News" xmlUrl="https://rsshub.gamepp.cf/sega/maimaidx/news" />
       <outline type="rss" text="SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ" title="SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ" xmlUrl="https://rsshub.gamepp.cf/sega/pjsekai/news" />
-      <outline type="rss" text="Steam - News" title="Steam - News" xmlUrl="https://rsshub.gamepp.cf/news/958260/english" />
+      <outline type="rss" text="Steam - News" title="Steam - News" xmlUrl="https://rsshub.gamepp.cf/steam/news/958260/english" />
       <outline type="rss" text="Steam - Steam Community Hub Feeds" title="Steam - Steam Community Hub Feeds" xmlUrl="https://rsshub.gamepp.cf/steam/appcommunityfeed/730" />
       <outline type="rss" text="Steam - Latest Curator Reviews" title="Steam - Latest Curator Reviews" xmlUrl="https://rsshub.gamepp.cf/steam/curator/34646096-80-Days" />
       <outline type="rss" text="Steam - Store Search" title="Steam - Store Search" xmlUrl="https://rsshub.gamepp.cf/steam/search/sort_by%3DReleased_DESC%26tags%3D492%26category1%3D10%26os%3Dlinux" />

@@ -5,8 +5,8 @@
   </head>
   <body>
     <outline text="编程" title="编程">
-      <outline type="rss" text="30 Seconds of code - Category and Subcategory" title="30 Seconds of code - Category and Subcategory" xmlUrl="https://rsshub.gamepp.cf/category/css/interactivity" />
-      <outline type="rss" text="30 Seconds of code - New &amp; Popular Snippets" title="30 Seconds of code - New &amp; Popular Snippets" xmlUrl="https://rsshub.gamepp.cf/latest" />
+      <outline type="rss" text="30 Seconds of code - Category and Subcategory" title="30 Seconds of code - Category and Subcategory" xmlUrl="https://rsshub.gamepp.cf/30secondsofcode/category/css/interactivity" />
+      <outline type="rss" text="30 Seconds of code - New &amp; Popular Snippets" title="30 Seconds of code - New &amp; Popular Snippets" xmlUrl="https://rsshub.gamepp.cf/30secondsofcode/latest" />
       <outline type="rss" text="51CTO - 推荐" title="51CTO - 推荐" xmlUrl="https://rsshub.gamepp.cf/51cto/index/recommend" />
       <outline type="rss" text="极术社区 - 频道、专栏、用户" title="极术社区 - 频道、专栏、用户" xmlUrl="https://rsshub.gamepp.cf/aijishu/channel/ai" />
       <outline type="rss" text="A List Apart - Home Feed" title="A List Apart - Home Feed" xmlUrl="https://rsshub.gamepp.cf/alistapart" />
