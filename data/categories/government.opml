@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>RSSHub - Government</title>
+  </head>
+  <body>
+    <outline text="Government" title="Government">
+      <outline type="rss" text="中国军网 - 中国人民解放军专业技术人才网" title="中国军网 - 中国人民解放军专业技术人才网" xmlUrl="https://rsshub.gamepp.cf/81/81rc/sy/gzdt_210283" />
+      <outline type="rss" text="共产党员网 - 最新发布" title="共产党员网 - 最新发布" xmlUrl="https://rsshub.gamepp.cf/12371/zxfb" />
+      <outline type="rss" text="北京价格 - 资讯" title="北京价格 - 资讯" xmlUrl="https://rsshub.gamepp.cf/beijingprice/jgzx/xwzx" />
+      <outline type="rss" text="北京社科网 - 通用" title="北京社科网 - 通用" xmlUrl="https://rsshub.gamepp.cf/bjsk/newslist-1394-1474-0" />
+      <outline type="rss" text="北京社科网 - 基金项目管理平台" title="北京社科网 - 基金项目管理平台" xmlUrl="https://rsshub.gamepp.cf/bjsk/keti" />
+      <outline type="rss" text="北京无线电协会 - 最新资讯" title="北京无线电协会 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/bjwxdxh/114" />
+      <outline type="rss" text="中国科学学与科技政策研究会 - 研究会动态" title="中国科学学与科技政策研究会 - 研究会动态" xmlUrl="https://rsshub.gamepp.cf/casssp/news/3" />
+      <outline type="rss" text="中国科学技术协会 - 通用" title="中国科学技术协会 - 通用" xmlUrl="https://rsshub.gamepp.cf/cast/xw/tzgg/ZH" />
+      <outline type="rss" text="国家药品审评网站 - 首页" title="国家药品审评网站 - 首页" xmlUrl="https://rsshub.gamepp.cf/cde/news/gzdt" />
+      <outline type="rss" text="国家药品审评网站 - 指导原则专栏" title="国家药品审评网站 - 指导原则专栏" xmlUrl="https://rsshub.gamepp.cf/cde/zdyz/domesticGuide" />
+      <outline type="rss" text="中国金融期货交易所 - 交易所公告" title="中国金融期货交易所 - 交易所公告" xmlUrl="https://rsshub.gamepp.cf/cffex/announcement" />
+      <outline type="rss" text="中国疾病预防控制中心 - 通用" title="中国疾病预防控制中心 - 通用" xmlUrl="https://rsshub.gamepp.cf/chinacdc/zxyw" />
+      <outline type="rss" text="中国无机盐工业协会 - 栏目" title="中国无机盐工业协会 - 栏目" xmlUrl="https://rsshub.gamepp.cf/cisia/9" />
+      <outline type="rss" text="中国无线电协会业余无线电分会 - 考试信息" title="中国无线电协会业余无线电分会 - 考试信息" xmlUrl="https://rsshub.gamepp.cf/crac/exam" />
+      <outline type="rss" text="中国无线电协会业余无线电分会 - 最新资讯" title="中国无线电协会业余无线电分会 - 最新资讯" xmlUrl="https://rsshub.gamepp.cf/crac/2" />
+      <outline type="rss" text="德阳人事考试网 - 考试新闻发布" title="德阳人事考试网 - 考试新闻发布" xmlUrl="https://rsshub.gamepp.cf/dykszx/news" />
+      <outline type="rss" text="JapanGov - PDF" title="JapanGov - PDF" xmlUrl="https://rsshub.gamepp.cf/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii" />
+      <outline type="rss" text="Hong Kong Department of Health 香港卫生署 - Press Release" title="Hong Kong Department of Health 香港卫生署 - Press Release" xmlUrl="https://rsshub.gamepp.cf/hongkong/dh" />
+      <outline type="rss" text="UK Parliament - Commonlibrary" title="UK Parliament - Commonlibrary" xmlUrl="https://rsshub.gamepp.cf/parliament.uk/commonslibrary/type/research-briefing" />
+      <outline type="rss" text="汽车召回网 - 汽车召回" title="汽车召回网 - 汽车召回" xmlUrl="https://rsshub.gamepp.cf/qiche365/recall/1" />
+      <outline type="rss" text="深圳市医疗器械行业协会 - 资讯信息" title="深圳市医疗器械行业协会 - 资讯信息" xmlUrl="https://rsshub.gamepp.cf/samd/news/440" />
+      <outline type="rss" text="国家市场监督管理总局缺陷产品管理中心 - 栏目" title="国家市场监督管理总局缺陷产品管理中心 - 栏目" xmlUrl="https://rsshub.gamepp.cf/samrdprc/xwdt/gzdt" />
+      <outline type="rss" text="国家市场监督管理总局缺陷产品管理中心 - 召回信息" title="国家市场监督管理总局缺陷产品管理中心 - 召回信息" xmlUrl="https://rsshub.gamepp.cf/samrdprc/news/xfpzh/xfpgnzh" />
+      <outline type="rss" text="上海业余无线电协会 - 新闻资讯" title="上海业余无线电协会 - 新闻资讯" xmlUrl="https://rsshub.gamepp.cf/sara/announcement" />
+      <outline type="rss" text="科技大觀園 - 最新文章" title="科技大觀園 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/scitechvista" />
+      <outline type="rss" text="四川省人力资源和社会保障厅人事考试专栏 - 通知公告" title="四川省人力资源和社会保障厅人事考试专栏 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/scpta/news/33" />
+      <outline type="rss" text="The White House - News" title="The White House - News" xmlUrl="https://rsshub.gamepp.cf/whitehouse/news" />
+      <outline type="rss" text="World Health Organization | WHO - News" title="World Health Organization | WHO - News" xmlUrl="https://rsshub.gamepp.cf/who/news" />
+      <outline type="rss" text="World Health Organization | WHO - Newsroom" title="World Health Organization | WHO - Newsroom" xmlUrl="https://rsshub.gamepp.cf/who/news-room/feature-stories" />
+      <outline type="rss" text="World Health Organization | WHO - Speeches" title="World Health Organization | WHO - Speeches" xmlUrl="https://rsshub.gamepp.cf/who/speeches" />
+    </outline>
+  </body>
+</opml>
