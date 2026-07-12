@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-07-11 04:11)
+RSSHub Route List (Updated: 2026-07-12 04:23)
 
 ============================================================
 
@@ -438,7 +438,7 @@ RSSHub Route List (Updated: 2026-07-11 04:11)
 159. 同济大学 - 经济与管理学院通知
 
 
-📁 Category: 编程 (programming.opml) - Count: 140
+📁 Category: 编程 (programming.opml) - Count: 139
 ----------------------------------------
 001. bestblogs.dev - 文章列表
 002. bestblogs.dev - 精选推送
@@ -498,88 +498,87 @@ RSSHub Route List (Updated: 2026-07-11 04:11)
 056. gihyo.jp - Series
 057. Gitpod - Blog
 058. Gitstar Ranking - Ranking
-059. Hacker News - User
-060. HelloGitHub - 文章
-061. HelloGitHub - 榜单报告
-062. HelloGitHub - 开源项目
-063. HelloGitHub - 月刊
-064. Hex-Rays - Hex-Rays News
-065. HITCON - 漏洞
-066. Huggingface - Community Articles
-067. Huggingface - 中文博客
-068. Huggingface - 英文博客
-069. Huggingface - Daily Papers
-070. Huggingface - Group Models
-071. InfoQ 中文 - Presentations
-072. Kiro - Blog
-073. Kong API 网关平台 - 博客最新文章
-074. LanceDB - Blog
-075. 登链社区 - 文章
-076. LeetCode - Articles
-077. 连享会 - 精彩资讯
-078. 洛谷 - 比赛列表
-079. 美团 - 技术团队博客
-080. Meta - AI Blog
-081. 墨天轮 - 合辑
-082. ModelScope 魔搭社区 - 研习社
-083. ModelScope 魔搭社区 - 模型库
-084. ModelScope 魔搭社区 - 数据集
-085. ModelScope 魔搭社区 - 创空间
-086. ModelScope 魔搭社区 - DevPress 官方社区
-087. MySQL - Release Notes
-088. Node.js - News
-089. NOSEC 安全讯息平台 - Posts
-090. Ollama - Blog
-091. Ollama - Models
-092. 开源中国 - 资讯
-093. 开源中国 - 活动
-094. oshwhub 立创开源硬件平台 - 开源广场
-095. Python - Active Python Releases
-096. Quicker - 讨论区
-097. Quicker - 动作分享
-098. Raspberry Pi - Official Magazine
-099. Reactiflux - Transcripts
-100. Rock the JVM - Article
-101. Rust 语言中文社区 - 招聘
-102. Rust 语言中文社区 - 新闻/聚合
-103. 安全内参 - 作者
-104. 安全内参 - 分类
-105. Smashing Magazine - Category
-106. 淘宝网 - 数据库内核月报
-107. 腾讯 - 腾讯云开发者社区专栏
-108. TiDB 社区 - 专栏分类
-109. Transformer Circuits - Articles
-110. Visual Studio - Code Blog
-111. Warp - Blog
-112. Windsurf - Blog
-113. Windsurf - Changelog
-114. Zed - Blog
-115. CSS-Tricks - Articles
-116. CSS-Tricks - CSS Guides
-117. CSS-Tricks - Popular this month
-118. Josh W Comeau - Articles and Tutorials
-119. Josh W Comeau - Popular Content
-120. 掘金 - 小册
-121. 掘金 - 沸点
-122. 掘金 - AI 编程
-123. 掘金 - 分类
-124. 掘金 - 单个收藏夹
-125. 掘金 - 收藏集
-126. 掘金 - 专栏
-127. 掘金 - 标签
-128. 掘金 - 热门
-129. OpenAI - Cookbook
-130. OpenAI - News
-131. OpenAI - Research
-132. SegmentFault - 频道
-133. SegmentFault - 博客
-134. Go 语言中文网 - 板块
-135. Go 语言中文网 - 招聘
-136. Go 语言中文网 - 周刊
-137. TailwindCSS - Blog
-138. web.dev - Articles
-139. web.dev - Blog
-140. 微信小程序 - 公众平台系统公告栏目
+059. HelloGitHub - 文章
+060. HelloGitHub - 榜单报告
+061. HelloGitHub - 开源项目
+062. HelloGitHub - 月刊
+063. Hex-Rays - Hex-Rays News
+064. HITCON - 漏洞
+065. Huggingface - Community Articles
+066. Huggingface - 中文博客
+067. Huggingface - 英文博客
+068. Huggingface - Daily Papers
+069. Huggingface - Group Models
+070. InfoQ 中文 - Presentations
+071. Kiro - Blog
+072. Kong API 网关平台 - 博客最新文章
+073. LanceDB - Blog
+074. 登链社区 - 文章
+075. LeetCode - Articles
+076. 连享会 - 精彩资讯
+077. 洛谷 - 比赛列表
+078. 美团 - 技术团队博客
+079. Meta - AI Blog
+080. 墨天轮 - 合辑
+081. ModelScope 魔搭社区 - 研习社
+082. ModelScope 魔搭社区 - 模型库
+083. ModelScope 魔搭社区 - 数据集
+084. ModelScope 魔搭社区 - 创空间
+085. ModelScope 魔搭社区 - DevPress 官方社区
+086. MySQL - Release Notes
+087. Node.js - News
+088. NOSEC 安全讯息平台 - Posts
+089. Ollama - Blog
+090. Ollama - Models
+091. 开源中国 - 资讯
+092. 开源中国 - 活动
+093. oshwhub 立创开源硬件平台 - 开源广场
+094. Python - Active Python Releases
+095. Quicker - 讨论区
+096. Quicker - 动作分享
+097. Raspberry Pi - Official Magazine
+098. Reactiflux - Transcripts
+099. Rock the JVM - Article
+100. Rust 语言中文社区 - 招聘
+101. Rust 语言中文社区 - 新闻/聚合
+102. 安全内参 - 作者
+103. 安全内参 - 分类
+104. Smashing Magazine - Category
+105. 淘宝网 - 数据库内核月报
+106. 腾讯 - 腾讯云开发者社区专栏
+107. TiDB 社区 - 专栏分类
+108. Transformer Circuits - Articles
+109. Visual Studio - Code Blog
+110. Warp - Blog
+111. Windsurf - Blog
+112. Windsurf - Changelog
+113. Zed - Blog
+114. CSS-Tricks - Articles
+115. CSS-Tricks - CSS Guides
+116. CSS-Tricks - Popular this month
+117. Josh W Comeau - Articles and Tutorials
+118. Josh W Comeau - Popular Content
+119. 掘金 - 小册
+120. 掘金 - 沸点
+121. 掘金 - AI 编程
+122. 掘金 - 分类
+123. 掘金 - 单个收藏夹
+124. 掘金 - 收藏集
+125. 掘金 - 专栏
+126. 掘金 - 标签
+127. 掘金 - 热门
+128. OpenAI - Cookbook
+129. OpenAI - News
+130. OpenAI - Research
+131. SegmentFault - 频道
+132. SegmentFault - 博客
+133. Go 语言中文网 - 板块
+134. Go 语言中文网 - 招聘
+135. Go 语言中文网 - 周刊
+136. TailwindCSS - Blog
+137. web.dev - Articles
+138. web.dev - Blog
+139. 微信小程序 - 公众平台系统公告栏目
 
 
 📁 Category: 社交媒体 (social-media.opml) - Count: 129
