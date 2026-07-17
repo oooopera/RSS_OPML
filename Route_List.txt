@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-07-16 04:06)
+RSSHub Route List (Updated: 2026-07-17 03:58)
 
 ============================================================
 
@@ -1132,90 +1132,91 @@ RSSHub Route List (Updated: 2026-07-16 04:06)
 090. Google - Research Blog
 
 
-📁 Category: Anime (anime.opml) - Count: 82
+📁 Category: Anime (anime.opml) - Count: 83
 ----------------------------------------
 001. Skebetter - Illust
 002. Skebetter - Hot
 003. Skebetter - Manga
 004. ACG17 - 全部文章
-005. IDOLY PRIDE 偶像荣耀 - News
-006. Komiic - 漫画更新
-007. MangaDex - MDList Feed
-008. THBWiki - Calendar
-009. アニメ新番組 - 當季新番
-010. 番组放送 - 开播提醒
-011. CnGal - 制作者 / 游戏新闻
-012. CnGal - 每周速报
-013. 风之动漫 - 在线漫画
-014. iwara - User
-015. iwara - User Subscriptions
-016. VCB-Studio - 分类文章
-017. 再漫画 - 漫画更新
-018. 再漫画 - 最近更新
-019. 幻之羁绊动漫网 - 资讯
-020. AcFun - 番剧
-021. AcFun - 文章
-022. AcFun - 用户投稿
-023. ACG Vinyl - 黑胶 - News
-024. AGE 动漫 - 番剧详情
-025. AGE 动漫 - 最近更新
-026. 巴卡漫画 - 漫画更新
-027. 包子漫画 - 订阅漫画
-028. 動漫狂 - 漫画更新
-029. COLAMANGA - Manga
-030. コラボカフェ - 全部文章
-031. Comicat - 搜索关键词
-032. 拷贝漫画 - 漫画更新
-033. 动漫之家 - 新闻站
-034. Doraemon Channel - Article
-035. Eventernote - 声优活动及演唱会
-036. 漫小肆韓漫 - 漫画更新
-037. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
-038. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
-039. 巴哈姆特電玩資訊站 - GNN 新聞
-040. 巴哈姆特電玩資訊站 - 本板推薦
-041. Gogoanimehd - Recent Releases
-042. Hanime1 - 每月新番
-043. Hanime1 - 搜索结果
-044. アイドルマスター THE IDOLM@STER - ニュース News
-045. Kemono - Posts
-046. 来漫画 - 漫画列表
-047. Love Live! Official Website - News
-048. 円谷ステーション - ニュース
-049. 看漫画 - 漫画更新
-050. Mox.moe - 首頁
-051. NTR BLOG（寝取られブログ） - Articles
-052. 俺の 3D エロ動画 (oreno3d) - Author Search
-053. pixivision - Category
-054. QooApp - News
-055. Rawkuma - Manga
-056. とらのあな - Category
-057. X 漫画 - 最新动态
-058. 月幕 Galgame - 文章
-059. 月幕 Galgame - 本月新作
-060. 禁漫天堂 - 文庫
-061. 禁漫天堂 - 专辑
-062. 禁漫天堂 - 成人 A 漫
-063. 禁漫天堂 - 搜索
-064. Bangumi 番组计划 - 放送列表
-065. Bangumi 番组计划 - Bangumi 用户收藏列表
-066. Bangumi 番组计划 - 小组话题
-067. Bangumi 番组计划 - 成员关注榜
-068. Bangumi 番组计划 - 现实人物的新作品
-069. Bangumi 番组计划 - 用户日志
-070. Bangumi 番组计划 - 条目的通用路由格式
-071. DLsite - Discounted Works
-072. DLsite - Ci-en Creators' Article
-073. DLsite - Current Release
-074. Hpoi 手办维基 - 热门推荐
-075. Hpoi 手办维基 - 情报
-076. Hpoi 手办维基 - 用户动态
-077. Hpoi 手办维基 - 所有周边
-078. Hpoi 手办维基 - 角色周边
-079. Hpoi 手办维基 - 作品周边
-080. nhentai - Filter
-081. nhentai - Advanced Search
-082. 腾讯网 - 排行榜
+005. 萌番组 - Latest
+006. IDOLY PRIDE 偶像荣耀 - News
+007. Komiic - 漫画更新
+008. MangaDex - MDList Feed
+009. THBWiki - Calendar
+010. アニメ新番組 - 當季新番
+011. 番组放送 - 开播提醒
+012. CnGal - 制作者 / 游戏新闻
+013. CnGal - 每周速报
+014. 风之动漫 - 在线漫画
+015. iwara - User
+016. iwara - User Subscriptions
+017. VCB-Studio - 分类文章
+018. 再漫画 - 漫画更新
+019. 再漫画 - 最近更新
+020. 幻之羁绊动漫网 - 资讯
+021. AcFun - 番剧
+022. AcFun - 文章
+023. AcFun - 用户投稿
+024. ACG Vinyl - 黑胶 - News
+025. AGE 动漫 - 番剧详情
+026. AGE 动漫 - 最近更新
+027. 巴卡漫画 - 漫画更新
+028. 包子漫画 - 订阅漫画
+029. 動漫狂 - 漫画更新
+030. COLAMANGA - Manga
+031. コラボカフェ - 全部文章
+032. Comicat - 搜索关键词
+033. 拷贝漫画 - 漫画更新
+034. 动漫之家 - 新闻站
+035. Doraemon Channel - Article
+036. Eventernote - 声优活动及演唱会
+037. 漫小肆韓漫 - 漫画更新
+038. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
+039. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
+040. 巴哈姆特電玩資訊站 - GNN 新聞
+041. 巴哈姆特電玩資訊站 - 本板推薦
+042. Gogoanimehd - Recent Releases
+043. Hanime1 - 每月新番
+044. Hanime1 - 搜索结果
+045. アイドルマスター THE IDOLM@STER - ニュース News
+046. Kemono - Posts
+047. 来漫画 - 漫画列表
+048. Love Live! Official Website - News
+049. 円谷ステーション - ニュース
+050. 看漫画 - 漫画更新
+051. Mox.moe - 首頁
+052. NTR BLOG（寝取られブログ） - Articles
+053. 俺の 3D エロ動画 (oreno3d) - Author Search
+054. pixivision - Category
+055. QooApp - News
+056. Rawkuma - Manga
+057. とらのあな - Category
+058. X 漫画 - 最新动态
+059. 月幕 Galgame - 文章
+060. 月幕 Galgame - 本月新作
+061. 禁漫天堂 - 文庫
+062. 禁漫天堂 - 专辑
+063. 禁漫天堂 - 成人 A 漫
+064. 禁漫天堂 - 搜索
+065. Bangumi 番组计划 - 放送列表
+066. Bangumi 番组计划 - Bangumi 用户收藏列表
+067. Bangumi 番组计划 - 小组话题
+068. Bangumi 番组计划 - 成员关注榜
+069. Bangumi 番组计划 - 现实人物的新作品
+070. Bangumi 番组计划 - 用户日志
+071. Bangumi 番组计划 - 条目的通用路由格式
+072. DLsite - Discounted Works
+073. DLsite - Ci-en Creators' Article
+074. DLsite - Current Release
+075. Hpoi 手办维基 - 热门推荐
+076. Hpoi 手办维基 - 情报
+077. Hpoi 手办维基 - 用户动态
+078. Hpoi 手办维基 - 所有周边
+079. Hpoi 手办维基 - 角色周边
+080. Hpoi 手办维基 - 作品周边
+081. nhentai - Filter
+082. nhentai - Advanced Search
+083. 腾讯网 - 排行榜
 
 
 📁 Category: 传统媒体 (traditional-media.opml) - Count: 81
