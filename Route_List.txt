@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-07-17 03:58)
+RSSHub Route List (Updated: 2026-07-18 03:53)
 
 ============================================================
 
@@ -1304,7 +1304,7 @@ RSSHub Route List (Updated: 2026-07-17 03:58)
 081. The Economist - Espresso
 
 
-📁 Category: Program-Update (program-update.opml) - Count: 75
+📁 Category: Program-Update (program-update.opml) - Count: 74
 ----------------------------------------
 001. AppStare - Comments
 002. daum - Potplayer Update History
@@ -1339,48 +1339,47 @@ RSSHub Route List (Updated: 2026-07-17 03:58)
 031. Chocolatey - Package
 032. Civitai - Latest models
 033. Claude - Code Changelog
-034. CPUID - News
-035. WizTree - What's New
-036. Eagle - Changelog
-037. F-Droid - App Update
-038. Infuse - Release Notes
-039. GitKraken - Release Notes
-040. Greasy Fork - Script Feedback
-041. Greasy Fork - Script Update
-042. Greasy Fork - Script Version History
-043. ImageMagick - Changelog
-044. 异次元软件世界 - 分类
-045. 异次元软件世界 - 标签
-046. 异次元软件世界 - 首页
-047. IPSW.me - Apple Firmware Update-IPSWs/OTAs version
-048. IPSW.dev - Apple latest beta firmware
-049. Kiro - Changelog
-050. LineageOS - Changes
-051. REPACK скачать - REPACK скачать
-052. MacUpdate - Update
-053. Neat Download Manager - Download
-054. Next.js - Blog
-055. Not a Tesla App - Tesla Software Updates
-056. Notion - Release
-057. Perplexity - Changelog
-058. PuTTY - Change Log
-059. qBittorrent - News
-060. Raycast - Changelog
-061. RSSHub - New routes
-062. Scoop - Apps
-063. 腾讯 - 更新日志
-064. TiddlyWiki - Releases
-065. TradingView - Desktop releases and release notes
-066. Typeless - Changelog
-067. Typora - Changelog
-068. Typst - Universe
-069. WebCatalog - Changelog
-070. Zotero - Version History
-071. 哔哩哔哩 bilibili - 更新情报
-072. OpenAI - ChatGPT - Release Notes
-073. Google - Extension Update
-074. Google - Jules Changelog
-075. Google - Play Store Update
+034. WizTree - What's New
+035. Eagle - Changelog
+036. F-Droid - App Update
+037. Infuse - Release Notes
+038. GitKraken - Release Notes
+039. Greasy Fork - Script Feedback
+040. Greasy Fork - Script Update
+041. Greasy Fork - Script Version History
+042. ImageMagick - Changelog
+043. 异次元软件世界 - 分类
+044. 异次元软件世界 - 标签
+045. 异次元软件世界 - 首页
+046. IPSW.me - Apple Firmware Update-IPSWs/OTAs version
+047. IPSW.dev - Apple latest beta firmware
+048. Kiro - Changelog
+049. LineageOS - Changes
+050. REPACK скачать - REPACK скачать
+051. MacUpdate - Update
+052. Neat Download Manager - Download
+053. Next.js - Blog
+054. Not a Tesla App - Tesla Software Updates
+055. Notion - Release
+056. Perplexity - Changelog
+057. PuTTY - Change Log
+058. qBittorrent - News
+059. Raycast - Changelog
+060. RSSHub - New routes
+061. Scoop - Apps
+062. 腾讯 - 更新日志
+063. TiddlyWiki - Releases
+064. TradingView - Desktop releases and release notes
+065. Typeless - Changelog
+066. Typora - Changelog
+067. Typst - Universe
+068. WebCatalog - Changelog
+069. Zotero - Version History
+070. 哔哩哔哩 bilibili - 更新情报
+071. OpenAI - ChatGPT - Release Notes
+072. Google - Extension Update
+073. Google - Jules Changelog
+074. Google - Play Store Update
 
 
 📁 Category: 论坛 (bbs.opml) - Count: 59

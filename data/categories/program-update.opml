@@ -38,7 +38,6 @@
       <outline type="rss" text="Chocolatey - Package" title="Chocolatey - Package" xmlUrl="https://rsshub.gamepp.cf/chocolatey/packages/microsoft-edge" />
       <outline type="rss" text="Civitai - Latest models" title="Civitai - Latest models" xmlUrl="https://rsshub.gamepp.cf/civitai/models" />
       <outline type="rss" text="Claude - Code Changelog" title="Claude - Code Changelog" xmlUrl="https://rsshub.gamepp.cf/claude/code/changelog" />
-      <outline type="rss" text="CPUID - News" title="CPUID - News" xmlUrl="https://rsshub.gamepp.cf/cpuid/news" />
       <outline type="rss" text="WizTree - What's New" title="WizTree - What's New" xmlUrl="https://rsshub.gamepp.cf/diskanalyzer/whats-new" />
       <outline type="rss" text="Eagle - Changelog" title="Eagle - Changelog" xmlUrl="https://rsshub.gamepp.cf/eagle/changelog/en" />
       <outline type="rss" text="F-Droid - App Update" title="F-Droid - App Update" xmlUrl="https://rsshub.gamepp.cf/f-droid/apprelease/com.termux" />
