@@ -23,6 +23,8 @@
       <outline type="rss" text="东莞理工学院 - 教务部通知公告" title="东莞理工学院 - 教务部通知公告" xmlUrl="https://rsshub.gamepp.cf/dgut/jwb/jwtz" />
       <outline type="rss" text="广东外语外贸大学 - 新闻" title="广东外语外贸大学 - 新闻" xmlUrl="https://rsshub.gamepp.cf/gdufs/news" />
       <outline type="rss" text="广东外语外贸大学 - 新闻学院-新闻中心" title="广东外语外贸大学 - 新闻学院-新闻中心" xmlUrl="https://rsshub.gamepp.cf/gdufs/xwxy/news" />
+      <outline type="rss" text="广西民族大学 - 人工智能学院通知公告" title="广西民族大学 - 人工智能学院通知公告" xmlUrl="https://rsshub.gamepp.cf/gxmzu/aitzgg" />
+      <outline type="rss" text="广西民族大学 - 图书馆最新消息" title="广西民族大学 - 图书馆最新消息" xmlUrl="https://rsshub.gamepp.cf/gxmzu/libzxxx" />
       <outline type="rss" text="哈尔滨工业大学 - 研究生院" title="哈尔滨工业大学 - 研究生院" xmlUrl="https://rsshub.gamepp.cf/hit/hitgs/tzgg" />
       <outline type="rss" text="哈尔滨工业大学 - 今日哈工大" title="哈尔滨工业大学 - 今日哈工大" xmlUrl="https://rsshub.gamepp.cf/hit/today/10" />
       <outline type="rss" text="哈尔滨工业大学（深圳） - 新闻中心" title="哈尔滨工业大学（深圳） - 新闻中心" xmlUrl="https://rsshub.gamepp.cf/hitsz/article/id-74" />
@@ -135,8 +137,6 @@
       <outline type="rss" text="浙江工业大学 - 浙江工业大学教务处" title="浙江工业大学 - 浙江工业大学教务处" xmlUrl="https://rsshub.gamepp.cf/zjut/jwc/1839" />
       <outline type="rss" text="浙江工业大学 - 浙江工业大学首页" title="浙江工业大学 - 浙江工业大学首页" xmlUrl="https://rsshub.gamepp.cf/zjut/www/4528" />
       <outline type="rss" text="中南财经政法大学 - 通知公告" title="中南财经政法大学 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/zuel/notice" />
-      <outline type="rss" text="广西民族大学 - 图书馆最新消息" title="广西民族大学 - 图书馆最新消息" xmlUrl="https://rsshub.gamepp.cf/gxmzu/libzxxx" />
-      <outline type="rss" text="广西民族大学 - 人工智能学院通知公告" title="广西民族大学 - 人工智能学院通知公告" xmlUrl="https://rsshub.gamepp.cf/gxmzu/aitzgg" />
       <outline type="rss" text="杭州电子科技大学 - 计算机学院 - 通知公告" title="杭州电子科技大学 - 计算机学院 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/hdu/cs" />
       <outline type="rss" text="杭州电子科技大学 - 计算机学院 - 研究生通知" title="杭州电子科技大学 - 计算机学院 - 研究生通知" xmlUrl="https://rsshub.gamepp.cf/hdu/cs/pg" />
       <outline type="rss" text="杭州电子科技大学 - 自动化学院" title="杭州电子科技大学 - 自动化学院" xmlUrl="https://rsshub.gamepp.cf/hdu/auto" />
