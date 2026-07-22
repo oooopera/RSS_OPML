@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-07-21 04:14)
+RSSHub Route List (Updated: 2026-07-22 04:15)
 
 ============================================================
 
@@ -581,7 +581,7 @@ RSSHub Route List (Updated: 2026-07-21 04:14)
 139. 微信小程序 - 公众平台系统公告栏目
 
 
-📁 Category: 社交媒体 (social-media.opml) - Count: 129
+📁 Category: 社交媒体 (social-media.opml) - Count: 126
 ----------------------------------------
 001. Instagram - User Profile - Picnob.info
 002. Fediverse - Timeline
@@ -620,98 +620,95 @@ RSSHub Route List (Updated: 2026-07-21 04:14)
 035. Bluesky (bsky) - Keywords
 036. Bluesky (bsky) - Feeds
 037. Bluesky (bsky) - Post
-038. Daily.dev - Most Discussed
-039. Daily.dev - Popular
-040. Daily.dev - Most upvoted
-041. Discord - Channel Messages
-042. Discord - Guild Search
-043. fanbox - Creator
-044. Fansly - User Timeline
-045. Fansly - Hashtag
-046. Misskey - Featured Notes
-047. Misskey - Home Timeline
-048. Misskey - User timeline
-049. 抖音直播 - 博主
-050. Instagram - User Profile / Hashtag - Private API
-051. Instagram - User Profile / Hashtag
-052. CrushNinja - 匿名投稿頁面
-053. 豆瓣 - 即将播出的剧集
-054. 豆瓣 - 新书速递
-055. 豆瓣 - 热门图书排行
-056. 豆瓣 - 频道书影音
-057. 豆瓣 - 热门同城活动
-058. 豆瓣 - 豆瓣书店
-059. 豆瓣 - 豆瓣电影分类
-060. 豆瓣 - 话题
-061. 豆瓣 - 北美票房榜
-062. 豆瓣 - 电影即将上映
-063. 豆瓣 - 一周口碑榜
-064. 豆瓣 - 豆瓣榜单与集合
-065. 豆瓣 - 豆瓣每月推荐片单
-066. 豆瓣 - 商务印书馆新书速递
-067. 豆瓣 - 豆瓣电影人
-068. 豆瓣 - 豆瓣读书论坛
-069. 豆瓣 - 豆瓣豆列
-070. 豆瓣 - 浏览发现
-071. 豆瓣 - 豆瓣小组
-072. 豆瓣 - 豆瓣招聘
-073. 豆瓣 - 即将上映的电影
-074. 豆瓣 - 最新增加的音乐
-075. 豆瓣 - 正在上映的电影
-076. 简书 - 专题
-077. 简书 - 首页
-078. 简书 - 作者
-079. Letterboxd - User Watchlist
-080. Lofter - Collection
-081. Lofter - User
-082. Lofter - Tag
-083. Instagram - User Profile - Picnob
-084. TikTok - User Profile - Picuki
-085. Telegram - Sticker Pack
-086. Telegram - Telegram Blog
-087. Telegram - Channel
-088. TikTok - Live
-089. Vimeo - User Profile
-090. Vimeo - Category
-091. 哔哩哔哩 bilibili - 专栏文集
-092. 哔哩哔哩 bilibili - 入站必刷
-093. 哔哩哔哩 bilibili - 视频选集列表
-094. 哔哩哔哩 bilibili - 分区视频排行榜
-095. 哔哩哔哩 bilibili - 分区视频
-096. 哔哩哔哩 bilibili - 综合热门
-097. 哔哩哔哩 bilibili - 热搜
-098. 哔哩哔哩 bilibili - B 站每周必看
-099. Cara - Likes
-100. Cara - Portfolio
-101. Cara - Timeline
-102. 即刻 - 圈子
-103. 即刻 - 圈子 - 纯文字
-104. LinkedIn - Company Posts
-105. LinkedIn - Jobs
-106. Plurk - User
-107. Plurk - Anonymous
-108. Plurk - Hotlinks
-109. Plurk - Plurk News
-110. Plurk - Search
-111. Plurk - Top
-112. Threads - User timeline
-113. 方格子 - 出版專題
-114. 微博 - 热搜榜
-115. 知乎 - 知乎热榜
-116. 知乎 - 知乎想法热榜
-117. 知乎 - 知乎日报
-118. 知乎 - 知乎书店 - 知乎周刊
-119. 知乎 - xhu- 专栏
-120. 知乎 - 专栏
-121. 知乎 - 知乎日报 - 合集
-122. 知乎 - 话题
-123. pixiv - User Bookmark
-124. pixiv - Following timeline
-125. pixiv - Rankings
-126. pixiv - Keyword
-127. pixiv - User Activity
-128. pixiv - Novel Series
-129. pixiv - User Novels
+038. Discord - Channel Messages
+039. Discord - Guild Search
+040. fanbox - Creator
+041. Fansly - User Timeline
+042. Fansly - Hashtag
+043. Misskey - Featured Notes
+044. Misskey - Home Timeline
+045. Misskey - User timeline
+046. 抖音直播 - 博主
+047. Instagram - User Profile / Hashtag - Private API
+048. Instagram - User Profile / Hashtag
+049. CrushNinja - 匿名投稿頁面
+050. 豆瓣 - 即将播出的剧集
+051. 豆瓣 - 新书速递
+052. 豆瓣 - 热门图书排行
+053. 豆瓣 - 频道书影音
+054. 豆瓣 - 热门同城活动
+055. 豆瓣 - 豆瓣书店
+056. 豆瓣 - 豆瓣电影分类
+057. 豆瓣 - 话题
+058. 豆瓣 - 北美票房榜
+059. 豆瓣 - 电影即将上映
+060. 豆瓣 - 一周口碑榜
+061. 豆瓣 - 豆瓣榜单与集合
+062. 豆瓣 - 豆瓣每月推荐片单
+063. 豆瓣 - 商务印书馆新书速递
+064. 豆瓣 - 豆瓣电影人
+065. 豆瓣 - 豆瓣读书论坛
+066. 豆瓣 - 豆瓣豆列
+067. 豆瓣 - 浏览发现
+068. 豆瓣 - 豆瓣小组
+069. 豆瓣 - 豆瓣招聘
+070. 豆瓣 - 即将上映的电影
+071. 豆瓣 - 最新增加的音乐
+072. 豆瓣 - 正在上映的电影
+073. 简书 - 专题
+074. 简书 - 首页
+075. 简书 - 作者
+076. Letterboxd - User Watchlist
+077. Lofter - Collection
+078. Lofter - User
+079. Lofter - Tag
+080. Instagram - User Profile - Picnob
+081. TikTok - User Profile - Picuki
+082. Telegram - Sticker Pack
+083. Telegram - Telegram Blog
+084. Telegram - Channel
+085. TikTok - Live
+086. Vimeo - User Profile
+087. Vimeo - Category
+088. 哔哩哔哩 bilibili - 专栏文集
+089. 哔哩哔哩 bilibili - 入站必刷
+090. 哔哩哔哩 bilibili - 视频选集列表
+091. 哔哩哔哩 bilibili - 分区视频排行榜
+092. 哔哩哔哩 bilibili - 分区视频
+093. 哔哩哔哩 bilibili - 综合热门
+094. 哔哩哔哩 bilibili - 热搜
+095. 哔哩哔哩 bilibili - B 站每周必看
+096. Cara - Likes
+097. Cara - Portfolio
+098. Cara - Timeline
+099. 即刻 - 圈子
+100. 即刻 - 圈子 - 纯文字
+101. LinkedIn - Company Posts
+102. LinkedIn - Jobs
+103. Plurk - User
+104. Plurk - Anonymous
+105. Plurk - Hotlinks
+106. Plurk - Plurk News
+107. Plurk - Search
+108. Plurk - Top
+109. Threads - User timeline
+110. 方格子 - 出版專題
+111. 微博 - 热搜榜
+112. 知乎 - 知乎热榜
+113. 知乎 - 知乎想法热榜
+114. 知乎 - 知乎日报
+115. 知乎 - 知乎书店 - 知乎周刊
+116. 知乎 - xhu- 专栏
+117. 知乎 - 专栏
+118. 知乎 - 知乎日报 - 合集
+119. 知乎 - 话题
+120. pixiv - User Bookmark
+121. pixiv - Following timeline
+122. pixiv - Rankings
+123. pixiv - Keyword
+124. pixiv - User Activity
+125. pixiv - Novel Series
+126. pixiv - User Novels
 
 
 📁 Category: 游戏 (game.opml) - Count: 109
