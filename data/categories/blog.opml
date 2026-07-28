@@ -10,6 +10,7 @@
       <outline type="rss" text="英語之家 - 首頁" title="英語之家 - 首頁" xmlUrl="https://rsshub.gamepp.cf/englishhome" />
       <outline type="rss" text="FreeBuf - 文章" title="FreeBuf - 文章" xmlUrl="https://rsshub.gamepp.cf/freebuf/articles/web" />
       <outline type="rss" text="Hudson River Trading - Tech Blog" title="Hudson River Trading - Tech Blog" xmlUrl="https://rsshub.gamepp.cf/hudsonrivertrading/blog" />
+      <outline type="rss" text="Immich - Cursed Knowledge" title="Immich - Cursed Knowledge" xmlUrl="https://rsshub.gamepp.cf/immich/cursed-knowledge" />
       <outline type="rss" text="Substack - Substack Subscription" title="Substack - Substack Subscription" xmlUrl="https://rsshub.gamepp.cf/substack/subscribe/mangoread" />
       <outline type="rss" text="BaseLang - Blog" title="BaseLang - Blog" xmlUrl="https://rsshub.gamepp.cf/baselang/blog" />
       <outline type="rss" text="免費資源網路社群 - 最新文章" title="免費資源網路社群 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/free" />
@@ -55,7 +56,6 @@
       <outline type="rss" text="Hedwig - Posts" title="Hedwig - Posts" xmlUrl="https://rsshub.gamepp.cf/hedwig/posts/walnut" />
       <outline type="rss" text="HiFeng'Blog - 最近发表" title="HiFeng'Blog - 最近发表" xmlUrl="https://rsshub.gamepp.cf/hicairo" />
       <outline type="rss" text="imhcg的信息站 - Engineering blogs" title="imhcg的信息站 - Engineering blogs" xmlUrl="https://rsshub.gamepp.cf/imhcg" />
-      <outline type="rss" text="Immich - Cursed Knowledge" title="Immich - Cursed Knowledge" xmlUrl="https://rsshub.gamepp.cf/immich/cursed-knowledge" />
       <outline type="rss" text="Open Github社区 - 合集" title="Open Github社区 - 合集" xmlUrl="https://rsshub.gamepp.cf/itc/collection/1" />
       <outline type="rss" text="台灣角川 - 角編新聞台" title="台灣角川 - 角編新聞台" xmlUrl="https://rsshub.gamepp.cf/kadokawa/blog" />
       <outline type="rss" text="Kun Cheng - Essay" title="Kun Cheng - Essay" xmlUrl="https://rsshub.gamepp.cf/kunchengblog/essay" />

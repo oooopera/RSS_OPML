@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-07-27 04:34)
+RSSHub Route List (Updated: 2026-07-28 04:06)
 
 ============================================================
 
@@ -21,71 +21,71 @@ RSSHub Route List (Updated: 2026-07-27 04:34)
 015. 链新闻 ABMedia - 首页最新新闻
 016. 阿里研究院 - 资讯
 017. Amz123 - AMZ123 快讯
-018. 字节点击 - 标签
-019. 差评 - 快讯
-020. 差评 - 图片墙
-021. 差评 - 资讯
-022. Chub - Characters
-023. 健康界 - 首页
-024. 大河财立方 - 新闻
-025. e 公司 - 快讯
-026. FoodTalks全球食品资讯网 - 最新资讯
-027. i黑马网 - 推荐
-028. 靠谱新闻 - 全部
-029. Mirror - User
-030. MyGoPen - 分類
-031. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
-032. PetCity 毛孩日常 - 分類
-033. zyw - 今日热榜
-034. 蓝点网 - 分类
-035. 蓝点网 - 首页
-036. 爆料公社 - 動態
-037. 全国港澳研究会 - 分类
-038. 樊登读书 - 樊登福州运营中心
-039. 后续 - Live
-040. 后续 - 专栏
-041. 后续 - 跟踪
-042. 中国科普博览 - 直播回看
-043. 麻省理工科技评论 - 首页
-044. 知园 - Newsletter
-045. Foresight News - 文章
-046. Foresight News - 专栏
-047. Foresight News - 精选资讯
-048. Foresight News - 快讯
-049. 香港 01 - 热门
-050. 香港 01 - 即時
-051. Newslaundry - Explainer
-052. Newslaundry - Explains
-053. Newslaundry - Reports
-054. Newslaundry - Shot
-055. UNTAG - 分类
-056. UNTAG - 时间线
-057. UNTAG - 专题
-058. 報導者 - 分類
-059. 報導者 - 最新
-060. 10000万联网 - 新闻
-061. 199it - 资讯
-062. 52hrtt 华人头条 - 新闻
-063. 論盡媒體 AllAboutMacau Media - 话题
-064. Access Briefing - Articles
-065. 广告门 - 案例库
-066. 广告门 - 最新文章
-067. 电獭少女 - 当前精选主题列表
-068. 电獭少女 - 精选主题
-069. 电獭少女 - 分类
-070. AG⓪RA - 零博客
-071. AG⓪RA - 共和報
-072. 中国农业农村信息网 - 分类
-073. AI工具集 - 每日AI资讯
-074. AIbase - AI日报
-075. AIbase - 发现
-076. AIbase - 资讯
-077. AIbase - 标签
-078. 艾莱资讯 - 世界轨道交通资讯网
-079. AppleInsider - Category
-080. 亚洲水果 - 果蔬品项
-081. 亚洲水果 - 行业资讯
-082. 白鲸出海 - 资讯
+018. 差评 - 快讯
+019. 差评 - 图片墙
+020. 差评 - 资讯
+021. Chub - Characters
+022. 健康界 - 首页
+023. 大河财立方 - 新闻
+024. e 公司 - 快讯
+025. FoodTalks全球食品资讯网 - 最新资讯
+026. i黑马网 - 推荐
+027. 靠谱新闻 - 全部
+028. Mirror - User
+029. MyGoPen - 分類
+030. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
+031. PetCity 毛孩日常 - 分類
+032. zyw - 今日热榜
+033. 蓝点网 - 分类
+034. 蓝点网 - 首页
+035. 爆料公社 - 動態
+036. 全国港澳研究会 - 分类
+037. 樊登读书 - 樊登福州运营中心
+038. 后续 - Live
+039. 后续 - 专栏
+040. 后续 - 跟踪
+041. 中国科普博览 - 直播回看
+042. 麻省理工科技评论 - 首页
+043. 知园 - Newsletter
+044. Foresight News - 文章
+045. Foresight News - 专栏
+046. Foresight News - 精选资讯
+047. Foresight News - 快讯
+048. 香港 01 - 热门
+049. 香港 01 - 即時
+050. Newslaundry - Explainer
+051. Newslaundry - Explains
+052. Newslaundry - Reports
+053. Newslaundry - Shot
+054. UNTAG - 分类
+055. UNTAG - 时间线
+056. UNTAG - 专题
+057. 報導者 - 分類
+058. 報導者 - 最新
+059. 10000万联网 - 新闻
+060. 199it - 资讯
+061. 52hrtt 华人头条 - 新闻
+062. 論盡媒體 AllAboutMacau Media - 话题
+063. Access Briefing - Articles
+064. 广告门 - 案例库
+065. 广告门 - 最新文章
+066. 电獭少女 - 当前精选主题列表
+067. 电獭少女 - 精选主题
+068. 电獭少女 - 分类
+069. AG⓪RA - 零博客
+070. AG⓪RA - 共和報
+071. 中国农业农村信息网 - 分类
+072. AI工具集 - 每日AI资讯
+073. AIbase - AI日报
+074. AIbase - 发现
+075. AIbase - 资讯
+076. AIbase - 标签
+077. 艾莱资讯 - 世界轨道交通资讯网
+078. AppleInsider - Category
+079. 亚洲水果 - 果蔬品项
+080. 亚洲水果 - 行业资讯
+081. 白鲸出海 - 资讯
+082. 字节点击 - 标签
 083. C114 通信网 - 滚动资讯
 084. CBNData - 看点
 085. 中国五矿化工进出口商会 - 通用
@@ -438,7 +438,7 @@ RSSHub Route List (Updated: 2026-07-27 04:34)
 159. 同济大学 - 经济与管理学院通知
 
 
-📁 Category: 编程 (programming.opml) - Count: 139
+📁 Category: 编程 (programming.opml) - Count: 138
 ----------------------------------------
 001. bestblogs.dev - 文章列表
 002. bestblogs.dev - 精选推送
@@ -485,100 +485,99 @@ RSSHub Route List (Updated: 2026-07-27 04:34)
 043. Cockroach Labs - Blogs
 044. Codeforces - Latest contests
 045. Codeforces - Recent actions
-046. cognition - Blog
-047. Cybercrime Magazine - News
-048. dbaplus社群 - 最新文章
-049. DeepLearning.AI - The Batch
-050. DEV Community - Trending Guides
-051. DEV Community - Top Posts
-052. Devtrium - Official Blogs
-053. 印记中文 - 周刊 - JavaScript
-054. 电子发烧友 - 文章
-055. Engineering.fyi - Tag
-056. gihyo.jp - Series
-057. Gitpod - Blog
-058. Gitstar Ranking - Ranking
-059. HelloGitHub - 文章
-060. HelloGitHub - 榜单报告
-061. HelloGitHub - 开源项目
-062. HelloGitHub - 月刊
-063. Hex-Rays - Hex-Rays News
-064. HITCON - 漏洞
-065. Huggingface - Community Articles
-066. Huggingface - 中文博客
-067. Huggingface - 英文博客
-068. Huggingface - Daily Papers
-069. Huggingface - Group Models
-070. InfoQ 中文 - Presentations
-071. Kiro - Blog
-072. Kong API 网关平台 - 博客最新文章
-073. LanceDB - Blog
-074. 登链社区 - 文章
-075. LeetCode - Articles
-076. 连享会 - 精彩资讯
-077. 洛谷 - 比赛列表
-078. 美团 - 技术团队博客
-079. Meta - AI Blog
-080. 墨天轮 - 合辑
-081. ModelScope 魔搭社区 - 研习社
-082. ModelScope 魔搭社区 - 模型库
-083. ModelScope 魔搭社区 - 数据集
-084. ModelScope 魔搭社区 - 创空间
-085. ModelScope 魔搭社区 - DevPress 官方社区
-086. MySQL - Release Notes
-087. Node.js - News
-088. NOSEC 安全讯息平台 - Posts
-089. Ollama - Blog
-090. Ollama - Models
-091. 开源中国 - 资讯
-092. 开源中国 - 活动
-093. oshwhub 立创开源硬件平台 - 开源广场
-094. Python - Active Python Releases
-095. Quicker - 讨论区
-096. Quicker - 动作分享
-097. Raspberry Pi - Official Magazine
-098. Reactiflux - Transcripts
-099. Rock the JVM - Article
-100. Rust 语言中文社区 - 招聘
-101. Rust 语言中文社区 - 新闻/聚合
-102. 安全内参 - 作者
-103. 安全内参 - 分类
-104. Smashing Magazine - Category
-105. 淘宝网 - 数据库内核月报
-106. 腾讯 - 腾讯云开发者社区专栏
-107. TiDB 社区 - 专栏分类
-108. Transformer Circuits - Articles
-109. Visual Studio - Code Blog
-110. Warp - Blog
-111. Windsurf - Blog
-112. Windsurf - Changelog
-113. Zed - Blog
-114. CSS-Tricks - Articles
-115. CSS-Tricks - CSS Guides
-116. CSS-Tricks - Popular this month
-117. Josh W Comeau - Articles and Tutorials
-118. Josh W Comeau - Popular Content
-119. 掘金 - 小册
-120. 掘金 - 沸点
-121. 掘金 - AI 编程
-122. 掘金 - 分类
-123. 掘金 - 单个收藏夹
-124. 掘金 - 收藏集
-125. 掘金 - 专栏
-126. 掘金 - 标签
-127. 掘金 - 热门
-128. OpenAI - Cookbook
-129. OpenAI - News
-130. OpenAI - Research
-131. SegmentFault - 频道
-132. SegmentFault - 博客
-133. Go 语言中文网 - 板块
-134. Go 语言中文网 - 招聘
-135. Go 语言中文网 - 周刊
-136. TailwindCSS - Blog
-137. web.dev - Articles
-138. web.dev - Blog
-139. 微信小程序 - 公众平台系统公告栏目
+046. Cybercrime Magazine - News
+047. dbaplus社群 - 最新文章
+048. DeepLearning.AI - The Batch
+049. DEV Community - Trending Guides
+050. DEV Community - Top Posts
+051. Devtrium - Official Blogs
+052. 印记中文 - 周刊 - JavaScript
+053. 电子发烧友 - 文章
+054. Engineering.fyi - Tag
+055. gihyo.jp - Series
+056. Gitpod - Blog
+057. Gitstar Ranking - Ranking
+058. HelloGitHub - 文章
+059. HelloGitHub - 榜单报告
+060. HelloGitHub - 开源项目
+061. HelloGitHub - 月刊
+062. Hex-Rays - Hex-Rays News
+063. HITCON - 漏洞
+064. Huggingface - Community Articles
+065. Huggingface - 中文博客
+066. Huggingface - 英文博客
+067. Huggingface - Daily Papers
+068. Huggingface - Group Models
+069. InfoQ 中文 - Presentations
+070. Kiro - Blog
+071. Kong API 网关平台 - 博客最新文章
+072. LanceDB - Blog
+073. 登链社区 - 文章
+074. LeetCode - Articles
+075. 连享会 - 精彩资讯
+076. 洛谷 - 比赛列表
+077. 美团 - 技术团队博客
+078. Meta - AI Blog
+079. 墨天轮 - 合辑
+080. ModelScope 魔搭社区 - 研习社
+081. ModelScope 魔搭社区 - 模型库
+082. ModelScope 魔搭社区 - 数据集
+083. ModelScope 魔搭社区 - 创空间
+084. ModelScope 魔搭社区 - DevPress 官方社区
+085. MySQL - Release Notes
+086. Node.js - News
+087. NOSEC 安全讯息平台 - Posts
+088. Ollama - Blog
+089. Ollama - Models
+090. 开源中国 - 资讯
+091. 开源中国 - 活动
+092. oshwhub 立创开源硬件平台 - 开源广场
+093. Python - Active Python Releases
+094. Quicker - 讨论区
+095. Quicker - 动作分享
+096. Raspberry Pi - Official Magazine
+097. Reactiflux - Transcripts
+098. Rock the JVM - Article
+099. Rust 语言中文社区 - 招聘
+100. Rust 语言中文社区 - 新闻/聚合
+101. 安全内参 - 作者
+102. 安全内参 - 分类
+103. Smashing Magazine - Category
+104. 淘宝网 - 数据库内核月报
+105. 腾讯 - 腾讯云开发者社区专栏
+106. TiDB 社区 - 专栏分类
+107. Transformer Circuits - Articles
+108. Visual Studio - Code Blog
+109. Warp - Blog
+110. Windsurf - Blog
+111. Windsurf - Changelog
+112. Zed - Blog
+113. CSS-Tricks - Articles
+114. CSS-Tricks - CSS Guides
+115. CSS-Tricks - Popular this month
+116. Josh W Comeau - Articles and Tutorials
+117. Josh W Comeau - Popular Content
+118. 掘金 - 小册
+119. 掘金 - 沸点
+120. 掘金 - AI 编程
+121. 掘金 - 分类
+122. 掘金 - 单个收藏夹
+123. 掘金 - 收藏集
+124. 掘金 - 专栏
+125. 掘金 - 标签
+126. 掘金 - 热门
+127. OpenAI - Cookbook
+128. OpenAI - News
+129. OpenAI - Research
+130. SegmentFault - 频道
+131. SegmentFault - 博客
+132. Go 语言中文网 - 板块
+133. Go 语言中文网 - 招聘
+134. Go 语言中文网 - 周刊
+135. TailwindCSS - Blog
+136. web.dev - Articles
+137. web.dev - Blog
+138. 微信小程序 - 公众平台系统公告栏目
 
 
 📁 Category: 社交媒体 (social-media.opml) - Count: 129
@@ -1045,52 +1044,52 @@ RSSHub Route List (Updated: 2026-07-27 04:34)
 003. 英語之家 - 首頁
 004. FreeBuf - 文章
 005. Hudson River Trading - Tech Blog
-006. Substack - Substack Subscription
-007. BaseLang - Blog
-008. 免費資源網路社群 - 最新文章
-009. 子方有料 - 最新文章
-010. James Clear - Book Summaries
-011. James Clear - Great Speeches
-012. James Clear - Quotes
-013. James Clear - 3-2-1 Newsletter
-014. 土猛的员外 - 文章
-015. MacMenuBar - Recently
-016. 便宜VPS网 - 最新发布
-017. Read Something Wonderful - Articles
-018. AI 博客 - 归档-全部文章
-019. Apache - APISIX 博客
-020. 支流科技 - 博客
-021. APNIC - Blog
-022. Backlinko - Blog
-023. 宝玉 - Blog
-024. 不良林 - 全部文章
-025. Ceph - Blog
-026. 川流 - 严选
-027. cline - Blog
-028. 云原生社区 - 博客
-029. cmpxchg8b - Articles
-030. Carnegie Mellon University - Andy Pavlo Blog
-031. 博客园 - 10 天推荐排行榜
-032. Coolidge Corner Theatre - Film Guide
-033. Coolidge Corner Theatre - News
-034. CSDN - User Feed
-035. Cursor - Blog
-036. 道宣的窝 - 推荐阅读文章
-037. 大眼仔旭 - 分类
-038. 雨苁博客 - 分类
-039. 雨苁博客 - 首页
-040. Eagle - Blog
-041. Enterprise Craftsmanship - Archives
-042. Flashcat - 快猫星云博客
-043. 十年之约 - 专题展示 - 文章
-044. 纷享销客 CRM - 文章
-045. Yu Gao - Blog
-046. Goldman Sachs - Goldman Sachs Developer Blog
-047. Hamel's Blog - Blog
-048. Hedwig - Posts
-049. HiFeng'Blog - 最近发表
-050. imhcg的信息站 - Engineering blogs
-051. Immich - Cursed Knowledge
+006. Immich - Cursed Knowledge
+007. Substack - Substack Subscription
+008. BaseLang - Blog
+009. 免費資源網路社群 - 最新文章
+010. 子方有料 - 最新文章
+011. James Clear - Book Summaries
+012. James Clear - Great Speeches
+013. James Clear - Quotes
+014. James Clear - 3-2-1 Newsletter
+015. 土猛的员外 - 文章
+016. MacMenuBar - Recently
+017. 便宜VPS网 - 最新发布
+018. Read Something Wonderful - Articles
+019. AI 博客 - 归档-全部文章
+020. Apache - APISIX 博客
+021. 支流科技 - 博客
+022. APNIC - Blog
+023. Backlinko - Blog
+024. 宝玉 - Blog
+025. 不良林 - 全部文章
+026. Ceph - Blog
+027. 川流 - 严选
+028. cline - Blog
+029. 云原生社区 - 博客
+030. cmpxchg8b - Articles
+031. Carnegie Mellon University - Andy Pavlo Blog
+032. 博客园 - 10 天推荐排行榜
+033. Coolidge Corner Theatre - Film Guide
+034. Coolidge Corner Theatre - News
+035. CSDN - User Feed
+036. Cursor - Blog
+037. 道宣的窝 - 推荐阅读文章
+038. 大眼仔旭 - 分类
+039. 雨苁博客 - 分类
+040. 雨苁博客 - 首页
+041. Eagle - Blog
+042. Enterprise Craftsmanship - Archives
+043. Flashcat - 快猫星云博客
+044. 十年之约 - 专题展示 - 文章
+045. 纷享销客 CRM - 文章
+046. Yu Gao - Blog
+047. Goldman Sachs - Goldman Sachs Developer Blog
+048. Hamel's Blog - Blog
+049. Hedwig - Posts
+050. HiFeng'Blog - 最近发表
+051. imhcg的信息站 - Engineering blogs
 052. Open Github社区 - 合集
 053. 台灣角川 - 角編新聞台
 054. Kun Cheng - Essay
@@ -1505,7 +1504,7 @@ RSSHub Route List (Updated: 2026-07-27 04:34)
 056. Google - Update
 
 
-📁 Category: 其他 (other.opml) - Count: 52
+📁 Category: 其他 (other.opml) - Count: 50
 ----------------------------------------
 001. 盯梢 - 频道
 002. Galxe - Quest
@@ -1550,15 +1549,13 @@ RSSHub Route List (Updated: 2026-07-27 04:34)
 041. 华西医院 - 招聘公告
 042. ZAKER - 分类
 043. ZAKER - 精读
-044. 界面新闻 - 界面号
-045. 界面新闻 - 栏目
-046. 界面新闻 - 专题
-047. 腾讯网 - 最新辟谣
-048. 紳士漫畫 - 分类更新
-049. 紳士漫畫 - 最新
-050. 紳士漫畫 - 標籤更新
-051. Google - Alerts
-052. Google - Search
+044. 界面新闻 - 栏目
+045. 腾讯网 - 最新辟谣
+046. 紳士漫畫 - 分类更新
+047. 紳士漫畫 - 最新
+048. 紳士漫畫 - 標籤更新
+049. Google - Alerts
+050. Google - Search
 
 
 📁 Category: Shopping (shopping.opml) - Count: 50

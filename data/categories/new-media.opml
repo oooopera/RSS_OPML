@@ -22,7 +22,6 @@
       <outline type="rss" text="链新闻 ABMedia - 首页最新新闻" title="链新闻 ABMedia - 首页最新新闻" xmlUrl="https://rsshub.gamepp.cf/abmedia/index" />
       <outline type="rss" text="阿里研究院 - 资讯" title="阿里研究院 - 资讯" xmlUrl="https://rsshub.gamepp.cf/aliresearch/information" />
       <outline type="rss" text="Amz123 - AMZ123 快讯" title="Amz123 - AMZ123 快讯" xmlUrl="https://rsshub.gamepp.cf/amz123/kx" />
-      <outline type="rss" text="字节点击 - 标签" title="字节点击 - 标签" xmlUrl="https://rsshub.gamepp.cf/byteclicks/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" />
       <outline type="rss" text="差评 - 快讯" title="差评 - 快讯" xmlUrl="https://rsshub.gamepp.cf/chaping/newsflash" />
       <outline type="rss" text="差评 - 图片墙" title="差评 - 图片墙" xmlUrl="https://rsshub.gamepp.cf/chaping/banner" />
       <outline type="rss" text="差评 - 资讯" title="差评 - 资讯" xmlUrl="https://rsshub.gamepp.cf/chaping/news/15" />
@@ -87,6 +86,7 @@
       <outline type="rss" text="亚洲水果 - 果蔬品项" title="亚洲水果 - 果蔬品项" xmlUrl="https://rsshub.gamepp.cf/asiafruitchina/categories/all" />
       <outline type="rss" text="亚洲水果 - 行业资讯" title="亚洲水果 - 行业资讯" xmlUrl="https://rsshub.gamepp.cf/asiafruitchina/news" />
       <outline type="rss" text="白鲸出海 - 资讯" title="白鲸出海 - 资讯" xmlUrl="https://rsshub.gamepp.cf/baijing/article" />
+      <outline type="rss" text="字节点击 - 标签" title="字节点击 - 标签" xmlUrl="https://rsshub.gamepp.cf/byteclicks/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" />
       <outline type="rss" text="C114 通信网 - 滚动资讯" title="C114 通信网 - 滚动资讯" xmlUrl="https://rsshub.gamepp.cf/c114/roll" />
       <outline type="rss" text="CBNData - 看点" title="CBNData - 看点" xmlUrl="https://rsshub.gamepp.cf/cbndata/information/all" />
       <outline type="rss" text="中国五矿化工进出口商会 - 通用" title="中国五矿化工进出口商会 - 通用" xmlUrl="https://rsshub.gamepp.cf/cccmc/ywgg/tzgg" />
