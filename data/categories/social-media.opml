@@ -74,6 +74,7 @@
       <outline type="rss" text="豆瓣 - 豆瓣电影人" title="豆瓣 - 豆瓣电影人" xmlUrl="https://rsshub.gamepp.cf/douban/celebrity/1274261" />
       <outline type="rss" text="豆瓣 - 豆瓣读书论坛" title="豆瓣 - 豆瓣读书论坛" xmlUrl="https://rsshub.gamepp.cf/douban/36328704/discussion" />
       <outline type="rss" text="豆瓣 - 豆瓣豆列" title="豆瓣 - 豆瓣豆列" xmlUrl="https://rsshub.gamepp.cf/douban/doulist/37716774" />
+      <outline type="rss" text="豆瓣 - 浏览发现分栏目" title="豆瓣 - 浏览发现分栏目" xmlUrl="https://rsshub.gamepp.cf/douban/explore/column/2" />
       <outline type="rss" text="豆瓣 - 浏览发现" title="豆瓣 - 浏览发现" xmlUrl="https://rsshub.gamepp.cf/douban/explore" />
       <outline type="rss" text="豆瓣 - 豆瓣小组" title="豆瓣 - 豆瓣小组" xmlUrl="https://rsshub.gamepp.cf/douban/group/648102" />
       <outline type="rss" text="豆瓣 - 豆瓣招聘" title="豆瓣 - 豆瓣招聘" xmlUrl="https://rsshub.gamepp.cf/douban/jobs/campus" />

@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-07-28 04:06)
+RSSHub Route List (Updated: 2026-07-29 04:10)
 
 ============================================================
 
@@ -153,112 +153,112 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 147. KBS - Today
 148. 晚点 LatePost - 报道
 149. Live Universal Awareness Map - 实时消息
-150. 罗戈网 - 报告
-151. 龙腾网 - 网站翻译
-152. LVV2 - 24 小时点击排行 Top 10
-153. Macfilos - Blog
-154. Matters - Author
-155. Matters - Latest, heat, essence
-156. Matters - Tags
-157. 梅斯医学 MedSci - 资讯
-158. 美食天下 - 菜谱
-159. 移动支付网 - 新闻
-160. Nautilus - Topics
-161. Netflix - Newsroom
-162. 上下游 News&Market - 分類
-163. 壹蘋新聞網 - 最新新聞
-164. NGOCN - 首页
-165. 鸟哥笔记 - 今日事
-166. 鸟哥笔记 - 分类目录
-167. Odaily 星球日报 - 快讯
-168. Odaily 星球日报 - 搜索快讯
-169. Odaily 星球日报 - 活动
-170. Odaily 星球日报 - 文章
-171. 隆众资讯 - 资讯
-172. Onet - News
-173. PANews - 快讯
-174. PANews - 专栏
-175. PANews - 深度
-176. Patreon - Home
-177. 铅笔道 - 文章列表
-178. 品玩 - 实时要闻
-179. 品玩 - 话题动态
-180. PixelsTech - Feed
-181. Psyche - Topics
-182. 量子位 - 标签
-183. 量子位 - 分类
-184. 全民健康网 - 新闻
-185. 早报网 - 每日早报
-186. Quanta Magazine - Archive
-187. QuestMobile - 行业研究报告
-188. Radio-Canada.ca - Latest News
-189. Readhub - 每日早报
-190. Readhub - 分类
-191. Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 Blog 櫻坂 46 博客
-192. Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 News 櫻坂 46 新闻
-193. Samsung - Research Blog
-194. 科学网 - 精选博客
-195. Scientific American - Podcasts
-196. Secret San francisco - Category
-197. Sensor Tower - Blog
-198. 簡訊設計 - 志祺七七
-199. 少数派 sspai - 会员社区
-200. 少数派 sspai - 作者动态
-201. 少数派 sspai - 作者
-202. 少数派 sspai - 专栏
-203. 少数派 sspai - 首页
-204. 少数派 sspai - Matrix
-205. 少数派 sspai - 付费专栏文章更新
-206. 少数派 sspai - Shortcuts Gallery
-207. 少数派 sspai - 标签订阅
-208. 少数派 sspai - 专题内文章更新
-209. 少数派 sspai - 专题
-210. 少数派 sspai - 最新上架付费专栏
-211. 創新拿鐵 - 分类
-212. 風傳媒 - 频道
-213. 風傳媒 - 分类
-214. TechCrunch - News
-215. TechPowerUp - Reviews
-216. TechSir - 最新资讯
-217. 腾讯 - 作者
-218. River.to (江河日下) - 分类
-219. The Verge - Category
-220. ThoughtCo - Category
-221. 腾讯研究院 - 最近更新
-222. TOPYS - 关键字
-223. TrendForce - News
-224. Vertikal.net - News Archive
-225. 歪脑 - 歪脑读
-226. 歪脑 - 主题
-227. 湾区日报 - 最新推荐
-228. 「ONE · 一个」 - 「ONE · 一个」
-229. 乌有之乡 - 栏目
-230. 小刀娱乐网 - 分类
-231. 小专栏 - 专栏
-232. 未知文明 - 分类
-233. 中伦律师事务所 - 中伦研究专业文章
-234. 36kr - 资讯, 快讯, 用户文章, 主题文章, 专题文章, 搜索文章, 搜索快讯
-235. 36kr - 资讯热榜
-236. AEON - Categories
-237. AEON - Types
-238. cnBeta.COM - 分类
-239. cnBeta.COM - 头条资讯
-240. cnBeta.COM - 主题
-241. CoinDesk - 新闻周刊
-242. 创业邦 - 作者
-243. 创业邦 - 标签
-244. 机核网 - 播客
-245. 果壳网 - 果壳网专栏
-246. 果壳网 - 科学人
-247. 虎嗅 - 资讯
-248. 虎嗅 - 源流
-249. 虎嗅 - 文集
-250. 虎嗅 - 24 小时
-251. 虎嗅 - 搜索
-252. 虎嗅 - 标签
-253. 雷峰网 - 业界资讯
-254. LINE - TODAY - Channel
-255. LINE - TODAY
+150. 龙腾网 - 网站翻译
+151. LVV2 - 24 小时点击排行 Top 10
+152. Macfilos - Blog
+153. Matters - Author
+154. Matters - Latest, heat, essence
+155. Matters - Tags
+156. 梅斯医学 MedSci - 资讯
+157. 美食天下 - 菜谱
+158. 移动支付网 - 新闻
+159. Nautilus - Topics
+160. Netflix - Newsroom
+161. 上下游 News&Market - 分類
+162. 壹蘋新聞網 - 最新新聞
+163. NGOCN - 首页
+164. 鸟哥笔记 - 今日事
+165. 鸟哥笔记 - 分类目录
+166. Odaily 星球日报 - 快讯
+167. Odaily 星球日报 - 搜索快讯
+168. Odaily 星球日报 - 活动
+169. Odaily 星球日报 - 文章
+170. 隆众资讯 - 资讯
+171. Onet - News
+172. PANews - 快讯
+173. PANews - 专栏
+174. PANews - 深度
+175. Patreon - Home
+176. 铅笔道 - 文章列表
+177. 品玩 - 实时要闻
+178. 品玩 - 话题动态
+179. PixelsTech - Feed
+180. Psyche - Topics
+181. 量子位 - 标签
+182. 量子位 - 分类
+183. 全民健康网 - 新闻
+184. 早报网 - 每日早报
+185. Quanta Magazine - Archive
+186. QuestMobile - 行业研究报告
+187. Radio-Canada.ca - Latest News
+188. Readhub - 每日早报
+189. Readhub - 分类
+190. Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 Blog 櫻坂 46 博客
+191. Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 News 櫻坂 46 新闻
+192. Samsung - Research Blog
+193. 科学网 - 精选博客
+194. Scientific American - Podcasts
+195. Secret San francisco - Category
+196. Sensor Tower - Blog
+197. 簡訊設計 - 志祺七七
+198. 少数派 sspai - 会员社区
+199. 少数派 sspai - 作者动态
+200. 少数派 sspai - 作者
+201. 少数派 sspai - 专栏
+202. 少数派 sspai - 首页
+203. 少数派 sspai - Matrix
+204. 少数派 sspai - 付费专栏文章更新
+205. 少数派 sspai - Shortcuts Gallery
+206. 少数派 sspai - 标签订阅
+207. 少数派 sspai - 专题内文章更新
+208. 少数派 sspai - 专题
+209. 少数派 sspai - 最新上架付费专栏
+210. 創新拿鐵 - 分类
+211. 風傳媒 - 频道
+212. 風傳媒 - 分类
+213. TechCrunch - News
+214. TechPowerUp - Reviews
+215. TechSir - 最新资讯
+216. 腾讯 - 作者
+217. River.to (江河日下) - 分类
+218. The Verge - Category
+219. ThoughtCo - Category
+220. 腾讯研究院 - 最近更新
+221. TOPYS - 关键字
+222. TrendForce - News
+223. Vertikal.net - News Archive
+224. 歪脑 - 歪脑读
+225. 歪脑 - 主题
+226. 湾区日报 - 最新推荐
+227. 「ONE · 一个」 - 「ONE · 一个」
+228. 乌有之乡 - 栏目
+229. 小刀娱乐网 - 分类
+230. 小专栏 - 专栏
+231. 未知文明 - 分类
+232. 中伦律师事务所 - 中伦研究专业文章
+233. 36kr - 资讯, 快讯, 用户文章, 主题文章, 专题文章, 搜索文章, 搜索快讯
+234. 36kr - 资讯热榜
+235. AEON - Categories
+236. AEON - Types
+237. cnBeta.COM - 分类
+238. cnBeta.COM - 头条资讯
+239. cnBeta.COM - 主题
+240. CoinDesk - 新闻周刊
+241. 创业邦 - 作者
+242. 创业邦 - 标签
+243. 机核网 - 播客
+244. 果壳网 - 果壳网专栏
+245. 果壳网 - 科学人
+246. 虎嗅 - 资讯
+247. 虎嗅 - 源流
+248. 虎嗅 - 文集
+249. 虎嗅 - 24 小时
+250. 虎嗅 - 搜索
+251. 虎嗅 - 标签
+252. 雷峰网 - 业界资讯
+253. LINE - TODAY - Channel
+254. LINE - TODAY
+255. 罗戈网 - 报告
 256. 快科技 - 分类
 257. 快科技 - 排行
 258. 快科技 - 更多分类
@@ -438,7 +438,7 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 159. 同济大学 - 经济与管理学院通知
 
 
-📁 Category: 编程 (programming.opml) - Count: 138
+📁 Category: 编程 (programming.opml) - Count: 139
 ----------------------------------------
 001. bestblogs.dev - 文章列表
 002. bestblogs.dev - 精选推送
@@ -485,102 +485,103 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 043. Cockroach Labs - Blogs
 044. Codeforces - Latest contests
 045. Codeforces - Recent actions
-046. Cybercrime Magazine - News
-047. dbaplus社群 - 最新文章
-048. DeepLearning.AI - The Batch
-049. DEV Community - Trending Guides
-050. DEV Community - Top Posts
-051. Devtrium - Official Blogs
-052. 印记中文 - 周刊 - JavaScript
-053. 电子发烧友 - 文章
-054. Engineering.fyi - Tag
-055. gihyo.jp - Series
-056. Gitpod - Blog
-057. Gitstar Ranking - Ranking
-058. HelloGitHub - 文章
-059. HelloGitHub - 榜单报告
-060. HelloGitHub - 开源项目
-061. HelloGitHub - 月刊
-062. Hex-Rays - Hex-Rays News
-063. HITCON - 漏洞
-064. Huggingface - Community Articles
-065. Huggingface - 中文博客
-066. Huggingface - 英文博客
-067. Huggingface - Daily Papers
-068. Huggingface - Group Models
-069. InfoQ 中文 - Presentations
-070. Kiro - Blog
-071. Kong API 网关平台 - 博客最新文章
-072. LanceDB - Blog
-073. 登链社区 - 文章
-074. LeetCode - Articles
-075. 连享会 - 精彩资讯
-076. 洛谷 - 比赛列表
-077. 美团 - 技术团队博客
-078. Meta - AI Blog
-079. 墨天轮 - 合辑
-080. ModelScope 魔搭社区 - 研习社
-081. ModelScope 魔搭社区 - 模型库
-082. ModelScope 魔搭社区 - 数据集
-083. ModelScope 魔搭社区 - 创空间
-084. ModelScope 魔搭社区 - DevPress 官方社区
-085. MySQL - Release Notes
-086. Node.js - News
-087. NOSEC 安全讯息平台 - Posts
-088. Ollama - Blog
-089. Ollama - Models
-090. 开源中国 - 资讯
-091. 开源中国 - 活动
-092. oshwhub 立创开源硬件平台 - 开源广场
-093. Python - Active Python Releases
-094. Quicker - 讨论区
-095. Quicker - 动作分享
-096. Raspberry Pi - Official Magazine
-097. Reactiflux - Transcripts
-098. Rock the JVM - Article
-099. Rust 语言中文社区 - 招聘
-100. Rust 语言中文社区 - 新闻/聚合
-101. 安全内参 - 作者
-102. 安全内参 - 分类
-103. Smashing Magazine - Category
-104. 淘宝网 - 数据库内核月报
-105. 腾讯 - 腾讯云开发者社区专栏
-106. TiDB 社区 - 专栏分类
-107. Transformer Circuits - Articles
-108. Visual Studio - Code Blog
-109. Warp - Blog
-110. Windsurf - Blog
-111. Windsurf - Changelog
-112. Zed - Blog
-113. CSS-Tricks - Articles
-114. CSS-Tricks - CSS Guides
-115. CSS-Tricks - Popular this month
-116. Josh W Comeau - Articles and Tutorials
-117. Josh W Comeau - Popular Content
-118. 掘金 - 小册
-119. 掘金 - 沸点
-120. 掘金 - AI 编程
-121. 掘金 - 分类
-122. 掘金 - 单个收藏夹
-123. 掘金 - 收藏集
-124. 掘金 - 专栏
-125. 掘金 - 标签
-126. 掘金 - 热门
-127. OpenAI - Cookbook
-128. OpenAI - News
-129. OpenAI - Research
-130. SegmentFault - 频道
-131. SegmentFault - 博客
-132. Go 语言中文网 - 板块
-133. Go 语言中文网 - 招聘
-134. Go 语言中文网 - 周刊
-135. TailwindCSS - Blog
-136. web.dev - Articles
-137. web.dev - Blog
-138. 微信小程序 - 公众平台系统公告栏目
+046. cognition - Blog
+047. Cybercrime Magazine - News
+048. dbaplus社群 - 最新文章
+049. DeepLearning.AI - The Batch
+050. DEV Community - Trending Guides
+051. DEV Community - Top Posts
+052. Devtrium - Official Blogs
+053. 印记中文 - 周刊 - JavaScript
+054. 电子发烧友 - 文章
+055. Engineering.fyi - Tag
+056. gihyo.jp - Series
+057. Gitpod - Blog
+058. Gitstar Ranking - Ranking
+059. HelloGitHub - 文章
+060. HelloGitHub - 榜单报告
+061. HelloGitHub - 开源项目
+062. HelloGitHub - 月刊
+063. Hex-Rays - Hex-Rays News
+064. HITCON - 漏洞
+065. Huggingface - Community Articles
+066. Huggingface - 中文博客
+067. Huggingface - 英文博客
+068. Huggingface - Daily Papers
+069. Huggingface - Group Models
+070. InfoQ 中文 - Presentations
+071. Kiro - Blog
+072. Kong API 网关平台 - 博客最新文章
+073. LanceDB - Blog
+074. 登链社区 - 文章
+075. LeetCode - Articles
+076. 连享会 - 精彩资讯
+077. 洛谷 - 比赛列表
+078. 美团 - 技术团队博客
+079. Meta - AI Blog
+080. 墨天轮 - 合辑
+081. ModelScope 魔搭社区 - 研习社
+082. ModelScope 魔搭社区 - 模型库
+083. ModelScope 魔搭社区 - 数据集
+084. ModelScope 魔搭社区 - 创空间
+085. ModelScope 魔搭社区 - DevPress 官方社区
+086. MySQL - Release Notes
+087. Node.js - News
+088. NOSEC 安全讯息平台 - Posts
+089. Ollama - Blog
+090. Ollama - Models
+091. 开源中国 - 资讯
+092. 开源中国 - 活动
+093. oshwhub 立创开源硬件平台 - 开源广场
+094. Python - Active Python Releases
+095. Quicker - 讨论区
+096. Quicker - 动作分享
+097. Raspberry Pi - Official Magazine
+098. Reactiflux - Transcripts
+099. Rock the JVM - Article
+100. Rust 语言中文社区 - 招聘
+101. Rust 语言中文社区 - 新闻/聚合
+102. 安全内参 - 作者
+103. 安全内参 - 分类
+104. Smashing Magazine - Category
+105. 淘宝网 - 数据库内核月报
+106. 腾讯 - 腾讯云开发者社区专栏
+107. TiDB 社区 - 专栏分类
+108. Transformer Circuits - Articles
+109. Visual Studio - Code Blog
+110. Warp - Blog
+111. Windsurf - Blog
+112. Windsurf - Changelog
+113. Zed - Blog
+114. CSS-Tricks - Articles
+115. CSS-Tricks - CSS Guides
+116. CSS-Tricks - Popular this month
+117. Josh W Comeau - Articles and Tutorials
+118. Josh W Comeau - Popular Content
+119. 掘金 - 小册
+120. 掘金 - 沸点
+121. 掘金 - AI 编程
+122. 掘金 - 分类
+123. 掘金 - 单个收藏夹
+124. 掘金 - 收藏集
+125. 掘金 - 专栏
+126. 掘金 - 标签
+127. 掘金 - 热门
+128. OpenAI - Cookbook
+129. OpenAI - News
+130. OpenAI - Research
+131. SegmentFault - 频道
+132. SegmentFault - 博客
+133. Go 语言中文网 - 板块
+134. Go 语言中文网 - 招聘
+135. Go 语言中文网 - 周刊
+136. TailwindCSS - Blog
+137. web.dev - Articles
+138. web.dev - Blog
+139. 微信小程序 - 公众平台系统公告栏目
 
 
-📁 Category: 社交媒体 (social-media.opml) - Count: 129
+📁 Category: 社交媒体 (social-media.opml) - Count: 130
 ----------------------------------------
 001. Instagram - User Profile - Picnob.info
 002. Fediverse - Timeline
@@ -651,66 +652,67 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 067. 豆瓣 - 豆瓣电影人
 068. 豆瓣 - 豆瓣读书论坛
 069. 豆瓣 - 豆瓣豆列
-070. 豆瓣 - 浏览发现
-071. 豆瓣 - 豆瓣小组
-072. 豆瓣 - 豆瓣招聘
-073. 豆瓣 - 即将上映的电影
-074. 豆瓣 - 最新增加的音乐
-075. 豆瓣 - 正在上映的电影
-076. 简书 - 专题
-077. 简书 - 首页
-078. 简书 - 作者
-079. Letterboxd - User Watchlist
-080. Lofter - Collection
-081. Lofter - User
-082. Lofter - Tag
-083. Instagram - User Profile - Picnob
-084. TikTok - User Profile - Picuki
-085. Telegram - Sticker Pack
-086. Telegram - Telegram Blog
-087. Telegram - Channel
-088. TikTok - Live
-089. Vimeo - User Profile
-090. Vimeo - Category
-091. 哔哩哔哩 bilibili - 专栏文集
-092. 哔哩哔哩 bilibili - 入站必刷
-093. 哔哩哔哩 bilibili - 视频选集列表
-094. 哔哩哔哩 bilibili - 分区视频排行榜
-095. 哔哩哔哩 bilibili - 分区视频
-096. 哔哩哔哩 bilibili - 综合热门
-097. 哔哩哔哩 bilibili - 热搜
-098. 哔哩哔哩 bilibili - B 站每周必看
-099. Cara - Likes
-100. Cara - Portfolio
-101. Cara - Timeline
-102. 即刻 - 圈子
-103. 即刻 - 圈子 - 纯文字
-104. LinkedIn - Company Posts
-105. LinkedIn - Jobs
-106. Plurk - User
-107. Plurk - Anonymous
-108. Plurk - Hotlinks
-109. Plurk - Plurk News
-110. Plurk - Search
-111. Plurk - Top
-112. Threads - User timeline
-113. 方格子 - 出版專題
-114. 微博 - 热搜榜
-115. 知乎 - 知乎热榜
-116. 知乎 - 知乎想法热榜
-117. 知乎 - 知乎日报
-118. 知乎 - 知乎书店 - 知乎周刊
-119. 知乎 - xhu- 专栏
-120. 知乎 - 专栏
-121. 知乎 - 知乎日报 - 合集
-122. 知乎 - 话题
-123. pixiv - User Bookmark
-124. pixiv - Following timeline
-125. pixiv - Rankings
-126. pixiv - Keyword
-127. pixiv - User Activity
-128. pixiv - Novel Series
-129. pixiv - User Novels
+070. 豆瓣 - 浏览发现分栏目
+071. 豆瓣 - 浏览发现
+072. 豆瓣 - 豆瓣小组
+073. 豆瓣 - 豆瓣招聘
+074. 豆瓣 - 即将上映的电影
+075. 豆瓣 - 最新增加的音乐
+076. 豆瓣 - 正在上映的电影
+077. 简书 - 专题
+078. 简书 - 首页
+079. 简书 - 作者
+080. Letterboxd - User Watchlist
+081. Lofter - Collection
+082. Lofter - User
+083. Lofter - Tag
+084. Instagram - User Profile - Picnob
+085. TikTok - User Profile - Picuki
+086. Telegram - Sticker Pack
+087. Telegram - Telegram Blog
+088. Telegram - Channel
+089. TikTok - Live
+090. Vimeo - User Profile
+091. Vimeo - Category
+092. 哔哩哔哩 bilibili - 专栏文集
+093. 哔哩哔哩 bilibili - 入站必刷
+094. 哔哩哔哩 bilibili - 视频选集列表
+095. 哔哩哔哩 bilibili - 分区视频排行榜
+096. 哔哩哔哩 bilibili - 分区视频
+097. 哔哩哔哩 bilibili - 综合热门
+098. 哔哩哔哩 bilibili - 热搜
+099. 哔哩哔哩 bilibili - B 站每周必看
+100. Cara - Likes
+101. Cara - Portfolio
+102. Cara - Timeline
+103. 即刻 - 圈子
+104. 即刻 - 圈子 - 纯文字
+105. LinkedIn - Company Posts
+106. LinkedIn - Jobs
+107. Plurk - User
+108. Plurk - Anonymous
+109. Plurk - Hotlinks
+110. Plurk - Plurk News
+111. Plurk - Search
+112. Plurk - Top
+113. Threads - User timeline
+114. 方格子 - 出版專題
+115. 微博 - 热搜榜
+116. 知乎 - 知乎热榜
+117. 知乎 - 知乎想法热榜
+118. 知乎 - 知乎日报
+119. 知乎 - 知乎书店 - 知乎周刊
+120. 知乎 - xhu- 专栏
+121. 知乎 - 专栏
+122. 知乎 - 知乎日报 - 合集
+123. 知乎 - 话题
+124. pixiv - User Bookmark
+125. pixiv - Following timeline
+126. pixiv - Rankings
+127. pixiv - Keyword
+128. pixiv - User Activity
+129. pixiv - Novel Series
+130. pixiv - User Novels
 
 
 📁 Category: 游戏 (game.opml) - Count: 109
@@ -734,10 +736,10 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 017. HoYoLAB - Official Announcement
 018. JUMP - 游戏折扣
 019. Modrinth - Project versions
-020. 4Gamers - 标签
-021. 4Gamers - 主題
-022. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
-023. FINAL FANTASY XIV - 最终幻想 14 国服
+020. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
+021. FINAL FANTASY XIV - 最终幻想 14 国服
+022. 4Gamers - 标签
+023. 4Gamers - 主題
 024. 米哈游 - 崩坏：星穹铁道
 025. 米哈游 - 原神
 026. 米哈游 - 绝区零
@@ -1258,45 +1260,45 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 036. NPR (National Public Radio) - News
 037. 新唐人电视台 - 频道
 038. 东网 - Money18
-039. 公視新聞網 - 專題策展
-040. 求是网 - 分类
-041. 求是网 - 在线读刊
-042. Reuters - Category/Topic/Author
-043. Reuters - Inverstigates
-044. Radio Free Asia (RFA) 自由亚洲电台 - News
-045. Sankei Shimbun 産経新聞 - News
-046. Corona Virus Disease 2019 - News
-047. Solidot - 最新消息
-048. 希望之声 - 频道
-049. Sputnik News 俄罗斯卫星通讯社 - Category
-050. 中国科技网 - 科技日报
-051. Russian News Agency TASS - News
-052. The Atlantic - News
-053. The Hindu - Topic
-054. 台視新聞網 - 分类
-055. WIRED - Tags
-056. The Wall Street Journal (WSJ) 华尔街日报 - News
-057. The Australian Financial Review - Latest
-058. AP News - Topics
-059. BBC - Topics - BBC News 中文
-060. BBC - Topics
+039. 求是网 - 分类
+040. 求是网 - 在线读刊
+041. Reuters - Category/Topic/Author
+042. Reuters - Inverstigates
+043. Radio Free Asia (RFA) 自由亚洲电台 - News
+044. Sankei Shimbun 産経新聞 - News
+045. Corona Virus Disease 2019 - News
+046. Solidot - 最新消息
+047. 希望之声 - 频道
+048. Sputnik News 俄罗斯卫星通讯社 - Category
+049. 中国科技网 - 科技日报
+050. Russian News Agency TASS - News
+051. The Atlantic - News
+052. The Hindu - Topic
+053. 台視新聞網 - 分类
+054. WIRED - Tags
+055. The Wall Street Journal (WSJ) 华尔街日报 - News
+056. The Australian Financial Review - Latest
+057. AP News - Topics
+058. BBC - Topics - BBC News 中文
+059. BBC - Topics
+060. 新京报 - 分类
 061. 新京报 - 分类
-062. 新京报 - 分类
-063. 财新博客 - 财新周刊
-064. 财新博客 - 最新文章
-065. 中央通讯社 - 分类 (网页爬虫方法)
-066. 中央通讯社 - 分类
-067. 天下雜誌 - 主頻道
-068. 天下雜誌 - 最新上線
-069. DNA India - News
-070. DW Deutsche Welle - News
-071. DW Deutsche Welle - RSS
-072. FT 中文网 - FT 中文网
-073. 南方周末 - 热门文章
-074. 南方周末 - 频道
-075. 鏡週刊 Mirror Media - 分类
-076. 鏡週刊 Mirror Media - 首页
-077. 南方都市报 - 奥一网
+062. 财新博客 - 财新周刊
+063. 财新博客 - 最新文章
+064. 中央通讯社 - 分类 (网页爬虫方法)
+065. 中央通讯社 - 分类
+066. 天下雜誌 - 主頻道
+067. 天下雜誌 - 最新上線
+068. DNA India - News
+069. DW Deutsche Welle - News
+070. DW Deutsche Welle - RSS
+071. FT 中文网 - FT 中文网
+072. 南方周末 - 热门文章
+073. 南方周末 - 频道
+074. 鏡週刊 Mirror Media - 分类
+075. 鏡週刊 Mirror Media - 首页
+076. 南方都市报 - 奥一网
+077. 公視新聞網 - 專題策展
 078. 南方网 - 南方 +（按栏目 ID）
 079. The Economist - Global Business Review
 080. The Economist - Category
@@ -1504,7 +1506,7 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 056. Google - Update
 
 
-📁 Category: 其他 (other.opml) - Count: 50
+📁 Category: 其他 (other.opml) - Count: 52
 ----------------------------------------
 001. 盯梢 - 频道
 002. Galxe - Quest
@@ -1550,12 +1552,14 @@ RSSHub Route List (Updated: 2026-07-28 04:06)
 042. ZAKER - 分类
 043. ZAKER - 精读
 044. 界面新闻 - 栏目
-045. 腾讯网 - 最新辟谣
-046. 紳士漫畫 - 分类更新
-047. 紳士漫畫 - 最新
-048. 紳士漫畫 - 標籤更新
-049. Google - Alerts
-050. Google - Search
+045. 界面新闻 - 界面号
+046. 界面新闻 - 专题
+047. 腾讯网 - 最新辟谣
+048. 紳士漫畫 - 分类更新
+049. 紳士漫畫 - 最新
+050. 紳士漫畫 - 標籤更新
+051. Google - Alerts
+052. Google - Search
 
 
 📁 Category: Shopping (shopping.opml) - Count: 50

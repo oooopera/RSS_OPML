@@ -154,7 +154,6 @@
       <outline type="rss" text="KBS - Today" title="KBS - Today" xmlUrl="https://rsshub.gamepp.cf/kbs/today" />
       <outline type="rss" text="晚点 LatePost - 报道" title="晚点 LatePost - 报道" xmlUrl="https://rsshub.gamepp.cf/latepost" />
       <outline type="rss" text="Live Universal Awareness Map - 实时消息" title="Live Universal Awareness Map - 实时消息" xmlUrl="https://rsshub.gamepp.cf/liveuamap" />
-      <outline type="rss" text="罗戈网 - 报告" title="罗戈网 - 报告" xmlUrl="https://rsshub.gamepp.cf/logclub/lc_report" />
       <outline type="rss" text="龙腾网 - 网站翻译" title="龙腾网 - 网站翻译" xmlUrl="https://rsshub.gamepp.cf/ltaaa/article" />
       <outline type="rss" text="LVV2 - 24 小时点击排行 Top 10" title="LVV2 - 24 小时点击排行 Top 10" xmlUrl="https://rsshub.gamepp.cf/lvv2/top/sort-score" />
       <outline type="rss" text="Macfilos - Blog" title="Macfilos - Blog" xmlUrl="https://rsshub.gamepp.cf/macfilos/blog" />
@@ -260,6 +259,7 @@
       <outline type="rss" text="雷峰网 - 业界资讯" title="雷峰网 - 业界资讯" xmlUrl="https://rsshub.gamepp.cf/leiphone/newsflash" />
       <outline type="rss" text="LINE - TODAY - Channel" title="LINE - TODAY - Channel" xmlUrl="https://rsshub.gamepp.cf/line/today/th/publisher/101048" />
       <outline type="rss" text="LINE - TODAY" title="LINE - TODAY" xmlUrl="https://rsshub.gamepp.cf/line/today" />
+      <outline type="rss" text="罗戈网 - 报告" title="罗戈网 - 报告" xmlUrl="https://rsshub.gamepp.cf/logclub/lc_report" />
       <outline type="rss" text="快科技 - 分类" title="快科技 - 分类" xmlUrl="https://rsshub.gamepp.cf/mydrivers/bcid/801" />
       <outline type="rss" text="快科技 - 排行" title="快科技 - 排行" xmlUrl="https://rsshub.gamepp.cf/mydrivers/rank" />
       <outline type="rss" text="快科技 - 更多分类" title="快科技 - 更多分类" xmlUrl="https://rsshub.gamepp.cf/mydrivers/cid/2" />

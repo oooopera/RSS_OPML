@@ -43,7 +43,6 @@
       <outline type="rss" text="NPR (National Public Radio) - News" title="NPR (National Public Radio) - News" xmlUrl="https://rsshub.gamepp.cf/npr/1001" />
       <outline type="rss" text="新唐人电视台 - 频道" title="新唐人电视台 - 频道" xmlUrl="https://rsshub.gamepp.cf/ntdtv/b5/prog1201" />
       <outline type="rss" text="东网 - Money18" title="东网 - Money18" xmlUrl="https://rsshub.gamepp.cf/oncc/money18/exp" />
-      <outline type="rss" text="公視新聞網 - 專題策展" title="公視新聞網 - 專題策展" xmlUrl="https://rsshub.gamepp.cf/pts/curations" />
       <outline type="rss" text="求是网 - 分类" title="求是网 - 分类" xmlUrl="https://rsshub.gamepp.cf/qstheory" />
       <outline type="rss" text="求是网 - 在线读刊" title="求是网 - 在线读刊" xmlUrl="https://rsshub.gamepp.cf/qstheory/magazine/qs" />
       <outline type="rss" text="Reuters - Category/Topic/Author" title="Reuters - Category/Topic/Author" xmlUrl="https://rsshub.gamepp.cf/reuters/world/us" />
@@ -82,6 +81,7 @@
       <outline type="rss" text="鏡週刊 Mirror Media - 分类" title="鏡週刊 Mirror Media - 分类" xmlUrl="https://rsshub.gamepp.cf/mirrormedia/category/political" />
       <outline type="rss" text="鏡週刊 Mirror Media - 首页" title="鏡週刊 Mirror Media - 首页" xmlUrl="https://rsshub.gamepp.cf/mirrormedia" />
       <outline type="rss" text="南方都市报 - 奥一网" title="南方都市报 - 奥一网" xmlUrl="https://rsshub.gamepp.cf/oeeee/web/170" />
+      <outline type="rss" text="公視新聞網 - 專題策展" title="公視新聞網 - 專題策展" xmlUrl="https://rsshub.gamepp.cf/pts/curations" />
       <outline type="rss" text="南方网 - 南方 +（按栏目 ID）" title="南方网 - 南方 +（按栏目 ID）" xmlUrl="https://rsshub.gamepp.cf/southcn/nfapp/column/38" />
       <outline type="rss" text="The Economist - Global Business Review" title="The Economist - Global Business Review" xmlUrl="https://rsshub.gamepp.cf/economist/global-business-review/cn-en" />
       <outline type="rss" text="The Economist - Category" title="The Economist - Category" xmlUrl="https://rsshub.gamepp.cf/economist/latest" />

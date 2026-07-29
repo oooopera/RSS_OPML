@@ -49,6 +49,8 @@
       <outline type="rss" text="ZAKER - 分类" title="ZAKER - 分类" xmlUrl="https://rsshub.gamepp.cf/zaker/channel/13" />
       <outline type="rss" text="ZAKER - 精读" title="ZAKER - 精读" xmlUrl="https://rsshub.gamepp.cf/zaker/focusread" />
       <outline type="rss" text="界面新闻 - 栏目" title="界面新闻 - 栏目" xmlUrl="https://rsshub.gamepp.cf/jiemian/lists/65" />
+      <outline type="rss" text="界面新闻 - 界面号" title="界面新闻 - 界面号" xmlUrl="https://rsshub.gamepp.cf/jiemian/account/main/1" />
+      <outline type="rss" text="界面新闻 - 专题" title="界面新闻 - 专题" xmlUrl="https://rsshub.gamepp.cf/jiemian/special/1192" />
       <outline type="rss" text="腾讯网 - 最新辟谣" title="腾讯网 - 最新辟谣" xmlUrl="https://rsshub.gamepp.cf/qq/fact" />
       <outline type="rss" text="紳士漫畫 - 分类更新" title="紳士漫畫 - 分类更新" xmlUrl="https://rsshub.gamepp.cf/wnacg/category/6" />
       <outline type="rss" text="紳士漫畫 - 最新" title="紳士漫畫 - 最新" xmlUrl="https://rsshub.gamepp.cf/wnacg" />
