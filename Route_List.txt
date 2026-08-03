@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-08-02 04:21)
+RSSHub Route List (Updated: 2026-08-03 04:27)
 
 ============================================================
 
@@ -715,7 +715,7 @@ RSSHub Route List (Updated: 2026-08-02 04:21)
 130. pixiv - User Novels
 
 
-📁 Category: 游戏 (game.opml) - Count: 109
+📁 Category: 游戏 (game.opml) - Count: 108
 ----------------------------------------
 001. 网易公开课 - 用户发帖
 002. Blue Archive - News
@@ -767,65 +767,64 @@ RSSHub Route List (Updated: 2026-08-02 04:21)
 048. GameApps.hk 香港手机游戏网 - 最新消息
 049. 遊戲基地 Gamebase - 新聞
 050. GameKee | 游戏百科攻略 - 游戏情报
-051. 鹰角网络 - 明日方舟 - 游戏内公告
-052. 鹰角网络 - 回归线
-053. 鹰角网络 - 明日方舟 - 游戏公告与新闻
-054. imop - 全部消息
-055. indienova 独立游戏 - 文章
-056. indienova 独立游戏 - 专题
-057. indienova 独立游戏 - 会员开发游戏库
-058. itch.io - Developer Logs
-059. 其乐 - 论坛
-060. KISS - ブログ
-061. Koyso - 游戏
-062. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
-063. League of Legends - Patch Notes
-064. Liquipedia - Counter-Strike Team Match Results
-065. MC百科 - 最新MOD
-066. osu! - Latest Ranked Beatmap
-067. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
-068. PlayStation Store - PlayStation Monthly Games
-069. PlayStation Store - PlayStation Network user trophy
-070. PSN 中文站 - 游戏
-071. PSN 中文站 - 节点
-072. PSN 中文站 - 数折
-073. PSN 中文站 - 闲游
-074. SEGA - maimai DX Japanese Ver. News
-075. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
-076. Steam - News
-077. Steam - Steam Community Hub Feeds
-078. Steam - Latest Curator Reviews
-079. Steam - Store Search
-080. Steam - Sharefile Changelog
-081. Steam - Community Workshop Search
-082. 腾讯 - 新闻中心
-083. 电玩巴士 TGBUS - 文章列表
-084. War Thunder - News
-085. World of Warships - Development Blog
-086. 盒心光环 - 资讯
-087. 游讯网 - 资讯
-088. 游戏打折情报 - 游戏折扣
-089. 游戏日报 - 分类
-090. 游研社 - 游研社 - 分类文章
-091. 游研社 - 游研社 - 全部文章
-092. GamerSky - 娱乐
-093. GamerSky - 资讯
-094. GamerSky - 评测
-095. 机核网 - 文章
-096. 机核网 - 分类
-097. 机核网 - 专题
-098. 机核网 - 资讯
-099. 机核网 - 标签
-100. 机核网 - 视频
-101. 旅法师营地 - 首页
-102. 旅法师营地 - 首页（旧版）
-103. Nintendo - Nintendo Direct
-104. Nintendo - Switch System Update（Japan）
-105. Nintendo - 首页资讯（中国）
-106. Nintendo - News（Hong Kong only）
-107. 腾讯网 - 英雄联盟新闻
-108. TapTap - 游戏论坛
-109. TapTap - 游戏更新
+051. 鹰角网络 - 回归线
+052. 鹰角网络 - 明日方舟 - 游戏公告与新闻
+053. imop - 全部消息
+054. indienova 独立游戏 - 文章
+055. indienova 独立游戏 - 专题
+056. indienova 独立游戏 - 会员开发游戏库
+057. itch.io - Developer Logs
+058. 其乐 - 论坛
+059. KISS - ブログ
+060. Koyso - 游戏
+061. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
+062. League of Legends - Patch Notes
+063. Liquipedia - Counter-Strike Team Match Results
+064. MC百科 - 最新MOD
+065. osu! - Latest Ranked Beatmap
+066. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
+067. PlayStation Store - PlayStation Monthly Games
+068. PlayStation Store - PlayStation Network user trophy
+069. PSN 中文站 - 游戏
+070. PSN 中文站 - 节点
+071. PSN 中文站 - 数折
+072. PSN 中文站 - 闲游
+073. SEGA - maimai DX Japanese Ver. News
+074. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
+075. Steam - News
+076. Steam - Steam Community Hub Feeds
+077. Steam - Latest Curator Reviews
+078. Steam - Store Search
+079. Steam - Sharefile Changelog
+080. Steam - Community Workshop Search
+081. 腾讯 - 新闻中心
+082. 电玩巴士 TGBUS - 文章列表
+083. War Thunder - News
+084. World of Warships - Development Blog
+085. 盒心光环 - 资讯
+086. 游讯网 - 资讯
+087. 游戏打折情报 - 游戏折扣
+088. 游戏日报 - 分类
+089. 游研社 - 游研社 - 分类文章
+090. 游研社 - 游研社 - 全部文章
+091. GamerSky - 娱乐
+092. GamerSky - 资讯
+093. GamerSky - 评测
+094. 机核网 - 文章
+095. 机核网 - 分类
+096. 机核网 - 专题
+097. 机核网 - 资讯
+098. 机核网 - 标签
+099. 机核网 - 视频
+100. 旅法师营地 - 首页
+101. 旅法师营地 - 首页（旧版）
+102. Nintendo - Nintendo Direct
+103. Nintendo - Switch System Update（Japan）
+104. Nintendo - 首页资讯（中国）
+105. Nintendo - News（Hong Kong only）
+106. 腾讯网 - 英雄联盟新闻
+107. TapTap - 游戏论坛
+108. TapTap - 游戏更新
 
 
 📁 Category: Multimedia (multimedia.opml) - Count: 106
@@ -1041,10 +1040,10 @@ RSSHub Route List (Updated: 2026-08-02 04:21)
 
 📁 Category: 博客 (blog.opml) - Count: 90
 ----------------------------------------
-001. Cohere - Blog
-002. Delta Lake - Blogs
-003. 英語之家 - 首頁
-004. FreeBuf - 文章
+001. FreeBuf - 文章
+002. Cohere - Blog
+003. Delta Lake - Blogs
+004. 英語之家 - 首頁
 005. Hudson River Trading - Tech Blog
 006. Immich - Cursed Knowledge
 007. Substack - Substack Subscription
