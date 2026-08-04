@@ -12,6 +12,7 @@
       <outline type="rss" text="Furaffinity - Browse" title="Furaffinity - Browse" xmlUrl="https://rsshub.gamepp.cf/furaffinity/browse/nsfw" />
       <outline type="rss" text="Furaffinity - Home" title="Furaffinity - Home" xmlUrl="https://rsshub.gamepp.cf/furaffinity/home/nsfw" />
       <outline type="rss" text="Furaffinity - Status" title="Furaffinity - Status" xmlUrl="https://rsshub.gamepp.cf/furaffinity/status" />
+      <outline type="rss" text="Lemmy - Community" title="Lemmy - Community" xmlUrl="https://rsshub.gamepp.cf/lemmy/technology%40lemmy.world/Hot" />
       <outline type="rss" text="Locals - Content Feed" title="Locals - Content Feed" xmlUrl="https://rsshub.gamepp.cf/locals/content/mattfradd/video" />
       <outline type="rss" text="RSS3 - Account Activities" title="RSS3 - Account Activities" xmlUrl="https://rsshub.gamepp.cf/rss3/vitalik.eth" />
       <outline type="rss" text="Crossbell - Feeds of following" title="Crossbell - Feeds of following" xmlUrl="https://rsshub.gamepp.cf/crossbell/feeds/following/10" />
@@ -19,7 +20,6 @@
       <outline type="rss" text="Crossbell - Notes" title="Crossbell - Notes" xmlUrl="https://rsshub.gamepp.cf/crossbell/notes" />
       <outline type="rss" text="Crossbell - Notes of source" title="Crossbell - Notes of source" xmlUrl="https://rsshub.gamepp.cf/crossbell/notes/source/xlog" />
       <outline type="rss" text="Farcaster - Farcaster User" title="Farcaster - Farcaster User" xmlUrl="https://rsshub.gamepp.cf/farcaster/user/vitalik.eth" />
-      <outline type="rss" text="Lemmy - Community" title="Lemmy - Community" xmlUrl="https://rsshub.gamepp.cf/lemmy/technology%40lemmy.world/Hot" />
       <outline type="rss" text="Mastodon - Hashtag timeline" title="Mastodon - Hashtag timeline" xmlUrl="https://rsshub.gamepp.cf/mastodon/tag/mastodon.social/gochisou/true" />
       <outline type="rss" text="Mastodon - Instance timeline (local)" title="Mastodon - Instance timeline (local)" xmlUrl="https://rsshub.gamepp.cf/mastodon/timeline/pawoo.net/true" />
       <outline type="rss" text="Mastodon - Instance timeline (federated)" title="Mastodon - Instance timeline (federated)" xmlUrl="https://rsshub.gamepp.cf/mastodon/remote/pawoo.net/true" />

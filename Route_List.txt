@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-08-03 04:27)
+RSSHub Route List (Updated: 2026-08-04 04:11)
 
 ============================================================
 
@@ -12,19 +12,19 @@ RSSHub Route List (Updated: 2026-08-03 04:27)
 006. 网易公开课 - 今日关注
 007. 网易公开课 - 更新
 008. 加美财经 - 分类
-009. 趣集 - 盐选故事分类
-010. 趣集 - 盐选故事专栏
-011. Jones Lang LaSalle - Trends & Insights
-012. Malaysiakini - News
-013. Rebase Network - Web3 Geek Daily
-014. Wikipedia - Current Events
-015. 链新闻 ABMedia - 首页最新新闻
-016. 阿里研究院 - 资讯
-017. Amz123 - AMZ123 快讯
-018. 差评 - 快讯
-019. 差评 - 图片墙
-020. 差评 - 资讯
-021. Chub - Characters
+009. Chub - Characters
+010. 趣集 - 盐选故事分类
+011. 趣集 - 盐选故事专栏
+012. Jones Lang LaSalle - Trends & Insights
+013. Malaysiakini - News
+014. Rebase Network - Web3 Geek Daily
+015. Wikipedia - Current Events
+016. 链新闻 ABMedia - 首页最新新闻
+017. 阿里研究院 - 资讯
+018. Amz123 - AMZ123 快讯
+019. 差评 - 快讯
+020. 差评 - 图片墙
+021. 差评 - 资讯
 022. 健康界 - 首页
 023. 大河财立方 - 新闻
 024. e 公司 - 快讯
@@ -445,15 +445,15 @@ RSSHub Route List (Updated: 2026-08-03 04:27)
 003. Bitbucket - Commits
 004. chlinlearn 的技术博客 - 值得一读技术博客
 005. 编程导航 - 帖子
-006. SYCL - Feeds
-007. ThoughtWorks - Inside Blog
-008. A List Apart - Home Feed
-009. A List Apart - Topics
-010. Bitmovin - Blog
-011. 当当开放平台 - 公告
-012. 得物 - 平台公告
-013. HackMD - Profile
-014. 华为开发者联盟 - HarmonyOS 示例代码
+006. 华为开发者联盟 - HarmonyOS 示例代码
+007. SYCL - Feeds
+008. ThoughtWorks - Inside Blog
+009. A List Apart - Home Feed
+010. A List Apart - Topics
+011. Bitmovin - Blog
+012. 当当开放平台 - 公告
+013. 得物 - 平台公告
+014. HackMD - Profile
 015. 抖店开放平台 - 平台公告
 016. Manus - Blog
 017. SecWiki - 安全维基 - 最新周刊
@@ -590,14 +590,14 @@ RSSHub Route List (Updated: 2026-08-03 04:27)
 005. Furaffinity - Browse
 006. Furaffinity - Home
 007. Furaffinity - Status
-008. Locals - Content Feed
-009. RSS3 - Account Activities
-010. Crossbell - Feeds of following
-011. Crossbell - Notes of character
-012. Crossbell - Notes
-013. Crossbell - Notes of source
-014. Farcaster - Farcaster User
-015. Lemmy - Community
+008. Lemmy - Community
+009. Locals - Content Feed
+010. RSS3 - Account Activities
+011. Crossbell - Feeds of following
+012. Crossbell - Notes of character
+013. Crossbell - Notes
+014. Crossbell - Notes of source
+015. Farcaster - Farcaster User
 016. Mastodon - Hashtag timeline
 017. Mastodon - Instance timeline (local)
 018. Mastodon - Instance timeline (federated)
