@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-08-17 02:18)
+RSSHub Route List (Updated: 2026-08-18 02:14)
 
 ============================================================
 
@@ -1458,25 +1458,25 @@ RSSHub Route List (Updated: 2026-08-17 02:18)
 012. 8KCosplay - 标签
 013. Pixabay - Search
 014. Gelbooru - 标签查询
-015. Skeb - Skeb
-016. Skeb - Creator Works
-017. BaoBua - Category
-018. BaoBua - Latest
-019. BaoBua - Search
-020. 北京天文馆 - 每日一图
-021. Booru - MMDArchive 标签查询
-022. CosplayTele - Category
-023. CosplayTele - Latest
-024. CosplayTele - Popular
-025. CosplayTele - Tag
-026. EVERIA.CLUB - Images with category
-027. EVERIA.CLUB - Latest
-028. EVERIA.CLUB - Search
-029. EVERIA.CLUB - Images with tag
-030. 极品性感美女 - 搜索
-031. 极品性感美女 - 分类
-032. 极品性感美女 - 本周热门
-033. kpopping - Pics
+015. kpopping - Pics
+016. Skeb - Skeb
+017. Skeb - Creator Works
+018. BaoBua - Category
+019. BaoBua - Latest
+020. BaoBua - Search
+021. 北京天文馆 - 每日一图
+022. Booru - MMDArchive 标签查询
+023. CosplayTele - Category
+024. CosplayTele - Latest
+025. CosplayTele - Popular
+026. CosplayTele - Tag
+027. EVERIA.CLUB - Images with category
+028. EVERIA.CLUB - Latest
+029. EVERIA.CLUB - Search
+030. EVERIA.CLUB - Images with tag
+031. 极品性感美女 - 搜索
+032. 极品性感美女 - 分类
+033. 极品性感美女 - 本周热门
 034. Magnum Photos - Magazine
 035. NASA - NASA 中文
 036. NASA - Cheng Kung University Mirror
