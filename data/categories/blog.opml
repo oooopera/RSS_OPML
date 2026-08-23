@@ -7,7 +7,6 @@
     <outline text="博客" title="博客">
       <outline type="rss" text="FreeBuf - 文章" title="FreeBuf - 文章" xmlUrl="https://rsshub.gamepp.cf/freebuf/articles/web" />
       <outline type="rss" text="Cohere - Blog" title="Cohere - Blog" xmlUrl="https://rsshub.gamepp.cf/cohere/blog" />
-      <outline type="rss" text="Delta Lake - Blogs" title="Delta Lake - Blogs" xmlUrl="https://rsshub.gamepp.cf/deltaio/blog" />
       <outline type="rss" text="英語之家 - 首頁" title="英語之家 - 首頁" xmlUrl="https://rsshub.gamepp.cf/englishhome" />
       <outline type="rss" text="Hudson River Trading - Tech Blog" title="Hudson River Trading - Tech Blog" xmlUrl="https://rsshub.gamepp.cf/hudsonrivertrading/blog" />
       <outline type="rss" text="Immich - Cursed Knowledge" title="Immich - Cursed Knowledge" xmlUrl="https://rsshub.gamepp.cf/immich/cursed-knowledge" />
@@ -23,6 +22,7 @@
       <outline type="rss" text="MacMenuBar - Recently" title="MacMenuBar - Recently" xmlUrl="https://rsshub.gamepp.cf/macmenubar/recently/developer-apps%2Csystem-tools" />
       <outline type="rss" text="便宜VPS网 - 最新发布" title="便宜VPS网 - 最新发布" xmlUrl="https://rsshub.gamepp.cf/pianyivps" />
       <outline type="rss" text="Read Something Wonderful - Articles" title="Read Something Wonderful - Articles" xmlUrl="https://rsshub.gamepp.cf/readsomethingwonderful" />
+      <outline type="rss" text="Delta Lake - Blogs" title="Delta Lake - Blogs" xmlUrl="https://rsshub.gamepp.cf/deltaio/blog" />
       <outline type="rss" text="AI 博客 - 归档-全部文章" title="AI 博客 - 归档-全部文章" xmlUrl="https://rsshub.gamepp.cf/aiblog-2xv/archives" />
       <outline type="rss" text="Apache - APISIX 博客" title="Apache - APISIX 博客" xmlUrl="https://rsshub.gamepp.cf/apache/apisix/blog" />
       <outline type="rss" text="支流科技 - 博客" title="支流科技 - 博客" xmlUrl="https://rsshub.gamepp.cf/apiseven/blog" />
@@ -66,7 +66,6 @@
       <outline type="rss" text="Mashiro's Baumkuchen - Blog" title="Mashiro's Baumkuchen - Blog" xmlUrl="https://rsshub.gamepp.cf/mashiro/en" />
       <outline type="rss" text="Mathpix - Blog" title="Mathpix - Blog" xmlUrl="https://rsshub.gamepp.cf/mathpix/blog" />
       <outline type="rss" text="meteoblue - Weather News" title="meteoblue - Weather News" xmlUrl="https://rsshub.gamepp.cf/meteoblue/weathernews" />
-      <outline type="rss" text="Massachusetts Institute of Technology - HAN Lab Blog" title="Massachusetts Institute of Technology - HAN Lab Blog" xmlUrl="https://rsshub.gamepp.cf/mit/hanlab/blog" />
       <outline type="rss" text="Niels Berglund Blog - Blog" title="Niels Berglund Blog - Blog" xmlUrl="https://rsshub.gamepp.cf/nielsberglund/blog" />
       <outline type="rss" text="Obsidian - Publish" title="Obsidian - Publish" xmlUrl="https://rsshub.gamepp.cf/obsidian/publish/marshallontheroad" />
       <outline type="rss" text="Paul Graham - Essays" title="Paul Graham - Essays" xmlUrl="https://rsshub.gamepp.cf/paulgraham/articles" />

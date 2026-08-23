@@ -6,17 +6,17 @@
   <body>
     <outline text="金融" title="金融">
       <outline type="rss" text="Unusual Whales - News Feed" title="Unusual Whales - News Feed" xmlUrl="https://rsshub.gamepp.cf/unusualwhales/news" />
-      <outline type="rss" text="AInvest - Latest Article" title="AInvest - Latest Article" xmlUrl="https://rsshub.gamepp.cf/ainvest/article" />
       <outline type="rss" text="BigQuant - 专题报告" title="BigQuant - 专题报告" xmlUrl="https://rsshub.gamepp.cf/bigquant/collections" />
       <outline type="rss" text="Forklog - Новости" title="Forklog - Новости" xmlUrl="https://rsshub.gamepp.cf/forklog/news" />
       <outline type="rss" text="穆迪评级 - industry" title="穆迪评级 - industry" xmlUrl="https://rsshub.gamepp.cf/moodysmismicrosite/report/%E4%BC%81%E4%B8%9A%26%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84" />
       <outline type="rss" text="S&amp;P Global - Ratings" title="S&amp;P Global - Ratings" xmlUrl="https://rsshub.gamepp.cf/spglobal/ratings/en" />
       <outline type="rss" text="Stock Edge - Daily Updates News" title="Stock Edge - Daily Updates News" xmlUrl="https://rsshub.gamepp.cf/stockedge/daily-updates/news" />
-      <outline type="rss" text="深潮 TechFlow - 快讯" title="深潮 TechFlow - 快讯" xmlUrl="https://rsshub.gamepp.cf/techflowpost/express" />
-      <outline type="rss" text="深潮 TechFlow - 首页" title="深潮 TechFlow - 首页" xmlUrl="https://rsshub.gamepp.cf/techflowpost" />
+      <outline type="rss" text="AInvest - Latest Article" title="AInvest - Latest Article" xmlUrl="https://rsshub.gamepp.cf/ainvest/article" />
       <outline type="rss" text="HyperDash - Top Traders" title="HyperDash - Top Traders" xmlUrl="https://rsshub.gamepp.cf/hyperdash/top-traders" />
       <outline type="rss" text="韭研公社 - 社群" title="韭研公社 - 社群" xmlUrl="https://rsshub.gamepp.cf/jiuyangongshe/community" />
       <outline type="rss" text="Seeking Alpha - Summary" title="Seeking Alpha - Summary" xmlUrl="https://rsshub.gamepp.cf/seekingalpha/TSM/transcripts" />
+      <outline type="rss" text="深潮 TechFlow - 快讯" title="深潮 TechFlow - 快讯" xmlUrl="https://rsshub.gamepp.cf/techflowpost/express" />
+      <outline type="rss" text="深潮 TechFlow - 首页" title="深潮 TechFlow - 首页" xmlUrl="https://rsshub.gamepp.cf/techflowpost" />
       <outline type="rss" text="华尔街见闻 - 财经日历" title="华尔街见闻 - 财经日历" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/calendar" />
       <outline type="rss" text="华尔街见闻 - 最热文章" title="华尔街见闻 - 最热文章" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/hot" />
       <outline type="rss" text="华尔街见闻 - 资讯" title="华尔街见闻 - 资讯" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/news" />

@@ -5,20 +5,20 @@
   </head>
   <body>
     <outline text="Anime" title="Anime">
+      <outline type="rss" text="ACG17 - 全部文章" title="ACG17 - 全部文章" xmlUrl="https://rsshub.gamepp.cf/acg17/post/all" />
+      <outline type="rss" text="IDOLY PRIDE 偶像荣耀 - News" title="IDOLY PRIDE 偶像荣耀 - News" xmlUrl="https://rsshub.gamepp.cf/idolypride/news" />
+      <outline type="rss" text="Komiic - 漫画更新" title="Komiic - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/komiic/comic/533" />
+      <outline type="rss" text="THBWiki - Calendar" title="THBWiki - Calendar" xmlUrl="https://rsshub.gamepp.cf/thwiki/calendar" />
+      <outline type="rss" text="萌番组 - Latest" title="萌番组 - Latest" xmlUrl="https://rsshub.gamepp.cf/bangumi.moe" />
       <outline type="rss" text="Skebetter - Illust" title="Skebetter - Illust" xmlUrl="https://rsshub.gamepp.cf/skebetter/illust/hot" />
       <outline type="rss" text="Skebetter - Hot" title="Skebetter - Hot" xmlUrl="https://rsshub.gamepp.cf/skebetter/hot" />
       <outline type="rss" text="Skebetter - Manga" title="Skebetter - Manga" xmlUrl="https://rsshub.gamepp.cf/skebetter/manga/1" />
-      <outline type="rss" text="ACG17 - 全部文章" title="ACG17 - 全部文章" xmlUrl="https://rsshub.gamepp.cf/acg17/post/all" />
-      <outline type="rss" text="萌番组 - Latest" title="萌番组 - Latest" xmlUrl="https://rsshub.gamepp.cf/bangumi.moe" />
-      <outline type="rss" text="IDOLY PRIDE 偶像荣耀 - News" title="IDOLY PRIDE 偶像荣耀 - News" xmlUrl="https://rsshub.gamepp.cf/idolypride/news" />
-      <outline type="rss" text="Komiic - 漫画更新" title="Komiic - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/komiic/comic/533" />
-      <outline type="rss" text="MangaDex - MDList Feed" title="MangaDex - MDList Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/mdlist/10cca803-8dc9-4f0e-86a8-6659a3ce5188%3Flimit%3D10%26private%3Dtrue" />
-      <outline type="rss" text="THBWiki - Calendar" title="THBWiki - Calendar" xmlUrl="https://rsshub.gamepp.cf/thwiki/calendar" />
       <outline type="rss" text="アニメ新番組 - 當季新番" title="アニメ新番組 - 當季新番" xmlUrl="https://rsshub.gamepp.cf/bangumi.online" />
       <outline type="rss" text="番组放送 - 开播提醒" title="番组放送 - 开播提醒" xmlUrl="https://rsshub.gamepp.cf/bgmlist/onair/zh-Hans" />
       <outline type="rss" text="CnGal - 制作者 / 游戏新闻" title="CnGal - 制作者 / 游戏新闻" xmlUrl="https://rsshub.gamepp.cf/cngal/entry/2693" />
       <outline type="rss" text="CnGal - 每周速报" title="CnGal - 每周速报" xmlUrl="https://rsshub.gamepp.cf/cngal/weekly" />
       <outline type="rss" text="风之动漫 - 在线漫画" title="风之动漫 - 在线漫画" xmlUrl="https://rsshub.gamepp.cf/fffdm/manhua/93" />
+      <outline type="rss" text="MangaDex - MDList Feed" title="MangaDex - MDList Feed" xmlUrl="https://rsshub.gamepp.cf/mangadex/mdlist/10cca803-8dc9-4f0e-86a8-6659a3ce5188%3Flimit%3D10%26private%3Dtrue" />
       <outline type="rss" text="iwara - User" title="iwara - User" xmlUrl="https://rsshub.gamepp.cf/iwara/users/kelpie/video" />
       <outline type="rss" text="iwara - User Subscriptions" title="iwara - User Subscriptions" xmlUrl="https://rsshub.gamepp.cf/iwara/subscriptions" />
       <outline type="rss" text="VCB-Studio - 分类文章" title="VCB-Studio - 分类文章" xmlUrl="https://rsshub.gamepp.cf/vcb-s/category/works" />
@@ -42,10 +42,6 @@
       <outline type="rss" text="Doraemon Channel - Article" title="Doraemon Channel - Article" xmlUrl="https://rsshub.gamepp.cf/dora-world/article/contents" />
       <outline type="rss" text="Eventernote - 声优活动及演唱会" title="Eventernote - 声优活动及演唱会" xmlUrl="https://rsshub.gamepp.cf/eventernote/actors/%E4%B8%89%E6%A3%AE%E3%81%99%E3%81%9A%E3%81%93/2634" />
       <outline type="rss" text="漫小肆韓漫 - 漫画更新" title="漫小肆韓漫 - 漫画更新" xmlUrl="https://rsshub.gamepp.cf/freexcomic/book/90" />
-      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" title="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/anime/36868" />
-      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" title="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/new_anime" />
-      <outline type="rss" text="巴哈姆特電玩資訊站 - GNN 新聞" title="巴哈姆特電玩資訊站 - GNN 新聞" xmlUrl="https://rsshub.gamepp.cf/gamer/gnn/1" />
-      <outline type="rss" text="巴哈姆特電玩資訊站 - 本板推薦" title="巴哈姆特電玩資訊站 - 本板推薦" xmlUrl="https://rsshub.gamepp.cf/gamer/hot/47157" />
       <outline type="rss" text="Gogoanimehd - Recent Releases" title="Gogoanimehd - Recent Releases" xmlUrl="https://rsshub.gamepp.cf/gogoanimehd/recent-releases" />
       <outline type="rss" text="Hanime1 - 每月新番" title="Hanime1 - 每月新番" xmlUrl="https://rsshub.gamepp.cf/hanime1/previews/202504" />
       <outline type="rss" text="Hanime1 - 搜索结果" title="Hanime1 - 搜索结果" xmlUrl="https://rsshub.gamepp.cf/hanime1/search/tags%255B%255D%3D%25E7%25B4%2594%25E6%2584%259B%26" />
@@ -79,6 +75,10 @@
       <outline type="rss" text="DLsite - Discounted Works" title="DLsite - Discounted Works" xmlUrl="https://rsshub.gamepp.cf/dlsite/campaign/home" />
       <outline type="rss" text="DLsite - Ci-en Creators' Article" title="DLsite - Ci-en Creators' Article" xmlUrl="https://rsshub.gamepp.cf/dlsite/ci-en/7400/article" />
       <outline type="rss" text="DLsite - Current Release" title="DLsite - Current Release" xmlUrl="https://rsshub.gamepp.cf/dlsite/new/home" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" title="巴哈姆特電玩資訊站 - 動畫瘋 - 動畫" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/anime/36868" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" title="巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新" xmlUrl="https://rsshub.gamepp.cf/gamer/ani/new_anime" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - GNN 新聞" title="巴哈姆特電玩資訊站 - GNN 新聞" xmlUrl="https://rsshub.gamepp.cf/gamer/gnn/1" />
+      <outline type="rss" text="巴哈姆特電玩資訊站 - 本板推薦" title="巴哈姆特電玩資訊站 - 本板推薦" xmlUrl="https://rsshub.gamepp.cf/gamer/hot/47157" />
       <outline type="rss" text="Hpoi 手办维基 - 热门推荐" title="Hpoi 手办维基 - 热门推荐" xmlUrl="https://rsshub.gamepp.cf/hpoi/bannerItem" />
       <outline type="rss" text="Hpoi 手办维基 - 情报" title="Hpoi 手办维基 - 情报" xmlUrl="https://rsshub.gamepp.cf/hpoi/info/all/hobby%7Cmodel" />
       <outline type="rss" text="Hpoi 手办维基 - 用户动态" title="Hpoi 手办维基 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/hpoi/user/116297/buy" />

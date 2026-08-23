@@ -7,18 +7,18 @@
     <outline text="游戏" title="游戏">
       <outline type="rss" text="网易公开课 - 用户发帖" title="网易公开课 - 用户发帖" xmlUrl="https://rsshub.gamepp.cf/163/ds/63dfbaf4117741daaf73404601165843" />
       <outline type="rss" text="Blue Archive - News" title="Blue Archive - News" xmlUrl="https://rsshub.gamepp.cf/bluearchive/news/jp" />
-      <outline type="rss" text="EA Games - APEX Legends 官网资讯" title="EA Games - APEX Legends 官网资讯" xmlUrl="https://rsshub.gamepp.cf/ea/apex-news/zh-hant/game-updates" />
-      <outline type="rss" text="全球游戏交流中心 - 文章" title="全球游戏交流中心 - 文章" xmlUrl="https://rsshub.gamepp.cf/gamer520/switchyouxi" />
-      <outline type="rss" text="少女前线 - 情报局" title="少女前线 - 情报局" xmlUrl="https://rsshub.gamepp.cf/gf-cn/news" />
       <outline type="rss" text="Minecraft - Java Blocked Servers" title="Minecraft - Java Blocked Servers" xmlUrl="https://rsshub.gamepp.cf/minecraft/blockedservers" />
       <outline type="rss" text="Minecraft - Java Runtimes" title="Minecraft - Java Runtimes" xmlUrl="https://rsshub.gamepp.cf/minecraft/java-runtime" />
       <outline type="rss" text="Minecraft - Java Game Update" title="Minecraft - Java Game Update" xmlUrl="https://rsshub.gamepp.cf/minecraft/version" />
+      <outline type="rss" text="EA Games - APEX Legends 官网资讯" title="EA Games - APEX Legends 官网资讯" xmlUrl="https://rsshub.gamepp.cf/ea/apex-news/zh-hant/game-updates" />
+      <outline type="rss" text="Fortnite - News" title="Fortnite - News" xmlUrl="https://rsshub.gamepp.cf/fortnite/news" />
+      <outline type="rss" text="全球游戏交流中心 - 文章" title="全球游戏交流中心 - 文章" xmlUrl="https://rsshub.gamepp.cf/gamer520/switchyouxi" />
+      <outline type="rss" text="少女前线 - 情报局" title="少女前线 - 情报局" xmlUrl="https://rsshub.gamepp.cf/gf-cn/news" />
       <outline type="rss" text="完美世界电竞 - 资讯列表" title="完美世界电竞 - 资讯列表" xmlUrl="https://rsshub.gamepp.cf/wmpvp/news/1" />
       <outline type="rss" text="小黑盒 - 游戏折扣" title="小黑盒 - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/discount/pc" />
       <outline type="rss" text="小黑盒 - 喜加一" title="小黑盒 - 喜加一" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/add2cart/epic" />
       <outline type="rss" text="小黑盒 - 游戏新闻" title="小黑盒 - 游戏新闻" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/news" />
       <outline type="rss" text="小黑盒 - 用户动态" title="小黑盒 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/user/30664023" />
-      <outline type="rss" text="Fortnite - News" title="Fortnite - News" xmlUrl="https://rsshub.gamepp.cf/fortnite/news" />
       <outline type="rss" text="二柄 APP - 新闻" title="二柄 APP - 新闻" xmlUrl="https://rsshub.gamepp.cf/diershoubing/news" />
       <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
       <outline type="rss" text="HoYoLAB - Official Announcement" title="HoYoLAB - Official Announcement" xmlUrl="https://rsshub.gamepp.cf/hoyolab/news/zh-cn/2/2" />

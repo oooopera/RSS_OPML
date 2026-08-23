@@ -12,17 +12,17 @@
       <outline type="rss" text="爱发电 - 用户动态" title="爱发电 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/afdian/dynamic/%40afdian" />
       <outline type="rss" text="爱发电 - 发现用户" title="爱发电 - 发现用户" xmlUrl="https://rsshub.gamepp.cf/afdian/explore/hot/%E6%89%80%E6%9C%89" />
       <outline type="rss" text="Bing - 每日壁纸" title="Bing - 每日壁纸" xmlUrl="https://rsshub.gamepp.cf/bing/type%3DUHD%26story%3D1%26lang%3Dzh-CN" />
-      <outline type="rss" text="DataGuidance - News" title="DataGuidance - News" xmlUrl="https://rsshub.gamepp.cf/dataguidance/news" />
       <outline type="rss" text="轻松游牧-远程工作聚集地 - 远程工作列表" title="轻松游牧-远程工作聚集地 - 远程工作列表" xmlUrl="https://rsshub.gamepp.cf/easynomad" />
       <outline type="rss" text="贝壳研究院 - 研究成果" title="贝壳研究院 - 研究成果" xmlUrl="https://rsshub.gamepp.cf/ke/researchResults" />
       <outline type="rss" text="新假期周刊 - 最新文章" title="新假期周刊 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/weekendhk" />
+      <outline type="rss" text="DataGuidance - News" title="DataGuidance - News" xmlUrl="https://rsshub.gamepp.cf/dataguidance/news" />
       <outline type="rss" text="骨朵数据 - 日榜" title="骨朵数据 - 日榜" xmlUrl="https://rsshub.gamepp.cf/guduodata/daily" />
       <outline type="rss" text="HiringCafe - Jobs" title="HiringCafe - Jobs" xmlUrl="https://rsshub.gamepp.cf/hiring.cafe/jobs/sustainability" />
       <outline type="rss" text="Taiwan FactCheck Center - 分類" title="Taiwan FactCheck Center - 分類" xmlUrl="https://rsshub.gamepp.cf/tfc-taiwan/category/weekly-top-ten-rumors" />
       <outline type="rss" text="Taiwan FactCheck Center - 最新查核報告" title="Taiwan FactCheck Center - 最新查核報告" xmlUrl="https://rsshub.gamepp.cf/tfc-taiwan" />
       <outline type="rss" text="Urban Dictionary - Random words" title="Urban Dictionary - Random words" xmlUrl="https://rsshub.gamepp.cf/urbandictionary/random" />
-      <outline type="rss" text="Wellcee 唯心所寓 - 支持的城市" title="Wellcee 唯心所寓 - 支持的城市" xmlUrl="https://rsshub.gamepp.cf/wellcee/support-city" />
       <outline type="rss" text="Wellcee 唯心所寓 - 租房信息" title="Wellcee 唯心所寓 - 租房信息" xmlUrl="https://rsshub.gamepp.cf/wellcee/rent/%E5%8C%97%E4%BA%AC" />
+      <outline type="rss" text="Wellcee 唯心所寓 - 支持的城市" title="Wellcee 唯心所寓 - 支持的城市" xmlUrl="https://rsshub.gamepp.cf/wellcee/support-city" />
       <outline type="rss" text="Wise - FX Pair Yesterday" title="Wise - FX Pair Yesterday" xmlUrl="https://rsshub.gamepp.cf/wise/pair/GBP/USD" />
       <outline type="rss" text="艾瑞咨询 - 研究报告" title="艾瑞咨询 - 研究报告" xmlUrl="https://rsshub.gamepp.cf/iresearch/report" />
       <outline type="rss" text="Apple - Exchange and Repair Extension Programs" title="Apple - Exchange and Repair Extension Programs" xmlUrl="https://rsshub.gamepp.cf/apple/exchange_repair" />
