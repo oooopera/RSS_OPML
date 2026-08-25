@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-08-24 02:20)
+RSSHub Route List (Updated: 2026-08-25 02:16)
 
 ============================================================
 
@@ -668,31 +668,31 @@ RSSHub Route List (Updated: 2026-08-24 02:20)
 086. Telegram - Sticker Pack
 087. Telegram - Telegram Blog
 088. Telegram - Channel
-089. TikTok - Live
-090. Vimeo - User Profile
-091. Vimeo - Category
-092. 哔哩哔哩 bilibili - 专栏文集
-093. 哔哩哔哩 bilibili - 入站必刷
-094. 哔哩哔哩 bilibili - 视频选集列表
-095. 哔哩哔哩 bilibili - 分区视频排行榜
-096. 哔哩哔哩 bilibili - 分区视频
-097. 哔哩哔哩 bilibili - 综合热门
-098. 哔哩哔哩 bilibili - 热搜
-099. 哔哩哔哩 bilibili - B 站每周必看
-100. Cara - Likes
-101. Cara - Portfolio
-102. Cara - Timeline
-103. 即刻 - 圈子
-104. 即刻 - 圈子 - 纯文字
-105. LinkedIn - Company Posts
-106. LinkedIn - Jobs
-107. Plurk - User
-108. Plurk - Anonymous
-109. Plurk - Hotlinks
-110. Plurk - Plurk News
-111. Plurk - Search
-112. Plurk - Top
-113. Threads - User timeline
+089. Threads - User timeline
+090. TikTok - Live
+091. Vimeo - User Profile
+092. Vimeo - Category
+093. 哔哩哔哩 bilibili - 专栏文集
+094. 哔哩哔哩 bilibili - 入站必刷
+095. 哔哩哔哩 bilibili - 视频选集列表
+096. 哔哩哔哩 bilibili - 分区视频排行榜
+097. 哔哩哔哩 bilibili - 分区视频
+098. 哔哩哔哩 bilibili - 综合热门
+099. 哔哩哔哩 bilibili - 热搜
+100. 哔哩哔哩 bilibili - B 站每周必看
+101. Cara - Likes
+102. Cara - Portfolio
+103. Cara - Timeline
+104. 即刻 - 圈子
+105. 即刻 - 圈子 - 纯文字
+106. LinkedIn - Company Posts
+107. LinkedIn - Jobs
+108. Plurk - User
+109. Plurk - Anonymous
+110. Plurk - Hotlinks
+111. Plurk - Plurk News
+112. Plurk - Search
+113. Plurk - Top
 114. 方格子 - 出版專題
 115. 微博 - 热搜榜
 116. 知乎 - 知乎热榜

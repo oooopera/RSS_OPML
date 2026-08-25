@@ -93,6 +93,7 @@
       <outline type="rss" text="Telegram - Sticker Pack" title="Telegram - Sticker Pack" xmlUrl="https://rsshub.gamepp.cf/telegram/stickerpack/DIYgod" />
       <outline type="rss" text="Telegram - Telegram Blog" title="Telegram - Telegram Blog" xmlUrl="https://rsshub.gamepp.cf/telegram/blog" />
       <outline type="rss" text="Telegram - Channel" title="Telegram - Channel" xmlUrl="https://rsshub.gamepp.cf/telegram/channel/awesomeRSSHub" />
+      <outline type="rss" text="Threads - User timeline" title="Threads - User timeline" xmlUrl="https://rsshub.gamepp.cf/threads/zuck" />
       <outline type="rss" text="TikTok - Live" title="TikTok - Live" xmlUrl="https://rsshub.gamepp.cf/tiktok/live/%40shinichifuku" />
       <outline type="rss" text="Vimeo - User Profile" title="Vimeo - User Profile" xmlUrl="https://rsshub.gamepp.cf/vimeo/user/filmsupply/picks" />
       <outline type="rss" text="Vimeo - Category" title="Vimeo - Category" xmlUrl="https://rsshub.gamepp.cf/vimeo/category/documentary/staffpicks" />
@@ -117,7 +118,6 @@
       <outline type="rss" text="Plurk - Plurk News" title="Plurk - Plurk News" xmlUrl="https://rsshub.gamepp.cf/plurk/news/%3Alang%3F" />
       <outline type="rss" text="Plurk - Search" title="Plurk - Search" xmlUrl="https://rsshub.gamepp.cf/plurk/search/FGO" />
       <outline type="rss" text="Plurk - Top" title="Plurk - Top" xmlUrl="https://rsshub.gamepp.cf/plurk/top/topReplurks" />
-      <outline type="rss" text="Threads - User timeline" title="Threads - User timeline" xmlUrl="https://rsshub.gamepp.cf/threads/zuck" />
       <outline type="rss" text="方格子 - 出版專題" title="方格子 - 出版專題" xmlUrl="https://rsshub.gamepp.cf/vocus/publication/bass" />
       <outline type="rss" text="微博 - 热搜榜" title="微博 - 热搜榜" xmlUrl="https://rsshub.gamepp.cf/weibo/search/hot" />
       <outline type="rss" text="知乎 - 知乎热榜" title="知乎 - 知乎热榜" xmlUrl="https://rsshub.gamepp.cf/zhihu/hot" />
