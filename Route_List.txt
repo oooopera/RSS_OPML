@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-08-29 07:39)
+RSSHub Route List (Updated: 2026-08-30 06:13)
 
 ============================================================
 
@@ -1745,38 +1745,37 @@ RSSHub Route List (Updated: 2026-08-29 07:39)
 031. BBC - Learning English
 
 
-📁 Category: Government (government.opml) - Count: 30
+📁 Category: Government (government.opml) - Count: 29
 ----------------------------------------
 001. 中国军网 - 中国人民解放军专业技术人才网
 002. 共产党员网 - 最新发布
 003. 北京价格 - 资讯
-004. 北京社科网 - 通用
-005. 北京社科网 - 基金项目管理平台
-006. 北京无线电协会 - 最新资讯
-007. 中国科学学与科技政策研究会 - 研究会动态
-008. 中国科学技术协会 - 通用
-009. 国家药品审评网站 - 首页
-010. 国家药品审评网站 - 指导原则专栏
-011. 中国金融期货交易所 - 交易所公告
-012. 中国疾病预防控制中心 - 通用
-013. 中国无机盐工业协会 - 栏目
-014. 中国无线电协会业余无线电分会 - 考试信息
-015. 中国无线电协会业余无线电分会 - 最新资讯
-016. 德阳人事考试网 - 考试新闻发布
-017. JapanGov - PDF
-018. Hong Kong Department of Health 香港卫生署 - Press Release
-019. UK Parliament - Commonlibrary
-020. 汽车召回网 - 汽车召回
-021. 深圳市医疗器械行业协会 - 资讯信息
-022. 国家市场监督管理总局缺陷产品管理中心 - 栏目
-023. 国家市场监督管理总局缺陷产品管理中心 - 召回信息
-024. 上海业余无线电协会 - 新闻资讯
-025. 科技大觀園 - 最新文章
-026. 四川省人力资源和社会保障厅人事考试专栏 - 通知公告
-027. The White House - News
-028. World Health Organization | WHO - News
-029. World Health Organization | WHO - Newsroom
-030. World Health Organization | WHO - Speeches
+004. 北京社科网 - 基金项目管理平台
+005. 北京无线电协会 - 最新资讯
+006. 中国科学学与科技政策研究会 - 研究会动态
+007. 中国科学技术协会 - 通用
+008. 国家药品审评网站 - 首页
+009. 国家药品审评网站 - 指导原则专栏
+010. 中国金融期货交易所 - 交易所公告
+011. 中国疾病预防控制中心 - 通用
+012. 中国无机盐工业协会 - 栏目
+013. 中国无线电协会业余无线电分会 - 考试信息
+014. 中国无线电协会业余无线电分会 - 最新资讯
+015. 德阳人事考试网 - 考试新闻发布
+016. JapanGov - PDF
+017. Hong Kong Department of Health 香港卫生署 - Press Release
+018. UK Parliament - Commonlibrary
+019. 汽车召回网 - 汽车召回
+020. 深圳市医疗器械行业协会 - 资讯信息
+021. 国家市场监督管理总局缺陷产品管理中心 - 栏目
+022. 国家市场监督管理总局缺陷产品管理中心 - 召回信息
+023. 上海业余无线电协会 - 新闻资讯
+024. 科技大觀園 - 最新文章
+025. 四川省人力资源和社会保障厅人事考试专栏 - 通知公告
+026. The White House - News
+027. World Health Organization | WHO - News
+028. World Health Organization | WHO - Newsroom
+029. World Health Organization | WHO - Speeches
 
 
 📁 Category: 设计 (design.opml) - Count: 17
