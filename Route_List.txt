@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-05 05:15)
+RSSHub Route List (Updated: 2026-09-06 05:29)
 
 ============================================================
 
@@ -730,39 +730,39 @@ RSSHub Route List (Updated: 2026-09-05 05:15)
 014. 小黑盒 - 用户动态
 015. 二柄 APP - 新闻
 016. Epic Games Store - Free games
-017. HoYoLAB - Official Announcement
-018. JUMP - 游戏折扣
-019. Modrinth - Project versions
-020. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
-021. FINAL FANTASY XIV - 最终幻想 14 国服
-022. 4Gamers - 标签
-023. 4Gamers - 主題
-024. 米哈游 - 崩坏：星穹铁道
-025. 米哈游 - 原神
-026. 米哈游 - 绝区零
-027. 米哈游 - 米游社 - 用户关注
-028. 米哈游 - 米游社 - 官方公告
-029. 米哈游 - 米游社 - 同人榜
-030. 米哈游 - 米游社 - 用户帖子
-031. 游戏星辰 - 游戏星辰
-032. 3DMGame - 新闻中心
-033. 3k-Switch游戏库 - 3k-Switch游戏库
-034. 5EPLAY - 新闻列表
-035. A9VG 电玩部落 - 新闻
-036. 游侠网 - 资讯
-037. 游侠网 - 大侠号
-038. ALICESOFT - ニュース
-039. Blizzard - 暴雪游戏国服新闻
-040. Blizzard - News
-041. 触乐 - 分类
-042. Counter Strike - News
-043. DevolverDigital - Official Blogs
-044. Dorohedoro - News
-045. F95zone - Post
-046. F95zone - Thread
-047. ファミ通 - Category
-048. GameApps.hk 香港手机游戏网 - 最新消息
-049. 遊戲基地 Gamebase - 新聞
+017. 遊戲基地 Gamebase - 新聞
+018. HoYoLAB - Official Announcement
+019. JUMP - 游戏折扣
+020. Modrinth - Project versions
+021. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
+022. FINAL FANTASY XIV - 最终幻想 14 国服
+023. 4Gamers - 标签
+024. 4Gamers - 主題
+025. 米哈游 - 崩坏：星穹铁道
+026. 米哈游 - 原神
+027. 米哈游 - 绝区零
+028. 米哈游 - 米游社 - 用户关注
+029. 米哈游 - 米游社 - 官方公告
+030. 米哈游 - 米游社 - 同人榜
+031. 米哈游 - 米游社 - 用户帖子
+032. 游戏星辰 - 游戏星辰
+033. 3DMGame - 新闻中心
+034. 3k-Switch游戏库 - 3k-Switch游戏库
+035. 5EPLAY - 新闻列表
+036. A9VG 电玩部落 - 新闻
+037. 游侠网 - 资讯
+038. 游侠网 - 大侠号
+039. ALICESOFT - ニュース
+040. Blizzard - 暴雪游戏国服新闻
+041. Blizzard - News
+042. 触乐 - 分类
+043. Counter Strike - News
+044. DevolverDigital - Official Blogs
+045. Dorohedoro - News
+046. F95zone - Post
+047. F95zone - Thread
+048. ファミ通 - Category
+049. GameApps.hk 香港手机游戏网 - 最新消息
 050. GameKee | 游戏百科攻略 - 游戏情报
 051. 鹰角网络 - 回归线
 052. 鹰角网络 - 明日方舟 - 游戏公告与新闻

@@ -21,6 +21,7 @@
       <outline type="rss" text="小黑盒 - 用户动态" title="小黑盒 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/user/30664023" />
       <outline type="rss" text="二柄 APP - 新闻" title="二柄 APP - 新闻" xmlUrl="https://rsshub.gamepp.cf/diershoubing/news" />
       <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
+      <outline type="rss" text="遊戲基地 Gamebase - 新聞" title="遊戲基地 Gamebase - 新聞" xmlUrl="https://rsshub.gamepp.cf/gamebase/news" />
       <outline type="rss" text="HoYoLAB - Official Announcement" title="HoYoLAB - Official Announcement" xmlUrl="https://rsshub.gamepp.cf/hoyolab/news/zh-cn/2/2" />
       <outline type="rss" text="JUMP - 游戏折扣" title="JUMP - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/jump/discount/ps5/all" />
       <outline type="rss" text="Modrinth - Project versions" title="Modrinth - Project versions" xmlUrl="https://rsshub.gamepp.cf/modrinth/project/sodium/versions" />
@@ -53,7 +54,6 @@
       <outline type="rss" text="F95zone - Thread" title="F95zone - Thread" xmlUrl="https://rsshub.gamepp.cf/f95zone/thread/ubermation-collection-2026-01-19-uebermation-uebermation.231247" />
       <outline type="rss" text="ファミ通 - Category" title="ファミ通 - Category" xmlUrl="https://rsshub.gamepp.cf/famitsu/category/new-article" />
       <outline type="rss" text="GameApps.hk 香港手机游戏网 - 最新消息" title="GameApps.hk 香港手机游戏网 - 最新消息" xmlUrl="https://rsshub.gamepp.cf/gameapps" />
-      <outline type="rss" text="遊戲基地 Gamebase - 新聞" title="遊戲基地 Gamebase - 新聞" xmlUrl="https://rsshub.gamepp.cf/gamebase/news" />
       <outline type="rss" text="GameKee | 游戏百科攻略 - 游戏情报" title="GameKee | 游戏百科攻略 - 游戏情报" xmlUrl="https://rsshub.gamepp.cf/gamekee/news" />
       <outline type="rss" text="鹰角网络 - 回归线" title="鹰角网络 - 回归线" xmlUrl="https://rsshub.gamepp.cf/hypergryph/arknights/arktca" />
       <outline type="rss" text="鹰角网络 - 明日方舟 - 游戏公告与新闻" title="鹰角网络 - 明日方舟 - 游戏公告与新闻" xmlUrl="https://rsshub.gamepp.cf/hypergryph/arknights/news" />
