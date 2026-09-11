@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-10 05:36)
+RSSHub Route List (Updated: 2026-09-11 05:36)
 
 ============================================================
 
@@ -712,7 +712,7 @@ RSSHub Route List (Updated: 2026-09-10 05:36)
 130. pixiv - User Novels
 
 
-📁 Category: 游戏 (game.opml) - Count: 108
+📁 Category: 游戏 (game.opml) - Count: 107
 ----------------------------------------
 001. 网易公开课 - 用户发帖
 002. Blue Archive - News
@@ -814,14 +814,13 @@ RSSHub Route List (Updated: 2026-09-10 05:36)
 098. 机核网 - 标签
 099. 机核网 - 视频
 100. 旅法师营地 - 首页
-101. 旅法师营地 - 首页（旧版）
-102. Nintendo - Nintendo Direct
-103. Nintendo - Switch System Update（Japan）
-104. Nintendo - 首页资讯（中国）
-105. Nintendo - News（Hong Kong only）
-106. 腾讯网 - 英雄联盟新闻
-107. TapTap - 游戏论坛
-108. TapTap - 游戏更新
+101. Nintendo - Nintendo Direct
+102. Nintendo - Switch System Update（Japan）
+103. Nintendo - 首页资讯（中国）
+104. Nintendo - News（Hong Kong only）
+105. 腾讯网 - 英雄联盟新闻
+106. TapTap - 游戏论坛
+107. TapTap - 游戏更新
 
 
 📁 Category: Multimedia (multimedia.opml) - Count: 105
