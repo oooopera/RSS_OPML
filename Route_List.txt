@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-15 05:49)
+RSSHub Route List (Updated: 2026-09-16 05:38)
 
 ============================================================
 
@@ -1661,7 +1661,7 @@ RSSHub Route List (Updated: 2026-09-15 05:49)
 049. Google - Scholar Keywords Monitoring
 
 
-📁 Category: 阅读 (reading.opml) - Count: 44
+📁 Category: 阅读 (reading.opml) - Count: 43
 ----------------------------------------
 001. 51Read - 章节
 002. 69书吧 - 章节
@@ -1706,7 +1706,6 @@ RSSHub Route List (Updated: 2026-09-15 05:49)
 041. SoBooks - 标签
 042. Syosetu - R18 Rankings
 043. Syosetu - Search
-044. Syosetu - Novel Updates
 
 
 📁 Category: 学习 (study.opml) - Count: 31
