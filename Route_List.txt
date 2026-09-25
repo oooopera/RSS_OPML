@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-24 05:51)
+RSSHub Route List (Updated: 2026-09-25 05:49)
 
 ============================================================
 
@@ -720,105 +720,105 @@ RSSHub Route List (Updated: 2026-09-24 05:51)
 004. Minecraft - Java Runtimes
 005. Minecraft - Java Game Update
 006. EA Games - APEX Legends 官网资讯
-007. Fortnite - News
-008. 全球游戏交流中心 - 文章
-009. 少女前线 - 情报局
-010. 完美世界电竞 - 资讯列表
-011. 小黑盒 - 游戏折扣
-012. 小黑盒 - 喜加一
-013. 小黑盒 - 游戏新闻
-014. 小黑盒 - 用户动态
-015. 二柄 APP - 新闻
-016. Epic Games Store - Free games
-017. 遊戲基地 Gamebase - 新聞
-018. HoYoLAB - Official Announcement
-019. JUMP - 游戏折扣
-020. Modrinth - Project versions
-021. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
-022. FINAL FANTASY XIV - 最终幻想 14 国服
-023. 4Gamers - 标签
-024. 4Gamers - 主題
-025. 米哈游 - 崩坏：星穹铁道
-026. 米哈游 - 原神
-027. 米哈游 - 绝区零
-028. 米哈游 - 米游社 - 用户关注
-029. 米哈游 - 米游社 - 官方公告
-030. 米哈游 - 米游社 - 同人榜
-031. 米哈游 - 米游社 - 用户帖子
-032. 游戏星辰 - 游戏星辰
-033. 3DMGame - 新闻中心
-034. 3k-Switch游戏库 - 3k-Switch游戏库
-035. 5EPLAY - 新闻列表
-036. A9VG 电玩部落 - 新闻
-037. 游侠网 - 资讯
-038. 游侠网 - 大侠号
-039. ALICESOFT - ニュース
-040. Blizzard - 暴雪游戏国服新闻
-041. Blizzard - News
-042. 触乐 - 分类
-043. Counter Strike - News
-044. DevolverDigital - Official Blogs
-045. Dorohedoro - News
-046. F95zone - Post
-047. F95zone - Thread
-048. ファミ通 - Category
-049. GameApps.hk 香港手机游戏网 - 最新消息
-050. GameKee | 游戏百科攻略 - 游戏情报
-051. 鹰角网络 - 回归线
-052. 鹰角网络 - 明日方舟 - 游戏公告与新闻
-053. imop - 全部消息
-054. indienova 独立游戏 - 文章
-055. indienova 独立游戏 - 专题
-056. indienova 独立游戏 - 会员开发游戏库
-057. itch.io - Developer Logs
-058. 其乐 - 论坛
-059. KISS - ブログ
-060. Koyso - 游戏
-061. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
-062. League of Legends - Patch Notes
-063. Liquipedia - Counter-Strike Team Match Results
-064. MC百科 - 最新MOD
-065. osu! - Latest Ranked Beatmap
-066. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
-067. PlayStation Store - PlayStation Monthly Games
-068. PlayStation Store - PlayStation Network user trophy
-069. PSN 中文站 - 游戏
-070. PSN 中文站 - 节点
-071. PSN 中文站 - 数折
-072. PSN 中文站 - 闲游
-073. SEGA - maimai DX Japanese Ver. News
-074. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
-075. Steam - News
-076. Steam - Steam Community Hub Feeds
-077. Steam - Latest Curator Reviews
-078. Steam - Store Search
-079. Steam - Sharefile Changelog
-080. Steam - Community Workshop Search
-081. 腾讯 - 新闻中心
-082. 电玩巴士 TGBUS - 文章列表
-083. War Thunder - News
-084. World of Warships - Development Blog
-085. 盒心光环 - 资讯
-086. 游讯网 - 资讯
-087. 游戏打折情报 - 游戏折扣
-088. 游戏日报 - 分类
-089. 游研社 - 游研社 - 分类文章
-090. 游研社 - 游研社 - 全部文章
-091. GamerSky - 娱乐
-092. GamerSky - 资讯
-093. GamerSky - 评测
-094. 机核网 - 文章
-095. 机核网 - 分类
-096. 机核网 - 专题
-097. 机核网 - 资讯
-098. 机核网 - 标签
-099. 机核网 - 视频
-100. 旅法师营地 - 首页
-101. Nintendo - Nintendo Direct
-102. Nintendo - Switch System Update（Japan）
-103. Nintendo - 首页资讯（中国）
-104. Nintendo - News（Hong Kong only）
-105. 腾讯网 - 英雄联盟新闻
+007. 全球游戏交流中心 - 文章
+008. 少女前线 - 情报局
+009. 完美世界电竞 - 资讯列表
+010. 小黑盒 - 游戏折扣
+011. 小黑盒 - 喜加一
+012. 小黑盒 - 游戏新闻
+013. 小黑盒 - 用户动态
+014. 二柄 APP - 新闻
+015. Epic Games Store - Free games
+016. 遊戲基地 Gamebase - 新聞
+017. HoYoLAB - Official Announcement
+018. JUMP - 游戏折扣
+019. Modrinth - Project versions
+020. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
+021. FINAL FANTASY XIV - 最终幻想 14 国服
+022. 4Gamers - 标签
+023. 4Gamers - 主題
+024. 米哈游 - 崩坏：星穹铁道
+025. 米哈游 - 原神
+026. 米哈游 - 绝区零
+027. 米哈游 - 米游社 - 用户关注
+028. 米哈游 - 米游社 - 官方公告
+029. 米哈游 - 米游社 - 同人榜
+030. 米哈游 - 米游社 - 用户帖子
+031. 游戏星辰 - 游戏星辰
+032. 3DMGame - 新闻中心
+033. 3k-Switch游戏库 - 3k-Switch游戏库
+034. 5EPLAY - 新闻列表
+035. A9VG 电玩部落 - 新闻
+036. 游侠网 - 资讯
+037. 游侠网 - 大侠号
+038. ALICESOFT - ニュース
+039. Blizzard - 暴雪游戏国服新闻
+040. Blizzard - News
+041. 触乐 - 分类
+042. Counter Strike - News
+043. DevolverDigital - Official Blogs
+044. Dorohedoro - News
+045. F95zone - Post
+046. F95zone - Thread
+047. ファミ通 - Category
+048. GameApps.hk 香港手机游戏网 - 最新消息
+049. GameKee | 游戏百科攻略 - 游戏情报
+050. 鹰角网络 - 回归线
+051. 鹰角网络 - 明日方舟 - 游戏公告与新闻
+052. imop - 全部消息
+053. indienova 独立游戏 - 文章
+054. indienova 独立游戏 - 专题
+055. indienova 独立游戏 - 会员开发游戏库
+056. itch.io - Developer Logs
+057. 其乐 - 论坛
+058. KISS - ブログ
+059. Koyso - 游戏
+060. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
+061. League of Legends - Patch Notes
+062. Liquipedia - Counter-Strike Team Match Results
+063. MC百科 - 最新MOD
+064. osu! - Latest Ranked Beatmap
+065. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
+066. PlayStation Store - PlayStation Monthly Games
+067. PlayStation Store - PlayStation Network user trophy
+068. PSN 中文站 - 游戏
+069. PSN 中文站 - 节点
+070. PSN 中文站 - 数折
+071. PSN 中文站 - 闲游
+072. SEGA - maimai DX Japanese Ver. News
+073. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
+074. Steam - News
+075. Steam - Steam Community Hub Feeds
+076. Steam - Latest Curator Reviews
+077. Steam - Store Search
+078. Steam - Sharefile Changelog
+079. Steam - Community Workshop Search
+080. 腾讯 - 新闻中心
+081. 电玩巴士 TGBUS - 文章列表
+082. War Thunder - News
+083. World of Warships - Development Blog
+084. 盒心光环 - 资讯
+085. 游讯网 - 资讯
+086. 游戏打折情报 - 游戏折扣
+087. 游戏日报 - 分类
+088. 游研社 - 游研社 - 分类文章
+089. 游研社 - 游研社 - 全部文章
+090. GamerSky - 娱乐
+091. GamerSky - 资讯
+092. GamerSky - 评测
+093. 机核网 - 文章
+094. 机核网 - 分类
+095. 机核网 - 专题
+096. 机核网 - 资讯
+097. 机核网 - 标签
+098. 机核网 - 视频
+099. 旅法师营地 - 首页
+100. Nintendo - Nintendo Direct
+101. Nintendo - Switch System Update（Japan）
+102. Nintendo - 首页资讯（中国）
+103. Nintendo - News（Hong Kong only）
+104. 腾讯网 - 英雄联盟新闻
+105. Fortnite - News
 106. TapTap - 游戏论坛
 107. TapTap - 游戏更新
 

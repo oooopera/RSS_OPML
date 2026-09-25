@@ -11,7 +11,6 @@
       <outline type="rss" text="Minecraft - Java Runtimes" title="Minecraft - Java Runtimes" xmlUrl="https://rsshub.gamepp.cf/minecraft/java-runtime" />
       <outline type="rss" text="Minecraft - Java Game Update" title="Minecraft - Java Game Update" xmlUrl="https://rsshub.gamepp.cf/minecraft/version" />
       <outline type="rss" text="EA Games - APEX Legends 官网资讯" title="EA Games - APEX Legends 官网资讯" xmlUrl="https://rsshub.gamepp.cf/ea/apex-news/zh-hant/game-updates" />
-      <outline type="rss" text="Fortnite - News" title="Fortnite - News" xmlUrl="https://rsshub.gamepp.cf/fortnite/news" />
       <outline type="rss" text="全球游戏交流中心 - 文章" title="全球游戏交流中心 - 文章" xmlUrl="https://rsshub.gamepp.cf/gamer520/switchyouxi" />
       <outline type="rss" text="少女前线 - 情报局" title="少女前线 - 情报局" xmlUrl="https://rsshub.gamepp.cf/gf-cn/news" />
       <outline type="rss" text="完美世界电竞 - 资讯列表" title="完美世界电竞 - 资讯列表" xmlUrl="https://rsshub.gamepp.cf/wmpvp/news/1" />
@@ -110,6 +109,7 @@
       <outline type="rss" text="Nintendo - 首页资讯（中国）" title="Nintendo - 首页资讯（中国）" xmlUrl="https://rsshub.gamepp.cf/nintendo/news/china" />
       <outline type="rss" text="Nintendo - News（Hong Kong only）" title="Nintendo - News（Hong Kong only）" xmlUrl="https://rsshub.gamepp.cf/nintendo/news" />
       <outline type="rss" text="腾讯网 - 英雄联盟新闻" title="腾讯网 - 英雄联盟新闻" xmlUrl="https://rsshub.gamepp.cf/qq/lol/news" />
+      <outline type="rss" text="Fortnite - News" title="Fortnite - News" xmlUrl="https://rsshub.gamepp.cf/fortnite/news" />
       <outline type="rss" text="TapTap - 游戏论坛" title="TapTap - 游戏论坛" xmlUrl="https://rsshub.gamepp.cf/taptap/topic/142793/official" />
       <outline type="rss" text="TapTap - 游戏更新" title="TapTap - 游戏更新" xmlUrl="https://rsshub.gamepp.cf/taptap/changelog/60809/en_US" />
     </outline>
