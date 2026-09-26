@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-25 05:49)
+RSSHub Route List (Updated: 2026-09-26 05:51)
 
 ============================================================
 
@@ -700,9 +700,9 @@ RSSHub Route List (Updated: 2026-09-25 05:49)
 118. 知乎 - 知乎日报
 119. 知乎 - 知乎书店 - 知乎周刊
 120. 知乎 - xhu- 专栏
-121. 知乎 - 专栏
-122. 知乎 - 知乎日报 - 合集
-123. 知乎 - 话题
+121. 知乎 - 知乎日报 - 合集
+122. 知乎 - 话题
+123. 知乎 - 专栏
 124. pixiv - User Bookmark
 125. pixiv - Following timeline
 126. pixiv - Rankings

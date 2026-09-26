@@ -125,9 +125,9 @@
       <outline type="rss" text="知乎 - 知乎日报" title="知乎 - 知乎日报" xmlUrl="https://rsshub.gamepp.cf/zhihu/daily" />
       <outline type="rss" text="知乎 - 知乎书店 - 知乎周刊" title="知乎 - 知乎书店 - 知乎周刊" xmlUrl="https://rsshub.gamepp.cf/zhihu/weekly" />
       <outline type="rss" text="知乎 - xhu- 专栏" title="知乎 - xhu- 专栏" xmlUrl="https://rsshub.gamepp.cf/zhihu/xhu/zhuanlan/githubdaily" />
-      <outline type="rss" text="知乎 - 专栏" title="知乎 - 专栏" xmlUrl="https://rsshub.gamepp.cf/zhihu/zhuanlan/googledevelopers" />
       <outline type="rss" text="知乎 - 知乎日报 - 合集" title="知乎 - 知乎日报 - 合集" xmlUrl="https://rsshub.gamepp.cf/zhihu/daily/section/2" />
       <outline type="rss" text="知乎 - 话题" title="知乎 - 话题" xmlUrl="https://rsshub.gamepp.cf/zhihu/topic/19828946" />
+      <outline type="rss" text="知乎 - 专栏" title="知乎 - 专栏" xmlUrl="https://rsshub.gamepp.cf/zhihu/zhuanlan/googledevelopers" />
       <outline type="rss" text="pixiv - User Bookmark" title="pixiv - User Bookmark" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/bookmarks/15288095" />
       <outline type="rss" text="pixiv - Following timeline" title="pixiv - Following timeline" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/illustfollows" />
       <outline type="rss" text="pixiv - Rankings" title="pixiv - Rankings" xmlUrl="https://rsshub.gamepp.cf/pixiv/ranking/week" />
