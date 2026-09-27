@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-26 05:51)
+RSSHub Route List (Updated: 2026-09-27 06:13)
 
 ============================================================
 
@@ -1033,7 +1033,7 @@ RSSHub Route List (Updated: 2026-09-26 05:51)
 097. Finology Insider - Trending Topic
 
 
-📁 Category: 博客 (blog.opml) - Count: 89
+📁 Category: 博客 (blog.opml) - Count: 88
 ----------------------------------------
 001. FreeBuf - 文章
 002. Cohere - Blog
@@ -1106,24 +1106,23 @@ RSSHub Route List (Updated: 2026-09-26 05:51)
 069. Stanford - Hazy Research Blog
 070. The Gradient - Posts
 071. thzt - Blog
-072. Uber - Engineering
-073. People + AI Research (PAIR) - PAIR - AI Exploreables
-074. WordPress - WordPress
-075. 新语丝 - 新到资料
-076. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
-077. 竹白 - 文章
-078. 竹白 - 上周热门 TOP 20
-079. 国外主机测评 - 最新发布
-080. 浙江大学可视分析小组 - 博客
-081. 赵容部落 - 最新文章
-082. 财新博客 - 用户博客
-083. Medium - Medium Feed
-084. Medium - Personalized Recommendations - Following
-085. Medium - List
-086. Oct0pu5 blog - Oct的小破站
-087. 虎皮椒 - 文章
-088. Google - Developers Blog
-089. Google - Research Blog
+072. People + AI Research (PAIR) - PAIR - AI Exploreables
+073. WordPress - WordPress
+074. 新语丝 - 新到资料
+075. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
+076. 竹白 - 文章
+077. 竹白 - 上周热门 TOP 20
+078. 国外主机测评 - 最新发布
+079. 浙江大学可视分析小组 - 博客
+080. 赵容部落 - 最新文章
+081. 财新博客 - 用户博客
+082. Medium - Medium Feed
+083. Medium - Personalized Recommendations - Following
+084. Medium - List
+085. Oct0pu5 blog - Oct的小破站
+086. 虎皮椒 - 文章
+087. Google - Developers Blog
+088. Google - Research Blog
 
 
 📁 Category: Anime (anime.opml) - Count: 83
