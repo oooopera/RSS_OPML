@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-09-27 06:13)
+RSSHub Route List (Updated: 2026-09-28 06:19)
 
 ============================================================
 
@@ -621,95 +621,95 @@ RSSHub Route List (Updated: 2026-09-27 06:13)
 039. Misskey - Featured Notes
 040. Misskey - Home Timeline
 041. Misskey - User timeline
-042. X (Twitter) - Home latest timeline
-043. X (Twitter) - Home timeline
-044. X (Twitter) - Keyword
-045. X (Twitter) - User likes
-046. X (Twitter) - List timeline
-047. X (Twitter) - User media
-048. X (Twitter) - User timeline
-049. 抖音直播 - 博主
-050. Instagram - User Profile / Hashtag - Private API
-051. Instagram - User Profile / Hashtag
-052. CrushNinja - 匿名投稿頁面
-053. 豆瓣 - 新书速递
-054. 豆瓣 - 热门图书排行
-055. 豆瓣 - 频道书影音
-056. 豆瓣 - 热门同城活动
-057. 豆瓣 - 豆瓣书店
-058. 豆瓣 - 豆瓣电影分类
-059. 豆瓣 - 北美票房榜
-060. 豆瓣 - 话题
-061. 豆瓣 - 即将播出的剧集
-062. 豆瓣 - 电影即将上映
-063. 豆瓣 - 一周口碑榜
-064. 豆瓣 - 豆瓣榜单与集合
-065. 豆瓣 - 豆瓣每月推荐片单
-066. 豆瓣 - 商务印书馆新书速递
-067. 豆瓣 - 豆瓣电影人
-068. 豆瓣 - 豆瓣读书论坛
-069. 豆瓣 - 豆瓣豆列
-070. 豆瓣 - 浏览发现分栏目
-071. 豆瓣 - 浏览发现
-072. 豆瓣 - 豆瓣小组
-073. 豆瓣 - 豆瓣招聘
-074. 豆瓣 - 即将上映的电影
-075. 豆瓣 - 最新增加的音乐
-076. 豆瓣 - 正在上映的电影
-077. 简书 - 专题
-078. 简书 - 首页
-079. 简书 - 作者
-080. Letterboxd - User Watchlist
-081. Lofter - User
-082. Lofter - Collection
-083. Lofter - Tag
-084. Instagram - User Profile - Picnob
-085. TikTok - User Profile - Picuki
-086. Telegram - Sticker Pack
-087. Telegram - Telegram Blog
-088. Telegram - Channel
-089. Threads - User timeline
-090. TikTok - Live
-091. Vimeo - User Profile
-092. Vimeo - Category
-093. 哔哩哔哩 bilibili - 专栏文集
-094. 哔哩哔哩 bilibili - 入站必刷
-095. 哔哩哔哩 bilibili - 视频选集列表
-096. 哔哩哔哩 bilibili - 分区视频排行榜
-097. 哔哩哔哩 bilibili - 分区视频
-098. 哔哩哔哩 bilibili - 综合热门
-099. 哔哩哔哩 bilibili - 热搜
-100. 哔哩哔哩 bilibili - B 站每周必看
-101. Cara - Likes
-102. Cara - Portfolio
-103. Cara - Timeline
-104. 即刻 - 圈子
-105. 即刻 - 圈子 - 纯文字
-106. LinkedIn - Company Posts
-107. LinkedIn - Jobs
-108. Plurk - User
-109. Plurk - Anonymous
-110. Plurk - Hotlinks
-111. Plurk - Plurk News
-112. Plurk - Search
-113. Plurk - Top
-114. 方格子 - 出版專題
-115. 微博 - 热搜榜
-116. 知乎 - 知乎热榜
-117. 知乎 - 知乎想法热榜
-118. 知乎 - 知乎日报
-119. 知乎 - 知乎书店 - 知乎周刊
-120. 知乎 - xhu- 专栏
-121. 知乎 - 知乎日报 - 合集
-122. 知乎 - 话题
-123. 知乎 - 专栏
-124. pixiv - User Bookmark
-125. pixiv - Following timeline
-126. pixiv - Rankings
-127. pixiv - Keyword
-128. pixiv - User Activity
-129. pixiv - Novel Series
-130. pixiv - User Novels
+042. 抖音直播 - 博主
+043. Instagram - User Profile / Hashtag - Private API
+044. Instagram - User Profile / Hashtag
+045. CrushNinja - 匿名投稿頁面
+046. 豆瓣 - 新书速递
+047. 豆瓣 - 热门图书排行
+048. 豆瓣 - 频道书影音
+049. 豆瓣 - 热门同城活动
+050. 豆瓣 - 豆瓣书店
+051. 豆瓣 - 豆瓣电影分类
+052. 豆瓣 - 北美票房榜
+053. 豆瓣 - 话题
+054. 豆瓣 - 即将播出的剧集
+055. 豆瓣 - 电影即将上映
+056. 豆瓣 - 一周口碑榜
+057. 豆瓣 - 豆瓣榜单与集合
+058. 豆瓣 - 豆瓣每月推荐片单
+059. 豆瓣 - 商务印书馆新书速递
+060. 豆瓣 - 豆瓣电影人
+061. 豆瓣 - 豆瓣读书论坛
+062. 豆瓣 - 豆瓣豆列
+063. 豆瓣 - 浏览发现分栏目
+064. 豆瓣 - 浏览发现
+065. 豆瓣 - 豆瓣小组
+066. 豆瓣 - 豆瓣招聘
+067. 豆瓣 - 即将上映的电影
+068. 豆瓣 - 最新增加的音乐
+069. 豆瓣 - 正在上映的电影
+070. 简书 - 专题
+071. 简书 - 首页
+072. 简书 - 作者
+073. Letterboxd - User Watchlist
+074. Lofter - User
+075. Lofter - Collection
+076. Lofter - Tag
+077. Instagram - User Profile - Picnob
+078. TikTok - User Profile - Picuki
+079. Telegram - Sticker Pack
+080. Telegram - Telegram Blog
+081. Telegram - Channel
+082. Threads - User timeline
+083. TikTok - Live
+084. Vimeo - User Profile
+085. Vimeo - Category
+086. 哔哩哔哩 bilibili - 专栏文集
+087. 哔哩哔哩 bilibili - 入站必刷
+088. 哔哩哔哩 bilibili - 视频选集列表
+089. 哔哩哔哩 bilibili - 分区视频排行榜
+090. 哔哩哔哩 bilibili - 分区视频
+091. 哔哩哔哩 bilibili - 综合热门
+092. 哔哩哔哩 bilibili - 热搜
+093. 哔哩哔哩 bilibili - B 站每周必看
+094. Cara - Likes
+095. Cara - Portfolio
+096. Cara - Timeline
+097. 即刻 - 圈子
+098. 即刻 - 圈子 - 纯文字
+099. LinkedIn - Company Posts
+100. LinkedIn - Jobs
+101. Plurk - User
+102. Plurk - Anonymous
+103. Plurk - Hotlinks
+104. Plurk - Plurk News
+105. Plurk - Search
+106. Plurk - Top
+107. 方格子 - 出版專題
+108. 微博 - 热搜榜
+109. 知乎 - 知乎热榜
+110. 知乎 - 知乎想法热榜
+111. 知乎 - 知乎日报
+112. 知乎 - 知乎书店 - 知乎周刊
+113. 知乎 - xhu- 专栏
+114. 知乎 - 知乎日报 - 合集
+115. 知乎 - 话题
+116. 知乎 - 专栏
+117. pixiv - User Bookmark
+118. pixiv - Following timeline
+119. pixiv - Rankings
+120. pixiv - Keyword
+121. pixiv - User Activity
+122. pixiv - Novel Series
+123. pixiv - User Novels
+124. X (Twitter) - Home latest timeline
+125. X (Twitter) - Home timeline
+126. X (Twitter) - Keyword
+127. X (Twitter) - User likes
+128. X (Twitter) - List timeline
+129. X (Twitter) - User media
+130. X (Twitter) - User timeline
 
 
 📁 Category: 游戏 (game.opml) - Count: 107
@@ -1033,7 +1033,7 @@ RSSHub Route List (Updated: 2026-09-27 06:13)
 097. Finology Insider - Trending Topic
 
 
-📁 Category: 博客 (blog.opml) - Count: 88
+📁 Category: 博客 (blog.opml) - Count: 89
 ----------------------------------------
 001. FreeBuf - 文章
 002. Cohere - Blog
@@ -1106,23 +1106,24 @@ RSSHub Route List (Updated: 2026-09-27 06:13)
 069. Stanford - Hazy Research Blog
 070. The Gradient - Posts
 071. thzt - Blog
-072. People + AI Research (PAIR) - PAIR - AI Exploreables
-073. WordPress - WordPress
-074. 新语丝 - 新到资料
-075. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
-076. 竹白 - 文章
-077. 竹白 - 上周热门 TOP 20
-078. 国外主机测评 - 最新发布
-079. 浙江大学可视分析小组 - 博客
-080. 赵容部落 - 最新文章
-081. 财新博客 - 用户博客
-082. Medium - Medium Feed
-083. Medium - Personalized Recommendations - Following
-084. Medium - List
-085. Oct0pu5 blog - Oct的小破站
-086. 虎皮椒 - 文章
-087. Google - Developers Blog
-088. Google - Research Blog
+072. Uber - Engineering
+073. People + AI Research (PAIR) - PAIR - AI Exploreables
+074. WordPress - WordPress
+075. 新语丝 - 新到资料
+076. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
+077. 竹白 - 文章
+078. 竹白 - 上周热门 TOP 20
+079. 国外主机测评 - 最新发布
+080. 浙江大学可视分析小组 - 博客
+081. 赵容部落 - 最新文章
+082. 财新博客 - 用户博客
+083. Medium - Medium Feed
+084. Medium - Personalized Recommendations - Following
+085. Medium - List
+086. Oct0pu5 blog - Oct的小破站
+087. 虎皮椒 - 文章
+088. Google - Developers Blog
+089. Google - Research Blog
 
 
 📁 Category: Anime (anime.opml) - Count: 83
