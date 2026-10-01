@@ -47,8 +47,6 @@
       <outline type="rss" text="Misskey - Home Timeline" title="Misskey - Home Timeline" xmlUrl="https://rsshub.gamepp.cf/misskey/timeline/home/misskey.io" />
       <outline type="rss" text="Misskey - User timeline" title="Misskey - User timeline" xmlUrl="https://rsshub.gamepp.cf/misskey/users/notes/support%40misskey.io" />
       <outline type="rss" text="抖音直播 - 博主" title="抖音直播 - 博主" xmlUrl="https://rsshub.gamepp.cf/douyin/user/MS4wLjABAAAARcAHmmF9mAG3JEixq_CdP72APhBlGlLVbN-1eBcPqao" />
-      <outline type="rss" text="Instagram - User Profile / Hashtag - Private API" title="Instagram - User Profile / Hashtag - Private API" xmlUrl="https://rsshub.gamepp.cf/instagram/user/stefaniejoosten" />
-      <outline type="rss" text="Instagram - User Profile / Hashtag" title="Instagram - User Profile / Hashtag" xmlUrl="https://rsshub.gamepp.cf/instagram/2/user/stefaniejoosten" />
       <outline type="rss" text="CrushNinja - 匿名投稿頁面" title="CrushNinja - 匿名投稿頁面" xmlUrl="https://rsshub.gamepp.cf/crush/pages/141719909033861" />
       <outline type="rss" text="豆瓣 - 新书速递" title="豆瓣 - 新书速递" xmlUrl="https://rsshub.gamepp.cf/douban/book/latest/fiction" />
       <outline type="rss" text="豆瓣 - 热门图书排行" title="豆瓣 - 热门图书排行" xmlUrl="https://rsshub.gamepp.cf/douban/book/rank/fiction" />
