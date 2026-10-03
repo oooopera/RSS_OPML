@@ -22,8 +22,8 @@
       <outline type="rss" text="当当开放平台 - 公告" title="当当开放平台 - 公告" xmlUrl="https://rsshub.gamepp.cf/dangdang/notice/1" />
       <outline type="rss" text="得物 - 平台公告" title="得物 - 平台公告" xmlUrl="https://rsshub.gamepp.cf/dewu/declaration/1010580020" />
       <outline type="rss" text="抖店开放平台 - 平台公告" title="抖店开放平台 - 平台公告" xmlUrl="https://rsshub.gamepp.cf/jinritemai/docs/19" />
-      <outline type="rss" text="Manus - Blog" title="Manus - Blog" xmlUrl="https://rsshub.gamepp.cf/manus/blog" />
       <outline type="rss" text="蓝桥云课 - 全站发布的课程" title="蓝桥云课 - 全站发布的课程" xmlUrl="https://rsshub.gamepp.cf/lanqiao/courses/latest/all" />
+      <outline type="rss" text="Manus - Blog" title="Manus - Blog" xmlUrl="https://rsshub.gamepp.cf/manus/blog" />
       <outline type="rss" text="30 Seconds of code - Category and Subcategory" title="30 Seconds of code - Category and Subcategory" xmlUrl="https://rsshub.gamepp.cf/30secondsofcode/category/css/interactivity" />
       <outline type="rss" text="30 Seconds of code - New &amp; Popular Snippets" title="30 Seconds of code - New &amp; Popular Snippets" xmlUrl="https://rsshub.gamepp.cf/30secondsofcode/latest" />
       <outline type="rss" text="51CTO - 推荐" title="51CTO - 推荐" xmlUrl="https://rsshub.gamepp.cf/51cto/index/recommend" />
@@ -86,8 +86,8 @@
       <outline type="rss" text="Meta - AI Blog" title="Meta - AI Blog" xmlUrl="https://rsshub.gamepp.cf/meta/ai/blog" />
       <outline type="rss" text="墨天轮 - 合辑" title="墨天轮 - 合辑" xmlUrl="https://rsshub.gamepp.cf/modb/topic/44158" />
       <outline type="rss" text="ModelScope 魔搭社区 - 研习社" title="ModelScope 魔搭社区 - 研习社" xmlUrl="https://rsshub.gamepp.cf/modelscope/learn" />
-      <outline type="rss" text="ModelScope 魔搭社区 - 模型库" title="ModelScope 魔搭社区 - 模型库" xmlUrl="https://rsshub.gamepp.cf/modelscope/models" />
       <outline type="rss" text="ModelScope 魔搭社区 - 数据集" title="ModelScope 魔搭社区 - 数据集" xmlUrl="https://rsshub.gamepp.cf/modelscope/datasets" />
+      <outline type="rss" text="ModelScope 魔搭社区 - 模型库" title="ModelScope 魔搭社区 - 模型库" xmlUrl="https://rsshub.gamepp.cf/modelscope/models" />
       <outline type="rss" text="ModelScope 魔搭社区 - 创空间" title="ModelScope 魔搭社区 - 创空间" xmlUrl="https://rsshub.gamepp.cf/modelscope/studios" />
       <outline type="rss" text="ModelScope 魔搭社区 - DevPress 官方社区" title="ModelScope 魔搭社区 - DevPress 官方社区" xmlUrl="https://rsshub.gamepp.cf/modelscope/community" />
       <outline type="rss" text="MySQL - Release Notes" title="MySQL - Release Notes" xmlUrl="https://rsshub.gamepp.cf/mysql/release/8.0" />

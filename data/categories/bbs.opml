@@ -10,20 +10,20 @@
       <outline type="rss" text="LA UOSC社区 - 最热 / 最新帖子" title="LA UOSC社区 - 最热 / 最新帖子" xmlUrl="https://rsshub.gamepp.cf/loongarch/post/newest" />
       <outline type="rss" text="MIUI - 小米社区用户发帖" title="MIUI - 小米社区用户发帖" xmlUrl="https://rsshub.gamepp.cf/miui/community/user/1200057564" />
       <outline type="rss" text="小特社区 - 首页帖子" title="小特社区 - 首页帖子" xmlUrl="https://rsshub.gamepp.cf/xiaote/news" />
+      <outline type="rss" text="4chan - Board's catalog" title="4chan - Board's catalog" xmlUrl="https://rsshub.gamepp.cf/4chan/g/catalog" />
+      <outline type="rss" text="斗鱼直播 - 鱼吧帖子" title="斗鱼直播 - 鱼吧帖子" xmlUrl="https://rsshub.gamepp.cf/douyu/group/1011" />
       <outline type="rss" text="Deepin - BBS Home Page" title="Deepin - BBS Home Page" xmlUrl="https://rsshub.gamepp.cf/deepin/homepage/78326" />
       <outline type="rss" text="Deepin - 首页主题列表" title="Deepin - 首页主题列表" xmlUrl="https://rsshub.gamepp.cf/deepin/threads/latest" />
       <outline type="rss" text="Discourse - Latest posts" title="Discourse - Latest posts" xmlUrl="https://rsshub.gamepp.cf/discourse/0/posts" />
       <outline type="rss" text="电鸭社区 - 工作机会" title="电鸭社区 - 工作机会" xmlUrl="https://rsshub.gamepp.cf/eleduck/jobs" />
       <outline type="rss" text="电鸭社区 - 分类文章" title="电鸭社区 - 分类文章" xmlUrl="https://rsshub.gamepp.cf/eleduck/posts/4" />
       <outline type="rss" text="威锋 - 社区" title="威锋 - 社区" xmlUrl="https://rsshub.gamepp.cf/feng/forum/1" />
-      <outline type="rss" text="4chan - Board's catalog" title="4chan - Board's catalog" xmlUrl="https://rsshub.gamepp.cf/4chan/g/catalog" />
-      <outline type="rss" text="斗鱼直播 - 鱼吧帖子" title="斗鱼直播 - 鱼吧帖子" xmlUrl="https://rsshub.gamepp.cf/douyu/group/1011" />
-      <outline type="rss" text="Zuvio - 看板列表" title="Zuvio - 看板列表" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/boards" />
-      <outline type="rss" text="Zuvio - 校園話題" title="Zuvio - 校園話題" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/34" />
       <outline type="rss" text="Meteor - 看板列表" title="Meteor - 看板列表" xmlUrl="https://rsshub.gamepp.cf/meteor/boards" />
       <outline type="rss" text="Meteor - 看板" title="Meteor - 看板" xmlUrl="https://rsshub.gamepp.cf/meteor/all" />
       <outline type="rss" text="盛趣游戏在线 - 帖子" title="盛趣游戏在线 - 帖子" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/posts/all/hot" />
       <outline type="rss" text="盛趣游戏在线 - 游戏近况" title="盛趣游戏在线 - 游戏近况" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-resently/10008214" />
+      <outline type="rss" text="Zuvio - 校園話題" title="Zuvio - 校園話題" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/34" />
+      <outline type="rss" text="Zuvio - 看板列表" title="Zuvio - 看板列表" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/boards" />
       <outline type="rss" text="19 楼 - 头条" title="19 楼 - 头条" xmlUrl="https://rsshub.gamepp.cf/19lou/jiaxing" />
       <outline type="rss" text="一亩三分地 - 录取结果" title="一亩三分地 - 录取结果" xmlUrl="https://rsshub.gamepp.cf/1point3acres/offer/12/null/CMU" />
       <outline type="rss" text="一亩三分地 - 标签" title="一亩三分地 - 标签" xmlUrl="https://rsshub.gamepp.cf/1point3acres/category/h1b" />

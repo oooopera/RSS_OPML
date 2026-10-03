@@ -7,6 +7,8 @@
     <outline text="图片" title="图片">
       <outline type="rss" text="Konachan.com Anime Wallpapers - Popular Recent Posts" title="Konachan.com Anime Wallpapers - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/konachan/post/popular_recent/1d" />
       <outline type="rss" text="yande.re - Popular Recent Posts" title="yande.re - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/yande/post/popular_recent/1d" />
+      <outline type="rss" text="Gelbooru - 标签查询" title="Gelbooru - 标签查询" xmlUrl="https://rsshub.gamepp.cf/gelbooru/post/1girl%20rating%3Ageneral" />
+      <outline type="rss" text="kpopping - Pics" title="kpopping - Pics" xmlUrl="https://rsshub.gamepp.cf/kpopping/kpics/gender%3Dfemale%26category%3Dmusicshow%26idolId%3Da1664634-5caf-45d3-a57f-49d99d929aa9" />
       <outline type="rss" text="EVERIA.CLUB - Latest" title="EVERIA.CLUB - Latest" xmlUrl="https://rsshub.gamepp.cf/everia" />
       <outline type="rss" text="EVERIA.CLUB - Search" title="EVERIA.CLUB - Search" xmlUrl="https://rsshub.gamepp.cf/everia/search/%E6%97%A5%E5%90%91%E5%9D%8246" />
       <outline type="rss" text="EVERIA.CLUB - Images with category" title="EVERIA.CLUB - Images with category" xmlUrl="https://rsshub.gamepp.cf/everia/category/cosplay" />
@@ -14,6 +16,7 @@
       <outline type="rss" text="Fantia - Search" title="Fantia - Search" xmlUrl="https://rsshub.gamepp.cf/fantia/search/posts/all/daily" />
       <outline type="rss" text="Fantia - User Posts" title="Fantia - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantia/user/3498" />
       <outline type="rss" text="Pinterest - User" title="Pinterest - User" xmlUrl="https://rsshub.gamepp.cf/pinterest/user/howieserious" />
+      <outline type="rss" text="Pixabay - Search" title="Pixabay - Search" xmlUrl="https://rsshub.gamepp.cf/pixabay/search/cat" />
       <outline type="rss" text="Voronoi - Editor's Pick Posts" title="Voronoi - Editor's Pick Posts" xmlUrl="https://rsshub.gamepp.cf/voronoiapp/editors-pick" />
       <outline type="rss" text="Voronoi - Home Posts" title="Voronoi - Home Posts" xmlUrl="https://rsshub.gamepp.cf/voronoiapp/home" />
       <outline type="rss" text="Voronoi - Latest Posts" title="Voronoi - Latest Posts" xmlUrl="https://rsshub.gamepp.cf/voronoiapp/latest" />
@@ -21,9 +24,6 @@
       <outline type="rss" text="Voronoi - Search Keyword Posts" title="Voronoi - Search Keyword Posts" xmlUrl="https://rsshub.gamepp.cf/voronoiapp/search/china" />
       <outline type="rss" text="8KCosplay - 最新" title="8KCosplay - 最新" xmlUrl="https://rsshub.gamepp.cf/8kcos" />
       <outline type="rss" text="8KCosplay - 标签" title="8KCosplay - 标签" xmlUrl="https://rsshub.gamepp.cf/8kcos/tag/cosplay" />
-      <outline type="rss" text="Pixabay - Search" title="Pixabay - Search" xmlUrl="https://rsshub.gamepp.cf/pixabay/search/cat" />
-      <outline type="rss" text="Gelbooru - 标签查询" title="Gelbooru - 标签查询" xmlUrl="https://rsshub.gamepp.cf/gelbooru/post/1girl%20rating%3Ageneral" />
-      <outline type="rss" text="kpopping - Pics" title="kpopping - Pics" xmlUrl="https://rsshub.gamepp.cf/kpopping/kpics/gender%3Dfemale%26category%3Dmusicshow%26idolId%3Da1664634-5caf-45d3-a57f-49d99d929aa9" />
       <outline type="rss" text="Skeb - Skeb" title="Skeb - Skeb" xmlUrl="https://rsshub.gamepp.cf/skeb/new_art_works" />
       <outline type="rss" text="Skeb - Creator Works" title="Skeb - Creator Works" xmlUrl="https://rsshub.gamepp.cf/skeb/works/%40brm2_1925" />
       <outline type="rss" text="BaoBua - Category" title="BaoBua - Category" xmlUrl="https://rsshub.gamepp.cf/baobua/category/network" />

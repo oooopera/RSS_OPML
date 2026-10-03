@@ -5,11 +5,11 @@
   </head>
   <body>
     <outline text="直播" title="直播">
-      <outline type="rss" text="Twitch - Live" title="Twitch - Live" xmlUrl="https://rsshub.gamepp.cf/twitch/live/riotgames" />
-      <outline type="rss" text="Twitch - Channel Video" title="Twitch - Channel Video" xmlUrl="https://rsshub.gamepp.cf/twitch/video/riotgames/highlights" />
       <outline type="rss" text="浪 Play 直播 - 直播间开播" title="浪 Play 直播 - 直播间开播" xmlUrl="https://rsshub.gamepp.cf/lang/live/room/1352360" />
       <outline type="rss" text="LiSA - Latest Discography" title="LiSA - Latest Discography" xmlUrl="https://rsshub.gamepp.cf/lxixsxa/disco" />
       <outline type="rss" text="LiSA - News" title="LiSA - News" xmlUrl="https://rsshub.gamepp.cf/lxixsxa/info" />
+      <outline type="rss" text="Twitch - Live" title="Twitch - Live" xmlUrl="https://rsshub.gamepp.cf/twitch/live/riotgames" />
+      <outline type="rss" text="Twitch - Channel Video" title="Twitch - Channel Video" xmlUrl="https://rsshub.gamepp.cf/twitch/video/riotgames/highlights" />
       <outline type="rss" text="Yoasobi Official - News &amp; Biography" title="Yoasobi Official - News &amp; Biography" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/info/news" />
       <outline type="rss" text="Yoasobi Official - Live" title="Yoasobi Official - Live" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/live" />
       <outline type="rss" text="Yoasobi Official - Media" title="Yoasobi Official - Media" xmlUrl="https://rsshub.gamepp.cf/yoasobi-music/media" />

@@ -11,13 +11,13 @@
       <outline type="rss" text="Docker Hub - Image New Build" title="Docker Hub - Image New Build" xmlUrl="https://rsshub.gamepp.cf/dockerhub/build/diygod/rsshub/latest" />
       <outline type="rss" text="Docker Hub - Owner Repositories" title="Docker Hub - Owner Repositories" xmlUrl="https://rsshub.gamepp.cf/dockerhub/repositories/diygod" />
       <outline type="rss" text="Docker Hub - Image New Tag" title="Docker Hub - Image New Tag" xmlUrl="https://rsshub.gamepp.cf/dockerhub/tag/library/mariadb" />
+      <outline type="rss" text="GoFans - 最新限免 / 促销应用" title="GoFans - 最新限免 / 促销应用" xmlUrl="https://rsshub.gamepp.cf/gofans" />
+      <outline type="rss" text="联想 - 驱动" title="联想 - 驱动" xmlUrl="https://rsshub.gamepp.cf/lenovo/drive/PF3WRD2G" />
+      <outline type="rss" text="NPM - Package" title="NPM - Package" xmlUrl="https://rsshub.gamepp.cf/npm/package/rsshub" />
       <outline type="rss" text="Postman - Release Notes" title="Postman - Release Notes" xmlUrl="https://rsshub.gamepp.cf/postman/release-notes" />
       <outline type="rss" text="RemNote - Changelog" title="RemNote - Changelog" xmlUrl="https://rsshub.gamepp.cf/remnote/changelog" />
       <outline type="rss" text="Unraid - Community Apps" title="Unraid - Community Apps" xmlUrl="https://rsshub.gamepp.cf/unraid/community-apps" />
       <outline type="rss" text="App Center - Release" title="App Center - Release" xmlUrl="https://rsshub.gamepp.cf/app-center/release/cloudflare/1.1.1.1-windows/beta" />
-      <outline type="rss" text="GoFans - 最新限免 / 促销应用" title="GoFans - 最新限免 / 促销应用" xmlUrl="https://rsshub.gamepp.cf/gofans" />
-      <outline type="rss" text="联想 - 驱动" title="联想 - 驱动" xmlUrl="https://rsshub.gamepp.cf/lenovo/drive/PF3WRD2G" />
-      <outline type="rss" text="NPM - Package" title="NPM - Package" xmlUrl="https://rsshub.gamepp.cf/npm/package/rsshub" />
       <outline type="rss" text="小米 - 小米应用商店金米奖" title="小米 - 小米应用商店金米奖" xmlUrl="https://rsshub.gamepp.cf/mi/golden" />
       <outline type="rss" text="423Down - 423Down" title="423Down - 423Down" xmlUrl="https://rsshub.gamepp.cf/423down" />
       <outline type="rss" text="Alpine Linux - Packages" title="Alpine Linux - Packages" xmlUrl="https://rsshub.gamepp.cf/alpinelinux/pkgs/nodejs" />

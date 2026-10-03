@@ -7,34 +7,34 @@
     <outline text="游戏" title="游戏">
       <outline type="rss" text="网易公开课 - 用户发帖" title="网易公开课 - 用户发帖" xmlUrl="https://rsshub.gamepp.cf/163/ds/63dfbaf4117741daaf73404601165843" />
       <outline type="rss" text="Blue Archive - News" title="Blue Archive - News" xmlUrl="https://rsshub.gamepp.cf/bluearchive/news/jp" />
+      <outline type="rss" text="二柄 APP - 新闻" title="二柄 APP - 新闻" xmlUrl="https://rsshub.gamepp.cf/diershoubing/news" />
+      <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
+      <outline type="rss" text="JUMP - 游戏折扣" title="JUMP - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/jump/discount/ps5/all" />
       <outline type="rss" text="Minecraft - Java Blocked Servers" title="Minecraft - Java Blocked Servers" xmlUrl="https://rsshub.gamepp.cf/minecraft/blockedservers" />
       <outline type="rss" text="Minecraft - Java Runtimes" title="Minecraft - Java Runtimes" xmlUrl="https://rsshub.gamepp.cf/minecraft/java-runtime" />
       <outline type="rss" text="Minecraft - Java Game Update" title="Minecraft - Java Game Update" xmlUrl="https://rsshub.gamepp.cf/minecraft/version" />
+      <outline type="rss" text="Modrinth - Project versions" title="Modrinth - Project versions" xmlUrl="https://rsshub.gamepp.cf/modrinth/project/sodium/versions" />
+      <outline type="rss" text="FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)" title="FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)" xmlUrl="https://rsshub.gamepp.cf/ff14/global/na/all" />
+      <outline type="rss" text="FINAL FANTASY XIV - 最终幻想 14 国服" title="FINAL FANTASY XIV - 最终幻想 14 国服" xmlUrl="https://rsshub.gamepp.cf/ff14/zh/news" />
       <outline type="rss" text="EA Games - APEX Legends 官网资讯" title="EA Games - APEX Legends 官网资讯" xmlUrl="https://rsshub.gamepp.cf/ea/apex-news/zh-hant/game-updates" />
+      <outline type="rss" text="遊戲基地 Gamebase - 新聞" title="遊戲基地 Gamebase - 新聞" xmlUrl="https://rsshub.gamepp.cf/gamebase/news" />
       <outline type="rss" text="全球游戏交流中心 - 文章" title="全球游戏交流中心 - 文章" xmlUrl="https://rsshub.gamepp.cf/gamer520/switchyouxi" />
       <outline type="rss" text="少女前线 - 情报局" title="少女前线 - 情报局" xmlUrl="https://rsshub.gamepp.cf/gf-cn/news" />
+      <outline type="rss" text="HoYoLAB - Official Announcement" title="HoYoLAB - Official Announcement" xmlUrl="https://rsshub.gamepp.cf/hoyolab/news/zh-cn/2/2" />
       <outline type="rss" text="完美世界电竞 - 资讯列表" title="完美世界电竞 - 资讯列表" xmlUrl="https://rsshub.gamepp.cf/wmpvp/news/1" />
       <outline type="rss" text="小黑盒 - 游戏折扣" title="小黑盒 - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/discount/pc" />
       <outline type="rss" text="小黑盒 - 喜加一" title="小黑盒 - 喜加一" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/add2cart/epic" />
       <outline type="rss" text="小黑盒 - 游戏新闻" title="小黑盒 - 游戏新闻" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/news" />
       <outline type="rss" text="小黑盒 - 用户动态" title="小黑盒 - 用户动态" xmlUrl="https://rsshub.gamepp.cf/xiaoheihe/user/30664023" />
-      <outline type="rss" text="二柄 APP - 新闻" title="二柄 APP - 新闻" xmlUrl="https://rsshub.gamepp.cf/diershoubing/news" />
-      <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
-      <outline type="rss" text="遊戲基地 Gamebase - 新聞" title="遊戲基地 Gamebase - 新聞" xmlUrl="https://rsshub.gamepp.cf/gamebase/news" />
-      <outline type="rss" text="HoYoLAB - Official Announcement" title="HoYoLAB - Official Announcement" xmlUrl="https://rsshub.gamepp.cf/hoyolab/news/zh-cn/2/2" />
-      <outline type="rss" text="JUMP - 游戏折扣" title="JUMP - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/jump/discount/ps5/all" />
-      <outline type="rss" text="Modrinth - Project versions" title="Modrinth - Project versions" xmlUrl="https://rsshub.gamepp.cf/modrinth/project/sodium/versions" />
-      <outline type="rss" text="FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)" title="FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)" xmlUrl="https://rsshub.gamepp.cf/ff14/global/na/all" />
-      <outline type="rss" text="FINAL FANTASY XIV - 最终幻想 14 国服" title="FINAL FANTASY XIV - 最终幻想 14 国服" xmlUrl="https://rsshub.gamepp.cf/ff14/zh/news" />
       <outline type="rss" text="4Gamers - 标签" title="4Gamers - 标签" xmlUrl="https://rsshub.gamepp.cf/4gamers/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB" />
       <outline type="rss" text="4Gamers - 主題" title="4Gamers - 主題" xmlUrl="https://rsshub.gamepp.cf/4gamers/topic/gentlemen-topic" />
       <outline type="rss" text="米哈游 - 崩坏：星穹铁道" title="米哈游 - 崩坏：星穹铁道" xmlUrl="https://rsshub.gamepp.cf/mihoyo/sr" />
       <outline type="rss" text="米哈游 - 原神" title="米哈游 - 原神" xmlUrl="https://rsshub.gamepp.cf/mihoyo/ys" />
       <outline type="rss" text="米哈游 - 绝区零" title="米哈游 - 绝区零" xmlUrl="https://rsshub.gamepp.cf/mihoyo/zzz" />
-      <outline type="rss" text="米哈游 - 米游社 - 用户关注" title="米哈游 - 米游社 - 用户关注" xmlUrl="https://rsshub.gamepp.cf/mihoyo/bbs/follow-list/77005350" />
-      <outline type="rss" text="米哈游 - 米游社 - 官方公告" title="米哈游 - 米游社 - 官方公告" xmlUrl="https://rsshub.gamepp.cf/mihoyo/bbs/official/2/3/20/" />
       <outline type="rss" text="米哈游 - 米游社 - 同人榜" title="米哈游 - 米游社 - 同人榜" xmlUrl="https://rsshub.gamepp.cf/mihoyo/bbs/img-ranking/ys/forumType%3Dtongren%26cateType%3Dillustration%26rankingType%3Ddaily" />
+      <outline type="rss" text="米哈游 - 米游社 - 官方公告" title="米哈游 - 米游社 - 官方公告" xmlUrl="https://rsshub.gamepp.cf/mihoyo/bbs/official/2/3/20/" />
       <outline type="rss" text="米哈游 - 米游社 - 用户帖子" title="米哈游 - 米游社 - 用户帖子" xmlUrl="https://rsshub.gamepp.cf/mihoyo/bbs/user-post/77005350" />
+      <outline type="rss" text="米哈游 - 米游社 - 用户关注" title="米哈游 - 米游社 - 用户关注" xmlUrl="https://rsshub.gamepp.cf/mihoyo/bbs/follow-list/77005350" />
       <outline type="rss" text="游戏星辰 - 游戏星辰" title="游戏星辰 - 游戏星辰" xmlUrl="https://rsshub.gamepp.cf/2023game/sgame/topicList" />
       <outline type="rss" text="3DMGame - 新闻中心" title="3DMGame - 新闻中心" xmlUrl="https://rsshub.gamepp.cf/3dmgame/news" />
       <outline type="rss" text="3k-Switch游戏库 - 3k-Switch游戏库" title="3k-Switch游戏库 - 3k-Switch游戏库" xmlUrl="https://rsshub.gamepp.cf/3kns/category%3Dall%26lang%3Dall" />
@@ -78,8 +78,8 @@
       <outline type="rss" text="PSN 中文站 - 闲游" title="PSN 中文站 - 闲游" xmlUrl="https://rsshub.gamepp.cf/psnine/trade" />
       <outline type="rss" text="SEGA - maimai DX Japanese Ver. News" title="SEGA - maimai DX Japanese Ver. News" xmlUrl="https://rsshub.gamepp.cf/sega/maimaidx/news" />
       <outline type="rss" text="SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ" title="SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ" xmlUrl="https://rsshub.gamepp.cf/sega/pjsekai/news" />
-      <outline type="rss" text="Steam - News" title="Steam - News" xmlUrl="https://rsshub.gamepp.cf/steam/news/958260/english" />
       <outline type="rss" text="Steam - Steam Community Hub Feeds" title="Steam - Steam Community Hub Feeds" xmlUrl="https://rsshub.gamepp.cf/steam/appcommunityfeed/730" />
+      <outline type="rss" text="Steam - News" title="Steam - News" xmlUrl="https://rsshub.gamepp.cf/steam/news/958260/english" />
       <outline type="rss" text="Steam - Latest Curator Reviews" title="Steam - Latest Curator Reviews" xmlUrl="https://rsshub.gamepp.cf/steam/curator/34646096-80-Days" />
       <outline type="rss" text="Steam - Store Search" title="Steam - Store Search" xmlUrl="https://rsshub.gamepp.cf/steam/search/sort_by%3DReleased_DESC%26tags%3D492%26category1%3D10%26os%3Dlinux" />
       <outline type="rss" text="Steam - Sharefile Changelog" title="Steam - Sharefile Changelog" xmlUrl="https://rsshub.gamepp.cf/steam/sharefile-changelog/2851063440/l%3Dschinese" />
