@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-04 06:37)
+RSSHub Route List (Updated: 2026-10-05 06:32)
 
 ============================================================
 
@@ -821,7 +821,7 @@ RSSHub Route List (Updated: 2026-10-04 06:37)
 107. TapTap - 游戏更新
 
 
-📁 Category: Multimedia (multimedia.opml) - Count: 105
+📁 Category: Multimedia (multimedia.opml) - Count: 106
 ----------------------------------------
 001. 网易公开课 - 用户歌单
 002. 网易公开课 - 用户听歌排行
@@ -832,102 +832,103 @@ RSSHub Route List (Updated: 2026-10-04 06:37)
 007. 2048 核基地 - 论坛
 008. 阿里云盘 - 文件列表
 009. 猫眼电影 - 实时票房榜
-010. 猫眼电影 - 正在热映
-011. NIO - NIO Radio
-012. Spotify - Artist Albums
-013. Spotify - Personal Top Artists
-014. Spotify - Playlist
-015. Spotify - Personal Saved Tracks
-016. Spotify - Show/Podcasts
-017. Spotify - Personal Top Tracks
-018. 阿基米德 FM - 播客
-019. ASMR Online - 最新收录
-020. CNTV - 栏目
-021. 通用影视采集站视频采集接口路由 - 最新资源
-022. 不太灵影视 - 影视资源下载列表
-023. 不太灵影视 - 最新资源列表
-024. Mixcloud - User
-025. 云听 - 专辑
-026. 云听 - 直播
-027. The Movie Database - Collection
-028. The Movie Database - TV Show Seasons
-029. The Movie Database - Sheet
-030. The Movie Database - Trending
-031. JavTrailers - Casts
-032. JavTrailers - Categories
-033. JavTrailers - Studios
-034. ManyVids - Creator Videos
-035. 蜻蜓 FM - 专辑
-036. 蜻蜓 FM - 播客
-037. SoundOn - Podcast
-038. 听听 FM - 节目
-039. 喜马拉雅 - 专辑
-040. myfans - User Posts
-041. Niconico - User Videos
-042. 0xxx.ws - Source
-043. 4k 世界 - 分类
-044. 7mmtv - Category
-045. 91porn - Hot Video Today
-046. Apple - 播客
-047. Bandcamp - Weekly
-048. 哔嘀影视 - 首页
-049. BFL AI - Announcements
-050. BT影视 - BTBTLA | 最近更新
-051. BT 之家 - 分类
-052. Coomer - Posts
-053. DoMP4 影视 - 剧集订阅
-054. DoMP4 影视 - 最近更新的电源BT列表
-055. DoMP4 影视 - 最近更新
-056. 电影天堂 - 分类
-057. 追新番 - 最近更新
-058. IMDb - Charts
-059. 爱奇艺 - 剧集
-060. 西瓜视频 - 用户视频投稿
-061. JavBus - Works
-062. Javtiful - Actress
-063. Javtiful - Channel
-064. MissAV - 最近更新
-065. musify - Latest
-066. NEW 字幕组 - 指定剧集
-067. Nyaa - Search Result
-068. 欧乐影院 - 视频
-069. 欧乐影院 - 最新视频
-070. Podwise - Collections
-071. PornHub - Keyword Search
-072. PornHub - Category
-073. PornHub - Video List
-074. PornHub - Model
-075. PornHub - Pornstar
-076. PornHub - Users
-077. SpankBang - New Porn Videos
-078. 故事 FM - 播客
-079. 草榴社区 - 分区帖子
-080. 草榴社区 - 帖子跟踪
-081. U3C3 - Search
-082. 小宇宙 - 播客
-083. 人人影视 - 影视资讯
-084. 人人影视 - 今日播出
-085. FIX 字幕侠 - 分类
-086. BT 之家 1LOU 站 - 通用
-087. 6v 电影 - 分类
-088. 6v 电影 - 最新电影
-089. 6v 电影 - 最新电视剧
-090. 乳首ふぇち - Category
-091. 乳首ふぇち - 最新記事
-092. 乳首ふぇち - 動画カテゴリー
-093. 乳首ふぇち - AVメーカー
-094. 乳首ふぇち - Search
-095. 乳首ふぇち - Tag
-096. FANTUBE - User Posts
-097. JavDB - 演員
-098. JavDB - 主页
-099. JavDB - 片商
-100. JavDB - 排行榜
-101. JavDB - 搜索
-102. JavDB - 系列
-103. JavDB - 分類
-104. JavDB - 番号
-105. JAVLibrary - Best Reviews
+010. 猫眼电影 - 正在热映 - 完整版
+011. 猫眼电影 - 正在热映
+012. NIO - NIO Radio
+013. Spotify - Artist Albums
+014. Spotify - Personal Top Artists
+015. Spotify - Playlist
+016. Spotify - Personal Saved Tracks
+017. Spotify - Show/Podcasts
+018. Spotify - Personal Top Tracks
+019. 阿基米德 FM - 播客
+020. ASMR Online - 最新收录
+021. CNTV - 栏目
+022. 通用影视采集站视频采集接口路由 - 最新资源
+023. 不太灵影视 - 影视资源下载列表
+024. 不太灵影视 - 最新资源列表
+025. Mixcloud - User
+026. 云听 - 专辑
+027. 云听 - 直播
+028. The Movie Database - Collection
+029. The Movie Database - TV Show Seasons
+030. The Movie Database - Sheet
+031. The Movie Database - Trending
+032. JavTrailers - Casts
+033. JavTrailers - Categories
+034. JavTrailers - Studios
+035. ManyVids - Creator Videos
+036. 蜻蜓 FM - 专辑
+037. 蜻蜓 FM - 播客
+038. SoundOn - Podcast
+039. 听听 FM - 节目
+040. 喜马拉雅 - 专辑
+041. myfans - User Posts
+042. Niconico - User Videos
+043. 0xxx.ws - Source
+044. 4k 世界 - 分类
+045. 7mmtv - Category
+046. 91porn - Hot Video Today
+047. Apple - 播客
+048. Bandcamp - Weekly
+049. 哔嘀影视 - 首页
+050. BFL AI - Announcements
+051. BT影视 - BTBTLA | 最近更新
+052. BT 之家 - 分类
+053. Coomer - Posts
+054. DoMP4 影视 - 剧集订阅
+055. DoMP4 影视 - 最近更新的电源BT列表
+056. DoMP4 影视 - 最近更新
+057. 电影天堂 - 分类
+058. 追新番 - 最近更新
+059. IMDb - Charts
+060. 爱奇艺 - 剧集
+061. 西瓜视频 - 用户视频投稿
+062. JavBus - Works
+063. Javtiful - Actress
+064. Javtiful - Channel
+065. MissAV - 最近更新
+066. musify - Latest
+067. NEW 字幕组 - 指定剧集
+068. Nyaa - Search Result
+069. 欧乐影院 - 视频
+070. 欧乐影院 - 最新视频
+071. Podwise - Collections
+072. PornHub - Keyword Search
+073. PornHub - Category
+074. PornHub - Video List
+075. PornHub - Model
+076. PornHub - Pornstar
+077. PornHub - Users
+078. SpankBang - New Porn Videos
+079. 故事 FM - 播客
+080. 草榴社区 - 分区帖子
+081. 草榴社区 - 帖子跟踪
+082. U3C3 - Search
+083. 小宇宙 - 播客
+084. 人人影视 - 影视资讯
+085. 人人影视 - 今日播出
+086. FIX 字幕侠 - 分类
+087. BT 之家 1LOU 站 - 通用
+088. 6v 电影 - 分类
+089. 6v 电影 - 最新电影
+090. 6v 电影 - 最新电视剧
+091. 乳首ふぇち - Category
+092. 乳首ふぇち - 最新記事
+093. 乳首ふぇち - 動画カテゴリー
+094. 乳首ふぇち - AVメーカー
+095. 乳首ふぇち - Search
+096. 乳首ふぇち - Tag
+097. FANTUBE - User Posts
+098. JavDB - 演員
+099. JavDB - 主页
+100. JavDB - 片商
+101. JavDB - 排行榜
+102. JavDB - 搜索
+103. JavDB - 系列
+104. JavDB - 分類
+105. JavDB - 番号
+106. JAVLibrary - Best Reviews
 
 
 📁 Category: 金融 (finance.opml) - Count: 97
