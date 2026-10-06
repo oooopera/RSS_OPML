@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-05 06:32)
+RSSHub Route List (Updated: 2026-10-06 07:11)
 
 ============================================================
 
@@ -1554,59 +1554,6 @@ RSSHub Route List (Updated: 2026-10-05 06:32)
 052. Google - Search
 
 
-📁 Category: Shopping (shopping.opml) - Count: 49
-----------------------------------------
-001. Ktown4u - Get the products on sale
-002. 多抓鱼 - 搜索结果
-003. Uniqlo - New Arrivals
-004. 线报酷 - 线板酷
-005. 中国养猪网 - 全国今日生猪价格
-006. 秀动网 - 按音乐人 - 演出更新
-007. 秀动网 - 按城市 - 演出更新
-008. 秀动网 - 演出搜索
-009. 秀动网 - 按场地 - 演出更新
-010. Mercari - 关键词
-011. 小米 - 小米众筹
-012. 上海东方艺术中心 - 演出月历
-013. 小米有品 - 小米有品众筹
-014. 小米有品 - 小米有品每日上新
-015. 0818 团 - 分类
-016. 五大唱片 - 新貨上架
-017. 消费者报道 - 要闻
-018. 玩物志 - 产品
-019. 原價屋 - 促銷&開箱
-020. 大麦网 - 票务更新
-021. 逛丢 - 九块九
-022. 逛丢 - 国内折扣 / 海外折扣
-023. 逛丢 - 一小时风云榜
-024. 逛丢 - 关键字搜索
-025. 環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区
-026. Hot Toys - Toys List
-027. hotukdeals - hottest
-028. IKEA - UK - New Product Release
-029. IKEA - 中国 - 低价优选
-030. IKEA - 中国 - 当季新品推荐
-031. 摩点 - 众筹
-032. Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票
-033. Openrice開飯喇 - 香港餐廳精選優惠券
-034. Openrice開飯喇 - 香港餐廳排行榜
-035. Openrice開飯喇 - 香港餐厅滋讯
-036. Patagonia - New Arrivals
-037. 上海文化广场 - 节目列表
-038. 什么值得买 - 排行榜
-039. 什么值得买 - 用户文章
-040. 什么值得买 - 用户爆料
-041. 什么值得买 - 好文分类
-042. 什么值得买 - 好文
-043. 什么值得买 - 关键词
-044. 什么值得买 - 商品
-045. Snow Peak - New Arrivals(USA)
-046. 淘宝网 - 众筹项目
-047. Gadget Flow - Category
-048. Furstar - 画师列表
-049. 特斯拉中国 - 价格
-
-
 📁 Category: Journal (journal.opml) - Count: 49
 ----------------------------------------
 001. Trending Papers - Trending Papers on arXiv
@@ -1658,6 +1605,58 @@ RSSHub Route List (Updated: 2026-10-05 06:32)
 047. National Bureau of Economic Research - New Papers
 048. Google - Scholar Author Citations
 049. Google - Scholar Keywords Monitoring
+
+
+📁 Category: Shopping (shopping.opml) - Count: 48
+----------------------------------------
+001. Ktown4u - Get the products on sale
+002. 多抓鱼 - 搜索结果
+003. Uniqlo - New Arrivals
+004. 线报酷 - 线板酷
+005. 中国养猪网 - 全国今日生猪价格
+006. 秀动网 - 按音乐人 - 演出更新
+007. 秀动网 - 按城市 - 演出更新
+008. 秀动网 - 演出搜索
+009. 秀动网 - 按场地 - 演出更新
+010. Mercari - 关键词
+011. 小米 - 小米众筹
+012. 上海东方艺术中心 - 演出月历
+013. 小米有品 - 小米有品众筹
+014. 小米有品 - 小米有品每日上新
+015. 0818 团 - 分类
+016. 五大唱片 - 新貨上架
+017. 消费者报道 - 要闻
+018. 玩物志 - 产品
+019. 原價屋 - 促銷&開箱
+020. 大麦网 - 票务更新
+021. 逛丢 - 九块九
+022. 逛丢 - 国内折扣 / 海外折扣
+023. 逛丢 - 一小时风云榜
+024. 逛丢 - 关键字搜索
+025. 環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区
+026. Hot Toys - Toys List
+027. hotukdeals - hottest
+028. IKEA - UK - New Product Release
+029. IKEA - 中国 - 低价优选
+030. IKEA - 中国 - 当季新品推荐
+031. 摩点 - 众筹
+032. Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票
+033. Openrice開飯喇 - 香港餐廳精選優惠券
+034. Openrice開飯喇 - 香港餐廳排行榜
+035. Openrice開飯喇 - 香港餐厅滋讯
+036. Patagonia - New Arrivals
+037. 上海文化广场 - 节目列表
+038. 什么值得买 - 排行榜
+039. 什么值得买 - 用户文章
+040. 什么值得买 - 用户爆料
+041. 什么值得买 - 好文
+042. 什么值得买 - 关键词
+043. 什么值得买 - 商品
+044. Snow Peak - New Arrivals(USA)
+045. 淘宝网 - 众筹项目
+046. Gadget Flow - Category
+047. Furstar - 画师列表
+048. 特斯拉中国 - 价格
 
 
 📁 Category: 阅读 (reading.opml) - Count: 43
