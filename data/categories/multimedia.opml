@@ -36,6 +36,7 @@
       <outline type="rss" text="The Movie Database - TV Show Seasons" title="The Movie Database - TV Show Seasons" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/70593/seasons/en-US" />
       <outline type="rss" text="The Movie Database - Sheet" title="The Movie Database - Sheet" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/top-rated/en-US" />
       <outline type="rss" text="The Movie Database - Trending" title="The Movie Database - Trending" xmlUrl="https://rsshub.gamepp.cf/themoviedb/trending/tv/day/en-US" />
+      <outline type="rss" text="西瓜视频 - 用户视频投稿" title="西瓜视频 - 用户视频投稿" xmlUrl="https://rsshub.gamepp.cf/ixigua/user/video/4234740937" />
       <outline type="rss" text="JavTrailers - Casts" title="JavTrailers - Casts" xmlUrl="https://rsshub.gamepp.cf/javtrailers/casts/hibiki-otsuki" />
       <outline type="rss" text="JavTrailers - Categories" title="JavTrailers - Categories" xmlUrl="https://rsshub.gamepp.cf/javtrailers/categories/hi-def" />
       <outline type="rss" text="JavTrailers - Studios" title="JavTrailers - Studios" xmlUrl="https://rsshub.gamepp.cf/javtrailers/studios/s1-no-1-style" />
@@ -65,7 +66,6 @@
       <outline type="rss" text="追新番 - 最近更新" title="追新番 - 最近更新" xmlUrl="https://rsshub.gamepp.cf/fanxinzhui" />
       <outline type="rss" text="IMDb - Charts" title="IMDb - Charts" xmlUrl="https://rsshub.gamepp.cf/imdb/chart" />
       <outline type="rss" text="爱奇艺 - 剧集" title="爱奇艺 - 剧集" xmlUrl="https://rsshub.gamepp.cf/iqiyi/album/%E7%A5%9E%E6%AD%A6%E5%A4%A9%E5%B0%8A-2020-1b4lufwxd7h" />
-      <outline type="rss" text="西瓜视频 - 用户视频投稿" title="西瓜视频 - 用户视频投稿" xmlUrl="https://rsshub.gamepp.cf/ixigua/user/video/4234740937" />
       <outline type="rss" text="JavBus - Works" title="JavBus - Works" xmlUrl="https://rsshub.gamepp.cf/javbus/star/rwt" />
       <outline type="rss" text="Javtiful - Actress" title="Javtiful - Actress" xmlUrl="https://rsshub.gamepp.cf/javtiful/actress/akari-tsumugi" />
       <outline type="rss" text="Javtiful - Channel" title="Javtiful - Channel" xmlUrl="https://rsshub.gamepp.cf/javtiful/channel/madonna" />

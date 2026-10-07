@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-06 07:11)
+RSSHub Route List (Updated: 2026-10-07 06:50)
 
 ============================================================
 
@@ -854,36 +854,36 @@ RSSHub Route List (Updated: 2026-10-06 07:11)
 029. The Movie Database - TV Show Seasons
 030. The Movie Database - Sheet
 031. The Movie Database - Trending
-032. JavTrailers - Casts
-033. JavTrailers - Categories
-034. JavTrailers - Studios
-035. ManyVids - Creator Videos
-036. 蜻蜓 FM - 专辑
-037. 蜻蜓 FM - 播客
-038. SoundOn - Podcast
-039. 听听 FM - 节目
-040. 喜马拉雅 - 专辑
-041. myfans - User Posts
-042. Niconico - User Videos
-043. 0xxx.ws - Source
-044. 4k 世界 - 分类
-045. 7mmtv - Category
-046. 91porn - Hot Video Today
-047. Apple - 播客
-048. Bandcamp - Weekly
-049. 哔嘀影视 - 首页
-050. BFL AI - Announcements
-051. BT影视 - BTBTLA | 最近更新
-052. BT 之家 - 分类
-053. Coomer - Posts
-054. DoMP4 影视 - 剧集订阅
-055. DoMP4 影视 - 最近更新的电源BT列表
-056. DoMP4 影视 - 最近更新
-057. 电影天堂 - 分类
-058. 追新番 - 最近更新
-059. IMDb - Charts
-060. 爱奇艺 - 剧集
-061. 西瓜视频 - 用户视频投稿
+032. 西瓜视频 - 用户视频投稿
+033. JavTrailers - Casts
+034. JavTrailers - Categories
+035. JavTrailers - Studios
+036. ManyVids - Creator Videos
+037. 蜻蜓 FM - 专辑
+038. 蜻蜓 FM - 播客
+039. SoundOn - Podcast
+040. 听听 FM - 节目
+041. 喜马拉雅 - 专辑
+042. myfans - User Posts
+043. Niconico - User Videos
+044. 0xxx.ws - Source
+045. 4k 世界 - 分类
+046. 7mmtv - Category
+047. 91porn - Hot Video Today
+048. Apple - 播客
+049. Bandcamp - Weekly
+050. 哔嘀影视 - 首页
+051. BFL AI - Announcements
+052. BT影视 - BTBTLA | 最近更新
+053. BT 之家 - 分类
+054. Coomer - Posts
+055. DoMP4 影视 - 剧集订阅
+056. DoMP4 影视 - 最近更新的电源BT列表
+057. DoMP4 影视 - 最近更新
+058. 电影天堂 - 分类
+059. 追新番 - 最近更新
+060. IMDb - Charts
+061. 爱奇艺 - 剧集
 062. JavBus - Works
 063. Javtiful - Actress
 064. Javtiful - Channel
