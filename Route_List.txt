@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-08 06:59)
+RSSHub Route List (Updated: 2026-10-09 07:07)
 
 ============================================================
 
@@ -435,150 +435,149 @@ RSSHub Route List (Updated: 2026-10-08 06:59)
 156. 同济大学 - 经济与管理学院通知
 
 
-📁 Category: 编程 (programming.opml) - Count: 139
+📁 Category: 编程 (programming.opml) - Count: 138
 ----------------------------------------
 001. bestblogs.dev - 文章列表
 002. bestblogs.dev - 精选推送
 003. Bitbucket - Commits
 004. chlinlearn 的技术博客 - 值得一读技术博客
 005. 编程导航 - 帖子
-006. 华为开发者联盟 - HarmonyOS 示例代码
-007. SYCL - Feeds
-008. ThoughtWorks - Inside Blog
-009. A List Apart - Home Feed
-010. A List Apart - Topics
-011. Bitmovin - Blog
-012. HackMD - Profile
-013. SecWiki - 安全维基 - 最新周刊
-014. 前端早早聊 - 文章
-015. 当当开放平台 - 公告
-016. 得物 - 平台公告
-017. 抖店开放平台 - 平台公告
-018. 蓝桥云课 - 全站发布的课程
-019. Manus - Blog
-020. 30 Seconds of code - Category and Subcategory
-021. 30 Seconds of code - New & Popular Snippets
-022. 51CTO - 推荐
-023. 极术社区 - 频道、专栏、用户
-024. 阿里云 - 数据库内核月报
-025. 阿里云 - 开发者社区 - 主题
-026. 阿里云 - 公告
-027. 安全客 - 分类订阅
-028. Anthropic - Engineering
-029. Anthropic - News
-030. Anthropic - Frontier Red Team
-031. Anthropic - Research
-032. AtCoder - Contests Archive
-033. AtCoder - Posts
-034. Augment Code - Blog
-035. 北京智源人工智能研究院 - 智源社区 - 活动
-036. 北京智源人工智能研究院 - 智源社区
-037. Best of JS - Monthly Rankings
-038. 技术头条 - 最新文章
-039. Bugzilla - bugs
-040. Claude - Blog
-041. Cloudflare Status - Status
-042. CNCF - Category
-043. Cockroach Labs - Blogs
-044. Codeforces - Latest contests
-045. Codeforces - Recent actions
-046. cognition - Blog
-047. Cybercrime Magazine - News
-048. dbaplus社群 - 最新文章
-049. DeepLearning.AI - The Batch
-050. DEV Community - Trending Guides
-051. DEV Community - Top Posts
-052. Devtrium - Official Blogs
-053. 印记中文 - 周刊 - JavaScript
-054. 电子发烧友 - 文章
-055. Engineering.fyi - Tag
-056. gihyo.jp - Series
-057. Gitpod - Blog
-058. Gitstar Ranking - Ranking
-059. HelloGitHub - 文章
-060. HelloGitHub - 榜单报告
-061. HelloGitHub - 开源项目
-062. HelloGitHub - 月刊
-063. Hex-Rays - Hex-Rays News
-064. HITCON - 漏洞
-065. Huggingface - Community Articles
-066. Huggingface - 中文博客
-067. Huggingface - 英文博客
-068. Huggingface - Daily Papers
-069. Huggingface - Group Models
-070. InfoQ 中文 - Presentations
-071. Kiro - Blog
-072. Kong API 网关平台 - 博客最新文章
-073. LanceDB - Blog
-074. 登链社区 - 文章
-075. LeetCode - Articles
-076. 连享会 - 精彩资讯
-077. 洛谷 - 比赛列表
-078. 美团 - 技术团队博客
-079. Meta - AI Blog
-080. 墨天轮 - 合辑
-081. ModelScope 魔搭社区 - 研习社
-082. ModelScope 魔搭社区 - 数据集
-083. ModelScope 魔搭社区 - 模型库
-084. ModelScope 魔搭社区 - 创空间
-085. ModelScope 魔搭社区 - DevPress 官方社区
-086. MySQL - Release Notes
-087. Node.js - News
-088. NOSEC 安全讯息平台 - Posts
-089. Ollama - Blog
-090. Ollama - Models
-091. 开源中国 - 资讯
-092. 开源中国 - 活动
-093. oshwhub 立创开源硬件平台 - 开源广场
-094. Python - Active Python Releases
-095. Quicker - 讨论区
-096. Quicker - 动作分享
-097. Raspberry Pi - Official Magazine
-098. Reactiflux - Transcripts
-099. Rock the JVM - Article
-100. Rust 语言中文社区 - 招聘
-101. Rust 语言中文社区 - 新闻/聚合
-102. 安全内参 - 作者
-103. 安全内参 - 分类
-104. Smashing Magazine - Category
-105. 淘宝网 - 数据库内核月报
-106. 腾讯 - 腾讯云开发者社区专栏
-107. TiDB 社区 - 专栏分类
-108. Transformer Circuits - Articles
-109. Visual Studio - Code Blog
-110. Warp - Blog
-111. Windsurf - Blog
-112. Windsurf - Changelog
-113. Zed - Blog
-114. CSS-Tricks - Articles
-115. CSS-Tricks - CSS Guides
-116. CSS-Tricks - Popular this month
-117. Josh W Comeau - Articles and Tutorials
-118. Josh W Comeau - Popular Content
-119. 掘金 - 小册
-120. 掘金 - 沸点
-121. 掘金 - AI 编程
-122. 掘金 - 分类
-123. 掘金 - 单个收藏夹
-124. 掘金 - 收藏集
-125. 掘金 - 专栏
-126. 掘金 - 标签
-127. 掘金 - 热门
-128. OpenAI - Cookbook
-129. OpenAI - News
-130. OpenAI - Research
-131. SegmentFault - 频道
-132. SegmentFault - 博客
-133. Go 语言中文网 - 板块
-134. Go 语言中文网 - 招聘
-135. Go 语言中文网 - 周刊
-136. TailwindCSS - Blog
-137. web.dev - Articles
-138. web.dev - Blog
-139. 微信小程序 - 公众平台系统公告栏目
+006. SYCL - Feeds
+007. ThoughtWorks - Inside Blog
+008. A List Apart - Home Feed
+009. A List Apart - Topics
+010. Bitmovin - Blog
+011. HackMD - Profile
+012. SecWiki - 安全维基 - 最新周刊
+013. 前端早早聊 - 文章
+014. 当当开放平台 - 公告
+015. 得物 - 平台公告
+016. 抖店开放平台 - 平台公告
+017. 蓝桥云课 - 全站发布的课程
+018. Manus - Blog
+019. 30 Seconds of code - Category and Subcategory
+020. 30 Seconds of code - New & Popular Snippets
+021. 51CTO - 推荐
+022. 极术社区 - 频道、专栏、用户
+023. 阿里云 - 数据库内核月报
+024. 阿里云 - 开发者社区 - 主题
+025. 阿里云 - 公告
+026. 安全客 - 分类订阅
+027. Anthropic - Engineering
+028. Anthropic - News
+029. Anthropic - Frontier Red Team
+030. Anthropic - Research
+031. AtCoder - Contests Archive
+032. AtCoder - Posts
+033. Augment Code - Blog
+034. 北京智源人工智能研究院 - 智源社区 - 活动
+035. 北京智源人工智能研究院 - 智源社区
+036. Best of JS - Monthly Rankings
+037. 技术头条 - 最新文章
+038. Bugzilla - bugs
+039. Claude - Blog
+040. Cloudflare Status - Status
+041. CNCF - Category
+042. Cockroach Labs - Blogs
+043. Codeforces - Latest contests
+044. Codeforces - Recent actions
+045. cognition - Blog
+046. Cybercrime Magazine - News
+047. dbaplus社群 - 最新文章
+048. DeepLearning.AI - The Batch
+049. DEV Community - Trending Guides
+050. DEV Community - Top Posts
+051. Devtrium - Official Blogs
+052. 印记中文 - 周刊 - JavaScript
+053. 电子发烧友 - 文章
+054. Engineering.fyi - Tag
+055. gihyo.jp - Series
+056. Gitpod - Blog
+057. Gitstar Ranking - Ranking
+058. HelloGitHub - 文章
+059. HelloGitHub - 榜单报告
+060. HelloGitHub - 开源项目
+061. HelloGitHub - 月刊
+062. Hex-Rays - Hex-Rays News
+063. HITCON - 漏洞
+064. Huggingface - Community Articles
+065. Huggingface - 中文博客
+066. Huggingface - 英文博客
+067. Huggingface - Daily Papers
+068. Huggingface - Group Models
+069. InfoQ 中文 - Presentations
+070. Kiro - Blog
+071. Kong API 网关平台 - 博客最新文章
+072. LanceDB - Blog
+073. 登链社区 - 文章
+074. LeetCode - Articles
+075. 连享会 - 精彩资讯
+076. 洛谷 - 比赛列表
+077. 美团 - 技术团队博客
+078. Meta - AI Blog
+079. 墨天轮 - 合辑
+080. ModelScope 魔搭社区 - 研习社
+081. ModelScope 魔搭社区 - 数据集
+082. ModelScope 魔搭社区 - 模型库
+083. ModelScope 魔搭社区 - 创空间
+084. ModelScope 魔搭社区 - DevPress 官方社区
+085. MySQL - Release Notes
+086. Node.js - News
+087. NOSEC 安全讯息平台 - Posts
+088. Ollama - Blog
+089. Ollama - Models
+090. 开源中国 - 资讯
+091. 开源中国 - 活动
+092. oshwhub 立创开源硬件平台 - 开源广场
+093. Python - Active Python Releases
+094. Quicker - 讨论区
+095. Quicker - 动作分享
+096. Raspberry Pi - Official Magazine
+097. Reactiflux - Transcripts
+098. Rock the JVM - Article
+099. Rust 语言中文社区 - 招聘
+100. Rust 语言中文社区 - 新闻/聚合
+101. 安全内参 - 作者
+102. 安全内参 - 分类
+103. Smashing Magazine - Category
+104. 淘宝网 - 数据库内核月报
+105. 腾讯 - 腾讯云开发者社区专栏
+106. TiDB 社区 - 专栏分类
+107. Transformer Circuits - Articles
+108. Visual Studio - Code Blog
+109. Warp - Blog
+110. Windsurf - Blog
+111. Windsurf - Changelog
+112. Zed - Blog
+113. CSS-Tricks - Articles
+114. CSS-Tricks - CSS Guides
+115. CSS-Tricks - Popular this month
+116. Josh W Comeau - Articles and Tutorials
+117. Josh W Comeau - Popular Content
+118. 掘金 - 小册
+119. 掘金 - 沸点
+120. 掘金 - AI 编程
+121. 掘金 - 分类
+122. 掘金 - 单个收藏夹
+123. 掘金 - 收藏集
+124. 掘金 - 专栏
+125. 掘金 - 标签
+126. 掘金 - 热门
+127. OpenAI - Cookbook
+128. OpenAI - News
+129. OpenAI - Research
+130. SegmentFault - 频道
+131. SegmentFault - 博客
+132. Go 语言中文网 - 板块
+133. Go 语言中文网 - 招聘
+134. Go 语言中文网 - 周刊
+135. TailwindCSS - Blog
+136. web.dev - Articles
+137. web.dev - Blog
+138. 微信小程序 - 公众平台系统公告栏目
 
 
-📁 Category: 社交媒体 (social-media.opml) - Count: 128
+📁 Category: 社交媒体 (social-media.opml) - Count: 127
 ----------------------------------------
 001. Instagram - User Profile - Picnob.info
 002. Fediverse - Timeline
@@ -599,115 +598,114 @@ RSSHub Route List (Updated: 2026-10-08 06:59)
 017. mixi2 - コミュニティ
 018. SmartLink - Posts
 019. 快手 - Profile
-020. 抖音直播 - 博主
-021. Lemmy - Community
-022. Locals - Content Feed
-023. Rattibha - User Threads
-024. Bluesky (bsky) - Keywords
-025. Bluesky (bsky) - Feeds
-026. Bluesky (bsky) - Post
-027. Daily.dev - Most Discussed
-028. Daily.dev - Popular
-029. Daily.dev - Most upvoted
-030. Discord - Channel Messages
-031. Discord - Guild Search
-032. fanbox - Creator
-033. Fansly - User Timeline
-034. Fansly - Hashtag
-035. Mastodon - User timeline (by account ID)
-036. Mastodon - User timeline
-037. Mastodon - Hashtag timeline
-038. Mastodon - Instance timeline (local)
-039. Mastodon - Instance timeline (federated)
-040. Misskey - Featured Notes
-041. Misskey - Home Timeline
-042. Misskey - User timeline
-043. CrushNinja - 匿名投稿頁面
-044. 豆瓣 - 新书速递
-045. 豆瓣 - 热门图书排行
-046. 豆瓣 - 频道书影音
-047. 豆瓣 - 热门同城活动
-048. 豆瓣 - 电影即将上映
-049. 豆瓣 - 豆瓣书店
-050. 豆瓣 - 豆瓣电影分类
-051. 豆瓣 - 北美票房榜
-052. 豆瓣 - 一周口碑榜
-053. 豆瓣 - 豆瓣榜单与集合
-054. 豆瓣 - 豆瓣每月推荐片单
-055. 豆瓣 - 话题
-056. 豆瓣 - 即将播出的剧集
-057. 豆瓣 - 商务印书馆新书速递
-058. 豆瓣 - 豆瓣电影人
-059. 豆瓣 - 豆瓣读书论坛
-060. 豆瓣 - 豆瓣豆列
-061. 豆瓣 - 浏览发现分栏目
-062. 豆瓣 - 浏览发现
-063. 豆瓣 - 豆瓣小组
-064. 豆瓣 - 豆瓣招聘
-065. 豆瓣 - 即将上映的电影
-066. 豆瓣 - 最新增加的音乐
-067. 豆瓣 - 正在上映的电影
-068. 简书 - 专题
-069. 简书 - 首页
-070. 简书 - 作者
-071. Letterboxd - User Watchlist
-072. Lofter - User
-073. Lofter - Collection
-074. Lofter - Tag
-075. Instagram - User Profile - Picnob
-076. TikTok - User Profile - Picuki
-077. Telegram - Sticker Pack
-078. Telegram - Telegram Blog
-079. Telegram - Channel
-080. Threads - User timeline
-081. TikTok - Live
-082. Vimeo - User Profile
-083. Vimeo - Category
-084. 哔哩哔哩 bilibili - 专栏文集
-085. 哔哩哔哩 bilibili - 入站必刷
-086. 哔哩哔哩 bilibili - 视频选集列表
-087. 哔哩哔哩 bilibili - 分区视频排行榜
-088. 哔哩哔哩 bilibili - 分区视频
-089. 哔哩哔哩 bilibili - 综合热门
-090. 哔哩哔哩 bilibili - 热搜
-091. 哔哩哔哩 bilibili - B 站每周必看
-092. Cara - Likes
-093. Cara - Portfolio
-094. Cara - Timeline
-095. 即刻 - 圈子
-096. 即刻 - 圈子 - 纯文字
-097. LinkedIn - Company Posts
-098. LinkedIn - Jobs
-099. Plurk - User
-100. Plurk - Anonymous
-101. Plurk - Hotlinks
-102. Plurk - Plurk News
-103. Plurk - Search
-104. Plurk - Top
-105. 方格子 - 出版專題
-106. 微博 - 热搜榜
-107. 知乎 - 知乎热榜
-108. 知乎 - 知乎想法热榜
-109. 知乎 - 知乎日报
-110. 知乎 - 知乎书店 - 知乎周刊
-111. 知乎 - xhu- 专栏
-112. 知乎 - 知乎日报 - 合集
-113. 知乎 - 话题
-114. 知乎 - 专栏
-115. pixiv - User Bookmark
-116. pixiv - Following timeline
-117. pixiv - Rankings
-118. pixiv - Keyword
-119. pixiv - User Activity
-120. pixiv - Novel Series
-121. pixiv - User Novels
-122. X (Twitter) - Home latest timeline
-123. X (Twitter) - Home timeline
-124. X (Twitter) - Keyword
-125. X (Twitter) - User likes
-126. X (Twitter) - List timeline
-127. X (Twitter) - User media
-128. X (Twitter) - User timeline
+020. Lemmy - Community
+021. Locals - Content Feed
+022. Rattibha - User Threads
+023. Bluesky (bsky) - Keywords
+024. Bluesky (bsky) - Feeds
+025. Bluesky (bsky) - Post
+026. Daily.dev - Most Discussed
+027. Daily.dev - Popular
+028. Daily.dev - Most upvoted
+029. Discord - Channel Messages
+030. Discord - Guild Search
+031. fanbox - Creator
+032. Fansly - User Timeline
+033. Fansly - Hashtag
+034. Mastodon - User timeline (by account ID)
+035. Mastodon - User timeline
+036. Mastodon - Hashtag timeline
+037. Mastodon - Instance timeline (local)
+038. Mastodon - Instance timeline (federated)
+039. Misskey - Featured Notes
+040. Misskey - Home Timeline
+041. Misskey - User timeline
+042. CrushNinja - 匿名投稿頁面
+043. 抖音直播 - 博主
+044. 简书 - 专题
+045. 简书 - 首页
+046. 简书 - 作者
+047. Letterboxd - User Watchlist
+048. Lofter - User
+049. Lofter - Collection
+050. Lofter - Tag
+051. Instagram - User Profile - Picnob
+052. TikTok - User Profile - Picuki
+053. Telegram - Sticker Pack
+054. Telegram - Telegram Blog
+055. Telegram - Channel
+056. Threads - User timeline
+057. TikTok - Live
+058. Vimeo - User Profile
+059. Vimeo - Category
+060. 哔哩哔哩 bilibili - 专栏文集
+061. 哔哩哔哩 bilibili - 入站必刷
+062. 哔哩哔哩 bilibili - 分区视频排行榜
+063. 哔哩哔哩 bilibili - 分区视频
+064. 哔哩哔哩 bilibili - 综合热门
+065. 哔哩哔哩 bilibili - 热搜
+066. 哔哩哔哩 bilibili - B 站每周必看
+067. Cara - Likes
+068. Cara - Portfolio
+069. Cara - Timeline
+070. 豆瓣 - 新书速递
+071. 豆瓣 - 热门图书排行
+072. 豆瓣 - 频道书影音
+073. 豆瓣 - 热门同城活动
+074. 豆瓣 - 电影即将上映
+075. 豆瓣 - 豆瓣书店
+076. 豆瓣 - 豆瓣电影分类
+077. 豆瓣 - 北美票房榜
+078. 豆瓣 - 一周口碑榜
+079. 豆瓣 - 豆瓣榜单与集合
+080. 豆瓣 - 豆瓣每月推荐片单
+081. 豆瓣 - 即将播出的剧集
+082. 豆瓣 - 商务印书馆新书速递
+083. 豆瓣 - 豆瓣电影人
+084. 豆瓣 - 豆瓣读书论坛
+085. 豆瓣 - 豆瓣豆列
+086. 豆瓣 - 浏览发现分栏目
+087. 豆瓣 - 浏览发现
+088. 豆瓣 - 豆瓣小组
+089. 豆瓣 - 豆瓣招聘
+090. 豆瓣 - 即将上映的电影
+091. 豆瓣 - 最新增加的音乐
+092. 豆瓣 - 正在上映的电影
+093. 豆瓣 - 话题
+094. 即刻 - 圈子
+095. 即刻 - 圈子 - 纯文字
+096. LinkedIn - Company Posts
+097. LinkedIn - Jobs
+098. Plurk - User
+099. Plurk - Anonymous
+100. Plurk - Hotlinks
+101. Plurk - Plurk News
+102. Plurk - Search
+103. Plurk - Top
+104. 方格子 - 出版專題
+105. 微博 - 热搜榜
+106. 知乎 - 知乎热榜
+107. 知乎 - 知乎想法热榜
+108. 知乎 - 知乎日报
+109. 知乎 - 知乎书店 - 知乎周刊
+110. 知乎 - xhu- 专栏
+111. 知乎 - 知乎日报 - 合集
+112. 知乎 - 话题
+113. 知乎 - 专栏
+114. pixiv - User Bookmark
+115. pixiv - Following timeline
+116. pixiv - Rankings
+117. pixiv - Keyword
+118. pixiv - User Activity
+119. pixiv - Novel Series
+120. pixiv - User Novels
+121. X (Twitter) - Home latest timeline
+122. X (Twitter) - Home timeline
+123. X (Twitter) - Keyword
+124. X (Twitter) - User likes
+125. X (Twitter) - List timeline
+126. X (Twitter) - User media
+127. X (Twitter) - User timeline
 
 
 📁 Category: 游戏 (game.opml) - Count: 107
@@ -717,64 +715,64 @@ RSSHub Route List (Updated: 2026-10-08 06:59)
 003. 二柄 APP - 新闻
 004. Epic Games Store - Free games
 005. JUMP - 游戏折扣
-006. Minecraft - Java Blocked Servers
-007. Minecraft - Java Runtimes
-008. Minecraft - Java Game Update
-009. Modrinth - Project versions
-010. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
-011. FINAL FANTASY XIV - 最终幻想 14 国服
-012. EA Games - APEX Legends 官网资讯
-013. 遊戲基地 Gamebase - 新聞
-014. 全球游戏交流中心 - 文章
-015. 少女前线 - 情报局
-016. HoYoLAB - Official Announcement
-017. 完美世界电竞 - 资讯列表
-018. 小黑盒 - 游戏折扣
-019. 小黑盒 - 喜加一
-020. 小黑盒 - 游戏新闻
-021. 小黑盒 - 用户动态
-022. 4Gamers - 标签
-023. 4Gamers - 主題
-024. 米哈游 - 崩坏：星穹铁道
-025. 米哈游 - 原神
-026. 米哈游 - 绝区零
-027. 米哈游 - 米游社 - 同人榜
-028. 米哈游 - 米游社 - 官方公告
-029. 米哈游 - 米游社 - 用户帖子
-030. 米哈游 - 米游社 - 用户关注
-031. 游戏星辰 - 游戏星辰
-032. 3DMGame - 新闻中心
-033. 3k-Switch游戏库 - 3k-Switch游戏库
-034. 5EPLAY - 新闻列表
-035. A9VG 电玩部落 - 新闻
-036. 游侠网 - 资讯
-037. 游侠网 - 大侠号
-038. ALICESOFT - ニュース
-039. Blizzard - 暴雪游戏国服新闻
-040. Blizzard - News
-041. 触乐 - 分类
-042. Counter Strike - News
-043. DevolverDigital - Official Blogs
-044. Dorohedoro - News
-045. F95zone - Post
-046. F95zone - Thread
-047. ファミ通 - Category
-048. GameApps.hk 香港手机游戏网 - 最新消息
-049. GameKee | 游戏百科攻略 - 游戏情报
-050. 鹰角网络 - 回归线
-051. 鹰角网络 - 明日方舟 - 游戏公告与新闻
-052. imop - 全部消息
-053. indienova 独立游戏 - 文章
-054. indienova 独立游戏 - 专题
-055. indienova 独立游戏 - 会员开发游戏库
-056. itch.io - Developer Logs
-057. 其乐 - 论坛
-058. KISS - ブログ
-059. Koyso - 游戏
-060. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
-061. League of Legends - Patch Notes
-062. Liquipedia - Counter-Strike Team Match Results
-063. MC百科 - 最新MOD
+006. Modrinth - Project versions
+007. FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
+008. FINAL FANTASY XIV - 最终幻想 14 国服
+009. EA Games - APEX Legends 官网资讯
+010. 遊戲基地 Gamebase - 新聞
+011. 全球游戏交流中心 - 文章
+012. 少女前线 - 情报局
+013. HoYoLAB - Official Announcement
+014. 完美世界电竞 - 资讯列表
+015. 小黑盒 - 游戏折扣
+016. 小黑盒 - 喜加一
+017. 小黑盒 - 游戏新闻
+018. 小黑盒 - 用户动态
+019. 4Gamers - 标签
+020. 4Gamers - 主題
+021. 米哈游 - 崩坏：星穹铁道
+022. 米哈游 - 原神
+023. 米哈游 - 绝区零
+024. 米哈游 - 米游社 - 同人榜
+025. 米哈游 - 米游社 - 官方公告
+026. 米哈游 - 米游社 - 用户帖子
+027. 米哈游 - 米游社 - 用户关注
+028. 游戏星辰 - 游戏星辰
+029. 3DMGame - 新闻中心
+030. 3k-Switch游戏库 - 3k-Switch游戏库
+031. 5EPLAY - 新闻列表
+032. A9VG 电玩部落 - 新闻
+033. 游侠网 - 资讯
+034. 游侠网 - 大侠号
+035. ALICESOFT - ニュース
+036. Blizzard - 暴雪游戏国服新闻
+037. Blizzard - News
+038. 触乐 - 分类
+039. Counter Strike - News
+040. DevolverDigital - Official Blogs
+041. Dorohedoro - News
+042. F95zone - Post
+043. F95zone - Thread
+044. ファミ通 - Category
+045. GameApps.hk 香港手机游戏网 - 最新消息
+046. GameKee | 游戏百科攻略 - 游戏情报
+047. 鹰角网络 - 回归线
+048. 鹰角网络 - 明日方舟 - 游戏公告与新闻
+049. imop - 全部消息
+050. indienova 独立游戏 - 文章
+051. indienova 独立游戏 - 专题
+052. indienova 独立游戏 - 会员开发游戏库
+053. itch.io - Developer Logs
+054. 其乐 - 论坛
+055. KISS - ブログ
+056. Koyso - 游戏
+057. 库洛游戏 | Kuro Games - 鸣潮 — 游戏公告、新闻与活动
+058. League of Legends - Patch Notes
+059. Liquipedia - Counter-Strike Team Match Results
+060. MC百科 - 最新MOD
+061. Minecraft - Java Blocked Servers
+062. Minecraft - Java Runtimes
+063. Minecraft - Java Game Update
 064. osu! - Latest Ranked Beatmap
 065. PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告
 066. PlayStation Store - PlayStation Monthly Games
@@ -845,74 +843,74 @@ RSSHub Route List (Updated: 2026-10-08 06:59)
 020. ASMR Online - 最新收录
 021. CNTV - 栏目
 022. 通用影视采集站视频采集接口路由 - 最新资源
-023. 不太灵影视 - 影视资源下载列表
-024. 不太灵影视 - 最新资源列表
-025. Mixcloud - User
-026. 云听 - 专辑
-027. 云听 - 直播
-028. The Movie Database - Collection
-029. The Movie Database - TV Show Seasons
-030. The Movie Database - Sheet
-031. The Movie Database - Trending
-032. 西瓜视频 - 用户视频投稿
-033. JavTrailers - Casts
-034. JavTrailers - Categories
-035. JavTrailers - Studios
-036. ManyVids - Creator Videos
-037. 蜻蜓 FM - 专辑
-038. 蜻蜓 FM - 播客
-039. SoundOn - Podcast
-040. 听听 FM - 节目
-041. 喜马拉雅 - 专辑
-042. myfans - User Posts
-043. Niconico - User Videos
-044. 0xxx.ws - Source
-045. 4k 世界 - 分类
-046. 7mmtv - Category
-047. 91porn - Hot Video Today
-048. Apple - 播客
-049. Bandcamp - Weekly
-050. 哔嘀影视 - 首页
-051. BFL AI - Announcements
-052. BT影视 - BTBTLA | 最近更新
-053. BT 之家 - 分类
-054. Coomer - Posts
-055. DoMP4 影视 - 剧集订阅
-056. DoMP4 影视 - 最近更新的电源BT列表
-057. DoMP4 影视 - 最近更新
-058. 电影天堂 - 分类
-059. 追新番 - 最近更新
-060. IMDb - Charts
-061. 爱奇艺 - 剧集
-062. JavBus - Works
-063. Javtiful - Actress
-064. Javtiful - Channel
-065. MissAV - 最近更新
-066. musify - Latest
-067. NEW 字幕组 - 指定剧集
-068. Nyaa - Search Result
-069. 欧乐影院 - 视频
-070. 欧乐影院 - 最新视频
-071. Podwise - Collections
-072. PornHub - Keyword Search
-073. PornHub - Category
-074. PornHub - Video List
-075. PornHub - Model
-076. PornHub - Pornstar
-077. PornHub - Users
-078. SpankBang - New Porn Videos
-079. 故事 FM - 播客
-080. 草榴社区 - 分区帖子
-081. 草榴社区 - 帖子跟踪
-082. U3C3 - Search
-083. 小宇宙 - 播客
-084. 人人影视 - 影视资讯
-085. 人人影视 - 今日播出
-086. FIX 字幕侠 - 分类
-087. BT 之家 1LOU 站 - 通用
-088. 6v 电影 - 分类
-089. 6v 电影 - 最新电影
-090. 6v 电影 - 最新电视剧
+023. Mixcloud - User
+024. 云听 - 专辑
+025. 云听 - 直播
+026. The Movie Database - Collection
+027. The Movie Database - TV Show Seasons
+028. The Movie Database - Sheet
+029. The Movie Database - Trending
+030. 西瓜视频 - 用户视频投稿
+031. JavTrailers - Casts
+032. JavTrailers - Categories
+033. JavTrailers - Studios
+034. ManyVids - Creator Videos
+035. 蜻蜓 FM - 专辑
+036. 蜻蜓 FM - 播客
+037. SoundOn - Podcast
+038. 听听 FM - 节目
+039. 喜马拉雅 - 专辑
+040. myfans - User Posts
+041. Niconico - User Videos
+042. 0xxx.ws - Source
+043. 4k 世界 - 分类
+044. 7mmtv - Category
+045. 91porn - Hot Video Today
+046. Apple - 播客
+047. Bandcamp - Weekly
+048. 哔嘀影视 - 首页
+049. BFL AI - Announcements
+050. BT影视 - BTBTLA | 最近更新
+051. BT 之家 - 分类
+052. Coomer - Posts
+053. DoMP4 影视 - 剧集订阅
+054. DoMP4 影视 - 最近更新的电源BT列表
+055. DoMP4 影视 - 最近更新
+056. 电影天堂 - 分类
+057. 追新番 - 最近更新
+058. IMDb - Charts
+059. 爱奇艺 - 剧集
+060. JavBus - Works
+061. Javtiful - Actress
+062. Javtiful - Channel
+063. MissAV - 最近更新
+064. musify - Latest
+065. NEW 字幕组 - 指定剧集
+066. Nyaa - Search Result
+067. 欧乐影院 - 视频
+068. 欧乐影院 - 最新视频
+069. Podwise - Collections
+070. PornHub - Keyword Search
+071. PornHub - Category
+072. PornHub - Video List
+073. PornHub - Model
+074. PornHub - Pornstar
+075. PornHub - Users
+076. SpankBang - New Porn Videos
+077. 故事 FM - 播客
+078. 草榴社区 - 分区帖子
+079. 草榴社区 - 帖子跟踪
+080. U3C3 - Search
+081. 小宇宙 - 播客
+082. 人人影视 - 影视资讯
+083. 人人影视 - 今日播出
+084. FIX 字幕侠 - 分类
+085. BT 之家 1LOU 站 - 通用
+086. 6v 电影 - 分类
+087. 6v 电影 - 最新电影
+088. 6v 电影 - 最新电视剧
+089. 不太灵影视 - 影视资源下载列表
+090. 不太灵影视 - 最新资源列表
 091. 乳首ふぇち - Category
 092. 乳首ふぇち - 最新記事
 093. 乳首ふぇち - 動画カテゴリー
@@ -1816,7 +1814,7 @@ RSSHub Route List (Updated: 2026-10-08 06:59)
 016. 停水通知 - 广州市
 
 
-📁 Category: 直播 (live.opml) - Count: 14
+📁 Category: 直播 (live.opml) - Count: 13
 ----------------------------------------
 001. 浪 Play 直播 - 直播间开播
 002. LiSA - Latest Discography
@@ -1827,11 +1825,10 @@ RSSHub Route List (Updated: 2026-10-08 06:59)
 007. Yoasobi Official - Live
 008. Yoasobi Official - Media
 009. 斗鱼直播 - 直播间开播
-010. 抖音直播 - 直播间开播
-011. 哔哩哔哩 bilibili - 直播分区
-012. 哔哩哔哩 bilibili - 直播开播
-013. 哔哩哔哩 bilibili - 直播搜索
-014. YouTube - Live
+010. 哔哩哔哩 bilibili - 直播分区
+011. 哔哩哔哩 bilibili - 直播开播
+012. 哔哩哔哩 bilibili - 直播搜索
+013. YouTube - Live
 
 
 📁 Category: 出行 (travel.opml) - Count: 9

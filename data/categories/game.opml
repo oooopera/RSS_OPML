@@ -10,9 +10,6 @@
       <outline type="rss" text="二柄 APP - 新闻" title="二柄 APP - 新闻" xmlUrl="https://rsshub.gamepp.cf/diershoubing/news" />
       <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
       <outline type="rss" text="JUMP - 游戏折扣" title="JUMP - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/jump/discount/ps5/all" />
-      <outline type="rss" text="Minecraft - Java Blocked Servers" title="Minecraft - Java Blocked Servers" xmlUrl="https://rsshub.gamepp.cf/minecraft/blockedservers" />
-      <outline type="rss" text="Minecraft - Java Runtimes" title="Minecraft - Java Runtimes" xmlUrl="https://rsshub.gamepp.cf/minecraft/java-runtime" />
-      <outline type="rss" text="Minecraft - Java Game Update" title="Minecraft - Java Game Update" xmlUrl="https://rsshub.gamepp.cf/minecraft/version" />
       <outline type="rss" text="Modrinth - Project versions" title="Modrinth - Project versions" xmlUrl="https://rsshub.gamepp.cf/modrinth/project/sodium/versions" />
       <outline type="rss" text="FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)" title="FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)" xmlUrl="https://rsshub.gamepp.cf/ff14/global/na/all" />
       <outline type="rss" text="FINAL FANTASY XIV - 最终幻想 14 国服" title="FINAL FANTASY XIV - 最终幻想 14 国服" xmlUrl="https://rsshub.gamepp.cf/ff14/zh/news" />
@@ -68,6 +65,9 @@
       <outline type="rss" text="League of Legends - Patch Notes" title="League of Legends - Patch Notes" xmlUrl="https://rsshub.gamepp.cf/leagueoflegends/patch-notes" />
       <outline type="rss" text="Liquipedia - Counter-Strike Team Match Results" title="Liquipedia - Counter-Strike Team Match Results" xmlUrl="https://rsshub.gamepp.cf/liquipedia/counterstrike/matches/Team_Falcons" />
       <outline type="rss" text="MC百科 - 最新MOD" title="MC百科 - 最新MOD" xmlUrl="https://rsshub.gamepp.cf/mcmod/new" />
+      <outline type="rss" text="Minecraft - Java Blocked Servers" title="Minecraft - Java Blocked Servers" xmlUrl="https://rsshub.gamepp.cf/minecraft/blockedservers" />
+      <outline type="rss" text="Minecraft - Java Runtimes" title="Minecraft - Java Runtimes" xmlUrl="https://rsshub.gamepp.cf/minecraft/java-runtime" />
+      <outline type="rss" text="Minecraft - Java Game Update" title="Minecraft - Java Game Update" xmlUrl="https://rsshub.gamepp.cf/minecraft/version" />
       <outline type="rss" text="osu! - Latest Ranked Beatmap" title="osu! - Latest Ranked Beatmap" xmlUrl="https://rsshub.gamepp.cf/osu/latest-ranked/includeMode%3Dosu%26difficultyLimit%3DL3%26difficultyLimit%3DU7" />
       <outline type="rss" text="PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告" title="PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive - 最新公告" xmlUrl="https://rsshub.gamepp.cf/priconne-redive/news" />
       <outline type="rss" text="PlayStation Store - PlayStation Monthly Games" title="PlayStation Store - PlayStation Monthly Games" xmlUrl="https://rsshub.gamepp.cf/ps/monthly-games" />
