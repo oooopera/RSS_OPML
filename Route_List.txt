@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-09 07:07)
+RSSHub Route List (Updated: 2026-10-10 06:41)
 
 ============================================================
 
@@ -783,37 +783,37 @@ RSSHub Route List (Updated: 2026-10-09 07:07)
 071. PSN 中文站 - 闲游
 072. SEGA - maimai DX Japanese Ver. News
 073. SEGA - 世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ
-074. Steam - Steam Community Hub Feeds
-075. Steam - News
-076. Steam - Latest Curator Reviews
-077. Steam - Store Search
-078. Steam - Sharefile Changelog
-079. Steam - Community Workshop Search
-080. 腾讯 - 新闻中心
-081. 电玩巴士 TGBUS - 文章列表
-082. War Thunder - News
-083. World of Warships - Development Blog
-084. 盒心光环 - 资讯
-085. 游讯网 - 资讯
-086. 游戏打折情报 - 游戏折扣
-087. 游戏日报 - 分类
-088. 游研社 - 游研社 - 分类文章
-089. 游研社 - 游研社 - 全部文章
-090. GamerSky - 娱乐
-091. GamerSky - 资讯
-092. GamerSky - 评测
-093. 机核网 - 文章
-094. 机核网 - 分类
-095. 机核网 - 专题
-096. 机核网 - 资讯
-097. 机核网 - 标签
-098. 机核网 - 视频
-099. 旅法师营地 - 首页
-100. Nintendo - Nintendo Direct
-101. Nintendo - Switch System Update（Japan）
-102. Nintendo - 首页资讯（中国）
-103. Nintendo - News（Hong Kong only）
-104. 腾讯网 - 英雄联盟新闻
+074. 腾讯 - 新闻中心
+075. 电玩巴士 TGBUS - 文章列表
+076. War Thunder - News
+077. World of Warships - Development Blog
+078. 盒心光环 - 资讯
+079. 游讯网 - 资讯
+080. 游戏打折情报 - 游戏折扣
+081. 游戏日报 - 分类
+082. 游研社 - 游研社 - 分类文章
+083. 游研社 - 游研社 - 全部文章
+084. GamerSky - 娱乐
+085. GamerSky - 资讯
+086. GamerSky - 评测
+087. 机核网 - 文章
+088. 机核网 - 分类
+089. 机核网 - 专题
+090. 机核网 - 资讯
+091. 机核网 - 标签
+092. 机核网 - 视频
+093. 旅法师营地 - 首页
+094. Nintendo - Nintendo Direct
+095. Nintendo - Switch System Update（Japan）
+096. Nintendo - 首页资讯（中国）
+097. Nintendo - News（Hong Kong only）
+098. 腾讯网 - 英雄联盟新闻
+099. Steam - Steam Community Hub Feeds
+100. Steam - News
+101. Steam - Latest Curator Reviews
+102. Steam - Store Search
+103. Steam - Sharefile Changelog
+104. Steam - Community Workshop Search
 105. Fortnite - News
 106. TapTap - 游戏论坛
 107. TapTap - 游戏更新
@@ -1814,7 +1814,7 @@ RSSHub Route List (Updated: 2026-10-09 07:07)
 016. 停水通知 - 广州市
 
 
-📁 Category: 直播 (live.opml) - Count: 13
+📁 Category: 直播 (live.opml) - Count: 14
 ----------------------------------------
 001. 浪 Play 直播 - 直播间开播
 002. LiSA - Latest Discography
@@ -1825,10 +1825,11 @@ RSSHub Route List (Updated: 2026-10-09 07:07)
 007. Yoasobi Official - Live
 008. Yoasobi Official - Media
 009. 斗鱼直播 - 直播间开播
-010. 哔哩哔哩 bilibili - 直播分区
-011. 哔哩哔哩 bilibili - 直播开播
-012. 哔哩哔哩 bilibili - 直播搜索
-013. YouTube - Live
+010. 抖音直播 - 直播间开播
+011. 哔哩哔哩 bilibili - 直播分区
+012. 哔哩哔哩 bilibili - 直播开播
+013. 哔哩哔哩 bilibili - 直播搜索
+014. YouTube - Live
 
 
 📁 Category: 出行 (travel.opml) - Count: 9
