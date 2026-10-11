@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-10 06:41)
+RSSHub Route List (Updated: 2026-10-11 06:47)
 
 ============================================================
 
@@ -577,7 +577,7 @@ RSSHub Route List (Updated: 2026-10-10 06:41)
 138. 微信小程序 - 公众平台系统公告栏目
 
 
-📁 Category: 社交媒体 (social-media.opml) - Count: 127
+📁 Category: 社交媒体 (social-media.opml) - Count: 128
 ----------------------------------------
 001. Instagram - User Profile - Picnob.info
 002. Fediverse - Timeline
@@ -640,72 +640,73 @@ RSSHub Route List (Updated: 2026-10-10 06:41)
 059. Vimeo - Category
 060. 哔哩哔哩 bilibili - 专栏文集
 061. 哔哩哔哩 bilibili - 入站必刷
-062. 哔哩哔哩 bilibili - 分区视频排行榜
-063. 哔哩哔哩 bilibili - 分区视频
-064. 哔哩哔哩 bilibili - 综合热门
-065. 哔哩哔哩 bilibili - 热搜
-066. 哔哩哔哩 bilibili - B 站每周必看
-067. Cara - Likes
-068. Cara - Portfolio
-069. Cara - Timeline
-070. 豆瓣 - 新书速递
-071. 豆瓣 - 热门图书排行
-072. 豆瓣 - 频道书影音
-073. 豆瓣 - 热门同城活动
-074. 豆瓣 - 电影即将上映
-075. 豆瓣 - 豆瓣书店
-076. 豆瓣 - 豆瓣电影分类
-077. 豆瓣 - 北美票房榜
-078. 豆瓣 - 一周口碑榜
-079. 豆瓣 - 豆瓣榜单与集合
-080. 豆瓣 - 豆瓣每月推荐片单
-081. 豆瓣 - 即将播出的剧集
-082. 豆瓣 - 商务印书馆新书速递
-083. 豆瓣 - 豆瓣电影人
-084. 豆瓣 - 豆瓣读书论坛
-085. 豆瓣 - 豆瓣豆列
-086. 豆瓣 - 浏览发现分栏目
-087. 豆瓣 - 浏览发现
-088. 豆瓣 - 豆瓣小组
-089. 豆瓣 - 豆瓣招聘
-090. 豆瓣 - 即将上映的电影
-091. 豆瓣 - 最新增加的音乐
-092. 豆瓣 - 正在上映的电影
-093. 豆瓣 - 话题
-094. 即刻 - 圈子
-095. 即刻 - 圈子 - 纯文字
-096. LinkedIn - Company Posts
-097. LinkedIn - Jobs
-098. Plurk - User
-099. Plurk - Anonymous
-100. Plurk - Hotlinks
-101. Plurk - Plurk News
-102. Plurk - Search
-103. Plurk - Top
-104. 方格子 - 出版專題
-105. 微博 - 热搜榜
-106. 知乎 - 知乎热榜
-107. 知乎 - 知乎想法热榜
-108. 知乎 - 知乎日报
-109. 知乎 - 知乎书店 - 知乎周刊
-110. 知乎 - xhu- 专栏
-111. 知乎 - 知乎日报 - 合集
-112. 知乎 - 话题
-113. 知乎 - 专栏
-114. pixiv - User Bookmark
-115. pixiv - Following timeline
-116. pixiv - Rankings
-117. pixiv - Keyword
-118. pixiv - User Activity
-119. pixiv - Novel Series
-120. pixiv - User Novels
-121. X (Twitter) - Home latest timeline
-122. X (Twitter) - Home timeline
-123. X (Twitter) - Keyword
-124. X (Twitter) - User likes
-125. X (Twitter) - List timeline
-126. X (Twitter) - User media
-127. X (Twitter) - User timeline
+062. 哔哩哔哩 bilibili - 视频选集列表
+063. 哔哩哔哩 bilibili - 分区视频排行榜
+064. 哔哩哔哩 bilibili - 分区视频
+065. 哔哩哔哩 bilibili - 综合热门
+066. 哔哩哔哩 bilibili - 热搜
+067. 哔哩哔哩 bilibili - B 站每周必看
+068. Cara - Likes
+069. Cara - Portfolio
+070. Cara - Timeline
+071. 豆瓣 - 新书速递
+072. 豆瓣 - 热门图书排行
+073. 豆瓣 - 频道书影音
+074. 豆瓣 - 热门同城活动
+075. 豆瓣 - 电影即将上映
+076. 豆瓣 - 豆瓣书店
+077. 豆瓣 - 豆瓣电影分类
+078. 豆瓣 - 北美票房榜
+079. 豆瓣 - 一周口碑榜
+080. 豆瓣 - 豆瓣榜单与集合
+081. 豆瓣 - 豆瓣每月推荐片单
+082. 豆瓣 - 即将播出的剧集
+083. 豆瓣 - 商务印书馆新书速递
+084. 豆瓣 - 豆瓣电影人
+085. 豆瓣 - 豆瓣读书论坛
+086. 豆瓣 - 豆瓣豆列
+087. 豆瓣 - 浏览发现分栏目
+088. 豆瓣 - 浏览发现
+089. 豆瓣 - 豆瓣小组
+090. 豆瓣 - 豆瓣招聘
+091. 豆瓣 - 即将上映的电影
+092. 豆瓣 - 最新增加的音乐
+093. 豆瓣 - 正在上映的电影
+094. 豆瓣 - 话题
+095. 即刻 - 圈子
+096. 即刻 - 圈子 - 纯文字
+097. LinkedIn - Company Posts
+098. LinkedIn - Jobs
+099. Plurk - User
+100. Plurk - Anonymous
+101. Plurk - Hotlinks
+102. Plurk - Plurk News
+103. Plurk - Search
+104. Plurk - Top
+105. 方格子 - 出版專題
+106. 微博 - 热搜榜
+107. 知乎 - 知乎热榜
+108. 知乎 - 知乎想法热榜
+109. 知乎 - 知乎日报
+110. 知乎 - 知乎书店 - 知乎周刊
+111. 知乎 - xhu- 专栏
+112. 知乎 - 知乎日报 - 合集
+113. 知乎 - 话题
+114. 知乎 - 专栏
+115. pixiv - User Bookmark
+116. pixiv - Following timeline
+117. pixiv - Rankings
+118. pixiv - Keyword
+119. pixiv - User Activity
+120. pixiv - Novel Series
+121. pixiv - User Novels
+122. X (Twitter) - Home latest timeline
+123. X (Twitter) - Home timeline
+124. X (Twitter) - Keyword
+125. X (Twitter) - User likes
+126. X (Twitter) - List timeline
+127. X (Twitter) - User media
+128. X (Twitter) - User timeline
 
 
 📁 Category: 游戏 (game.opml) - Count: 107
@@ -1496,7 +1497,7 @@ RSSHub Route List (Updated: 2026-10-10 06:41)
 056. Google - Update
 
 
-📁 Category: 其他 (other.opml) - Count: 52
+📁 Category: 其他 (other.opml) - Count: 51
 ----------------------------------------
 001. 盯梢 - 频道
 002. Galxe - Quest
@@ -1519,90 +1520,36 @@ RSSHub Route List (Updated: 2026-10-10 06:41)
 019. Wellcee 唯心所寓 - 租房信息
 020. Wellcee 唯心所寓 - 支持的城市
 021. Apple - Exchange and Repair Extension Programs
-022. 成都住建蓉 e 办 - 商品住房购房登记
-023. 中国期货业协会 - 分析师园地
-024. ClickMe - 文章
-025. Digital Policy Alert - Activity Tracker
-026. iDaily - 每日环球视野
-027. I Know What You Download - Daily Torrents Statistics
-028. Instructables - Projects
-029. 爱 Q 生活网 - 最近更新
-030. KPMG - Insights
-031. Naturalism.org - What's New
-032. 中国互联网联合辟谣平台 - 今日辟谣
-033. Product Hunt - Top Products Launching Today
-034. Radio France Internationale - Generic News
-035. RSSHub - Transformation - HTML
-036. RSSHub - Transformation - JSON
-037. 星島日報 - 即時
-038. 台灣大哥大 - 資費公告
-039. U9A9 - Search
-040. 裏垢女子まとめ - User
-041. 华西医院 - 招聘公告
-042. ZAKER - 分类
-043. ZAKER - 精读
-044. 界面新闻 - 栏目
-045. 界面新闻 - 界面号
-046. 界面新闻 - 专题
-047. 腾讯网 - 最新辟谣
-048. 紳士漫畫 - 分类更新
-049. 紳士漫畫 - 最新
-050. 紳士漫畫 - 標籤更新
-051. Google - Alerts
-052. Google - Search
-
-
-📁 Category: Shopping (shopping.opml) - Count: 49
-----------------------------------------
-001. Ktown4u - Get the products on sale
-002. 多抓鱼 - 搜索结果
-003. Uniqlo - New Arrivals
-004. 线报酷 - 线板酷
-005. 中国养猪网 - 全国今日生猪价格
-006. 秀动网 - 按音乐人 - 演出更新
-007. 秀动网 - 按城市 - 演出更新
-008. 秀动网 - 演出搜索
-009. 秀动网 - 按场地 - 演出更新
-010. Mercari - 关键词
-011. 小米 - 小米众筹
-012. 上海东方艺术中心 - 演出月历
-013. 小米有品 - 小米有品众筹
-014. 小米有品 - 小米有品每日上新
-015. 0818 团 - 分类
-016. 五大唱片 - 新貨上架
-017. 消费者报道 - 要闻
-018. 玩物志 - 产品
-019. 原價屋 - 促銷&開箱
-020. 大麦网 - 票务更新
-021. 逛丢 - 九块九
-022. 逛丢 - 国内折扣 / 海外折扣
-023. 逛丢 - 一小时风云榜
-024. 逛丢 - 关键字搜索
-025. 環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区
-026. Hot Toys - Toys List
-027. hotukdeals - hottest
-028. IKEA - UK - New Product Release
-029. IKEA - 中国 - 低价优选
-030. IKEA - 中国 - 当季新品推荐
-031. 摩点 - 众筹
-032. Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票
-033. Openrice開飯喇 - 香港餐廳精選優惠券
-034. Openrice開飯喇 - 香港餐廳排行榜
-035. Openrice開飯喇 - 香港餐厅滋讯
-036. Patagonia - New Arrivals
-037. 上海文化广场 - 节目列表
-038. 什么值得买 - 排行榜
-039. 什么值得买 - 用户文章
-040. 什么值得买 - 用户爆料
-041. 什么值得买 - 好文分类
-042. 什么值得买 - 好文
-043. 什么值得买 - 关键词
-044. 什么值得买 - 商品
-045. Snow Peak - New Arrivals(USA)
-046. 淘宝网 - 众筹项目
-047. Gadget Flow - Category
-048. Furstar - 画师列表
-049. 特斯拉中国 - 价格
+022. 中国期货业协会 - 分析师园地
+023. ClickMe - 文章
+024. Digital Policy Alert - Activity Tracker
+025. iDaily - 每日环球视野
+026. I Know What You Download - Daily Torrents Statistics
+027. Instructables - Projects
+028. 爱 Q 生活网 - 最近更新
+029. KPMG - Insights
+030. Naturalism.org - What's New
+031. 中国互联网联合辟谣平台 - 今日辟谣
+032. Product Hunt - Top Products Launching Today
+033. Radio France Internationale - Generic News
+034. RSSHub - Transformation - HTML
+035. RSSHub - Transformation - JSON
+036. 星島日報 - 即時
+037. 台灣大哥大 - 資費公告
+038. U9A9 - Search
+039. 裏垢女子まとめ - User
+040. 华西医院 - 招聘公告
+041. ZAKER - 分类
+042. ZAKER - 精读
+043. 界面新闻 - 栏目
+044. 界面新闻 - 界面号
+045. 界面新闻 - 专题
+046. 腾讯网 - 最新辟谣
+047. 紳士漫畫 - 分类更新
+048. 紳士漫畫 - 最新
+049. 紳士漫畫 - 標籤更新
+050. Google - Alerts
+051. Google - Search
 
 
 📁 Category: Journal (journal.opml) - Count: 49
@@ -1656,6 +1603,58 @@ RSSHub Route List (Updated: 2026-10-10 06:41)
 047. National Bureau of Economic Research - New Papers
 048. Google - Scholar Author Citations
 049. Google - Scholar Keywords Monitoring
+
+
+📁 Category: Shopping (shopping.opml) - Count: 48
+----------------------------------------
+001. Ktown4u - Get the products on sale
+002. 多抓鱼 - 搜索结果
+003. Uniqlo - New Arrivals
+004. 线报酷 - 线板酷
+005. 中国养猪网 - 全国今日生猪价格
+006. 秀动网 - 按音乐人 - 演出更新
+007. 秀动网 - 按城市 - 演出更新
+008. 秀动网 - 演出搜索
+009. 秀动网 - 按场地 - 演出更新
+010. Mercari - 关键词
+011. 上海东方艺术中心 - 演出月历
+012. 小米有品 - 小米有品众筹
+013. 小米有品 - 小米有品每日上新
+014. 0818 团 - 分类
+015. 五大唱片 - 新貨上架
+016. 消费者报道 - 要闻
+017. 玩物志 - 产品
+018. 原價屋 - 促銷&開箱
+019. 大麦网 - 票务更新
+020. 逛丢 - 九块九
+021. 逛丢 - 国内折扣 / 海外折扣
+022. 逛丢 - 一小时风云榜
+023. 逛丢 - 关键字搜索
+024. 環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区
+025. Hot Toys - Toys List
+026. hotukdeals - hottest
+027. IKEA - UK - New Product Release
+028. IKEA - 中国 - 低价优选
+029. IKEA - 中国 - 当季新品推荐
+030. 摩点 - 众筹
+031. Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票
+032. Openrice開飯喇 - 香港餐廳精選優惠券
+033. Openrice開飯喇 - 香港餐廳排行榜
+034. Openrice開飯喇 - 香港餐厅滋讯
+035. Patagonia - New Arrivals
+036. 上海文化广场 - 节目列表
+037. 什么值得买 - 排行榜
+038. 什么值得买 - 用户文章
+039. 什么值得买 - 用户爆料
+040. 什么值得买 - 好文分类
+041. 什么值得买 - 好文
+042. 什么值得买 - 关键词
+043. 什么值得买 - 商品
+044. Snow Peak - New Arrivals(USA)
+045. 淘宝网 - 众筹项目
+046. Gadget Flow - Category
+047. Furstar - 画师列表
+048. 特斯拉中国 - 价格
 
 
 📁 Category: 阅读 (reading.opml) - Count: 43
