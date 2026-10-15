@@ -31,8 +31,8 @@
       <outline type="rss" text="科技大觀園 - 最新文章" title="科技大觀園 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/scitechvista" />
       <outline type="rss" text="四川省人力资源和社会保障厅人事考试专栏 - 通知公告" title="四川省人力资源和社会保障厅人事考试专栏 - 通知公告" xmlUrl="https://rsshub.gamepp.cf/scpta/news/33" />
       <outline type="rss" text="The White House - News" title="The White House - News" xmlUrl="https://rsshub.gamepp.cf/whitehouse/news" />
-      <outline type="rss" text="World Health Organization | WHO - News" title="World Health Organization | WHO - News" xmlUrl="https://rsshub.gamepp.cf/who/news" />
       <outline type="rss" text="World Health Organization | WHO - Newsroom" title="World Health Organization | WHO - Newsroom" xmlUrl="https://rsshub.gamepp.cf/who/news-room/feature-stories" />
+      <outline type="rss" text="World Health Organization | WHO - News" title="World Health Organization | WHO - News" xmlUrl="https://rsshub.gamepp.cf/who/news" />
       <outline type="rss" text="World Health Organization | WHO - Speeches" title="World Health Organization | WHO - Speeches" xmlUrl="https://rsshub.gamepp.cf/who/speeches" />
     </outline>
   </body>

@@ -16,7 +16,6 @@
       <outline type="rss" text="猫眼电影 - 实时票房榜" title="猫眼电影 - 实时票房榜" xmlUrl="https://rsshub.gamepp.cf/maoyan/box" />
       <outline type="rss" text="猫眼电影 - 正在热映 - 完整版" title="猫眼电影 - 正在热映 - 完整版" xmlUrl="https://rsshub.gamepp.cf/maoyan/hotComplete" />
       <outline type="rss" text="猫眼电影 - 正在热映" title="猫眼电影 - 正在热映" xmlUrl="https://rsshub.gamepp.cf/maoyan/hot" />
-      <outline type="rss" text="NIO - NIO Radio" title="NIO - NIO Radio" xmlUrl="https://rsshub.gamepp.cf/nio/nioradio/5" />
       <outline type="rss" text="Spotify - Artist Albums" title="Spotify - Artist Albums" xmlUrl="https://rsshub.gamepp.cf/spotify/artist/6k9TBCxyr4bXwZ8Y21Kwn1" />
       <outline type="rss" text="Spotify - Personal Top Artists" title="Spotify - Personal Top Artists" xmlUrl="https://rsshub.gamepp.cf/spotify/top/artists" />
       <outline type="rss" text="Spotify - Playlist" title="Spotify - Playlist" xmlUrl="https://rsshub.gamepp.cf/spotify/playlist/4UBVy1LttvodwivPUuwJk2" />
@@ -28,22 +27,20 @@
       <outline type="rss" text="CNTV - 栏目" title="CNTV - 栏目" xmlUrl="https://rsshub.gamepp.cf/cntv/TOPC1451528971114112" />
       <outline type="rss" text="通用影视采集站视频采集接口路由 - 最新资源" title="通用影视采集站视频采集接口路由 - 最新资源" xmlUrl="https://rsshub.gamepp.cf/maccms/moduzy.net/2" />
       <outline type="rss" text="Mixcloud - User" title="Mixcloud - User" xmlUrl="https://rsshub.gamepp.cf/mixcloud/dholbach/uploads" />
-      <outline type="rss" text="云听 - 专辑" title="云听 - 专辑" xmlUrl="https://rsshub.gamepp.cf/radio/album/15682090498666" />
-      <outline type="rss" text="云听 - 直播" title="云听 - 直播" xmlUrl="https://rsshub.gamepp.cf/radio/zhibo/1395528" />
       <outline type="rss" text="The Movie Database - Collection" title="The Movie Database - Collection" xmlUrl="https://rsshub.gamepp.cf/themoviedb/collection/131292/en-US" />
       <outline type="rss" text="The Movie Database - TV Show Seasons" title="The Movie Database - TV Show Seasons" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/70593/seasons/en-US" />
       <outline type="rss" text="The Movie Database - Sheet" title="The Movie Database - Sheet" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/top-rated/en-US" />
       <outline type="rss" text="The Movie Database - Trending" title="The Movie Database - Trending" xmlUrl="https://rsshub.gamepp.cf/themoviedb/trending/tv/day/en-US" />
       <outline type="rss" text="西瓜视频 - 用户视频投稿" title="西瓜视频 - 用户视频投稿" xmlUrl="https://rsshub.gamepp.cf/ixigua/user/video/4234740937" />
-      <outline type="rss" text="JavTrailers - Casts" title="JavTrailers - Casts" xmlUrl="https://rsshub.gamepp.cf/javtrailers/casts/hibiki-otsuki" />
-      <outline type="rss" text="JavTrailers - Categories" title="JavTrailers - Categories" xmlUrl="https://rsshub.gamepp.cf/javtrailers/categories/hi-def" />
-      <outline type="rss" text="JavTrailers - Studios" title="JavTrailers - Studios" xmlUrl="https://rsshub.gamepp.cf/javtrailers/studios/s1-no-1-style" />
       <outline type="rss" text="ManyVids - Creator Videos" title="ManyVids - Creator Videos" xmlUrl="https://rsshub.gamepp.cf/manyvids/profile/vids/1001213004" />
       <outline type="rss" text="蜻蜓 FM - 专辑" title="蜻蜓 FM - 专辑" xmlUrl="https://rsshub.gamepp.cf/qingting/channel/293411" />
       <outline type="rss" text="蜻蜓 FM - 播客" title="蜻蜓 FM - 播客" xmlUrl="https://rsshub.gamepp.cf/qingting/podcast/293411" />
+      <outline type="rss" text="云听 - 专辑" title="云听 - 专辑" xmlUrl="https://rsshub.gamepp.cf/radio/album/15682090498666" />
+      <outline type="rss" text="云听 - 直播" title="云听 - 直播" xmlUrl="https://rsshub.gamepp.cf/radio/zhibo/1395528" />
       <outline type="rss" text="SoundOn - Podcast" title="SoundOn - Podcast" xmlUrl="https://rsshub.gamepp.cf/soundon/p/33a68cdc-18ad-4192-84cc-22bd7fdc6a31" />
       <outline type="rss" text="听听 FM - 节目" title="听听 FM - 节目" xmlUrl="https://rsshub.gamepp.cf/tingtingfm/program/M7VJv6Jj4R" />
       <outline type="rss" text="喜马拉雅 - 专辑" title="喜马拉雅 - 专辑" xmlUrl="https://rsshub.gamepp.cf/ximalaya/album/299146" />
+      <outline type="rss" text="FANTUBE - User Posts" title="FANTUBE - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantube/r18/creator/miyuu" />
       <outline type="rss" text="myfans - User Posts" title="myfans - User Posts" xmlUrl="https://rsshub.gamepp.cf/myfans/user/secret_japan" />
       <outline type="rss" text="Niconico - User Videos" title="Niconico - User Videos" xmlUrl="https://rsshub.gamepp.cf/nicovideo/user/16690815/video" />
       <outline type="rss" text="0xxx.ws - Source" title="0xxx.ws - Source" xmlUrl="https://rsshub.gamepp.cf/0xxx/category%3DMovie-HD-1080p" />
@@ -56,7 +53,6 @@
       <outline type="rss" text="BFL AI - Announcements" title="BFL AI - Announcements" xmlUrl="https://rsshub.gamepp.cf/bfl/announcements" />
       <outline type="rss" text="BT影视 - BTBTLA | 最近更新" title="BT影视 - BTBTLA | 最近更新" xmlUrl="https://rsshub.gamepp.cf/btbtla/gxlist" />
       <outline type="rss" text="BT 之家 - 分类" title="BT 之家 - 分类" xmlUrl="https://rsshub.gamepp.cf/btzj" />
-      <outline type="rss" text="Coomer - Posts" title="Coomer - Posts" xmlUrl="https://rsshub.gamepp.cf/coomer" />
       <outline type="rss" text="DoMP4 影视 - 剧集订阅" title="DoMP4 影视 - 剧集订阅" xmlUrl="https://rsshub.gamepp.cf/domp4/detail/LBTANI22222I" />
       <outline type="rss" text="DoMP4 影视 - 最近更新的电源BT列表" title="DoMP4 影视 - 最近更新的电源BT列表" xmlUrl="https://rsshub.gamepp.cf/domp4/latest_movie_bt" />
       <outline type="rss" text="DoMP4 影视 - 最近更新" title="DoMP4 影视 - 最近更新" xmlUrl="https://rsshub.gamepp.cf/domp4/latest/vod" />
@@ -101,7 +97,7 @@
       <outline type="rss" text="乳首ふぇち - AVメーカー" title="乳首ふぇち - AVメーカー" xmlUrl="https://rsshub.gamepp.cf/chikubi/nipple-video-maker/nipple-video-maker-nh" />
       <outline type="rss" text="乳首ふぇち - Search" title="乳首ふぇち - Search" xmlUrl="https://rsshub.gamepp.cf/chikubi/search/%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97" />
       <outline type="rss" text="乳首ふぇち - Tag" title="乳首ふぇち - Tag" xmlUrl="https://rsshub.gamepp.cf/chikubi/tag/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%81%E3%82%B1%E3%83%83%E3%83%88" />
-      <outline type="rss" text="FANTUBE - User Posts" title="FANTUBE - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantube/r18/creator/miyuu" />
+      <outline type="rss" text="Coomer - Posts" title="Coomer - Posts" xmlUrl="https://rsshub.gamepp.cf/coomer" />
       <outline type="rss" text="JavDB - 演員" title="JavDB - 演員" xmlUrl="https://rsshub.gamepp.cf/javdb/actors/R2Vg" />
       <outline type="rss" text="JavDB - 主页" title="JavDB - 主页" xmlUrl="https://rsshub.gamepp.cf/javdb/home" />
       <outline type="rss" text="JavDB - 片商" title="JavDB - 片商" xmlUrl="https://rsshub.gamepp.cf/javdb/makers/7R" />
@@ -111,6 +107,9 @@
       <outline type="rss" text="JavDB - 分類" title="JavDB - 分類" xmlUrl="https://rsshub.gamepp.cf/javdb/tags/c2%3D5%26c10%3D1" />
       <outline type="rss" text="JavDB - 番号" title="JavDB - 番号" xmlUrl="https://rsshub.gamepp.cf/javdb/video_codes/SIVR" />
       <outline type="rss" text="JAVLibrary - Best Reviews" title="JAVLibrary - Best Reviews" xmlUrl="https://rsshub.gamepp.cf/javlibrary/bestreviews/en" />
+      <outline type="rss" text="JavTrailers - Casts" title="JavTrailers - Casts" xmlUrl="https://rsshub.gamepp.cf/javtrailers/casts/hibiki-otsuki" />
+      <outline type="rss" text="JavTrailers - Categories" title="JavTrailers - Categories" xmlUrl="https://rsshub.gamepp.cf/javtrailers/categories/hi-def" />
+      <outline type="rss" text="JavTrailers - Studios" title="JavTrailers - Studios" xmlUrl="https://rsshub.gamepp.cf/javtrailers/studios/s1-no-1-style" />
     </outline>
   </body>
 </opml>
