@@ -110,6 +110,7 @@
       <outline type="rss" text="Transformer Circuits - Articles" title="Transformer Circuits - Articles" xmlUrl="https://rsshub.gamepp.cf/transformer-circuits" />
       <outline type="rss" text="Visual Studio - Code Blog" title="Visual Studio - Code Blog" xmlUrl="https://rsshub.gamepp.cf/visualstudio/code/blog" />
       <outline type="rss" text="Warp - Blog" title="Warp - Blog" xmlUrl="https://rsshub.gamepp.cf/warp/blog" />
+      <outline type="rss" text="微信小程序 - 公众平台系统公告栏目" title="微信小程序 - 公众平台系统公告栏目" xmlUrl="https://rsshub.gamepp.cf/wechat/announce" />
       <outline type="rss" text="Windsurf - Blog" title="Windsurf - Blog" xmlUrl="https://rsshub.gamepp.cf/windsurf/blog" />
       <outline type="rss" text="Windsurf - Changelog" title="Windsurf - Changelog" xmlUrl="https://rsshub.gamepp.cf/windsurf/changelog" />
       <outline type="rss" text="Zed - Blog" title="Zed - Blog" xmlUrl="https://rsshub.gamepp.cf/zed/blog" />
@@ -137,7 +138,6 @@
       <outline type="rss" text="TailwindCSS - Blog" title="TailwindCSS - Blog" xmlUrl="https://rsshub.gamepp.cf/tailwindcss/blog" />
       <outline type="rss" text="web.dev - Articles" title="web.dev - Articles" xmlUrl="https://rsshub.gamepp.cf/web/articles" />
       <outline type="rss" text="web.dev - Blog" title="web.dev - Blog" xmlUrl="https://rsshub.gamepp.cf/web/blog" />
-      <outline type="rss" text="微信小程序 - 公众平台系统公告栏目" title="微信小程序 - 公众平台系统公告栏目" xmlUrl="https://rsshub.gamepp.cf/wechat/announce" />
     </outline>
   </body>
 </opml>
