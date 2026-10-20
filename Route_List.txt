@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-10-19 05:43)
+RSSHub Route List (Updated: 2026-10-20 05:39)
 
 ============================================================
 
@@ -1065,7 +1065,7 @@ RSSHub Route List (Updated: 2026-10-19 05:43)
 081. Google - Research Blog
 
 
-📁 Category: Anime (anime.opml) - Count: 79
+📁 Category: Anime (anime.opml) - Count: 80
 ----------------------------------------
 001. ACG17 - 全部文章
 002. アニメ新番組 - 當季新番
@@ -1073,79 +1073,80 @@ RSSHub Route List (Updated: 2026-10-19 05:43)
 004. IDOLY PRIDE 偶像荣耀 - News
 005. Komiic - 漫画更新
 006. THBWiki - Calendar
-007. CnGal - 制作者 / 游戏新闻
-008. CnGal - 每周速报
-009. 风之动漫 - 在线漫画
-010. iwara - User
-011. iwara - User Subscriptions
-012. Skebetter - Illust
-013. Skebetter - Hot
-014. Skebetter - Manga
-015. VCB-Studio - 分类文章
-016. 再漫画 - 漫画更新
-017. 再漫画 - 最近更新
-018. MangaDex - MDList Feed
-019. 幻之羁绊动漫网 - 资讯
-020. AcFun - 番剧
-021. AcFun - 文章
-022. AcFun - 用户投稿
-023. AGE 动漫 - 番剧详情
-024. AGE 动漫 - 最近更新
-025. 巴卡漫画 - 漫画更新
-026. 包子漫画 - 订阅漫画
-027. COLAMANGA - Manga
-028. コラボカフェ - 全部文章
-029. Comicat - 搜索关键词
-030. 拷贝漫画 - 漫画更新
-031. 动漫之家 - 新闻站
-032. Doraemon Channel - Article
-033. Dorohedoro - News
-034. Eventernote - 声优活动及演唱会
-035. 漫小肆韓漫 - 漫画更新
-036. Gogoanimehd - Recent Releases
-037. Hanime1 - 每月新番
-038. Hanime1 - 搜索结果
-039. アイドルマスター THE IDOLM@STER - ニュース News
-040. 来漫画 - 漫画列表
-041. Love Live! Official Website - News
-042. 円谷ステーション - ニュース
-043. 看漫画 - 漫画更新
-044. NTR BLOG（寝取られブログ） - Articles
-045. 俺の 3D エロ動画 (oreno3d) - Author Search
-046. pixivision - Category
-047. QooApp - News
-048. Rawkuma - Manga
-049. とらのあな - Category
-050. X 漫画 - 最新动态
-051. 月幕 Galgame - 文章
-052. 月幕 Galgame - 本月新作
-053. 禁漫天堂 - 文庫
-054. 禁漫天堂 - 专辑
-055. 禁漫天堂 - 成人 A 漫
-056. 禁漫天堂 - 搜索
-057. Bangumi 番组计划 - 放送列表
-058. Bangumi 番组计划 - 小组话题
-059. Bangumi 番组计划 - 成员关注榜
-060. Bangumi 番组计划 - 现实人物的新作品
-061. Bangumi 番组计划 - 用户日志
-062. Bangumi 番组计划 - 条目的通用路由格式
-063. DLsite - Discounted Works
-064. DLsite - Ci-en Creators' Article
-065. DLsite - Current Release
-066. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
-067. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
-068. 巴哈姆特電玩資訊站 - GNN 新聞
-069. 巴哈姆特電玩資訊站 - 本板推薦
-070. Hpoi 手办维基 - 热门推荐
-071. Hpoi 手办维基 - 情报
-072. Hpoi 手办维基 - 用户动态
-073. Hpoi 手办维基 - 所有周边
-074. Hpoi 手办维基 - 角色周边
-075. Hpoi 手办维基 - 作品周边
-076. Kemono - Posts
-077. nhentai - Filter
-078. nhentai - Advanced Search
-079. 腾讯网 - 排行榜
+007. 萌番组 - Latest
+008. CnGal - 制作者 / 游戏新闻
+009. CnGal - 每周速报
+010. 风之动漫 - 在线漫画
+011. iwara - User
+012. iwara - User Subscriptions
+013. Skebetter - Illust
+014. Skebetter - Hot
+015. Skebetter - Manga
+016. VCB-Studio - 分类文章
+017. 再漫画 - 漫画更新
+018. 再漫画 - 最近更新
+019. MangaDex - MDList Feed
+020. 幻之羁绊动漫网 - 资讯
+021. AcFun - 番剧
+022. AcFun - 文章
+023. AcFun - 用户投稿
+024. AGE 动漫 - 番剧详情
+025. AGE 动漫 - 最近更新
+026. 巴卡漫画 - 漫画更新
+027. 包子漫画 - 订阅漫画
+028. COLAMANGA - Manga
+029. コラボカフェ - 全部文章
+030. Comicat - 搜索关键词
+031. 拷贝漫画 - 漫画更新
+032. 动漫之家 - 新闻站
+033. Doraemon Channel - Article
+034. Dorohedoro - News
+035. Eventernote - 声优活动及演唱会
+036. 漫小肆韓漫 - 漫画更新
+037. Gogoanimehd - Recent Releases
+038. Hanime1 - 每月新番
+039. Hanime1 - 搜索结果
+040. アイドルマスター THE IDOLM@STER - ニュース News
+041. 来漫画 - 漫画列表
+042. Love Live! Official Website - News
+043. 円谷ステーション - ニュース
+044. 看漫画 - 漫画更新
+045. NTR BLOG（寝取られブログ） - Articles
+046. 俺の 3D エロ動画 (oreno3d) - Author Search
+047. pixivision - Category
+048. QooApp - News
+049. Rawkuma - Manga
+050. とらのあな - Category
+051. X 漫画 - 最新动态
+052. 月幕 Galgame - 文章
+053. 月幕 Galgame - 本月新作
+054. 禁漫天堂 - 文庫
+055. 禁漫天堂 - 专辑
+056. 禁漫天堂 - 成人 A 漫
+057. 禁漫天堂 - 搜索
+058. Bangumi 番组计划 - 放送列表
+059. Bangumi 番组计划 - 小组话题
+060. Bangumi 番组计划 - 成员关注榜
+061. Bangumi 番组计划 - 现实人物的新作品
+062. Bangumi 番组计划 - 用户日志
+063. Bangumi 番组计划 - 条目的通用路由格式
+064. DLsite - Discounted Works
+065. DLsite - Ci-en Creators' Article
+066. DLsite - Current Release
+067. 巴哈姆特電玩資訊站 - 動畫瘋 - 動畫
+068. 巴哈姆特電玩資訊站 - 動畫瘋 - 最後更新
+069. 巴哈姆特電玩資訊站 - GNN 新聞
+070. 巴哈姆特電玩資訊站 - 本板推薦
+071. Hpoi 手办维基 - 热门推荐
+072. Hpoi 手办维基 - 情报
+073. Hpoi 手办维基 - 用户动态
+074. Hpoi 手办维基 - 所有周边
+075. Hpoi 手办维基 - 角色周边
+076. Hpoi 手办维基 - 作品周边
+077. Kemono - Posts
+078. nhentai - Filter
+079. nhentai - Advanced Search
+080. 腾讯网 - 排行榜
 
 
 📁 Category: 传统媒体 (traditional-media.opml) - Count: 75
