@@ -10,7 +10,7 @@
       <outline type="rss" text="和风天气 - 近三天天气" title="和风天气 - 近三天天气" xmlUrl="https://rsshub.gamepp.cf/qweather/3days/%E5%B9%BF%E5%B7%9E" />
       <outline type="rss" text="和风天气 - 实时天气" title="和风天气 - 实时天气" xmlUrl="https://rsshub.gamepp.cf/qweather/now/%E5%B9%BF%E5%B7%9E" />
       <outline type="rss" text="Air-Level - 空气质量" title="Air-Level - 空气质量" xmlUrl="https://rsshub.gamepp.cf/air-level/air/xian" />
-      <outline type="rss" text="Air-Level - 空气质量排行" title="Air-Level - 空气质量排行" xmlUrl="https://rsshub.gamepp.cf/air-level/rank/best%2C/air-level/rank" />
+      <outline type="rss" text="Air-Level - 空气质量排行" title="Air-Level - 空气质量排行" xmlUrl="https://rsshub.gamepp.cf/air-level/rank" />
       <outline type="rss" text="中国气象局 - 天气预报频道" title="中国气象局 - 天气预报频道" xmlUrl="https://rsshub.gamepp.cf/cma/channel/380" />
       <outline type="rss" text="中国国家应急广播 - 应急新闻" title="中国国家应急广播 - 应急新闻" xmlUrl="https://rsshub.gamepp.cf/cneb/yjxw" />
       <outline type="rss" text="重庆燃气 - 停气检修通知" title="重庆燃气 - 停气检修通知" xmlUrl="https://rsshub.gamepp.cf/cqgas/tqtz" />
