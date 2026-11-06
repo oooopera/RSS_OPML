@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-11-05 07:42)
+RSSHub Route List (Updated: 2026-11-06 07:39)
 
 ============================================================
 
@@ -1228,7 +1228,7 @@ RSSHub Route List (Updated: 2026-11-05 07:42)
 075. The Economist - Espresso
 
 
-📁 Category: Program-Update (program-update.opml) - Count: 73
+📁 Category: Program-Update (program-update.opml) - Count: 72
 ----------------------------------------
 001. AppStare - Comments
 002. daum - Potplayer Update History
@@ -1246,63 +1246,62 @@ RSSHub Route List (Updated: 2026-11-05 07:42)
 014. qBittorrent - News
 015. 423Down - 423Down
 016. Alpine Linux - Packages
-017. Amazfitwatchfaces - Watch Faces
-018. Amazon - Kindle Software Updates
-019. Android - SDK Platform Tools release notes
-020. Android - Security Bulletins
-021. Anytxt Searcher - Release Notes
-022. AppSales - Category
-023. AppSales - Watchlist Charts
-024. Apple - App Update
-025. Apple - Security releases
-026. App Store/Mac App Store - Price Drop
-027. App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）
-028. App Store/Mac App Store - In-App-Purchase Price Drop Alert
-029. ASUS - BIOS
-030. Brave - Release Notes
-031. Chocolatey - Package
-032. Civitai - Latest models
-033. Claude - Code Changelog
-034. WizTree - What's New
-035. Eagle - Changelog
-036. F-Droid - App Update
-037. Infuse - Release Notes
-038. GitKraken - Release Notes
-039. Greasy Fork - Script Feedback
-040. Greasy Fork - Script Update
-041. Greasy Fork - Script Version History
-042. ImageMagick - Changelog
-043. IPSW.me - Apple Firmware Update-IPSWs/OTAs version
-044. IPSW.dev - Apple latest beta firmware
-045. Kiro - Changelog
-046. LineageOS - Changes
-047. REPACK скачать - REPACK скачать
-048. MacUpdate - Update
-049. Neat Download Manager - Download
-050. Next.js - Blog
-051. Not a Tesla App - Tesla Software Updates
-052. Notion - Release
-053. Perplexity - Changelog
-054. PuTTY - Change Log
-055. Raycast - Changelog
-056. RSSHub - New routes
-057. Scoop - Apps
-058. 腾讯 - 更新日志
-059. TiddlyWiki - Releases
-060. TradingView - Desktop releases and release notes
-061. Typeless - Changelog
-062. Typora - Changelog
-063. Typst - Universe
-064. WebCatalog - Changelog
-065. Zotero - Version History
-066. 哔哩哔哩 bilibili - 更新情报
-067. 异次元软件世界 - 首页
-068. 异次元软件世界 - 分类
-069. 异次元软件世界 - 标签
-070. OpenAI - ChatGPT - Release Notes
-071. Google - Extension Update
-072. Google - Jules Changelog
-073. Google - Play Store Update
+017. Amazon - Kindle Software Updates
+018. Android - SDK Platform Tools release notes
+019. Android - Security Bulletins
+020. Anytxt Searcher - Release Notes
+021. AppSales - Category
+022. AppSales - Watchlist Charts
+023. Apple - App Update
+024. Apple - Security releases
+025. App Store/Mac App Store - Price Drop
+026. App Store/Mac App Store - 每日精品限免 / 促销应用（鲜面连线 by AppSo）
+027. App Store/Mac App Store - In-App-Purchase Price Drop Alert
+028. ASUS - BIOS
+029. Brave - Release Notes
+030. Chocolatey - Package
+031. Civitai - Latest models
+032. Claude - Code Changelog
+033. WizTree - What's New
+034. Eagle - Changelog
+035. F-Droid - App Update
+036. Infuse - Release Notes
+037. GitKraken - Release Notes
+038. Greasy Fork - Script Feedback
+039. Greasy Fork - Script Update
+040. Greasy Fork - Script Version History
+041. ImageMagick - Changelog
+042. IPSW.me - Apple Firmware Update-IPSWs/OTAs version
+043. IPSW.dev - Apple latest beta firmware
+044. Kiro - Changelog
+045. LineageOS - Changes
+046. REPACK скачать - REPACK скачать
+047. MacUpdate - Update
+048. Neat Download Manager - Download
+049. Next.js - Blog
+050. Not a Tesla App - Tesla Software Updates
+051. Notion - Release
+052. Perplexity - Changelog
+053. PuTTY - Change Log
+054. Raycast - Changelog
+055. RSSHub - New routes
+056. Scoop - Apps
+057. 腾讯 - 更新日志
+058. TiddlyWiki - Releases
+059. TradingView - Desktop releases and release notes
+060. Typeless - Changelog
+061. Typora - Changelog
+062. Typst - Universe
+063. WebCatalog - Changelog
+064. Zotero - Version History
+065. 哔哩哔哩 bilibili - 更新情报
+066. 异次元软件世界 - 首页
+067. 异次元软件世界 - 分类
+068. 异次元软件世界 - 标签
+069. OpenAI - ChatGPT - Release Notes
+070. Google - Extension Update
+071. Google - Jules Changelog
+072. Google - Play Store Update
 
 
 📁 Category: 论坛 (bbs.opml) - Count: 57

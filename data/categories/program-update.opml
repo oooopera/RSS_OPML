@@ -21,7 +21,6 @@
       <outline type="rss" text="qBittorrent - News" title="qBittorrent - News" xmlUrl="https://rsshub.gamepp.cf/qbittorrent/news" />
       <outline type="rss" text="423Down - 423Down" title="423Down - 423Down" xmlUrl="https://rsshub.gamepp.cf/423down" />
       <outline type="rss" text="Alpine Linux - Packages" title="Alpine Linux - Packages" xmlUrl="https://rsshub.gamepp.cf/alpinelinux/pkgs/nodejs" />
-      <outline type="rss" text="Amazfitwatchfaces - Watch Faces" title="Amazfitwatchfaces - Watch Faces" xmlUrl="https://rsshub.gamepp.cf/amazfitwatchfaces/amazfit-x/fresh" />
       <outline type="rss" text="Amazon - Kindle Software Updates" title="Amazon - Kindle Software Updates" xmlUrl="https://rsshub.gamepp.cf/amazon/kindle/software-updates" />
       <outline type="rss" text="Android - SDK Platform Tools release notes" title="Android - SDK Platform Tools release notes" xmlUrl="https://rsshub.gamepp.cf/android/platform-tools-releases" />
       <outline type="rss" text="Android - Security Bulletins" title="Android - Security Bulletins" xmlUrl="https://rsshub.gamepp.cf/android/security-bulletin" />
