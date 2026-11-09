@@ -22,8 +22,6 @@
       <outline type="rss" text="Meteor - 看板" title="Meteor - 看板" xmlUrl="https://rsshub.gamepp.cf/meteor/all" />
       <outline type="rss" text="盛趣游戏在线 - 帖子" title="盛趣游戏在线 - 帖子" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/posts/all/hot" />
       <outline type="rss" text="盛趣游戏在线 - 游戏近况" title="盛趣游戏在线 - 游戏近况" xmlUrl="https://rsshub.gamepp.cf/sdo/ff14risingstones/user-resently/10008214" />
-      <outline type="rss" text="Zuvio - 校園話題" title="Zuvio - 校園話題" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/34" />
-      <outline type="rss" text="Zuvio - 看板列表" title="Zuvio - 看板列表" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/boards" />
       <outline type="rss" text="19 楼 - 头条" title="19 楼 - 头条" xmlUrl="https://rsshub.gamepp.cf/19lou/jiaxing" />
       <outline type="rss" text="一亩三分地 - 录取结果" title="一亩三分地 - 录取结果" xmlUrl="https://rsshub.gamepp.cf/1point3acres/offer/12/null/CMU" />
       <outline type="rss" text="一亩三分地 - 标签" title="一亩三分地 - 标签" xmlUrl="https://rsshub.gamepp.cf/1point3acres/category/h1b" />
@@ -62,6 +60,8 @@
       <outline type="rss" text="丁香园 - 个人帖子" title="丁香园 - 个人帖子" xmlUrl="https://rsshub.gamepp.cf/dxy/bbs/profile/thread/8335054" />
       <outline type="rss" text="丁香园 - 专题" title="丁香园 - 专题" xmlUrl="https://rsshub.gamepp.cf/dxy/bbs/special/72" />
       <outline type="rss" text="腾讯网 - 腾讯频道" title="腾讯网 - 腾讯频道" xmlUrl="https://rsshub.gamepp.cf/qq/pd/guild/qrp4pkq01d/650967831/created" />
+      <outline type="rss" text="Zuvio - 看板列表" title="Zuvio - 看板列表" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/boards" />
+      <outline type="rss" text="Zuvio - 校園話題" title="Zuvio - 校園話題" xmlUrl="https://rsshub.gamepp.cf/zuvio/student5/34" />
     </outline>
   </body>
 </opml>

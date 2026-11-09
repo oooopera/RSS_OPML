@@ -172,7 +172,6 @@
       <outline type="rss" text="品玩 - 实时要闻" title="品玩 - 实时要闻" xmlUrl="https://rsshub.gamepp.cf/pingwest/status" />
       <outline type="rss" text="品玩 - 话题动态" title="品玩 - 话题动态" xmlUrl="https://rsshub.gamepp.cf/pingwest/tag/ChinaJoy/1" />
       <outline type="rss" text="PixelsTech - Feed" title="PixelsTech - Feed" xmlUrl="https://rsshub.gamepp.cf/pixelstech/feed/ai" />
-      <outline type="rss" text="Psyche - Topics" title="Psyche - Topics" xmlUrl="https://rsshub.gamepp.cf/psyche/topic/therapeia" />
       <outline type="rss" text="全民健康网 - 新闻" title="全民健康网 - 新闻" xmlUrl="https://rsshub.gamepp.cf/qm120/news" />
       <outline type="rss" text="早报网 - 每日早报" title="早报网 - 每日早报" xmlUrl="https://rsshub.gamepp.cf/qqorw" />
       <outline type="rss" text="Quanta Magazine - Archive" title="Quanta Magazine - Archive" xmlUrl="https://rsshub.gamepp.cf/quantamagazine/archive" />
@@ -255,12 +254,13 @@
       <outline type="rss" text="钛媒体 - 快报" title="钛媒体 - 快报" xmlUrl="https://rsshub.gamepp.cf/tmtpost/nictation" />
       <outline type="rss" text="钛媒体 - 最新" title="钛媒体 - 最新" xmlUrl="https://rsshub.gamepp.cf/tmtpost/column/6916385" />
       <outline type="rss" text="钛媒体 - 最新" title="钛媒体 - 最新" xmlUrl="https://rsshub.gamepp.cf/tmtpost/new" />
-      <outline type="rss" text="報導者 - 分類" title="報導者 - 分類" xmlUrl="https://rsshub.gamepp.cf/twreporter/category/world" />
-      <outline type="rss" text="報導者 - 最新" title="報導者 - 最新" xmlUrl="https://rsshub.gamepp.cf/twreporter/newest" />
       <outline type="rss" text="人人都是产品经理 - 天天问" title="人人都是产品经理 - 天天问" xmlUrl="https://rsshub.gamepp.cf/woshipm/wen" />
       <outline type="rss" text="人人都是产品经理 - 热门文章" title="人人都是产品经理 - 热门文章" xmlUrl="https://rsshub.gamepp.cf/woshipm/popular" />
       <outline type="rss" text="新片场 - 发现" title="新片场 - 发现" xmlUrl="https://rsshub.gamepp.cf/xinpianchang/discover" />
       <outline type="rss" text="机核网 - 播客" title="机核网 - 播客" xmlUrl="https://rsshub.gamepp.cf/gcores/radios/45" />
+      <outline type="rss" text="Psyche - Topics" title="Psyche - Topics" xmlUrl="https://rsshub.gamepp.cf/psyche/topic/therapeia" />
+      <outline type="rss" text="報導者 - 分類" title="報導者 - 分類" xmlUrl="https://rsshub.gamepp.cf/twreporter/category/world" />
+      <outline type="rss" text="報導者 - 最新" title="報導者 - 最新" xmlUrl="https://rsshub.gamepp.cf/twreporter/newest" />
       <outline type="rss" text="Google - News" title="Google - News" xmlUrl="https://rsshub.gamepp.cf/google/news/Top%20stories/hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" />
     </outline>
   </body>

@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-11-08 06:55)
+RSSHub Route List (Updated: 2026-11-09 07:39)
 
 ============================================================
 
@@ -171,95 +171,95 @@ RSSHub Route List (Updated: 2026-11-08 06:55)
 165. 品玩 - 实时要闻
 166. 品玩 - 话题动态
 167. PixelsTech - Feed
-168. Psyche - Topics
-169. 全民健康网 - 新闻
-170. 早报网 - 每日早报
-171. Quanta Magazine - Archive
-172. QuestMobile - 行业研究报告
-173. Radio-Canada.ca - Latest News
-174. Readhub - 每日早报
-175. Readhub - 分类
-176. Rebase Network - Web3 Geek Daily
-177. Samsung - Research Blog
-178. 科学网 - 精选博客
-179. Scientific American - Podcasts
-180. Secret San francisco - Category
-181. Sensor Tower - Blog
-182. 簡訊設計 - 志祺七七
-183. 少数派 sspai - 作者动态
-184. 少数派 sspai - Shortcuts Gallery
-185. 少数派 sspai - 专题
-186. 少数派 sspai - 作者
-187. 少数派 sspai - 专栏
-188. 少数派 sspai - 首页
-189. 少数派 sspai - Matrix
-190. 少数派 sspai - 会员社区
-191. 少数派 sspai - 付费专栏文章更新
-192. 少数派 sspai - 标签订阅
-193. 少数派 sspai - 专题内文章更新
-194. 少数派 sspai - 最新上架付费专栏
-195. 創新拿鐵 - 分类
-196. 風傳媒 - 频道
-197. 風傳媒 - 分类
-198. TechCrunch - News
-199. TechPowerUp - Reviews
-200. TechSir - 最新资讯
-201. 腾讯 - 作者
-202. River.to (江河日下) - 分类
-203. The Verge - Category
-204. ThoughtCo - Category
-205. 腾讯研究院 - 最近更新
-206. TOPYS - 关键字
-207. TrendForce - News
-208. Vertikal.net - News Archive
-209. 歪脑 - 主题
-210. 湾区日报 - 最新推荐
-211. Wikipedia - Current Events
-212. 乌有之乡 - 栏目
-213. 小刀娱乐网 - 分类
-214. 小专栏 - 专栏
-215. 未知文明 - 分类
-216. 36kr - 资讯, 快讯, 用户文章, 主题文章, 专题文章, 搜索文章, 搜索快讯
-217. 36kr - 资讯热榜
-218. AEON - Categories
-219. AEON - Types
-220. cnBeta.COM - 分类
-221. cnBeta.COM - 头条资讯
-222. cnBeta.COM - 主题
-223. CoinDesk - 新闻周刊
-224. 创业邦 - 作者
-225. 创业邦 - 标签
-226. 果壳网 - 科学人
-227. 香港 01 - 热门
-228. 香港 01 - 即時
-229. 虎嗅 - 资讯
-230. 虎嗅 - 源流
-231. 虎嗅 - 文集
-232. 虎嗅 - 24 小时
-233. 虎嗅 - 搜索
-234. 虎嗅 - 标签
-235. 雷峰网 - 业界资讯
-236. LINE - TODAY - Channel
-237. LINE - TODAY
-238. 罗戈网 - 报告
-239. 快科技 - 分类
-240. 快科技 - 排行
-241. 快科技 - 更多分类
-242. 量子位 - 分类
-243. 量子位 - 标签
-244. 腾讯网 - 微信读书榜单
-245. 软餐 - 搜索
-246. The Initium - App
-247. The Initium - 栏目
-248. 钛媒体 - 快报
+168. 全民健康网 - 新闻
+169. 早报网 - 每日早报
+170. Quanta Magazine - Archive
+171. QuestMobile - 行业研究报告
+172. Radio-Canada.ca - Latest News
+173. Readhub - 每日早报
+174. Readhub - 分类
+175. Rebase Network - Web3 Geek Daily
+176. Samsung - Research Blog
+177. 科学网 - 精选博客
+178. Scientific American - Podcasts
+179. Secret San francisco - Category
+180. Sensor Tower - Blog
+181. 簡訊設計 - 志祺七七
+182. 少数派 sspai - 作者动态
+183. 少数派 sspai - Shortcuts Gallery
+184. 少数派 sspai - 专题
+185. 少数派 sspai - 作者
+186. 少数派 sspai - 专栏
+187. 少数派 sspai - 首页
+188. 少数派 sspai - Matrix
+189. 少数派 sspai - 会员社区
+190. 少数派 sspai - 付费专栏文章更新
+191. 少数派 sspai - 标签订阅
+192. 少数派 sspai - 专题内文章更新
+193. 少数派 sspai - 最新上架付费专栏
+194. 創新拿鐵 - 分类
+195. 風傳媒 - 频道
+196. 風傳媒 - 分类
+197. TechCrunch - News
+198. TechPowerUp - Reviews
+199. TechSir - 最新资讯
+200. 腾讯 - 作者
+201. River.to (江河日下) - 分类
+202. The Verge - Category
+203. ThoughtCo - Category
+204. 腾讯研究院 - 最近更新
+205. TOPYS - 关键字
+206. TrendForce - News
+207. Vertikal.net - News Archive
+208. 歪脑 - 主题
+209. 湾区日报 - 最新推荐
+210. Wikipedia - Current Events
+211. 乌有之乡 - 栏目
+212. 小刀娱乐网 - 分类
+213. 小专栏 - 专栏
+214. 未知文明 - 分类
+215. 36kr - 资讯, 快讯, 用户文章, 主题文章, 专题文章, 搜索文章, 搜索快讯
+216. 36kr - 资讯热榜
+217. AEON - Categories
+218. AEON - Types
+219. cnBeta.COM - 分类
+220. cnBeta.COM - 头条资讯
+221. cnBeta.COM - 主题
+222. CoinDesk - 新闻周刊
+223. 创业邦 - 作者
+224. 创业邦 - 标签
+225. 果壳网 - 科学人
+226. 香港 01 - 热门
+227. 香港 01 - 即時
+228. 虎嗅 - 资讯
+229. 虎嗅 - 源流
+230. 虎嗅 - 文集
+231. 虎嗅 - 24 小时
+232. 虎嗅 - 搜索
+233. 虎嗅 - 标签
+234. 雷峰网 - 业界资讯
+235. LINE - TODAY - Channel
+236. LINE - TODAY
+237. 罗戈网 - 报告
+238. 快科技 - 分类
+239. 快科技 - 排行
+240. 快科技 - 更多分类
+241. 量子位 - 分类
+242. 量子位 - 标签
+243. 腾讯网 - 微信读书榜单
+244. 软餐 - 搜索
+245. The Initium - App
+246. The Initium - 栏目
+247. 钛媒体 - 快报
+248. 钛媒体 - 最新
 249. 钛媒体 - 最新
-250. 钛媒体 - 最新
-251. 報導者 - 分類
-252. 報導者 - 最新
-253. 人人都是产品经理 - 天天问
-254. 人人都是产品经理 - 热门文章
-255. 新片场 - 发现
-256. 机核网 - 播客
+250. 人人都是产品经理 - 天天问
+251. 人人都是产品经理 - 热门文章
+252. 新片场 - 发现
+253. 机核网 - 播客
+254. Psyche - Topics
+255. 報導者 - 分類
+256. 報導者 - 最新
 257. Google - News
 
 
@@ -581,87 +581,87 @@ RSSHub Route List (Updated: 2026-11-08 06:55)
 023. Daily.dev - Most upvoted
 024. Discord - Channel Messages
 025. Discord - Guild Search
-026. fanbox - Creator
-027. Fansly - User Timeline
-028. Fansly - Hashtag
-029. Mastodon - User timeline (by account ID)
-030. Mastodon - User timeline
-031. Mastodon - Hashtag timeline
-032. Mastodon - Instance timeline (local)
-033. Mastodon - Instance timeline (federated)
-034. Misskey - Featured Notes
-035. Misskey - Home Timeline
-036. Misskey - User timeline
-037. CrushNinja - 匿名投稿頁面
-038. 抖音直播 - 博主
-039. 简书 - 专题
-040. 简书 - 首页
-041. 简书 - 作者
-042. Letterboxd - User Watchlist
-043. Lofter - User
-044. Lofter - Collection
-045. Lofter - Tag
-046. Instagram - User Profile - Picnob
-047. TikTok - User Profile - Picuki
-048. Rattibha - User Threads
-049. Telegram - Sticker Pack
-050. Telegram - Channel
-051. Threads - User timeline
-052. TikTok - Live
-053. Vimeo - User Profile
-054. Vimeo - Category
-055. 哔哩哔哩 bilibili - 专栏文集
-056. 哔哩哔哩 bilibili - 入站必刷
-057. 哔哩哔哩 bilibili - 视频选集列表
-058. 哔哩哔哩 bilibili - 分区视频排行榜
-059. 哔哩哔哩 bilibili - 分区视频
-060. 哔哩哔哩 bilibili - 综合热门
-061. 哔哩哔哩 bilibili - 热搜
-062. 哔哩哔哩 bilibili - B 站每周必看
-063. Cara - Likes
-064. Cara - Portfolio
-065. Cara - Timeline
-066. 豆瓣 - 新书速递
-067. 豆瓣 - 热门图书排行
-068. 豆瓣 - 频道书影音
-069. 豆瓣 - 热门同城活动
-070. 豆瓣 - 电影即将上映
-071. 豆瓣 - 浏览发现
-072. 豆瓣 - 一周口碑榜
-073. 豆瓣 - 即将播出的剧集
-074. 豆瓣 - 商务印书馆新书速递
-075. 豆瓣 - 浏览发现分栏目
-076. 豆瓣 - 即将上映的电影
-077. 豆瓣 - 最新增加的音乐
-078. 豆瓣 - 正在上映的电影
-079. 豆瓣 - 北美票房榜
-080. 豆瓣 - 话题
-081. Furaffinity - Status
-082. Furaffinity - Gallery
-083. Furaffinity - Browse
-084. Furaffinity - Home
-085. 即刻 - 圈子
-086. 即刻 - 圈子 - 纯文字
-087. LinkedIn - Company Posts
-088. LinkedIn - Jobs
-089. Plurk - User
-090. Plurk - Anonymous
-091. Plurk - Hotlinks
-092. Plurk - Plurk News
-093. Plurk - Search
-094. Plurk - Top
-095. 方格子 - 出版專題
-096. 微博 - 热搜榜
-097. 知乎 - xhu- 专栏
-098. 知乎 - 话题
-099. 知乎 - 专栏
-100. pixiv - User Bookmark
-101. pixiv - Following timeline
-102. pixiv - Rankings
-103. pixiv - Keyword
-104. pixiv - User Activity
-105. pixiv - Novel Series
-106. pixiv - User Novels
+026. Fansly - User Timeline
+027. Fansly - Hashtag
+028. Mastodon - User timeline (by account ID)
+029. Mastodon - User timeline
+030. Mastodon - Hashtag timeline
+031. Mastodon - Instance timeline (local)
+032. Mastodon - Instance timeline (federated)
+033. Misskey - Featured Notes
+034. Misskey - Home Timeline
+035. Misskey - User timeline
+036. CrushNinja - 匿名投稿頁面
+037. 抖音直播 - 博主
+038. 简书 - 专题
+039. 简书 - 首页
+040. 简书 - 作者
+041. Letterboxd - User Watchlist
+042. Lofter - User
+043. Lofter - Collection
+044. Lofter - Tag
+045. Instagram - User Profile - Picnob
+046. TikTok - User Profile - Picuki
+047. Rattibha - User Threads
+048. Telegram - Sticker Pack
+049. Telegram - Channel
+050. Threads - User timeline
+051. TikTok - Live
+052. Vimeo - User Profile
+053. Vimeo - Category
+054. 哔哩哔哩 bilibili - 专栏文集
+055. 哔哩哔哩 bilibili - 入站必刷
+056. 哔哩哔哩 bilibili - 视频选集列表
+057. 哔哩哔哩 bilibili - 分区视频排行榜
+058. 哔哩哔哩 bilibili - 分区视频
+059. 哔哩哔哩 bilibili - 综合热门
+060. 哔哩哔哩 bilibili - 热搜
+061. 哔哩哔哩 bilibili - B 站每周必看
+062. Cara - Likes
+063. Cara - Portfolio
+064. Cara - Timeline
+065. 豆瓣 - 新书速递
+066. 豆瓣 - 热门图书排行
+067. 豆瓣 - 频道书影音
+068. 豆瓣 - 热门同城活动
+069. 豆瓣 - 电影即将上映
+070. 豆瓣 - 浏览发现
+071. 豆瓣 - 一周口碑榜
+072. 豆瓣 - 即将播出的剧集
+073. 豆瓣 - 商务印书馆新书速递
+074. 豆瓣 - 浏览发现分栏目
+075. 豆瓣 - 即将上映的电影
+076. 豆瓣 - 最新增加的音乐
+077. 豆瓣 - 正在上映的电影
+078. 豆瓣 - 北美票房榜
+079. 豆瓣 - 话题
+080. Furaffinity - Status
+081. Furaffinity - Gallery
+082. Furaffinity - Browse
+083. Furaffinity - Home
+084. 即刻 - 圈子
+085. 即刻 - 圈子 - 纯文字
+086. LinkedIn - Company Posts
+087. LinkedIn - Jobs
+088. Plurk - User
+089. Plurk - Anonymous
+090. Plurk - Hotlinks
+091. Plurk - Plurk News
+092. Plurk - Search
+093. Plurk - Top
+094. 方格子 - 出版專題
+095. 微博 - 热搜榜
+096. 知乎 - xhu- 专栏
+097. 知乎 - 话题
+098. 知乎 - 专栏
+099. pixiv - User Bookmark
+100. pixiv - Following timeline
+101. pixiv - Rankings
+102. pixiv - Keyword
+103. pixiv - User Activity
+104. pixiv - Novel Series
+105. pixiv - User Novels
+106. fanbox - Creator
 107. X (Twitter) - Home latest timeline
 108. X (Twitter) - Home timeline
 109. X (Twitter) - Keyword
@@ -1323,46 +1323,46 @@ RSSHub Route List (Updated: 2026-11-08 06:55)
 015. Meteor - 看板
 016. 盛趣游戏在线 - 帖子
 017. 盛趣游戏在线 - 游戏近况
-018. Zuvio - 校園話題
-019. Zuvio - 看板列表
-020. 19 楼 - 头条
-021. 一亩三分地 - 录取结果
-022. 一亩三分地 - 标签
-023. 一亩三分地 - 分区
-024. 一亩三分地 - 帖子
-025. 一亩三分地 - 博客
-026. Chiphell - 分类
-027. 虫部落 - 最新发表
-028. Elastic 中文社区 - 发现
-029. 飞客茶馆 - 会员说
-030. 看雪 - 论坛
-031. LearnKu - 社区
-032. NGA - 分区帖子
-033. NGA - 帖子
-034. 牛客网 - 求职推荐
-035. 牛客网 - 校招日程
-036. 牛客网 - 讨论区
-037. 牛客网 - 面经
-038. 品葱 - 精选
-039. 品葱 - 发现
-040. PKMer - 最近更新
-041. PLAYNO.1 玩樂達人 - AV
-042. PLAYNO.1 玩樂達人 - 情趣
-043. ResetEra - Thread latest posts (text & images)
-044. 恩山无线论坛 - 板块
-045. Saraba1st - 论坛摘要
-046. 第一会所 - 作者
-047. 第一会所 - 子版块
-048. 通信人家园 - 论坛 频道
-049. 司机社 - 论坛
-050. 司机社 - 排行榜
-051. 百合会 - BBS - 板块
-052. 百合会 - BBS - 讨论串
-053. 猿料 - 主题
-054. 丁香园 - 板块
-055. 丁香园 - 个人帖子
-056. 丁香园 - 专题
-057. 腾讯网 - 腾讯频道
+018. 19 楼 - 头条
+019. 一亩三分地 - 录取结果
+020. 一亩三分地 - 标签
+021. 一亩三分地 - 分区
+022. 一亩三分地 - 帖子
+023. 一亩三分地 - 博客
+024. Chiphell - 分类
+025. 虫部落 - 最新发表
+026. Elastic 中文社区 - 发现
+027. 飞客茶馆 - 会员说
+028. 看雪 - 论坛
+029. LearnKu - 社区
+030. NGA - 分区帖子
+031. NGA - 帖子
+032. 牛客网 - 求职推荐
+033. 牛客网 - 校招日程
+034. 牛客网 - 讨论区
+035. 牛客网 - 面经
+036. 品葱 - 精选
+037. 品葱 - 发现
+038. PKMer - 最近更新
+039. PLAYNO.1 玩樂達人 - AV
+040. PLAYNO.1 玩樂達人 - 情趣
+041. ResetEra - Thread latest posts (text & images)
+042. 恩山无线论坛 - 板块
+043. Saraba1st - 论坛摘要
+044. 第一会所 - 作者
+045. 第一会所 - 子版块
+046. 通信人家园 - 论坛 频道
+047. 司机社 - 论坛
+048. 司机社 - 排行榜
+049. 百合会 - BBS - 板块
+050. 百合会 - BBS - 讨论串
+051. 猿料 - 主题
+052. 丁香园 - 板块
+053. 丁香园 - 个人帖子
+054. 丁香园 - 专题
+055. 腾讯网 - 腾讯频道
+056. Zuvio - 看板列表
+057. Zuvio - 校園話題
 
 
 📁 Category: 图片 (picture.opml) - Count: 56
@@ -1576,7 +1576,7 @@ RSSHub Route List (Updated: 2026-11-08 06:55)
 043. 特斯拉中国 - 价格
 
 
-📁 Category: 阅读 (reading.opml) - Count: 42
+📁 Category: 阅读 (reading.opml) - Count: 43
 ----------------------------------------
 001. 51Read - 章节
 002. 69书吧 - 章节
@@ -1603,23 +1603,24 @@ RSSHub Route List (Updated: 2026-11-08 06:55)
 023. Penguin Random House - Articles
 024. Penguin Random House - Book Lists
 025. 起点 - 作品章节
-026. 起点 - 限时免费
-027. SF 轻小说 - 章节
-028. 東立出版社 - 新聞
-029. WDFXW文档分享网 - 免费区
-030. 轻小说文库 - 章节
-031. 中文成人文學網 - 短篇
-032. 意林杂志 - 文章列表
-033. 意林杂志 - 近期文章汇总
-034. 日本語多読道場 - 等级
-035. 纵横中文网 - 章节更新
-036. 知轩藏书 - 小说列表
-037. Asianfanfics - 标签
-038. Asianfanfics - 关键词
-039. SoBooks - 首页
-040. SoBooks - 标签
-041. Syosetu - R18 Rankings
-042. Syosetu - Search
+026. 起点 - 限时免费下期预告
+027. 起点 - 限时免费
+028. SF 轻小说 - 章节
+029. 東立出版社 - 新聞
+030. WDFXW文档分享网 - 免费区
+031. 轻小说文库 - 章节
+032. 中文成人文學網 - 短篇
+033. 意林杂志 - 文章列表
+034. 意林杂志 - 近期文章汇总
+035. 日本語多読道場 - 等级
+036. 纵横中文网 - 章节更新
+037. 知轩藏书 - 小说列表
+038. Asianfanfics - 标签
+039. Asianfanfics - 关键词
+040. SoBooks - 首页
+041. SoBooks - 标签
+042. Syosetu - R18 Rankings
+043. Syosetu - Search
 
 
 📁 Category: Government (government.opml) - Count: 29

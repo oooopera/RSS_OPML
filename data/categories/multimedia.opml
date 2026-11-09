@@ -6,7 +6,7 @@
   <body>
     <outline text="Multimedia" title="Multimedia">
       <outline type="rss" text="网易公开课 - 用户歌单" title="网易公开课 - 用户歌单" xmlUrl="https://rsshub.gamepp.cf/163/music/user/playlist/45441555" />
-      <outline type="rss" text="网易公开课 - 用户听歌排行" title="网易公开课 - 用户听歌排行" xmlUrl="https://rsshub.gamepp.cf/163/music/user/playrecords/45441555/0" />
+      <outline type="rss" text="网易公开课 - 用户听歌排行" title="网易公开课 - 用户听歌排行" xmlUrl="https://rsshub.gamepp.cf/163/music/user/playrecords/45441555/1" />
       <outline type="rss" text="网易公开课 - 歌手歌曲" title="网易公开课 - 歌手歌曲" xmlUrl="https://rsshub.gamepp.cf/163/music/artist/songs/2116" />
       <outline type="rss" text="网易公开课 - 歌手专辑" title="网易公开课 - 歌手专辑" xmlUrl="https://rsshub.gamepp.cf/163/music/artist/2116" />
       <outline type="rss" text="网易公开课 - 歌单歌曲" title="网易公开课 - 歌单歌曲" xmlUrl="https://rsshub.gamepp.cf/163/music/playlist/35798529" />

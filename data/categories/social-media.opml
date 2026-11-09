@@ -30,7 +30,6 @@
       <outline type="rss" text="Daily.dev - Most upvoted" title="Daily.dev - Most upvoted" xmlUrl="https://rsshub.gamepp.cf/daily/upvoted/7" />
       <outline type="rss" text="Discord - Channel Messages" title="Discord - Channel Messages" xmlUrl="https://rsshub.gamepp.cf/discord/channel/950465850056536084" />
       <outline type="rss" text="Discord - Guild Search" title="Discord - Guild Search" xmlUrl="https://rsshub.gamepp.cf/discord/search/302094807046684672/content%3Dfriendly%26has%3Dimage%2Cvideo" />
-      <outline type="rss" text="fanbox - Creator" title="fanbox - Creator" xmlUrl="https://rsshub.gamepp.cf/fanbox/official" />
       <outline type="rss" text="Fansly - User Timeline" title="Fansly - User Timeline" xmlUrl="https://rsshub.gamepp.cf/fansly/user/AeriGoMoo" />
       <outline type="rss" text="Fansly - Hashtag" title="Fansly - Hashtag" xmlUrl="https://rsshub.gamepp.cf/fansly/tag/free" />
       <outline type="rss" text="Mastodon - User timeline (by account ID)" title="Mastodon - User timeline (by account ID)" xmlUrl="https://rsshub.gamepp.cf/mastodon/account_id/mas.to/109300507275095341/statuses/false" />
@@ -111,6 +110,7 @@
       <outline type="rss" text="pixiv - User Activity" title="pixiv - User Activity" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/15288095" />
       <outline type="rss" text="pixiv - Novel Series" title="pixiv - Novel Series" xmlUrl="https://rsshub.gamepp.cf/pixiv/novel/series/11586857" />
       <outline type="rss" text="pixiv - User Novels" title="pixiv - User Novels" xmlUrl="https://rsshub.gamepp.cf/pixiv/user/novels/27104704" />
+      <outline type="rss" text="fanbox - Creator" title="fanbox - Creator" xmlUrl="https://rsshub.gamepp.cf/fanbox/official" />
       <outline type="rss" text="X (Twitter) - Home latest timeline" title="X (Twitter) - Home latest timeline" xmlUrl="https://rsshub.gamepp.cf/twitter/home_latest" />
       <outline type="rss" text="X (Twitter) - Home timeline" title="X (Twitter) - Home timeline" xmlUrl="https://rsshub.gamepp.cf/twitter/home" />
       <outline type="rss" text="X (Twitter) - Keyword" title="X (Twitter) - Keyword" xmlUrl="https://rsshub.gamepp.cf/twitter/keyword/RSSHub" />
