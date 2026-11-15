@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-11-14 07:20)
+RSSHub Route List (Updated: 2026-11-15 07:33)
 
 ============================================================
 
@@ -23,120 +23,120 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 017. 后续 - 专栏
 018. 后续 - Live
 019. 后续 - 跟踪
-020. i黑马网 - 推荐
-021. 靠谱新闻 - 全部
-022. MyGoPen - 分類
-023. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
-024. zyw - 今日热榜
-025. Foresight News - 文章
-026. Foresight News - 专栏
-027. Foresight News - 精选资讯
-028. Foresight News - 快讯
-029. Newslaundry - Explainer
-030. Newslaundry - Explains
-031. Newslaundry - Reports
-032. Newslaundry - Shot
-033. 阿里研究院 - 资讯
-034. 全国港澳研究会 - 分类
-035. 差评 - 快讯
-036. 差评 - 资讯
-037. 差评 - 图片墙
-038. 大河财立方 - 新闻
-039. 中国科普博览 - 直播回看
-040. 麻省理工科技评论 - 首页
-041. Odaily 星球日报 - 快讯
-042. Odaily 星球日报 - 搜索快讯
-043. Odaily 星球日报 - 活动
-044. Odaily 星球日报 - 文章
-045. PetCity 毛孩日常 - 分類
-046. 知园 - Newsletter
-047. FoodTalks全球食品资讯网 - 最新资讯
-048. 蓝点网 - 分类
-049. 蓝点网 - 首页
-050. PANews - 专栏
-051. PANews - 快讯
-052. PANews - 深度
-053. UNTAG - 分类
-054. UNTAG - 时间线
-055. UNTAG - 专题
-056. 10000万联网 - 新闻
-057. 199it - 资讯
-058. 52hrtt 华人头条 - 新闻
-059. 論盡媒體 AllAboutMacau Media - 话题
-060. Access Briefing - Articles
-061. 广告门 - 案例库
-062. 广告门 - 最新文章
-063. 电獭少女 - 当前精选主题列表
-064. 电獭少女 - 精选主题
-065. 电獭少女 - 分类
-066. AG⓪RA - 零博客
-067. AG⓪RA - 共和報
-068. 中国农业农村信息网 - 分类
-069. AI工具集 - 每日AI资讯
-070. AIbase - AI日报
-071. AIbase - 发现
-072. AIbase - 资讯
-073. AIbase - 标签
-074. 艾莱资讯 - 世界轨道交通资讯网
-075. AppleInsider - Category
-076. 亚洲水果 - 果蔬品项
-077. 亚洲水果 - 行业资讯
-078. 白鲸出海 - 资讯
-079. 字节点击 - 标签
-080. C114 通信网 - 滚动资讯
-081. CBNData - 看点
-082. 中国五矿化工进出口商会 - 通用
-083. 全球化智库 - 动态
-084. 国家高端智库 / 综合开发研究院 - 栏目
-085. 通識・現代中國 - 議題熱話
-086. 中国钢铁工业协会 - 栏目
-087. 投中网 - 分类
-088. 充电头网 - 最新资讯
-089. 中国黄金协会 - 分类
-090. 消费者委员会 - 文章
-091. 萃嶺网 - 分类
-092. DCFever - 新聞中心
-093. DCFever - 測試報告
-094. DCFever - 二手市集
-095. 得到 - 知识城邦
-096. 得到 - 得到文章
-097. 得到 - 文章
-098. 得到 - 首页
-099. DeepL - Blog
-100. DeepMind - Blog
-101. 德恒律师事务所 - 德恒探索
-102. 电动邦 - 资讯
-103. Digital Camera World - News
-104. EU Disinfo Lab - Publications
-105. DN.com - News
-106. 东西智库 - 分类
-107. ePrice - 最新消息
-108. Esquire Hong Kong - Tag
-109. 歐洲動態（國際） - 最新
-110. 中房网 - 列表
-111. FashionNetwork - FashionNetwork 中国
-112. Focus Taiwan - Category
-113. 财富中文网 - 分类
-114. 自由微信 - 公众号
-115. Follow The Money - 文章
-116. 极客公园 - 栏目
-117. Grist - Latest Articles
-118. Grist - Topic
-119. Grist - Featured
-120. 观察者网 - 观学院
-121. 观察者网 - 头条
-122. 观察者网 - 首页
-123. 观察者网 - 个人主页文章
-124. Harvard Health Publishing - Health Blog
-125. Harvard Business Review - Topic
-126. 白话区块链 - 首页
-127. 白话区块链 - 科普
-128. 白话区块链 - 快讯
-129. 珠海网 - 栏目
-130. 爱范儿 - 分类
-131. 爱范儿 - 首页
-132. 爱范儿 - 快讯
-133. 凤凰网 - 大风号
+020. 靠谱新闻 - 全部
+021. MyGoPen - 分類
+022. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
+023. zyw - 今日热榜
+024. Foresight News - 文章
+025. Foresight News - 专栏
+026. Foresight News - 精选资讯
+027. Foresight News - 快讯
+028. Newslaundry - Explainer
+029. Newslaundry - Explains
+030. Newslaundry - Reports
+031. Newslaundry - Shot
+032. 阿里研究院 - 资讯
+033. 全国港澳研究会 - 分类
+034. 差评 - 快讯
+035. 差评 - 资讯
+036. 差评 - 图片墙
+037. 大河财立方 - 新闻
+038. 中国科普博览 - 直播回看
+039. 麻省理工科技评论 - 首页
+040. Odaily 星球日报 - 快讯
+041. Odaily 星球日报 - 搜索快讯
+042. Odaily 星球日报 - 活动
+043. Odaily 星球日报 - 文章
+044. PetCity 毛孩日常 - 分類
+045. 知园 - Newsletter
+046. FoodTalks全球食品资讯网 - 最新资讯
+047. 蓝点网 - 分类
+048. 蓝点网 - 首页
+049. PANews - 专栏
+050. PANews - 快讯
+051. PANews - 深度
+052. UNTAG - 分类
+053. UNTAG - 时间线
+054. UNTAG - 专题
+055. 10000万联网 - 新闻
+056. 199it - 资讯
+057. 52hrtt 华人头条 - 新闻
+058. 論盡媒體 AllAboutMacau Media - 话题
+059. Access Briefing - Articles
+060. 广告门 - 案例库
+061. 广告门 - 最新文章
+062. 电獭少女 - 当前精选主题列表
+063. 电獭少女 - 精选主题
+064. 电獭少女 - 分类
+065. AG⓪RA - 零博客
+066. AG⓪RA - 共和報
+067. 中国农业农村信息网 - 分类
+068. AI工具集 - 每日AI资讯
+069. AIbase - AI日报
+070. AIbase - 发现
+071. AIbase - 资讯
+072. AIbase - 标签
+073. 艾莱资讯 - 世界轨道交通资讯网
+074. AppleInsider - Category
+075. 亚洲水果 - 果蔬品项
+076. 亚洲水果 - 行业资讯
+077. 白鲸出海 - 资讯
+078. 字节点击 - 标签
+079. C114 通信网 - 滚动资讯
+080. CBNData - 看点
+081. 中国五矿化工进出口商会 - 通用
+082. 全球化智库 - 动态
+083. 国家高端智库 / 综合开发研究院 - 栏目
+084. 通識・現代中國 - 議題熱話
+085. 中国钢铁工业协会 - 栏目
+086. 投中网 - 分类
+087. 充电头网 - 最新资讯
+088. 中国黄金协会 - 分类
+089. 消费者委员会 - 文章
+090. 萃嶺网 - 分类
+091. DCFever - 新聞中心
+092. DCFever - 測試報告
+093. DCFever - 二手市集
+094. 得到 - 知识城邦
+095. 得到 - 得到文章
+096. 得到 - 文章
+097. 得到 - 首页
+098. DeepL - Blog
+099. DeepMind - Blog
+100. 德恒律师事务所 - 德恒探索
+101. 电动邦 - 资讯
+102. Digital Camera World - News
+103. EU Disinfo Lab - Publications
+104. DN.com - News
+105. 东西智库 - 分类
+106. ePrice - 最新消息
+107. Esquire Hong Kong - Tag
+108. 歐洲動態（國際） - 最新
+109. 中房网 - 列表
+110. FashionNetwork - FashionNetwork 中国
+111. Focus Taiwan - Category
+112. 财富中文网 - 分类
+113. 自由微信 - 公众号
+114. Follow The Money - 文章
+115. 极客公园 - 栏目
+116. Grist - Latest Articles
+117. Grist - Topic
+118. Grist - Featured
+119. 观察者网 - 观学院
+120. 观察者网 - 头条
+121. 观察者网 - 首页
+122. 观察者网 - 个人主页文章
+123. Harvard Health Publishing - Health Blog
+124. Harvard Business Review - Topic
+125. 白话区块链 - 首页
+126. 白话区块链 - 科普
+127. 白话区块链 - 快讯
+128. 珠海网 - 栏目
+129. 爱范儿 - 分类
+130. 爱范儿 - 首页
+131. 爱范儿 - 快讯
+132. 凤凰网 - 大风号
+133. i黑马网 - 推荐
 134. 米课 - 米课圈精华
 135. The Indian Express - Section
 136. InfoQ 中文 - 推荐
@@ -427,11 +427,11 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 006. SYCL - Feeds
 007. A List Apart - Home Feed
 008. A List Apart - Topics
-009. Bitmovin - Blog
-010. Cloudflare Status - Status
-011. HackMD - Profile
-012. SecWiki - 安全维基 - 最新周刊
-013. 前端早早聊 - 文章
+009. Cloudflare Status - Status
+010. HackMD - Profile
+011. SecWiki - 安全维基 - 最新周刊
+012. 前端早早聊 - 文章
+013. Bitmovin - Blog
 014. 当当开放平台 - 公告
 015. 得物 - 平台公告
 016. 抖店开放平台 - 平台公告
@@ -671,112 +671,6 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 113. X (Twitter) - User timeline
 
 
-📁 Category: Multimedia (multimedia.opml) - Count: 102
-----------------------------------------
-001. 网易公开课 - 用户歌单
-002. 网易公开课 - 用户听歌排行
-003. 网易公开课 - 歌手歌曲
-004. 网易公开课 - 歌手专辑
-005. 网易公开课 - 歌单歌曲
-006. 网易公开课 - 电台节目
-007. 2048 核基地 - 论坛
-008. 阿里云盘 - 文件列表
-009. 猫眼电影 - 实时票房榜
-010. 猫眼电影 - 正在热映 - 完整版
-011. 猫眼电影 - 正在热映
-012. Spotify - Artist Albums
-013. Spotify - Personal Top Artists
-014. Spotify - Playlist
-015. Spotify - Personal Saved Tracks
-016. Spotify - Show/Podcasts
-017. Spotify - Personal Top Tracks
-018. 阿基米德 FM - 播客
-019. ASMR Online - 最新收录
-020. CNTV - 栏目
-021. 通用影视采集站视频采集接口路由 - 最新资源
-022. Mixcloud - User
-023. The Movie Database - Collection
-024. The Movie Database - TV Show Seasons
-025. The Movie Database - Sheet
-026. The Movie Database - Trending
-027. 西瓜视频 - 用户视频投稿
-028. ManyVids - Creator Videos
-029. 蜻蜓 FM - 专辑
-030. 蜻蜓 FM - 播客
-031. 云听 - 专辑
-032. 云听 - 直播
-033. SoundOn - Podcast
-034. 听听 FM - 节目
-035. 喜马拉雅 - 专辑
-036. FANTUBE - User Posts
-037. myfans - User Posts
-038. Niconico - User Videos
-039. 0xxx.ws - Source
-040. 4k 世界 - 分类
-041. 7mmtv - Category
-042. 91porn - Hot Video Today
-043. Apple - 播客
-044. 哔嘀影视 - 首页
-045. BFL AI - Announcements
-046. BT影视 - BTBTLA | 最近更新
-047. BT 之家 - 分类
-048. 电影天堂 - 分类
-049. 追新番 - 最近更新
-050. IMDb - Charts
-051. 爱奇艺 - 剧集
-052. JavBus - Works
-053. Javtiful - Actress
-054. Javtiful - Channel
-055. MissAV - 最近更新
-056. musify - Latest
-057. NEW 字幕组 - 指定剧集
-058. Nyaa - Search Result
-059. 欧乐影院 - 视频
-060. 欧乐影院 - 最新视频
-061. Podwise - Collections
-062. PornHub - Keyword Search
-063. PornHub - Category
-064. PornHub - Video List
-065. PornHub - Model
-066. PornHub - Pornstar
-067. PornHub - Users
-068. SpankBang - New Porn Videos
-069. 故事 FM - 播客
-070. 草榴社区 - 分区帖子
-071. 草榴社区 - 帖子跟踪
-072. U3C3 - Search
-073. 小宇宙 - 播客
-074. 人人影视 - 影视资讯
-075. 人人影视 - 今日播出
-076. FIX 字幕侠 - 分类
-077. BT 之家 1LOU 站 - 通用
-078. 6v 电影 - 分类
-079. 6v 电影 - 最新电影
-080. 6v 电影 - 最新电视剧
-081. Bandcamp - Weekly
-082. 不太灵影视 - 影视资源下载列表
-083. 不太灵影视 - 最新资源列表
-084. 乳首ふぇち - Category
-085. 乳首ふぇち - 最新記事
-086. 乳首ふぇち - 動画カテゴリー
-087. 乳首ふぇち - AVメーカー
-088. 乳首ふぇち - Search
-089. 乳首ふぇち - Tag
-090. Coomer - Posts
-091. JavDB - 演員
-092. JavDB - 主页
-093. JavDB - 片商
-094. JavDB - 排行榜
-095. JavDB - 搜索
-096. JavDB - 系列
-097. JavDB - 分類
-098. JavDB - 番号
-099. JAVLibrary - Best Reviews
-100. JavTrailers - Casts
-101. JavTrailers - Categories
-102. JavTrailers - Studios
-
-
 📁 Category: 游戏 (game.opml) - Count: 98
 ----------------------------------------
 001. 网易公开课 - 用户发帖
@@ -877,6 +771,108 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 096. 机核网 - 视频
 097. TapTap - 游戏论坛
 098. TapTap - 游戏更新
+
+
+📁 Category: Multimedia (multimedia.opml) - Count: 98
+----------------------------------------
+001. 网易公开课 - 用户歌单
+002. 网易公开课 - 用户听歌排行
+003. 网易公开课 - 歌手歌曲
+004. 网易公开课 - 歌手专辑
+005. 网易公开课 - 歌单歌曲
+006. 网易公开课 - 电台节目
+007. 2048 核基地 - 论坛
+008. 阿里云盘 - 文件列表
+009. 猫眼电影 - 实时票房榜
+010. 猫眼电影 - 正在热映 - 完整版
+011. 猫眼电影 - 正在热映
+012. Spotify - Artist Albums
+013. Spotify - Personal Top Artists
+014. Spotify - Playlist
+015. Spotify - Personal Saved Tracks
+016. Spotify - Show/Podcasts
+017. Spotify - Personal Top Tracks
+018. 阿基米德 FM - 播客
+019. ASMR Online - 最新收录
+020. CNTV - 栏目
+021. 通用影视采集站视频采集接口路由 - 最新资源
+022. ManyVids - Creator Videos
+023. Mixcloud - User
+024. The Movie Database - Collection
+025. The Movie Database - TV Show Seasons
+026. The Movie Database - Sheet
+027. The Movie Database - Trending
+028. 西瓜视频 - 用户视频投稿
+029. 蜻蜓 FM - 专辑
+030. 蜻蜓 FM - 播客
+031. 云听 - 专辑
+032. 云听 - 直播
+033. SoundOn - Podcast
+034. 听听 FM - 节目
+035. 喜马拉雅 - 专辑
+036. FANTUBE - User Posts
+037. myfans - User Posts
+038. Niconico - User Videos
+039. 0xxx.ws - Source
+040. 7mmtv - Category
+041. 91porn - Hot Video Today
+042. Apple - 播客
+043. BFL AI - Announcements
+044. BT影视 - BTBTLA | 最近更新
+045. 电影天堂 - 分类
+046. 追新番 - 最近更新
+047. IMDb - Charts
+048. 爱奇艺 - 剧集
+049. JavBus - Works
+050. Javtiful - Actress
+051. Javtiful - Channel
+052. MissAV - 最近更新
+053. musify - Latest
+054. Nyaa - Search Result
+055. 欧乐影院 - 视频
+056. 欧乐影院 - 最新视频
+057. Podwise - Collections
+058. PornHub - Keyword Search
+059. PornHub - Category
+060. PornHub - Video List
+061. PornHub - Model
+062. PornHub - Pornstar
+063. PornHub - Users
+064. SpankBang - New Porn Videos
+065. 故事 FM - 播客
+066. 草榴社区 - 分区帖子
+067. 草榴社区 - 帖子跟踪
+068. U3C3 - Search
+069. 小宇宙 - 播客
+070. 人人影视 - 影视资讯
+071. 人人影视 - 今日播出
+072. FIX 字幕侠 - 分类
+073. BT 之家 1LOU 站 - 通用
+074. 6v 电影 - 分类
+075. 6v 电影 - 最新电影
+076. 6v 电影 - 最新电视剧
+077. Bandcamp - Weekly
+078. 不太灵影视 - 影视资源下载列表
+079. 不太灵影视 - 最新资源列表
+080. 乳首ふぇち - Category
+081. 乳首ふぇち - 最新記事
+082. 乳首ふぇち - 動画カテゴリー
+083. 乳首ふぇち - AVメーカー
+084. 乳首ふぇち - Search
+085. 乳首ふぇち - Tag
+086. Coomer - Posts
+087. JavDB - 演員
+088. JavDB - 主页
+089. JavDB - 片商
+090. JavDB - 排行榜
+091. JavDB - 搜索
+092. JavDB - 系列
+093. JavDB - 分類
+094. JavDB - 番号
+095. JAVLibrary - Best Reviews
+096. JavTrailers - Casts
+097. JavTrailers - Categories
+098. JavTrailers - Studios
 
 
 📁 Category: 金融 (finance.opml) - Count: 97
@@ -983,37 +979,37 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 📁 Category: 博客 (blog.opml) - Count: 81
 ----------------------------------------
 001. FreeBuf - 文章
-002. Cohere - Blog
-003. 英語之家 - 首頁
-004. Hudson River Trading - Tech Blog
-005. Immich - Cursed Knowledge
-006. Oct0pu5 blog - Oct的小破站
-007. Backlinko - Blog
-008. BaseLang - Blog
-009. Delta Lake - Blogs
-010. 子方有料 - 最新文章
-011. James Clear - Book Summaries
-012. James Clear - Great Speeches
-013. James Clear - Quotes
-014. James Clear - 3-2-1 Newsletter
-015. 土猛的员外 - 文章
-016. MacMenuBar - Recently
-017. 便宜VPS网 - 最新发布
-018. Read Something Wonderful - Articles
-019. 云谦的博客 - 文章
-020. AI 博客 - 归档-全部文章
-021. Apache - APISIX 博客
-022. 支流科技 - 博客
-023. APNIC - Blog
-024. 宝玉 - Blog
-025. 不良林 - 全部文章
-026. Ceph - Blog
-027. 川流 - 严选
-028. cline - Blog
-029. 云原生社区 - 博客
-030. cmpxchg8b - Articles
-031. Carnegie Mellon University - Andy Pavlo Blog
-032. 博客园 - 10 天推荐排行榜
+002. 英語之家 - 首頁
+003. Hudson River Trading - Tech Blog
+004. Immich - Cursed Knowledge
+005. Oct0pu5 blog - Oct的小破站
+006. Backlinko - Blog
+007. BaseLang - Blog
+008. Delta Lake - Blogs
+009. 子方有料 - 最新文章
+010. James Clear - Book Summaries
+011. James Clear - Great Speeches
+012. James Clear - Quotes
+013. James Clear - 3-2-1 Newsletter
+014. 土猛的员外 - 文章
+015. MacMenuBar - Recently
+016. 便宜VPS网 - 最新发布
+017. Read Something Wonderful - Articles
+018. 云谦的博客 - 文章
+019. AI 博客 - 归档-全部文章
+020. Apache - APISIX 博客
+021. 支流科技 - 博客
+022. APNIC - Blog
+023. 宝玉 - Blog
+024. 不良林 - 全部文章
+025. Ceph - Blog
+026. 川流 - 严选
+027. cline - Blog
+028. 云原生社区 - 博客
+029. cmpxchg8b - Articles
+030. Carnegie Mellon University - Andy Pavlo Blog
+031. 博客园 - 10 天推荐排行榜
+032. Cohere - Blog
 033. Coolidge Corner Theatre - Film Guide
 034. Coolidge Corner Theatre - News
 035. CSDN - User Feed
@@ -1149,7 +1145,7 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 080. 腾讯网 - 排行榜
 
 
-📁 Category: 传统媒体 (traditional-media.opml) - Count: 75
+📁 Category: 传统媒体 (traditional-media.opml) - Count: 74
 ----------------------------------------
 001. 参考消息 - 栏目
 002. 四川广播电视台 - 电视回放
@@ -1170,62 +1166,61 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 017. CNBC - Full article RSS
 018. DealStreetAsia - Home
 019. DealStreetAsia - Section
-020. 东方网 - 24 小时热闻
-021. Ekantipur / कान्तिपुर (Nepal) - Full Article RSS
-022. ESPN - News
-023. Foreign Affairs - RSS
-024. Financial Times - myFT personal RSS
-025. GQ - News
-026. 广州日报 - 客户端
-027. 湖南日报 - 电子刊物
-028. 中国新闻周刊 - 栏目
-029. 新华每日电讯 - 今日
-030. MSN - News
-031. New Yorker - Articles
-032. NHK - WORLD-JAPAN - Top Stories
-033. NHK - News Web Easy
-034. NPR (National Public Radio) - News
-035. 新唐人电视台 - 频道
-036. 东网 - Money18
-037. 求是网 - 分类
-038. 求是网 - 在线读刊
-039. Reuters - Category/Topic/Author
-040. Radio Free Asia (RFA) 自由亚洲电台 - News
-041. Sankei Shimbun 産経新聞 - News
-042. Solidot - 最新消息
-043. 希望之声 - 频道
-044. Sputnik News 俄罗斯卫星通讯社 - Category
-045. 中国科技网 - 科技日报
-046. Russian News Agency TASS - News
-047. The Atlantic - News
-048. The Hindu - Topic
-049. 台視新聞網 - 分类
-050. The Washington Post - App
-051. WIRED - Tags
-052. The Wall Street Journal (WSJ) 华尔街日报 - News
-053. The Australian Financial Review - Latest
-054. AP News - Topics
-055. BBC - Topics - 中文
-056. BBC - Topics
+020. Ekantipur / कान्तिपुर (Nepal) - Full Article RSS
+021. ESPN - News
+022. Foreign Affairs - RSS
+023. Financial Times - myFT personal RSS
+024. GQ - News
+025. 广州日报 - 客户端
+026. 湖南日报 - 电子刊物
+027. 中国新闻周刊 - 栏目
+028. 新华每日电讯 - 今日
+029. MSN - News
+030. New Yorker - Articles
+031. NHK - WORLD-JAPAN - Top Stories
+032. NHK - News Web Easy
+033. NPR (National Public Radio) - News
+034. 新唐人电视台 - 频道
+035. 东网 - Money18
+036. 求是网 - 分类
+037. 求是网 - 在线读刊
+038. Reuters - Category/Topic/Author
+039. Radio Free Asia (RFA) 自由亚洲电台 - News
+040. Sankei Shimbun 産経新聞 - News
+041. Solidot - 最新消息
+042. 希望之声 - 频道
+043. Sputnik News 俄罗斯卫星通讯社 - Category
+044. 中国科技网 - 科技日报
+045. Russian News Agency TASS - News
+046. The Atlantic - News
+047. The Hindu - Topic
+048. 台視新聞網 - 分类
+049. The Washington Post - App
+050. WIRED - Tags
+051. The Wall Street Journal (WSJ) 华尔街日报 - News
+052. The Australian Financial Review - Latest
+053. AP News - Topics
+054. BBC - Topics - 中文
+055. BBC - Topics
+056. 新京报 - 分类
 057. 新京报 - 分类
-058. 新京报 - 分类
-059. 中央通讯社 - 分类 (网页爬虫方法)
-060. 中央通讯社 - 分类
-061. 天下雜誌 - 主頻道
-062. 天下雜誌 - 最新上線
-063. DNA India - News
-064. DW Deutsche Welle - News
-065. DW Deutsche Welle - RSS
-066. 南方周末 - 热门文章
-067. 南方周末 - 频道
-068. 鏡週刊 Mirror Media - 分类
-069. 鏡週刊 Mirror Media - 首页
-070. 南方都市报 - 奥一网
-071. 公視新聞網 - 專題策展
-072. 南方网 - 南方 +（按栏目 ID）
-073. The Economist - Global Business Review
-074. The Economist - Category
-075. The Economist - Espresso
+058. 中央通讯社 - 分类 (网页爬虫方法)
+059. 中央通讯社 - 分类
+060. 天下雜誌 - 主頻道
+061. 天下雜誌 - 最新上線
+062. DNA India - News
+063. DW Deutsche Welle - News
+064. DW Deutsche Welle - RSS
+065. 南方周末 - 热门文章
+066. 南方周末 - 频道
+067. 鏡週刊 Mirror Media - 分类
+068. 鏡週刊 Mirror Media - 首页
+069. 南方都市报 - 奥一网
+070. 公視新聞網 - 專題策展
+071. 南方网 - 南方 +（按栏目 ID）
+072. The Economist - Global Business Review
+073. The Economist - Category
+074. The Economist - Espresso
 
 
 📁 Category: Program-Update (program-update.opml) - Count: 72
@@ -1365,7 +1360,7 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 057. Zuvio - 校園話題
 
 
-📁 Category: 图片 (picture.opml) - Count: 56
+📁 Category: 图片 (picture.opml) - Count: 54
 ----------------------------------------
 001. yande.re - Popular Recent Posts
 002. Gelbooru - 标签查询
@@ -1406,23 +1401,21 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 037. 4KUP - Category
 038. 4KUP - Latest
 039. 4KUP - Tag
-040. MM 范 - 集合
-041. MM 范 - 分类
-042. 喷嚏 - 主题
-043. 喷嚏 - 图卦
-044. E-Hentai - Search
-045. E-Hentai - Tag
-046. MissKON - Top k days
-047. MissKON - Posts
-048. MissKON - Tag
-049. NASA - Cheng Kung University Mirror
-050. NASA - Astronomy Picture of the Day
-051. Voronoi - Editor's Pick Posts
-052. Voronoi - Home Posts
-053. Voronoi - Latest Posts
-054. Voronoi - Popular Posts
-055. Voronoi - Search Keyword Posts
-056. Google - Update
+040. 喷嚏 - 主题
+041. 喷嚏 - 图卦
+042. E-Hentai - Search
+043. E-Hentai - Tag
+044. MissKON - Top k days
+045. MissKON - Posts
+046. MissKON - Tag
+047. NASA - Cheng Kung University Mirror
+048. NASA - Astronomy Picture of the Day
+049. Voronoi - Editor's Pick Posts
+050. Voronoi - Home Posts
+051. Voronoi - Latest Posts
+052. Voronoi - Popular Posts
+053. Voronoi - Search Keyword Posts
+054. Google - Update
 
 
 📁 Category: 其他 (other.opml) - Count: 51
@@ -1529,54 +1522,7 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 045. Google - Scholar Keywords Monitoring
 
 
-📁 Category: Shopping (shopping.opml) - Count: 43
-----------------------------------------
-001. Ktown4u - Get the products on sale
-002. 多抓鱼 - 搜索结果
-003. Snow Peak - New Arrivals(USA)
-004. Uniqlo - New Arrivals
-005. 中国养猪网 - 全国今日生猪价格
-006. Mercari - 关键词
-007. 上海东方艺术中心 - 演出月历
-008. 0818 团 - 分类
-009. 五大唱片 - 新貨上架
-010. 消费者报道 - 要闻
-011. 玩物志 - 产品
-012. 原價屋 - 促銷&開箱
-013. 大麦网 - 票务更新
-014. 逛丢 - 九块九
-015. 逛丢 - 国内折扣 / 海外折扣
-016. 逛丢 - 一小时风云榜
-017. 逛丢 - 关键字搜索
-018. Hot Toys - Toys List
-019. hotukdeals - hottest
-020. IKEA - UK - New Product Release
-021. IKEA - 中国 - 低价优选
-022. IKEA - 中国 - 当季新品推荐
-023. 摩点 - 众筹
-024. Openrice開飯喇 - 香港餐廳精選優惠券
-025. Openrice開飯喇 - 香港餐廳排行榜
-026. Openrice開飯喇 - 香港餐厅滋讯
-027. Patagonia - New Arrivals
-028. 上海文化广场 - 节目列表
-029. 什么值得买 - 排行榜
-030. 什么值得买 - 用户文章
-031. 什么值得买 - 用户爆料
-032. 什么值得买 - 好文分类
-033. 什么值得买 - 好文
-034. 什么值得买 - 关键词
-035. 什么值得买 - 商品
-036. 淘宝网 - 众筹项目
-037. Gadget Flow - Category
-038. Furstar - 画师列表
-039. 秀动网 - 按音乐人 - 演出更新
-040. 秀动网 - 按城市 - 演出更新
-041. 秀动网 - 演出搜索
-042. 秀动网 - 按场地 - 演出更新
-043. 特斯拉中国 - 价格
-
-
-📁 Category: 阅读 (reading.opml) - Count: 43
+📁 Category: 阅读 (reading.opml) - Count: 42
 ----------------------------------------
 001. 51Read - 章节
 002. 69书吧 - 章节
@@ -1607,20 +1553,64 @@ RSSHub Route List (Updated: 2026-11-14 07:20)
 027. 起点 - 限时免费
 028. SF 轻小说 - 章节
 029. 東立出版社 - 新聞
-030. WDFXW文档分享网 - 免费区
-031. 轻小说文库 - 章节
-032. 中文成人文學網 - 短篇
-033. 意林杂志 - 文章列表
-034. 意林杂志 - 近期文章汇总
-035. 日本語多読道場 - 等级
-036. 纵横中文网 - 章节更新
-037. 知轩藏书 - 小说列表
-038. Asianfanfics - 标签
-039. Asianfanfics - 关键词
-040. SoBooks - 首页
-041. SoBooks - 标签
-042. Syosetu - R18 Rankings
-043. Syosetu - Search
+030. 轻小说文库 - 章节
+031. 中文成人文學網 - 短篇
+032. 意林杂志 - 文章列表
+033. 意林杂志 - 近期文章汇总
+034. 日本語多読道場 - 等级
+035. 纵横中文网 - 章节更新
+036. 知轩藏书 - 小说列表
+037. Asianfanfics - 标签
+038. Asianfanfics - 关键词
+039. SoBooks - 首页
+040. SoBooks - 标签
+041. Syosetu - R18 Rankings
+042. Syosetu - Search
+
+
+📁 Category: Shopping (shopping.opml) - Count: 41
+----------------------------------------
+001. Ktown4u - Get the products on sale
+002. 多抓鱼 - 搜索结果
+003. Snow Peak - New Arrivals(USA)
+004. Uniqlo - New Arrivals
+005. 中国养猪网 - 全国今日生猪价格
+006. Mercari - 关键词
+007. 上海东方艺术中心 - 演出月历
+008. 0818 团 - 分类
+009. 五大唱片 - 新貨上架
+010. 玩物志 - 产品
+011. 原價屋 - 促銷&開箱
+012. 大麦网 - 票务更新
+013. 逛丢 - 九块九
+014. 逛丢 - 国内折扣 / 海外折扣
+015. 逛丢 - 一小时风云榜
+016. 逛丢 - 关键字搜索
+017. Hot Toys - Toys List
+018. hotukdeals - hottest
+019. IKEA - UK - New Product Release
+020. IKEA - 中国 - 低价优选
+021. IKEA - 中国 - 当季新品推荐
+022. 摩点 - 众筹
+023. Openrice開飯喇 - 香港餐廳精選優惠券
+024. Openrice開飯喇 - 香港餐廳排行榜
+025. Openrice開飯喇 - 香港餐厅滋讯
+026. Patagonia - New Arrivals
+027. 上海文化广场 - 节目列表
+028. 什么值得买 - 排行榜
+029. 什么值得买 - 用户文章
+030. 什么值得买 - 用户爆料
+031. 什么值得买 - 好文分类
+032. 什么值得买 - 好文
+033. 什么值得买 - 关键词
+034. 什么值得买 - 商品
+035. 淘宝网 - 众筹项目
+036. Gadget Flow - Category
+037. 秀动网 - 按音乐人 - 演出更新
+038. 秀动网 - 按城市 - 演出更新
+039. 秀动网 - 演出搜索
+040. 秀动网 - 按场地 - 演出更新
+041. 特斯拉中国 - 价格
 
 
 📁 Category: Government (government.opml) - Count: 29

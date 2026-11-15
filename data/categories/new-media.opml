@@ -24,7 +24,6 @@
       <outline type="rss" text="后续 - 专栏" title="后续 - 专栏" xmlUrl="https://rsshub.gamepp.cf/houxu/events" />
       <outline type="rss" text="后续 - Live" title="后续 - Live" xmlUrl="https://rsshub.gamepp.cf/houxu/lives/33899" />
       <outline type="rss" text="后续 - 跟踪" title="后续 - 跟踪" xmlUrl="https://rsshub.gamepp.cf/houxu/memory" />
-      <outline type="rss" text="i黑马网 - 推荐" title="i黑马网 - 推荐" xmlUrl="https://rsshub.gamepp.cf/iheima/recommend" />
       <outline type="rss" text="靠谱新闻 - 全部" title="靠谱新闻 - 全部" xmlUrl="https://rsshub.gamepp.cf/kaopu/news/zh-hans" />
       <outline type="rss" text="MyGoPen - 分類" title="MyGoPen - 分類" xmlUrl="https://rsshub.gamepp.cf/mygopen" />
       <outline type="rss" text="Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客" title="Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客" xmlUrl="https://rsshub.gamepp.cf/nogizaka46/blog" />
@@ -138,6 +137,7 @@
       <outline type="rss" text="爱范儿 - 首页" title="爱范儿 - 首页" xmlUrl="https://rsshub.gamepp.cf/ifanr/index" />
       <outline type="rss" text="爱范儿 - 快讯" title="爱范儿 - 快讯" xmlUrl="https://rsshub.gamepp.cf/ifanr/digest" />
       <outline type="rss" text="凤凰网 - 大风号" title="凤凰网 - 大风号" xmlUrl="https://rsshub.gamepp.cf/ifeng/feng/2583/doc" />
+      <outline type="rss" text="i黑马网 - 推荐" title="i黑马网 - 推荐" xmlUrl="https://rsshub.gamepp.cf/iheima/recommend" />
       <outline type="rss" text="米课 - 米课圈精华" title="米课 - 米课圈精华" xmlUrl="https://rsshub.gamepp.cf/imiker/ask/jinghua" />
       <outline type="rss" text="The Indian Express - Section" title="The Indian Express - Section" xmlUrl="https://rsshub.gamepp.cf/indianexpress/section/explained" />
       <outline type="rss" text="InfoQ 中文 - 推荐" title="InfoQ 中文 - 推荐" xmlUrl="https://rsshub.gamepp.cf/infoq/recommend" />

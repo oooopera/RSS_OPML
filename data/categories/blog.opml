@@ -6,7 +6,6 @@
   <body>
     <outline text="博客" title="博客">
       <outline type="rss" text="FreeBuf - 文章" title="FreeBuf - 文章" xmlUrl="https://rsshub.gamepp.cf/freebuf/articles/web" />
-      <outline type="rss" text="Cohere - Blog" title="Cohere - Blog" xmlUrl="https://rsshub.gamepp.cf/cohere/blog" />
       <outline type="rss" text="英語之家 - 首頁" title="英語之家 - 首頁" xmlUrl="https://rsshub.gamepp.cf/englishhome" />
       <outline type="rss" text="Hudson River Trading - Tech Blog" title="Hudson River Trading - Tech Blog" xmlUrl="https://rsshub.gamepp.cf/hudsonrivertrading/blog" />
       <outline type="rss" text="Immich - Cursed Knowledge" title="Immich - Cursed Knowledge" xmlUrl="https://rsshub.gamepp.cf/immich/cursed-knowledge" />
@@ -37,6 +36,7 @@
       <outline type="rss" text="cmpxchg8b - Articles" title="cmpxchg8b - Articles" xmlUrl="https://rsshub.gamepp.cf/cmpxchg8b/articles" />
       <outline type="rss" text="Carnegie Mellon University - Andy Pavlo Blog" title="Carnegie Mellon University - Andy Pavlo Blog" xmlUrl="https://rsshub.gamepp.cf/cmu/andypavlo/blog" />
       <outline type="rss" text="博客园 - 10 天推荐排行榜" title="博客园 - 10 天推荐排行榜" xmlUrl="https://rsshub.gamepp.cf/cnblogs/aggsite/topdiggs" />
+      <outline type="rss" text="Cohere - Blog" title="Cohere - Blog" xmlUrl="https://rsshub.gamepp.cf/cohere/blog" />
       <outline type="rss" text="Coolidge Corner Theatre - Film Guide" title="Coolidge Corner Theatre - Film Guide" xmlUrl="https://rsshub.gamepp.cf/coolidge/film-guide" />
       <outline type="rss" text="Coolidge Corner Theatre - News" title="Coolidge Corner Theatre - News" xmlUrl="https://rsshub.gamepp.cf/coolidge/news" />
       <outline type="rss" text="CSDN - User Feed" title="CSDN - User Feed" xmlUrl="https://rsshub.gamepp.cf/csdn/blog/csdngeeknews" />
