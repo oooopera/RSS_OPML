@@ -34,7 +34,6 @@
       <outline type="rss" text="KPMG - Insights" title="KPMG - Insights" xmlUrl="https://rsshub.gamepp.cf/kpmg/insights" />
       <outline type="rss" text="Naturalism.org - What's New" title="Naturalism.org - What's New" xmlUrl="https://rsshub.gamepp.cf/naturalism" />
       <outline type="rss" text="中国互联网联合辟谣平台 - 今日辟谣" title="中国互联网联合辟谣平台 - 今日辟谣" xmlUrl="https://rsshub.gamepp.cf/piyao/jrpy" />
-      <outline type="rss" text="Product Hunt - Top Products Launching Today" title="Product Hunt - Top Products Launching Today" xmlUrl="https://rsshub.gamepp.cf/producthunt/today" />
       <outline type="rss" text="Radio France Internationale - Generic News" title="Radio France Internationale - Generic News" xmlUrl="https://rsshub.gamepp.cf/rfi" />
       <outline type="rss" text="RSSHub - Transformation - HTML" title="RSSHub - Transformation - HTML" xmlUrl="https://rsshub.gamepp.cf/rsshub/transform/html/https%253A%252F%252Fwechat2rss.xlab.app%252Fposts%252Flist%252F/item%3Ddiv%255Bclass%253D%2527post%252Dcontent%2527%255D%2520p%2520a" />
       <outline type="rss" text="RSSHub - Transformation - JSON" title="RSSHub - Transformation - JSON" xmlUrl="https://rsshub.gamepp.cf/rsshub/transform/json/https%253A%252F%252Fapi.github.com%252Frepos%252Fginuerzh%252Fgost%252Freleases/title%3DGost%2520releases%26itemTitle%3Dtag_name%26itemLink%3Dhtml_url%26itemDesc%3Dbody" />
@@ -54,6 +53,7 @@
       <outline type="rss" text="紳士漫畫 - 分类更新" title="紳士漫畫 - 分类更新" xmlUrl="https://rsshub.gamepp.cf/wnacg/category/6" />
       <outline type="rss" text="紳士漫畫 - 最新" title="紳士漫畫 - 最新" xmlUrl="https://rsshub.gamepp.cf/wnacg" />
       <outline type="rss" text="紳士漫畫 - 標籤更新" title="紳士漫畫 - 標籤更新" xmlUrl="https://rsshub.gamepp.cf/wnacg/tag/%E6%BC%A2%E5%8C%96" />
+      <outline type="rss" text="Product Hunt - Top Products Launching Today" title="Product Hunt - Top Products Launching Today" xmlUrl="https://rsshub.gamepp.cf/producthunt/today" />
       <outline type="rss" text="Google - Alerts" title="Google - Alerts" xmlUrl="https://rsshub.gamepp.cf/google/alerts/RSSHub" />
       <outline type="rss" text="Google - Search" title="Google - Search" xmlUrl="https://rsshub.gamepp.cf/google/search/rss/zh-CN%2Czh" />
     </outline>

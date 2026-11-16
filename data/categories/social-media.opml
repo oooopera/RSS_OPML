@@ -30,6 +30,7 @@
       <outline type="rss" text="Daily.dev - Most upvoted" title="Daily.dev - Most upvoted" xmlUrl="https://rsshub.gamepp.cf/daily/upvoted/7" />
       <outline type="rss" text="Discord - Channel Messages" title="Discord - Channel Messages" xmlUrl="https://rsshub.gamepp.cf/discord/channel/950465850056536084" />
       <outline type="rss" text="Discord - Guild Search" title="Discord - Guild Search" xmlUrl="https://rsshub.gamepp.cf/discord/search/302094807046684672/content%3Dfriendly%26has%3Dimage%2Cvideo" />
+      <outline type="rss" text="抖音直播 - 博主" title="抖音直播 - 博主" xmlUrl="https://rsshub.gamepp.cf/douyin/user/MS4wLjABAAAARcAHmmF9mAG3JEixq_CdP72APhBlGlLVbN-1eBcPqao" />
       <outline type="rss" text="Fansly - User Timeline" title="Fansly - User Timeline" xmlUrl="https://rsshub.gamepp.cf/fansly/user/AeriGoMoo" />
       <outline type="rss" text="Fansly - Hashtag" title="Fansly - Hashtag" xmlUrl="https://rsshub.gamepp.cf/fansly/tag/free" />
       <outline type="rss" text="Mastodon - User timeline (by account ID)" title="Mastodon - User timeline (by account ID)" xmlUrl="https://rsshub.gamepp.cf/mastodon/account_id/mas.to/109300507275095341/statuses/false" />
@@ -41,7 +42,6 @@
       <outline type="rss" text="Misskey - Home Timeline" title="Misskey - Home Timeline" xmlUrl="https://rsshub.gamepp.cf/misskey/timeline/home/misskey.io" />
       <outline type="rss" text="Misskey - User timeline" title="Misskey - User timeline" xmlUrl="https://rsshub.gamepp.cf/misskey/users/notes/support%40misskey.io" />
       <outline type="rss" text="CrushNinja - 匿名投稿頁面" title="CrushNinja - 匿名投稿頁面" xmlUrl="https://rsshub.gamepp.cf/crush/pages/141719909033861" />
-      <outline type="rss" text="抖音直播 - 博主" title="抖音直播 - 博主" xmlUrl="https://rsshub.gamepp.cf/douyin/user/MS4wLjABAAAARcAHmmF9mAG3JEixq_CdP72APhBlGlLVbN-1eBcPqao" />
       <outline type="rss" text="简书 - 专题" title="简书 - 专题" xmlUrl="https://rsshub.gamepp.cf/jianshu/collection/xYuZYD" />
       <outline type="rss" text="简书 - 首页" title="简书 - 首页" xmlUrl="https://rsshub.gamepp.cf/jianshu/home" />
       <outline type="rss" text="简书 - 作者" title="简书 - 作者" xmlUrl="https://rsshub.gamepp.cf/jianshu/user/yZq3ZV" />

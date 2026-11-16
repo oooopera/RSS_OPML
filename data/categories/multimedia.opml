@@ -33,6 +33,9 @@
       <outline type="rss" text="The Movie Database - Sheet" title="The Movie Database - Sheet" xmlUrl="https://rsshub.gamepp.cf/themoviedb/tv/top-rated/en-US" />
       <outline type="rss" text="The Movie Database - Trending" title="The Movie Database - Trending" xmlUrl="https://rsshub.gamepp.cf/themoviedb/trending/tv/day/en-US" />
       <outline type="rss" text="西瓜视频 - 用户视频投稿" title="西瓜视频 - 用户视频投稿" xmlUrl="https://rsshub.gamepp.cf/ixigua/user/video/4234740937" />
+      <outline type="rss" text="JavTrailers - Casts" title="JavTrailers - Casts" xmlUrl="https://rsshub.gamepp.cf/javtrailers/casts/hibiki-otsuki" />
+      <outline type="rss" text="JavTrailers - Categories" title="JavTrailers - Categories" xmlUrl="https://rsshub.gamepp.cf/javtrailers/categories/hi-def" />
+      <outline type="rss" text="JavTrailers - Studios" title="JavTrailers - Studios" xmlUrl="https://rsshub.gamepp.cf/javtrailers/studios/s1-no-1-style" />
       <outline type="rss" text="蜻蜓 FM - 专辑" title="蜻蜓 FM - 专辑" xmlUrl="https://rsshub.gamepp.cf/qingting/channel/293411" />
       <outline type="rss" text="蜻蜓 FM - 播客" title="蜻蜓 FM - 播客" xmlUrl="https://rsshub.gamepp.cf/qingting/podcast/293411" />
       <outline type="rss" text="云听 - 专辑" title="云听 - 专辑" xmlUrl="https://rsshub.gamepp.cf/radio/album/15682090498666" />
@@ -100,9 +103,6 @@
       <outline type="rss" text="JavDB - 分類" title="JavDB - 分類" xmlUrl="https://rsshub.gamepp.cf/javdb/tags/c2%3D5%26c10%3D1" />
       <outline type="rss" text="JavDB - 番号" title="JavDB - 番号" xmlUrl="https://rsshub.gamepp.cf/javdb/video_codes/SIVR" />
       <outline type="rss" text="JAVLibrary - Best Reviews" title="JAVLibrary - Best Reviews" xmlUrl="https://rsshub.gamepp.cf/javlibrary/bestreviews/en" />
-      <outline type="rss" text="JavTrailers - Casts" title="JavTrailers - Casts" xmlUrl="https://rsshub.gamepp.cf/javtrailers/casts/hibiki-otsuki" />
-      <outline type="rss" text="JavTrailers - Categories" title="JavTrailers - Categories" xmlUrl="https://rsshub.gamepp.cf/javtrailers/categories/hi-def" />
-      <outline type="rss" text="JavTrailers - Studios" title="JavTrailers - Studios" xmlUrl="https://rsshub.gamepp.cf/javtrailers/studios/s1-no-1-style" />
     </outline>
   </body>
 </opml>

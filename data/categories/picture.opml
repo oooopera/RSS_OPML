@@ -13,6 +13,8 @@
       <outline type="rss" text="EVERIA.CLUB - Search" title="EVERIA.CLUB - Search" xmlUrl="https://rsshub.gamepp.cf/everia/search/%E6%97%A5%E5%90%91%E5%9D%8246" />
       <outline type="rss" text="EVERIA.CLUB - Images with category" title="EVERIA.CLUB - Images with category" xmlUrl="https://rsshub.gamepp.cf/everia/category/cosplay" />
       <outline type="rss" text="EVERIA.CLUB - Images with tag" title="EVERIA.CLUB - Images with tag" xmlUrl="https://rsshub.gamepp.cf/everia/tag/hinatazaka46-%E6%97%A5%E5%90%91%E5%9D%8246" />
+      <outline type="rss" text="Fantia - Search" title="Fantia - Search" xmlUrl="https://rsshub.gamepp.cf/fantia/search/posts/all/daily" />
+      <outline type="rss" text="Fantia - User Posts" title="Fantia - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantia/user/3498" />
       <outline type="rss" text="Pinterest - User" title="Pinterest - User" xmlUrl="https://rsshub.gamepp.cf/pinterest/user/howieserious" />
       <outline type="rss" text="Pixabay - Search" title="Pixabay - Search" xmlUrl="https://rsshub.gamepp.cf/pixabay/search/cat" />
       <outline type="rss" text="500px 摄影社区 - 部落影集" title="500px 摄影社区 - 部落影集" xmlUrl="https://rsshub.gamepp.cf/500px/tribe/set/f5de0b8aa6d54ec486f5e79616418001" />
@@ -29,8 +31,6 @@
       <outline type="rss" text="CosplayTele - Latest" title="CosplayTele - Latest" xmlUrl="https://rsshub.gamepp.cf/cosplaytele" />
       <outline type="rss" text="CosplayTele - Popular" title="CosplayTele - Popular" xmlUrl="https://rsshub.gamepp.cf/cosplaytele/popular/3" />
       <outline type="rss" text="CosplayTele - Tag" title="CosplayTele - Tag" xmlUrl="https://rsshub.gamepp.cf/cosplaytele/tag/aqua" />
-      <outline type="rss" text="Fantia - Search" title="Fantia - Search" xmlUrl="https://rsshub.gamepp.cf/fantia/search/posts/all/daily" />
-      <outline type="rss" text="Fantia - User Posts" title="Fantia - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantia/user/3498" />
       <outline type="rss" text="极品性感美女 - 搜索" title="极品性感美女 - 搜索" xmlUrl="https://rsshub.gamepp.cf/jpxgmn/search/candy" />
       <outline type="rss" text="极品性感美女 - 分类" title="极品性感美女 - 分类" xmlUrl="https://rsshub.gamepp.cf/jpxgmn/tab" />
       <outline type="rss" text="极品性感美女 - 本周热门" title="极品性感美女 - 本周热门" xmlUrl="https://rsshub.gamepp.cf/jpxgmn/weekly" />

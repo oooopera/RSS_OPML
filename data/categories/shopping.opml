@@ -12,6 +12,10 @@
       <outline type="rss" text="中国养猪网 - 全国今日生猪价格" title="中国养猪网 - 全国今日生猪价格" xmlUrl="https://rsshub.gamepp.cf/zhuwang/zhujia" />
       <outline type="rss" text="Mercari - 关键词" title="Mercari - 关键词" xmlUrl="https://rsshub.gamepp.cf/mercari/create_time/desc/default/%E3%81%B5%E3%82%82%E3%81%B5%E3%82%82" />
       <outline type="rss" text="上海东方艺术中心 - 演出月历" title="上海东方艺术中心 - 演出月历" xmlUrl="https://rsshub.gamepp.cf/shoac/recent-show" />
+      <outline type="rss" text="秀动网 - 按音乐人 - 演出更新" title="秀动网 - 按音乐人 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/artist/301783" />
+      <outline type="rss" text="秀动网 - 按城市 - 演出更新" title="秀动网 - 按城市 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/event/571/3" />
+      <outline type="rss" text="秀动网 - 演出搜索" title="秀动网 - 演出搜索" xmlUrl="https://rsshub.gamepp.cf/showstart/search/live" />
+      <outline type="rss" text="秀动网 - 按场地 - 演出更新" title="秀动网 - 按场地 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/site/3583" />
       <outline type="rss" text="0818 团 - 分类" title="0818 团 - 分类" xmlUrl="https://rsshub.gamepp.cf/0818tuan" />
       <outline type="rss" text="五大唱片 - 新貨上架" title="五大唱片 - 新貨上架" xmlUrl="https://rsshub.gamepp.cf/5music/new-releases" />
       <outline type="rss" text="玩物志 - 产品" title="玩物志 - 产品" xmlUrl="https://rsshub.gamepp.cf/coolbuy" />
@@ -41,10 +45,6 @@
       <outline type="rss" text="什么值得买 - 商品" title="什么值得买 - 商品" xmlUrl="https://rsshub.gamepp.cf/smzdm/product/zm5vzpe" />
       <outline type="rss" text="淘宝网 - 众筹项目" title="淘宝网 - 众筹项目" xmlUrl="https://rsshub.gamepp.cf/taobao/zhongchou/all" />
       <outline type="rss" text="Gadget Flow - Category" title="Gadget Flow - Category" xmlUrl="https://rsshub.gamepp.cf/thegadgetflow/cool-gadgets-gifts" />
-      <outline type="rss" text="秀动网 - 按音乐人 - 演出更新" title="秀动网 - 按音乐人 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/artist/301783" />
-      <outline type="rss" text="秀动网 - 按城市 - 演出更新" title="秀动网 - 按城市 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/event/571/3" />
-      <outline type="rss" text="秀动网 - 演出搜索" title="秀动网 - 演出搜索" xmlUrl="https://rsshub.gamepp.cf/showstart/search/live" />
-      <outline type="rss" text="秀动网 - 按场地 - 演出更新" title="秀动网 - 按场地 - 演出更新" xmlUrl="https://rsshub.gamepp.cf/showstart/site/3583" />
       <outline type="rss" text="特斯拉中国 - 价格" title="特斯拉中国 - 价格" xmlUrl="https://rsshub.gamepp.cf/tesla/price" />
     </outline>
   </body>
