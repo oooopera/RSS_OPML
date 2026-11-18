@@ -6,8 +6,8 @@
   <body>
     <outline text="学习" title="学习">
       <outline type="rss" text="网易公开课 - 精品课程" title="网易公开课 - 精品课程" xmlUrl="https://rsshub.gamepp.cf/163/open/vip" />
-      <outline type="rss" text="ORCID - Works List" title="ORCID - Works List" xmlUrl="https://rsshub.gamepp.cf/orcid/0000-0002-4731-9700" />
       <outline type="rss" text="DBLP - Keyword Search" title="DBLP - Keyword Search" xmlUrl="https://rsshub.gamepp.cf/dblp/knowledge%2520tracing" />
+      <outline type="rss" text="ORCID - Works List" title="ORCID - Works List" xmlUrl="https://rsshub.gamepp.cf/orcid/0000-0002-4731-9700" />
       <outline type="rss" text="中国人工智能学会 - 学会动态" title="中国人工智能学会 - 学会动态" xmlUrl="https://rsshub.gamepp.cf/caai/13" />
       <outline type="rss" text="中国管理现代化研究会 - 栏目" title="中国管理现代化研究会 - 栏目" xmlUrl="https://rsshub.gamepp.cf/camchina" />
       <outline type="rss" text="中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类" title="中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类" xmlUrl="https://rsshub.gamepp.cf/ccf/ccfcv/xsdt/xsqy" />

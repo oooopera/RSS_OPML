@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-11-17 08:48)
+RSSHub Route List (Updated: 2026-11-18 08:12)
 
 ============================================================
 
@@ -11,38 +11,38 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 005. 网易公开课 - 今日关注
 006. 网易公开课 - 更新
 007. 加美财经 - 分类
-008. Chub - Characters
-009. Jones Lang LaSalle - Trends & Insights
-010. Mirror - User
-011. 链新闻 ABMedia - 首页最新新闻
-012. Amz123 - AMZ123 快讯
-013. 爆料公社 - 動態
-014. 健康界 - 首页
-015. 樊登读书 - 樊登福州运营中心
-016. e 公司 - 快讯
-017. 后续 - 专栏
-018. 后续 - Live
-019. 后续 - 跟踪
-020. 靠谱新闻 - 全部
-021. MyGoPen - 分類
-022. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
-023. zyw - 今日热榜
-024. Foresight News - 文章
-025. Foresight News - 专栏
-026. Foresight News - 精选资讯
-027. Foresight News - 快讯
-028. Newslaundry - Explainer
-029. Newslaundry - Explains
-030. Newslaundry - Reports
-031. Newslaundry - Shot
-032. 阿里研究院 - 资讯
-033. 全国港澳研究会 - 分类
-034. 差评 - 快讯
-035. 差评 - 资讯
-036. 差评 - 图片墙
-037. 大河财立方 - 新闻
-038. 中国科普博览 - 直播回看
-039. 麻省理工科技评论 - 首页
+008. Jones Lang LaSalle - Trends & Insights
+009. 链新闻 ABMedia - 首页最新新闻
+010. Amz123 - AMZ123 快讯
+011. Chub - Characters
+012. 健康界 - 首页
+013. e 公司 - 快讯
+014. 靠谱新闻 - 全部
+015. Mirror - User
+016. MyGoPen - 分類
+017. Sakamichi Series 坂道系列官网资讯 - Nogizaka46 Blog 乃木坂 46 博客
+018. zyw - 今日热榜
+019. 爆料公社 - 動態
+020. 樊登读书 - 樊登福州运营中心
+021. 后续 - Live
+022. 后续 - 专栏
+023. 后续 - 跟踪
+024. 阿里研究院 - 资讯
+025. 全国港澳研究会 - 分类
+026. 差评 - 快讯
+027. 差评 - 资讯
+028. 差评 - 图片墙
+029. 大河财立方 - 新闻
+030. Foresight News - 文章
+031. Foresight News - 专栏
+032. Foresight News - 精选资讯
+033. Foresight News - 快讯
+034. 中国科普博览 - 直播回看
+035. 麻省理工科技评论 - 首页
+036. Newslaundry - Explainer
+037. Newslaundry - Explains
+038. Newslaundry - Reports
+039. Newslaundry - Shot
 040. Odaily 星球日报 - 快讯
 041. Odaily 星球日报 - 搜索快讯
 042. Odaily 星球日报 - 活动
@@ -423,15 +423,15 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 002. bestblogs.dev - 精选推送
 003. Bitbucket - Commits
 004. chlinlearn 的技术博客 - 值得一读技术博客
-005. 编程导航 - 帖子
-006. SYCL - Feeds
-007. A List Apart - Home Feed
-008. A List Apart - Topics
-009. Cloudflare Status - Status
-010. HackMD - Profile
-011. SecWiki - 安全维基 - 最新周刊
-012. 前端早早聊 - 文章
-013. Bitmovin - Blog
+005. SYCL - Feeds
+006. A List Apart - Home Feed
+007. A List Apart - Topics
+008. 编程导航 - 帖子
+009. HackMD - Profile
+010. SecWiki - 安全维基 - 最新周刊
+011. 前端早早聊 - 文章
+012. Bitmovin - Blog
+013. Cloudflare Status - Status
 014. 当当开放平台 - 公告
 015. 得物 - 平台公告
 016. 抖店开放平台 - 平台公告
@@ -565,10 +565,10 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 007. Crossbell - Notes
 008. Crossbell - Notes of source
 009. Farcaster - Farcaster User
-010. GETTR - User timeline
-011. Keep - 运动日记
-012. mixi2 - コミュニティ
-013. SmartLink - Posts
+010. mixi2 - コミュニティ
+011. SmartLink - Posts
+012. GETTR - User timeline
+013. Keep - 运动日记
 014. 快手 - Profile
 015. Fediverse - Timeline
 016. Lemmy - Community
@@ -581,17 +581,17 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 023. Daily.dev - Most upvoted
 024. Discord - Channel Messages
 025. Discord - Guild Search
-026. 抖音直播 - 博主
-027. Fansly - User Timeline
-028. Fansly - Hashtag
-029. Mastodon - User timeline (by account ID)
-030. Mastodon - User timeline
-031. Mastodon - Hashtag timeline
-032. Mastodon - Instance timeline (local)
-033. Mastodon - Instance timeline (federated)
-034. Misskey - Featured Notes
-035. Misskey - Home Timeline
-036. Misskey - User timeline
+026. Fansly - User Timeline
+027. Fansly - Hashtag
+028. Mastodon - User timeline (by account ID)
+029. Mastodon - User timeline
+030. Mastodon - Hashtag timeline
+031. Mastodon - Instance timeline (local)
+032. Mastodon - Instance timeline (federated)
+033. Misskey - Featured Notes
+034. Misskey - Home Timeline
+035. Misskey - User timeline
+036. 抖音直播 - 博主
 037. CrushNinja - 匿名投稿頁面
 038. 简书 - 专题
 039. 简书 - 首页
@@ -692,10 +692,10 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 017. 米哈游 - 崩坏：星穹铁道
 018. 米哈游 - 原神
 019. 米哈游 - 绝区零
-020. 米哈游 - 米游社 - 同人榜
-021. 米哈游 - 米游社 - 官方公告
-022. 米哈游 - 米游社 - 用户帖子
-023. 米哈游 - 米游社 - 用户关注
+020. 米哈游 - 米游社 - 官方公告
+021. 米哈游 - 米游社 - 用户关注
+022. 米哈游 - 米游社 - 同人榜
+023. 米哈游 - 米游社 - 用户帖子
 024. 游戏星辰 - 游戏星辰
 025. 3DMGame - 新闻中心
 026. 3k-Switch游戏库 - 3k-Switch游戏库
@@ -779,8 +779,8 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 002. 网易公开课 - 用户听歌排行
 003. 网易公开课 - 歌手歌曲
 004. 网易公开课 - 歌手专辑
-005. 网易公开课 - 歌单歌曲
-006. 网易公开课 - 电台节目
+005. 网易公开课 - 电台节目
+006. 网易公开课 - 歌单歌曲
 007. 2048 核基地 - 论坛
 008. 阿里云盘 - 文件列表
 009. 猫眼电影 - 实时票房榜
@@ -798,24 +798,24 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 021. 通用影视采集站视频采集接口路由 - 最新资源
 022. ManyVids - Creator Videos
 023. Mixcloud - User
-024. The Movie Database - Collection
-025. The Movie Database - TV Show Seasons
-026. The Movie Database - Sheet
-027. The Movie Database - Trending
-028. 西瓜视频 - 用户视频投稿
-029. JavTrailers - Casts
-030. JavTrailers - Categories
-031. JavTrailers - Studios
-032. 蜻蜓 FM - 专辑
-033. 蜻蜓 FM - 播客
-034. 云听 - 专辑
-035. 云听 - 直播
-036. SoundOn - Podcast
-037. 听听 FM - 节目
-038. 喜马拉雅 - 专辑
-039. FANTUBE - User Posts
-040. myfans - User Posts
-041. Niconico - User Videos
+024. 西瓜视频 - 用户视频投稿
+025. 蜻蜓 FM - 专辑
+026. 蜻蜓 FM - 播客
+027. SoundOn - Podcast
+028. The Movie Database - Collection
+029. The Movie Database - TV Show Seasons
+030. The Movie Database - Sheet
+031. The Movie Database - Trending
+032. 听听 FM - 节目
+033. 喜马拉雅 - 专辑
+034. FANTUBE - User Posts
+035. JavTrailers - Casts
+036. JavTrailers - Categories
+037. JavTrailers - Studios
+038. myfans - User Posts
+039. Niconico - User Videos
+040. 云听 - 专辑
+041. 云听 - 直播
 042. 0xxx.ws - Source
 043. 7mmtv - Category
 044. 91porn - Hot Video Today
@@ -835,8 +835,8 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 058. 欧乐影院 - 视频
 059. 欧乐影院 - 最新视频
 060. Podwise - Collections
-061. PornHub - Keyword Search
-062. PornHub - Category
+061. PornHub - Category
+062. PornHub - Keyword Search
 063. PornHub - Video List
 064. PornHub - Model
 065. PornHub - Pornstar
@@ -881,10 +881,10 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 002. Unusual Whales - News Feed
 003. BigQuant - 专题报告
 004. Forklog - Новости
-005. HyperDash - Top Traders
-006. 韭研公社 - 社群
-007. 穆迪评级 - industry
-008. Stock Edge - Daily Updates News
+005. 穆迪评级 - industry
+006. Stock Edge - Daily Updates News
+007. HyperDash - Top Traders
+008. 韭研公社 - 社群
 009. 巴伦周刊中文版 - 栏目
 010. 金十数据 - 主题文章
 011. Seeking Alpha - Summary
@@ -1064,11 +1064,11 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 📁 Category: Anime (anime.opml) - Count: 80
 ----------------------------------------
 001. ACG17 - 全部文章
-002. アニメ新番組 - 當季新番
-003. 番组放送 - 开播提醒
-004. IDOLY PRIDE 偶像荣耀 - News
-005. Komiic - 漫画更新
-006. THBWiki - Calendar
+002. IDOLY PRIDE 偶像荣耀 - News
+003. Komiic - 漫画更新
+004. THBWiki - Calendar
+005. アニメ新番組 - 當季新番
+006. 番组放送 - 开播提醒
 007. 萌番组 - Latest
 008. CnGal - 制作者 / 游戏新闻
 009. CnGal - 每周速报
@@ -1231,12 +1231,12 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 004. Docker Hub - Image New Build
 005. Docker Hub - Owner Repositories
 006. Docker Hub - Image New Tag
-007. GoFans - 最新限免 / 促销应用
-008. 联想 - 驱动
-009. NPM - Package
-010. Postman - Release Notes
-011. RemNote - Changelog
-012. Unraid - Community Apps
+007. Postman - Release Notes
+008. RemNote - Changelog
+009. Unraid - Community Apps
+010. GoFans - 最新限免 / 促销应用
+011. 联想 - 驱动
+012. NPM - Package
 013. 小米 - 小米应用商店金米奖
 014. qBittorrent - News
 015. 423Down - 423Down
@@ -1307,10 +1307,10 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 004. MIUI - 小米社区用户发帖
 005. 小特社区 - 首页帖子
 006. 4chan - Board's catalog
-007. 斗鱼直播 - 鱼吧帖子
-008. Deepin - BBS Home Page
-009. Deepin - 首页主题列表
-010. Discourse - Latest posts
+007. Deepin - BBS Home Page
+008. Deepin - 首页主题列表
+009. Discourse - Latest posts
+010. 斗鱼直播 - 鱼吧帖子
 011. 电鸭社区 - 工作机会
 012. 电鸭社区 - 分类文章
 013. 威锋 - 社区
@@ -1363,15 +1363,15 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 📁 Category: 图片 (picture.opml) - Count: 54
 ----------------------------------------
 001. yande.re - Popular Recent Posts
-002. Gelbooru - 标签查询
+002. Konachan.com Anime Wallpapers - Popular Recent Posts
 003. Konachan.com Anime Wallpapers - Popular Recent Posts
-004. Konachan.com Anime Wallpapers - Popular Recent Posts
-005. EVERIA.CLUB - Latest
-006. EVERIA.CLUB - Search
-007. EVERIA.CLUB - Images with category
-008. EVERIA.CLUB - Images with tag
-009. Fantia - Search
-010. Fantia - User Posts
+004. EVERIA.CLUB - Latest
+005. EVERIA.CLUB - Search
+006. EVERIA.CLUB - Images with category
+007. EVERIA.CLUB - Images with tag
+008. Fantia - Search
+009. Fantia - User Posts
+010. Gelbooru - 标签查询
 011. Pinterest - User
 012. Pixabay - Search
 013. 500px 摄影社区 - 部落影集
@@ -1429,8 +1429,8 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 007. 爱发电 - 发现用户
 008. Bing - 每日壁纸
 009. 轻松游牧-远程工作聚集地 - 远程工作列表
-010. Urban Dictionary - Random words
-011. 新假期周刊 - 最新文章
+010. 新假期周刊 - 最新文章
+011. Urban Dictionary - Random words
 012. DataGuidance - News
 013. 骨朵数据 - 日榜
 014. Wise - FX Pair Yesterday
@@ -1571,10 +1571,10 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 📁 Category: Shopping (shopping.opml) - Count: 41
 ----------------------------------------
 001. Ktown4u - Get the products on sale
-002. 多抓鱼 - 搜索结果
-003. Snow Peak - New Arrivals(USA)
-004. Uniqlo - New Arrivals
-005. 中国养猪网 - 全国今日生猪价格
+002. Uniqlo - New Arrivals
+003. 中国养猪网 - 全国今日生猪价格
+004. 多抓鱼 - 搜索结果
+005. Snow Peak - New Arrivals(USA)
 006. Mercari - 关键词
 007. 上海东方艺术中心 - 演出月历
 008. 秀动网 - 按音乐人 - 演出更新
@@ -1649,8 +1649,8 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 📁 Category: 学习 (study.opml) - Count: 29
 ----------------------------------------
 001. 网易公开课 - 精品课程
-002. ORCID - Works List
-003. DBLP - Keyword Search
+002. DBLP - Keyword Search
+003. ORCID - Works List
 004. 中国人工智能学会 - 学会动态
 005. 中国管理现代化研究会 - 栏目
 006. 中国计算机学会 - 计算机视觉专委会 - 学术动态 - 分类
@@ -1721,11 +1721,11 @@ RSSHub Route List (Updated: 2026-11-17 08:48)
 
 📁 Category: 直播 (live.opml) - Count: 14
 ----------------------------------------
-001. 浪 Play 直播 - 直播间开播
-002. LiSA - Latest Discography
-003. LiSA - News
-004. Twitch - Live
-005. Twitch - Channel Video
+001. Twitch - Live
+002. Twitch - Channel Video
+003. 浪 Play 直播 - 直播间开播
+004. LiSA - Latest Discography
+005. LiSA - News
 006. 斗鱼直播 - 直播间开播
 007. 抖音直播 - 直播间开播
 008. Yoasobi Official - News & Biography

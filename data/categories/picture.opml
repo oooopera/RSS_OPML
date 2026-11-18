@@ -6,7 +6,6 @@
   <body>
     <outline text="图片" title="图片">
       <outline type="rss" text="yande.re - Popular Recent Posts" title="yande.re - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/yande/post/popular_recent/1d" />
-      <outline type="rss" text="Gelbooru - 标签查询" title="Gelbooru - 标签查询" xmlUrl="https://rsshub.gamepp.cf/gelbooru/post/1girl%20rating%3Ageneral" />
       <outline type="rss" text="Konachan.com Anime Wallpapers - Popular Recent Posts" title="Konachan.com Anime Wallpapers - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/konachan/post/popular_recent/1d" />
       <outline type="rss" text="Konachan.com Anime Wallpapers - Popular Recent Posts" title="Konachan.com Anime Wallpapers - Popular Recent Posts" xmlUrl="https://rsshub.gamepp.cf/konachan/sfw/post/popular_recent/1d" />
       <outline type="rss" text="EVERIA.CLUB - Latest" title="EVERIA.CLUB - Latest" xmlUrl="https://rsshub.gamepp.cf/everia" />
@@ -15,6 +14,7 @@
       <outline type="rss" text="EVERIA.CLUB - Images with tag" title="EVERIA.CLUB - Images with tag" xmlUrl="https://rsshub.gamepp.cf/everia/tag/hinatazaka46-%E6%97%A5%E5%90%91%E5%9D%8246" />
       <outline type="rss" text="Fantia - Search" title="Fantia - Search" xmlUrl="https://rsshub.gamepp.cf/fantia/search/posts/all/daily" />
       <outline type="rss" text="Fantia - User Posts" title="Fantia - User Posts" xmlUrl="https://rsshub.gamepp.cf/fantia/user/3498" />
+      <outline type="rss" text="Gelbooru - 标签查询" title="Gelbooru - 标签查询" xmlUrl="https://rsshub.gamepp.cf/gelbooru/post/1girl%20rating%3Ageneral" />
       <outline type="rss" text="Pinterest - User" title="Pinterest - User" xmlUrl="https://rsshub.gamepp.cf/pinterest/user/howieserious" />
       <outline type="rss" text="Pixabay - Search" title="Pixabay - Search" xmlUrl="https://rsshub.gamepp.cf/pixabay/search/cat" />
       <outline type="rss" text="500px 摄影社区 - 部落影集" title="500px 摄影社区 - 部落影集" xmlUrl="https://rsshub.gamepp.cf/500px/tribe/set/f5de0b8aa6d54ec486f5e79616418001" />
