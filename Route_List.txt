@@ -1,4 +1,4 @@
-RSSHub Route List (Updated: 2026-11-18 08:12)
+RSSHub Route List (Updated: 2026-11-19 08:23)
 
 ============================================================
 
@@ -976,7 +976,7 @@ RSSHub Route List (Updated: 2026-11-18 08:12)
 097. Finology Insider - Trending Topic
 
 
-📁 Category: 博客 (blog.opml) - Count: 81
+📁 Category: 博客 (blog.opml) - Count: 80
 ----------------------------------------
 001. FreeBuf - 文章
 002. 英語之家 - 首頁
@@ -1018,47 +1018,46 @@ RSSHub Route List (Updated: 2026-11-18 08:12)
 038. 大眼仔旭 - 分类
 039. Eagle - Blog
 040. Enterprise Craftsmanship - Archives
-041. 十年之约 - 专题展示 - 文章
-042. 免費資源網路社群 - 最新文章
-043. 纷享销客 CRM - 文章
-044. Yu Gao - Blog
-045. Hamel's Blog - Blog
-046. Hedwig - Posts
-047. HiFeng'Blog - 最近发表
-048. imhcg的信息站 - Engineering blogs
-049. Open Github社区 - 合集
-050. 台灣角川 - 角編新聞台
-051. Kun Cheng - Essay
-052. 荒岛 - 最新发布
-053. LangChain Blog - Blog
-054. Mashiro's Baumkuchen - Blog
-055. Mathpix - Blog
-056. meteoblue - Weather News
-057. Niels Berglund Blog - Blog
-058. Obsidian - Publish
-059. Paul Graham - Essays
-060. Perplexity - Blog
-061. 电脑玩物 - 每日精选文章
-062. React - Blog
-063. Stanford - Hazy Research Blog
-064. The Gradient - Posts
-065. thzt - Blog
-066. Uber - Engineering
-067. WordPress - WordPress
-068. 虎皮椒 - 文章
-069. 新语丝 - 新到资料
-070. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
-071. 竹白 - 文章
-072. 竹白 - 上周热门 TOP 20
-073. 国外主机测评 - 最新发布
-074. 浙江大学可视分析小组 - 博客
-075. 赵容部落 - 最新文章
-076. 雨苁博客 - 分类
-077. 雨苁博客 - 首页
-078. Medium - Personalized Recommendations - Following
-079. Medium - List
-080. Google - Developers Blog
-081. Google - Research Blog
+041. 免費資源網路社群 - 最新文章
+042. 纷享销客 CRM - 文章
+043. Yu Gao - Blog
+044. Hamel's Blog - Blog
+045. Hedwig - Posts
+046. HiFeng'Blog - 最近发表
+047. imhcg的信息站 - Engineering blogs
+048. Open Github社区 - 合集
+049. 台灣角川 - 角編新聞台
+050. Kun Cheng - Essay
+051. 荒岛 - 最新发布
+052. LangChain Blog - Blog
+053. Mashiro's Baumkuchen - Blog
+054. Mathpix - Blog
+055. meteoblue - Weather News
+056. Niels Berglund Blog - Blog
+057. Obsidian - Publish
+058. Paul Graham - Essays
+059. Perplexity - Blog
+060. 电脑玩物 - 每日精选文章
+061. React - Blog
+062. Stanford - Hazy Research Blog
+063. The Gradient - Posts
+064. thzt - Blog
+065. Uber - Engineering
+066. WordPress - WordPress
+067. 虎皮椒 - 文章
+068. 新语丝 - 新到资料
+069. 甬哥侃侃侃YouTube教程摘要随笔 - 最新发表
+070. 竹白 - 文章
+071. 竹白 - 上周热门 TOP 20
+072. 国外主机测评 - 最新发布
+073. 浙江大学可视分析小组 - 博客
+074. 赵容部落 - 最新文章
+075. 雨苁博客 - 分类
+076. 雨苁博客 - 首页
+077. Medium - Personalized Recommendations - Following
+078. Medium - List
+079. Google - Developers Blog
+080. Google - Research Blog
 
 
 📁 Category: Anime (anime.opml) - Count: 80
