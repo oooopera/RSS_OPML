@@ -18,6 +18,7 @@
       <outline type="rss" text="Urban Dictionary - Random words" title="Urban Dictionary - Random words" xmlUrl="https://rsshub.gamepp.cf/urbandictionary/random" />
       <outline type="rss" text="DataGuidance - News" title="DataGuidance - News" xmlUrl="https://rsshub.gamepp.cf/dataguidance/news" />
       <outline type="rss" text="骨朵数据 - 日榜" title="骨朵数据 - 日榜" xmlUrl="https://rsshub.gamepp.cf/guduodata/daily" />
+      <outline type="rss" text="Product Hunt - Top Products Launching Today" title="Product Hunt - Top Products Launching Today" xmlUrl="https://rsshub.gamepp.cf/producthunt/today" />
       <outline type="rss" text="Wise - FX Pair Yesterday" title="Wise - FX Pair Yesterday" xmlUrl="https://rsshub.gamepp.cf/wise/pair/GBP/USD" />
       <outline type="rss" text="Wellcee 唯心所寓 - 租房信息" title="Wellcee 唯心所寓 - 租房信息" xmlUrl="https://rsshub.gamepp.cf/wellcee/rent/%E5%8C%97%E4%BA%AC" />
       <outline type="rss" text="Wellcee 唯心所寓 - 支持的城市" title="Wellcee 唯心所寓 - 支持的城市" xmlUrl="https://rsshub.gamepp.cf/wellcee/support-city" />
@@ -53,7 +54,6 @@
       <outline type="rss" text="紳士漫畫 - 分类更新" title="紳士漫畫 - 分类更新" xmlUrl="https://rsshub.gamepp.cf/wnacg/category/6" />
       <outline type="rss" text="紳士漫畫 - 最新" title="紳士漫畫 - 最新" xmlUrl="https://rsshub.gamepp.cf/wnacg" />
       <outline type="rss" text="紳士漫畫 - 標籤更新" title="紳士漫畫 - 標籤更新" xmlUrl="https://rsshub.gamepp.cf/wnacg/tag/%E6%BC%A2%E5%8C%96" />
-      <outline type="rss" text="Product Hunt - Top Products Launching Today" title="Product Hunt - Top Products Launching Today" xmlUrl="https://rsshub.gamepp.cf/producthunt/today" />
       <outline type="rss" text="Google - Alerts" title="Google - Alerts" xmlUrl="https://rsshub.gamepp.cf/google/alerts/RSSHub" />
       <outline type="rss" text="Google - Search" title="Google - Search" xmlUrl="https://rsshub.gamepp.cf/google/search/rss/zh-CN%2Czh" />
     </outline>

@@ -11,6 +11,7 @@
       <outline type="rss" text="JUMP - 游戏折扣" title="JUMP - 游戏折扣" xmlUrl="https://rsshub.gamepp.cf/jump/discount/ps5/all" />
       <outline type="rss" text="Modrinth - Project versions" title="Modrinth - Project versions" xmlUrl="https://rsshub.gamepp.cf/modrinth/project/sodium/versions" />
       <outline type="rss" text="Epic Games Store - Free games" title="Epic Games Store - Free games" xmlUrl="https://rsshub.gamepp.cf/epicgames/freegames/en-US/US" />
+      <outline type="rss" text="Fortnite - News" title="Fortnite - News" xmlUrl="https://rsshub.gamepp.cf/fortnite/news" />
       <outline type="rss" text="GameKee | 游戏百科攻略 - 游戏情报" title="GameKee | 游戏百科攻略 - 游戏情报" xmlUrl="https://rsshub.gamepp.cf/gamekee/news" />
       <outline type="rss" text="少女前线 - 情报局" title="少女前线 - 情报局" xmlUrl="https://rsshub.gamepp.cf/gf-cn/news" />
       <outline type="rss" text="HoYoLAB - Official Announcement" title="HoYoLAB - Official Announcement" xmlUrl="https://rsshub.gamepp.cf/hoyolab/news/zh-cn/2/2" />
@@ -94,7 +95,6 @@
       <outline type="rss" text="Steam - Store Search" title="Steam - Store Search" xmlUrl="https://rsshub.gamepp.cf/steam/search/sort_by%3DReleased_DESC%26tags%3D492%26category1%3D10%26os%3Dlinux" />
       <outline type="rss" text="Steam - Sharefile Changelog" title="Steam - Sharefile Changelog" xmlUrl="https://rsshub.gamepp.cf/steam/sharefile-changelog/2851063440/l%3Dschinese" />
       <outline type="rss" text="Steam - Community Workshop Search" title="Steam - Community Workshop Search" xmlUrl="https://rsshub.gamepp.cf/steam/workshopsearch/730" />
-      <outline type="rss" text="Fortnite - News" title="Fortnite - News" xmlUrl="https://rsshub.gamepp.cf/fortnite/news" />
       <outline type="rss" text="机核网 - 文章" title="机核网 - 文章" xmlUrl="https://rsshub.gamepp.cf/gcores/articles" />
       <outline type="rss" text="机核网 - 分类" title="机核网 - 分类" xmlUrl="https://rsshub.gamepp.cf/gcores/categories/1/articles" />
       <outline type="rss" text="机核网 - 专题" title="机核网 - 专题" xmlUrl="https://rsshub.gamepp.cf/gcores/collections/64/articles" />
