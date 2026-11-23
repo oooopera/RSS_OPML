@@ -15,6 +15,7 @@
       <outline type="rss" text="Bing - 每日壁纸" title="Bing - 每日壁纸" xmlUrl="https://rsshub.gamepp.cf/bing/type%3DUHD%26story%3D1%26lang%3Dzh-CN" />
       <outline type="rss" text="轻松游牧-远程工作聚集地 - 远程工作列表" title="轻松游牧-远程工作聚集地 - 远程工作列表" xmlUrl="https://rsshub.gamepp.cf/easynomad" />
       <outline type="rss" text="新假期周刊 - 最新文章" title="新假期周刊 - 最新文章" xmlUrl="https://rsshub.gamepp.cf/weekendhk" />
+      <outline type="rss" text="HiringCafe - Jobs" title="HiringCafe - Jobs" xmlUrl="https://rsshub.gamepp.cf/hiring.cafe/jobs/sustainability" />
       <outline type="rss" text="Urban Dictionary - Random words" title="Urban Dictionary - Random words" xmlUrl="https://rsshub.gamepp.cf/urbandictionary/random" />
       <outline type="rss" text="DataGuidance - News" title="DataGuidance - News" xmlUrl="https://rsshub.gamepp.cf/dataguidance/news" />
       <outline type="rss" text="骨朵数据 - 日榜" title="骨朵数据 - 日榜" xmlUrl="https://rsshub.gamepp.cf/guduodata/daily" />
@@ -26,7 +27,6 @@
       <outline type="rss" text="中国期货业协会 - 分析师园地" title="中国期货业协会 - 分析师园地" xmlUrl="https://rsshub.gamepp.cf/cfachina/servicesupport/analygarden" />
       <outline type="rss" text="ClickMe - 文章" title="ClickMe - 文章" xmlUrl="https://rsshub.gamepp.cf/clickme/default/category/beauty" />
       <outline type="rss" text="Digital Policy Alert - Activity Tracker" title="Digital Policy Alert - Activity Tracker" xmlUrl="https://rsshub.gamepp.cf/digitalpolicyalert/activity-tracker" />
-      <outline type="rss" text="HiringCafe - Jobs" title="HiringCafe - Jobs" xmlUrl="https://rsshub.gamepp.cf/hiring.cafe/jobs/sustainability" />
       <outline type="rss" text="iDaily - 每日环球视野" title="iDaily - 每日环球视野" xmlUrl="https://rsshub.gamepp.cf/idaily" />
       <outline type="rss" text="I Know What You Download - Daily Torrents Statistics" title="I Know What You Download - Daily Torrents Statistics" xmlUrl="https://rsshub.gamepp.cf/iknowwhatyoudownload/stats/daily/CN" />
       <outline type="rss" text="Instructables - Projects" title="Instructables - Projects" xmlUrl="https://rsshub.gamepp.cf/instructables/projects/circuits" />

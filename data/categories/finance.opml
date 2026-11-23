@@ -14,6 +14,7 @@
       <outline type="rss" text="HyperDash - Top Traders" title="HyperDash - Top Traders" xmlUrl="https://rsshub.gamepp.cf/hyperdash/top-traders" />
       <outline type="rss" text="韭研公社 - 社群" title="韭研公社 - 社群" xmlUrl="https://rsshub.gamepp.cf/jiuyangongshe/community" />
       <outline type="rss" text="巴伦周刊中文版 - 栏目" title="巴伦周刊中文版 - 栏目" xmlUrl="https://rsshub.gamepp.cf/barronschina" />
+      <outline type="rss" text="Bitget - Announcement" title="Bitget - Announcement" xmlUrl="https://rsshub.gamepp.cf/bitget/announcement/all/zh-CN" />
       <outline type="rss" text="金十数据 - 主题文章" title="金十数据 - 主题文章" xmlUrl="https://rsshub.gamepp.cf/jin10/topic/397" />
       <outline type="rss" text="Seeking Alpha - Summary" title="Seeking Alpha - Summary" xmlUrl="https://rsshub.gamepp.cf/seekingalpha/TSM/transcripts" />
       <outline type="rss" text="华尔街见闻 - 财经日历" title="华尔街见闻 - 财经日历" xmlUrl="https://rsshub.gamepp.cf/wallstreetcn/calendar" />
@@ -27,7 +28,6 @@
       <outline type="rss" text="深潮 TechFlow - 快讯" title="深潮 TechFlow - 快讯" xmlUrl="https://rsshub.gamepp.cf/techflowpost/express" />
       <outline type="rss" text="深潮 TechFlow - 首页" title="深潮 TechFlow - 首页" xmlUrl="https://rsshub.gamepp.cf/techflowpost" />
       <outline type="rss" text="21财经 - 频道" title="21财经 - 频道" xmlUrl="https://rsshub.gamepp.cf/21caijing/channel/%E7%83%AD%E7%82%B9" />
-      <outline type="rss" text="Bitget - Announcement" title="Bitget - Announcement" xmlUrl="https://rsshub.gamepp.cf/bitget/announcement/all/zh-CN" />
       <outline type="rss" text="Blockworks - News" title="Blockworks - News" xmlUrl="https://rsshub.gamepp.cf/blockworks" />
       <outline type="rss" text="BullionVault - Gold News" title="BullionVault - Gold News" xmlUrl="https://rsshub.gamepp.cf/bullionvault/gold-news" />
       <outline type="rss" text="中国货币网 - 公告" title="中国货币网 - 公告" xmlUrl="https://rsshub.gamepp.cf/chinamoney" />
